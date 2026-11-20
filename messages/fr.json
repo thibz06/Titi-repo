@@ -1,0 +1,22 @@
+{
+  "app": {
+    "name": "Mauritius Quest",
+    "shortName": "MQ",
+    "description": "Un guide vérifié de l'île Maurice, posé sur une carte, avec une progression ludique."
+  },
+  "home": {
+    "kicker": "Île Maurice",
+    "title": "Mauritius Quest",
+    "pitch": "Un guide vérifié de l'île, posé sur une carte. Pour voir un maximum de choses en dépensant le moins possible.",
+    "statusTitle": "En construction",
+    "statusBody": "Le lien est en ligne, l'app arrive par étapes. Prochaine étape : la carte et les premières fiches.",
+    "principlesTitle": "Ce que tu trouveras ici",
+    "principles": {
+      "sourced": "Des fiches sourcées et datées. Ce qu'on ne sait pas est écrit « Non renseigné ».",
+      "budget": "Les prix en roupies et en euros, avec la date du taux.",
+      "noPressure": "Une progression pour le plaisir : pas de série à tenir, pas de compte à rebours.",
+      "offline": "Tes fiches et tes journées consultables sans réseau."
+    },
+    "stampAlt": "Tampon de passeport Mauritius Quest"
+  }
+}
