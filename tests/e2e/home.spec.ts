@@ -1,5 +1,8 @@
 import { existsSync } from "node:fs";
 import { expect, test } from "@playwright/test";
+import { mockSupabase } from "./fixtures";
+
+test.beforeEach(async ({ page }) => mockSupabase(page));
 
 test("l'accueil s'affiche sur mobile sans défilement horizontal", async ({ page }) => {
   await page.goto("/");
@@ -20,4 +23,14 @@ test("le manifeste PWA est servi avec ses icônes", async ({ page, request }) =>
     expect(existsSync(`public${icon.src}`), icon.src).toBe(true);
     expect((await request.get(icon.src)).ok()).toBe(true);
   }
+});
+
+test.describe("service worker", () => {
+  test.use({ serviceWorkers: "allow" });
+
+  test("il s'installe et prend le contrôle", async ({ page }) => {
+  await page.goto("/");
+  const scope = await page.evaluate(async () => (await navigator.serviceWorker.ready).scope);
+  expect(scope).toMatch(/\/$/);
+});
 });

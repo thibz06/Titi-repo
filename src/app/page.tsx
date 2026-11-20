@@ -1,3 +1,5 @@
+import { Compass } from "lucide-react";
+import Link from "next/link";
 import { getMessages } from "@/i18n";
 
 function Stamp({ label }: { label: string }) {
@@ -21,6 +23,13 @@ export default function HomePage() {
         <p className="text-sm font-semibold uppercase tracking-widest">{t.kicker}</p>
         <h1 className="mt-2 font-display text-5xl font-semibold leading-none">{t.title}</h1>
         <p className="mt-4 text-lg leading-snug">{t.pitch}</p>
+        <Link
+          href="/explorer"
+          className="mt-6 inline-flex min-h-12 items-center gap-2 rounded-full border-2 border-encre bg-sable px-6 text-lg font-semibold text-encre"
+        >
+          <Compass size={22} aria-hidden />
+          {t.openMap}
+        </Link>
       </header>
 
       <section className="flex items-center gap-4 px-6 py-8">
@@ -31,7 +40,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="px-6 pb-[max(2.5rem,env(safe-area-inset-bottom))]">
+      <section className="px-6 pb-[calc(96px+env(safe-area-inset-bottom))]">
         <h2 className="font-display text-2xl font-semibold">{t.principlesTitle}</h2>
         <ul className="mt-4 space-y-3">
           {principles.map((text) => (

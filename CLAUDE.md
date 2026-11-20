@@ -34,15 +34,22 @@ Transitions de 200 à 300 ms ; récompense de 1,2 s maximum et passable ; confet
 - `pnpm dev` : serveur de développement
 - `pnpm build` puis `pnpm start` : production locale
 - `pnpm lint` et `pnpm typecheck`
-- `pnpm test` : Vitest (tests unitaires, `tests/unit`)
-- `pnpm test:e2e` : Playwright, viewport mobile 390 px (`tests/e2e`) ; fais un `pnpm build` avant
+- `pnpm test` : Vitest (`tests/unit`, et `tests/rls` qui rejoue la migration dans un Postgres en mémoire)
+- `pnpm test:e2e` : build puis Playwright, viewport mobile 390 px (`tests/e2e`), Supabase simulé
 - `pnpm icons` : régénère les PNG du manifeste depuis `public/icons/icon.svg`
 - À venir (phase 2) : `pnpm content:lint`, `pnpm content:push`, `pnpm matrix:build`
 
 ## Structure
-- `src/app` : routes Next.js (App Router)
+- `src/app` : routes Next.js (App Router) ; `src/components` : écrans et composants
+- `src/lib` : env, client Supabase, requêtes et formats des fiches
 - `src/i18n` et `messages/` : textes
+- `supabase/migrations` : schéma SQL et RLS
+- `content/places` : brouillons de fiches (règles dans `content/README.md`), schéma dans `src/content/schema.ts`
+- `docs/SETUP.md` : mise en place de Supabase, Google Maps et Vercel
 - `docs/DECISIONS.md` : un paragraphe par choix technique, à tenir à jour à chaque ajout de dépendance
+
+## Onglets
+N'afficher que les onglets qui fonctionnent. Quêtes et Mon voyage s'ajoutent avec leurs phases.
 
 ## Git
 Développement sur la branche indiquée par la session ; pas de pull request sans demande explicite. La branche principale du dépôt s'appelle `Principal` ; c'est elle que la production Vercel doit suivre.
