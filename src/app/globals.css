@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+/* Direction « Lagon et basalte » — tokens de la section 8 du brief. */
+@theme {
+  --color-lagon: #0fb5ba;
+  --color-passe: #0b4f6c;
+  --color-sable: #f6eedf;
+  --color-filao: #2e7d5b;
+  --color-corail: #ff6b4a;
+  --color-soleil: #ffc53d;
+  --color-encre: #10222b;
+  --color-basalte: #1c1b2e;
+  --color-or: #d9a441;
+
+  --font-display: var(--font-fraunces), ui-serif, Georgia, serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  background: var(--color-sable);
+  color: var(--color-encre);
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-sans);
+  min-height: 100dvh;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-passe);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
