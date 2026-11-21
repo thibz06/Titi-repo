@@ -16,7 +16,7 @@ export function Notice({
   return (
     <div
       role={tone === "warning" ? "alert" : "status"}
-      className={`rounded-2xl border-2 p-4 ${tone === "warning" ? "border-corail bg-white" : "border-encre/10 bg-white/60"}`}
+      className={`glass rounded-3xl p-4 ${tone === "warning" ? "glass-strong outline outline-2 outline-corail" : ""}`}
     >
       <h2 className="font-display text-xl font-semibold">{title}</h2>
       {children ? <div className="mt-1 text-base leading-snug">{children}</div> : null}
@@ -33,7 +33,7 @@ export function MissingConfig({ names }: { names: PublicEnvName[] }) {
       <ul className="mt-2 space-y-1">
         {names.map((name) => (
           <li key={name}>
-            <code className="break-all rounded bg-sable px-1.5 py-0.5 text-sm">{name}</code>
+            <code className="break-all rounded bg-white/70 px-1.5 py-0.5 text-sm">{name}</code>
           </li>
         ))}
       </ul>
@@ -51,7 +51,7 @@ export function PrimaryButton({ children, ...props }: React.ButtonHTMLAttributes
     <button
       type="button"
       {...props}
-      className="inline-flex min-h-11 items-center justify-center rounded-full border-2 border-encre bg-lagon px-5 font-semibold text-encre"
+      className="inline-flex min-h-11 items-center justify-center rounded-full bg-lagon px-5 font-semibold text-encre shadow-[inset_0_1px_0_rgb(255_255_255/0.6)]"
     >
       {children}
     </button>

@@ -87,6 +87,9 @@ Les fiches sont lues depuis le navigateur avec la clé anonyme (TanStack Query),
 ## Carte
 `@vis.gl/react-google-maps` avec marqueurs avancés (d'où le Map ID obligatoire) et `@googlemaps/markerclusterer`. Chaque famille a une forme et une couleur ; les teintes hors palette (bleu clair, vert clair, corail clair, jaune clair) sont des éclaircissements choisis pour garder un contraste AA avec l'icône Encre. Sans clé, hors-ligne ou en cas d'échec de chargement, l'écran le dit et la liste reste utilisable.
 
+## Style « verre » et photos en fond
+À la demande de Thibault (21 novembre 2026) : la photo du lieu occupe tout l'écran de la fiche et les contenus sont posés dessus dans des panneaux translucides floutés, façon Liquid Glass. Les couleurs et polices « Lagon et basalte » restent. Pour tenir la règle du contraste AA en plein soleil, le verre garde une teinte Sable opaque à 70 % au moins (84 % pour les barres), ce qui laisse le texte Encre lisible même sur une photo sombre ; il devient opaque si l'appareil demande moins de transparence ou ne gère pas le flou. Sans photo créditée (règle 10), le fond est un dégradé aux couleurs du projet avec la pastille de la famille.
+
 ## Onglets
 Le brief prévoit cinq onglets. Seuls ceux qui fonctionnent sont affichés (Accueil, Explorer, Profil) ; Quêtes et Mon voyage apparaîtront avec leurs phases, pour ne montrer aucun bouton vide.
 

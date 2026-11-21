@@ -26,7 +26,7 @@ export function Explorer() {
   const count = places.length === 1 ? t.explore.countOne : fill(t.explore.countMany, { count: places.length });
 
   return (
-    <div className="relative h-full overflow-hidden bg-[#9FD9DB]">
+    <div className="app-backdrop relative h-full overflow-hidden">
       <h1 className="sr-only">{t.explore.title}</h1>
 
       {mapUsable ? (
@@ -70,7 +70,7 @@ export function Explorer() {
               </div>
               <Link
                 href={`/lieu/${selected.slug}`}
-                className="inline-flex min-h-11 shrink-0 items-center rounded-full border-2 border-encre bg-lagon px-4 font-semibold text-encre"
+                className="inline-flex min-h-11 shrink-0 items-center rounded-full bg-lagon px-4 font-semibold text-encre"
               >
                 {t.explore.seePlace}
               </Link>

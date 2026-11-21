@@ -1,4 +1,12 @@
-import type { PlaceDetail } from "./types";
+import type { PlaceDetail, PlaceMedia } from "./types";
+
+/** Photo de couverture : seulement un fichier dont le crédit et la licence sont enregistrés (règle 10). */
+export function coverPhoto(media: PlaceMedia[] | undefined): (PlaceMedia & { external_url: string }) | null {
+  const photos = (media ?? []).filter(
+    (m): m is PlaceMedia & { external_url: string } => m.kind === "photo" && !!m.external_url && !!m.credit && !!m.license,
+  );
+  return photos.find((m) => m.is_cover) ?? photos[0] ?? null;
+}
 
 /**
  * Lien « Y aller » au format Google Maps URLs (ouvre l'app ou le site Google Maps).

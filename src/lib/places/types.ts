@@ -32,6 +32,7 @@ export interface PlaceSummary {
   pitch: string | null;
   price_kind: PriceKind | null;
   rarity: Rarity | null;
+  place_media: PlaceMedia[];
 }
 
 export interface PlaceSource {
@@ -74,12 +75,11 @@ export interface PlaceDetail extends PlaceSummary {
   verified_at: string | null;
   regions: { code: RegionCode; name: string } | null;
   place_sources: PlaceSource[];
-  place_media: PlaceMedia[];
 }
 
-export const SUMMARY_COLUMNS = "id,slug,name,family,tags,locality,lat,lng,pitch,price_kind,rarity";
+const MEDIA_COLUMNS = "place_media(id,kind,storage_path,external_url,credit,license,source_url,is_cover)";
+export const SUMMARY_COLUMNS = `id,slug,name,family,tags,locality,lat,lng,pitch,price_kind,rarity,${MEDIA_COLUMNS}`;
 export const DETAIL_COLUMNS =
   `${SUMMARY_COLUMNS},google_place_id,description_md,why_go_md,likes,watchouts,tips_md,duration_min,duration_max,` +
   "price_visitor_mur_min,price_visitor_mur_max,price_resident_mur,price_note,opening_hours,hours_note,difficulty," +
-  "risk_level,risk_note,verified_at,regions(code,name),place_sources(id,field,url,title,accessed_at)," +
-  "place_media(id,kind,storage_path,external_url,credit,license,source_url,is_cover)";
+  "risk_level,risk_note,verified_at,regions(code,name),place_sources(id,field,url,title,accessed_at)";

@@ -14,6 +14,7 @@ export const TEST_PLACES = [
     pitch: "Une fiche fictive pour les tests.",
     price_kind: "free",
     rarity: null,
+    place_media: [],
   },
   {
     id: "22222222-2222-4222-8222-222222222222",
@@ -27,6 +28,7 @@ export const TEST_PLACES = [
     pitch: null,
     price_kind: "paid",
     rarity: null,
+    place_media: [],
   },
 ];
 
@@ -53,7 +55,6 @@ const DETAIL_EXTRA = {
   place_sources: [
     { id: "s1", field: "description_md", url: "https://example.org/source", title: "Source fictive", accessed_at: "2026-11-20" },
   ],
-  place_media: [],
 };
 
 const USER_ID = "99999999-9999-4999-8999-999999999999";

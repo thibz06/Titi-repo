@@ -69,7 +69,7 @@ export function BottomSheet({
         dragElastic={0.05}
         onDragStart={() => (dragged.current = true)}
         onDragEnd={onDragEnd}
-        className="pointer-events-auto absolute inset-x-0 top-0 mx-auto flex max-w-md flex-col rounded-t-3xl border-2 border-b-0 border-encre/15 bg-sable shadow-[0_-8px_24px_rgba(16,34,43,0.18)]"
+        className="pointer-events-auto absolute inset-x-0 top-0 mx-auto flex max-w-md flex-col glass rounded-t-[2rem]"
       >
         <div onPointerDown={(e) => controls.start(e)} className="shrink-0 touch-none">
           <button
@@ -86,7 +86,7 @@ export function BottomSheet({
           </button>
           <div className="px-4 pb-3">{header}</div>
         </div>
-        <div className={`min-h-0 flex-1 px-4 pb-6 ${snap === "peek" ? "overflow-hidden" : "overflow-y-auto"}`}>{children}</div>
+        <div className={`min-h-0 flex-1 px-3 pb-28 ${snap === "peek" ? "overflow-hidden" : "overflow-y-auto"}`}>{children}</div>
       </motion.section>
     </div>
   );

@@ -5,8 +5,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { getMessages } from "@/i18n";
 
-export const TAB_BAR_HEIGHT = 64;
-
+/** Barre d'onglets flottante en verre. Hauteur réservée en bas d'écran : 64 px + marge. */
 export function TabBar() {
   const t = getMessages().tabs;
   const pathname = usePathname();
@@ -16,23 +15,18 @@ export function TabBar() {
     { href: "/profil", label: t.profile, icon: UserRound, active: pathname.startsWith("/profil") },
   ];
   return (
-    <nav
-      aria-label={t.label}
-      className="fixed inset-x-0 bottom-0 z-40 border-t-2 border-encre/10 bg-sable pb-[env(safe-area-inset-bottom)]"
-    >
-      <ul className="mx-auto flex max-w-md" style={{ height: TAB_BAR_HEIGHT }}>
+    <nav aria-label={t.label} className="pointer-events-none fixed inset-x-0 bottom-0 z-40 px-4 pb-[max(0.5rem,env(safe-area-inset-bottom))]">
+      <ul className="glass glass-strong pointer-events-auto mx-auto flex h-16 max-w-sm rounded-full p-1.5">
         {tabs.map(({ href, label, icon: Icon, active }) => (
           <li key={href} className="flex-1">
             <Link
               href={href}
               aria-current={active ? "page" : undefined}
-              className={`flex h-full flex-col items-center justify-center gap-0.5 text-xs font-semibold ${
-                active ? "text-passe" : "text-encre/70"
+              className={`flex h-full flex-col items-center justify-center gap-0.5 rounded-full text-xs font-semibold ${
+                active ? "bg-lagon text-encre shadow-[inset_0_1px_0_rgb(255_255_255/0.6)]" : "text-encre/80"
               }`}
             >
-              <span className={`grid h-8 w-14 place-items-center rounded-full ${active ? "bg-lagon text-encre" : ""}`}>
-                <Icon size={22} strokeWidth={2.25} aria-hidden />
-              </span>
+              <Icon size={22} strokeWidth={2.25} aria-hidden />
               {label}
             </Link>
           </li>

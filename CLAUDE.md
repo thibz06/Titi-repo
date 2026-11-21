@@ -28,6 +28,7 @@ Le brief complet fait foi. Choix techniques et versions : `docs/DECISIONS.md`.
 Direction « Lagon et basalte », identité originale (ne pas copier Duolingo ; le tampon de passeport est le motif de récompense).
 Tokens dans `src/app/globals.css` (`@theme`) : lagon, passe, sable, filao, corail, soleil, encre ; Île secrète : basalte, or.
 Texte Encre sur Lagon, jamais blanc. Titres Fraunces (`font-display`), texte Inter.
+Présentation « verre » (classe `.glass` dans `globals.css`) : photo créditée du lieu en fond plein écran, contenus dans des panneaux translucides floutés ; garder la teinte Sable à 70 % d'opacité minimum pour le contraste AA.
 Transitions de 200 à 300 ms ; récompense de 1,2 s maximum et passable ; confettis pour badges et niveaux seulement.
 
 ## Commandes

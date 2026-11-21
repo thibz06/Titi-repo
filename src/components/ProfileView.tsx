@@ -14,7 +14,8 @@ export function ProfileView() {
   const { data: favorites = [], isPending, isError, refetch } = useFavoritePlaces();
 
   return (
-    <main className="mx-auto min-h-dvh max-w-md px-5 pb-[calc(88px+env(safe-area-inset-bottom))] pt-[max(1.5rem,env(safe-area-inset-top))]">
+    <main className="mx-auto min-h-dvh max-w-md px-4 pb-[calc(104px+env(safe-area-inset-bottom))] pt-[max(1.5rem,env(safe-area-inset-top))]">
+      <div aria-hidden className="app-backdrop fixed inset-0 -z-10" />
       <h1 className="font-display text-4xl font-semibold">{t.profile.title}</h1>
 
       {!hasSupabase ? (
@@ -45,7 +46,7 @@ export function ProfileView() {
                   action={
                     <Link
                       href="/explorer"
-                      className="inline-flex min-h-11 items-center rounded-full border-2 border-encre bg-lagon px-5 font-semibold text-encre"
+                      className="inline-flex min-h-11 items-center rounded-full bg-lagon px-5 font-semibold text-encre"
                     >
                       {t.profile.explore}
                     </Link>
@@ -65,7 +66,7 @@ export function ProfileView() {
             </div>
           </section>
 
-          <section className="mt-8">
+          <section className="glass mt-8 rounded-3xl p-5">
             <h2 className="font-display text-2xl font-semibold">{t.profile.sessionTitle}</h2>
             <p className="mt-2 leading-relaxed">
               {session.status === "ready" ? t.profile.sessionAnonymous : session.status === "error" ? t.session.error : t.profile.sessionLoading}
