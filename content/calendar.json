@@ -1,0 +1,8 @@
+{
+  "note": "Jours fériés tombant pendant le premier séjour. Source secondaire : à confirmer sur l'avis officiel du gouvernement mauricien (govmu.org).",
+  "days": [
+    { "day": "2026-12-25", "kind": "ferie", "label": "Noël", "source_url": "https://www.timeanddate.com/holidays/mauritius/2026", "accessed_at": "2026-11-21" },
+    { "day": "2027-01-01", "kind": "ferie", "label": "Nouvel An", "source_url": "https://www.timeanddate.com/holidays/mauritius/2027", "accessed_at": "2026-11-21" },
+    { "day": "2027-01-02", "kind": "ferie", "label": "Nouvel An (2e jour)", "source_url": "https://www.timeanddate.com/holidays/mauritius/2027", "accessed_at": "2026-11-21" }
+  ]
+}

@@ -4,6 +4,8 @@ import "server-only";
 import { readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import type { PlaceDetail, PlaceSummary, RegionCode } from "@/lib/places/types";
+import type { PlanPlace } from "@/lib/planner/types";
+import type { TravelMatrix } from "@/lib/planner/travel";
 import { placeDraftSchema, type PlaceDraft } from "./schema";
 
 // CONTENT_DIR ne sert qu'aux tests, pour compiler l'app avec des fiches fictives.
@@ -95,3 +97,75 @@ export function toSummary(p: PlaceDetail): PlaceSummary {
 }
 
 export const loadSummaries = () => loadPlaces().map(toSummary);
+
+// ---------------------------------------------------------------------------
+// Données du planificateur
+// ---------------------------------------------------------------------------
+
+/** Points de départ proposés pour le logement (parmi les fiches existantes). */
+const START_SLUGS = [
+  "grand-baie",
+  "pereybere",
+  "trou-aux-biches",
+  "mont-choisy",
+  "cap-malheureux",
+  "grand-gaube",
+  "caudan-waterfront",
+  "flic-en-flac",
+  "tamarin",
+  "le-morne",
+  "mahebourg",
+  "blue-bay",
+  "belle-mare",
+  "trou-d-eau-douce",
+];
+
+function readJson<T>(path: string, fallback: T): T {
+  try {
+    return JSON.parse(readFileSync(path, "utf8")) as T;
+  } catch {
+    return fallback;
+  }
+}
+
+export function loadPlanData() {
+  const drafts = readdirSync(DIR)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => placeDraftSchema.parse(JSON.parse(readFileSync(join(DIR, f), "utf8"))));
+  const places: PlanPlace[] = drafts.map((d) => ({
+    slug: d.slug,
+    name: d.name,
+    family: d.family,
+    region: d.region,
+    lat: d.lat,
+    lng: d.lng,
+    tags: d.tags,
+    priceKind: d.price_kind,
+    priceMur: d.price_visitor_mur_min,
+    durationMin: d.duration_min,
+    durationMax: d.duration_max,
+    openingHours: d.opening_hours,
+    interest: d.interest,
+    rarity: d.rarity,
+    isSecret: !!d.secret,
+    rainOk: d.rain_ok,
+  }));
+  const root = join(DIR, "..");
+  const matrix = readJson<TravelMatrix>(join(root, "travel-times.json"), { source: "", note: "", computed_at: "", slugs: [], minutes: [] });
+  const calendar = readJson<{ days: { day: string; kind: string; label: string }[] }>(join(root, "calendar.json"), { days: [] });
+  const known = new Set(matrix.slugs);
+  const starts = START_SLUGS.filter((s) => known.has(s)).map((slug) => {
+    const p = drafts.find((d) => d.slug === slug);
+    return { slug, name: p?.locality ?? p?.name ?? slug, lat: p?.lat ?? 0, lng: p?.lng ?? 0 };
+  });
+  // Sans liste configurée disponible (tests), tout lieu connu de la matrice peut servir de départ.
+  const fallbackStarts = places.filter((p) => known.has(p.slug)).slice(0, 1).map((p) => ({ slug: p.slug, name: p.name, lat: p.lat, lng: p.lng }));
+  return {
+    places,
+    matrix: { source: matrix.source, note: matrix.note, computed_at: matrix.computed_at, slugs: matrix.slugs, minutes: matrix.minutes },
+    starts: starts.length > 0 ? starts : fallbackStarts,
+    holidays: calendar.days.filter((d) => d.kind === "ferie").map((d) => ({ day: d.day, label: d.label })),
+  };
+}
+
+export type PlanData = ReturnType<typeof loadPlanData>;
