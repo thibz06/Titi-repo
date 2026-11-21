@@ -1,0 +1,116 @@
+{
+  "slug": "mont-choisy",
+  "name": "Plage de Mont Choisy",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "nord",
+  "locality": "Mont Choisy",
+  "lat": -20.0144073,
+  "lng": 57.5564468,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&q=Mont%20Choisy%20Public%20Beach%2C%20Mauritius",
+  "google_place_id": null,
+  "pitch": "Longue plage de sable blanc en arc, bordée de filaos, autour d'une baie turquoise à l'eau calme et claire.",
+  "description_md": "La plage de Mont Choisy est une longue bande de sable blanc qui épouse une baie turquoise bordée de filaos, au sud de la Pointe aux Canonniers. L'office du tourisme met en avant son eau calme et claire, où l'on pratique le snorkeling et la plongée. C'est une plage publique, concernée en 2021 par le plan de réaménagement de la Beach Authority.",
+  "why_go_md": "Pour le lagon : son eau calme et limpide est, selon l'office du tourisme, le principal attrait de la plage. Il y a de la place pour s'étaler, des sports nautiques, et tu peux y trouver des stands de nourriture à l'ombre.",
+  "likes": [
+    "Eau calme et claire, propice au snorkeling",
+    "Longue plage où l'on trouve de la place",
+    "Stands de nourriture possibles à l'ombre des arbres"
+  ],
+  "watchouts": [
+    "Érosion : en août 2026, Le Défi rapporte que des pans de sable ont disparu et que les racines des filaos sont à nu par endroits."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&q=Mont%20Choisy%20Public%20Beach%2C%20Mauritius",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":10152727616,\"lat\":\"-20.0144073\",\"lon\":\"57.5564468\" … \"display_name\":\"Mont Choisy Public Beach, Domaine Palmy, Mon Choisy, Morcellement Choisy, Grand Baie VCA, West, Pamplemousses, 22302, Mauritius / Maurice\""
+    },
+    {
+      "field": "pitch, description_md, likes, why_go_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mont-choisy-beach/",
+      "title": "Mont Choisy Beach (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Located in the northwest of the island, this long stretch of soft white sand curves around a turquoise bay fringed by casuarina trees. There’s plenty of space to stretch out, enjoy the picture-postcard views and try some watersports. You might also find some food stalls under the shady palms."
+    },
+    {
+      "field": "description_md, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mont-choisy-beach/",
+      "title": "Mont Choisy Beach (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "It’s the calm and crystal clear water that’s Mont Choisy Beach’s main draw. Whether you want to go all out and try your hand at diving or pop on a snorkel and explore the colourful marine world"
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Pointe_aux_Canonniers",
+      "title": "Pointe aux Canonniers — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Elle se trouve au nord de la plage de Mont Choisy et à 4 km à l'ouest de Grand Baie et à 5 km de Trou-aux-Biches."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/erosion-jusquou-retenir-la-mer",
+      "title": "Érosion : jusqu’où retenir la mer ? | Defimedia (23 août 2026)",
+      "accessed_at": "2026-11-21",
+      "evidence": "À Mont-Choisy, ces signes ne sont plus anecdotiques. Des pans de sable ont disparu, laissant la végétation côtière à découvert."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/erosion-jusquou-retenir-la-mer",
+      "title": "Érosion : jusqu’où retenir la mer ? | Defimedia (23 août 2026)",
+      "accessed_at": "2026-11-21",
+      "evidence": "À Mont-Choisy, les racines des filaos apparaissent à nu là où le sable a reculé."
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/beach-management-plan-rs-12-millions-pour-le-relooking-de-la-plage-de-mont-choisy",
+      "title": "Beach Management Plan : Rs 12 millions pour le relooking de la plage de Mont-Choisy | Defimedia (30 août 2021)",
+      "accessed_at": "2026-11-21",
+      "evidence": "C’est ce que coûtera le Beach Management Plan à la plage publique de Mont Choisy."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sunset_at_Mont_Choisy_Beach%2C_Mauritius_%2853696897517%29.jpg",
+      "credit": "dronepicr",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sunset_at_Mont_Choisy_Beach,_Mauritius_(53696897517).jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Travaux annoncés en 2021 par la Beach Authority (nouvelle aire de stationnement, douches en plein air, open gym, selon Le Défi du 30 août 2021) : ont-ils été réalisés ? Non vérifié, donc non écrit dans `accessibility`.",
+    "Les coordonnées viennent du point OpenStreetMap « Mont Choisy Public Beach » (tourism=attraction) ; la plage est longue, choisir le point d'accès voulu.",
+    "Mauritius Now situe la plage au « northwest » ; la fiche est rangée en région nord comme demandé (OSM la place dans le district de Pamplemousses).",
+    "Orthographe : « Mont Choisy » (MTPA, Wikipédia) ou « Mon Choisy » (adresse OSM).",
+    "Prix, horaires, durée de visite, accès (parking, bus) et équipements : aucune source officielle consultable dans cette session, champs laissés à null.",
+    "lexpress.mu a répondu 403 (protection Cloudflare) : aucun article de L'Express n'a pu être lu. Les sites de la Beach Authority et du National Heritage Fund ne font pas partie des hôtes autorisés.",
+    "Les articles Wikipédia ont été lus via l'API (action=query&prop=extracts) des pages citées ; les extraits viennent du texte brut renvoyé."
+  ]
+}

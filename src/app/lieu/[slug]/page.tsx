@@ -12,5 +12,8 @@ export default async function PlacePage({ params }: { params: Promise<{ slug: st
   const { slug } = await params;
   const place = loadPlaces().find((p) => p.slug === slug);
   if (!place) notFound();
-  return <PlaceView place={place} />;
+  const regionSlugs = loadPlaces()
+    .filter((p) => p.region === place.region)
+    .map((p) => p.slug);
+  return <PlaceView place={place} regionSlugs={regionSlugs} />;
 }

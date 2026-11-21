@@ -1,0 +1,127 @@
+{
+  "slug": "poudre-d-or",
+  "name": "Poudre d'Or",
+  "family": "villages_marches",
+  "tags": [],
+  "region": "nord",
+  "locality": "Poudre d'Or",
+  "lat": -20.0617988,
+  "lng": 57.6838133,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Poudre%20d'Or%2C%20Mauritius",
+  "google_place_id": null,
+  "pitch": "Village côtier du nord-est lié au naufrage du Saint-Géran (1744), qui inspira le roman Paul et Virginie.",
+  "description_md": "Poudre d'Or est une localité de la côte nord-est, dans le district de Rivière du Rempart. Un mémorial érigé en 1944 y rappelle le naufrage du Saint-Géran, en 1744, au large du village : 167 personnes à bord, 9 survivants ; cette catastrophe a inspiré à Bernardin de Saint-Pierre son roman Paul et Virginie. Le village compte aussi l'église Marie-Reine, dont le clocher date de 1846, et une mosquée de 1877, l'une des plus anciennes du nord de l'île.",
+  "why_go_md": "Pour l'histoire : le mémorial du Saint-Géran, inscrit selon Wikipédia au patrimoine national protégé, et un village qui fut le chef-lieu du district jusqu'en 1933. Le Défi le décrit comme un village tranquille, bordé de champs de canne, où plusieurs habitants vivent de la mer.",
+  "likes": [
+    "Mémorial du naufrage du Saint-Géran (érigé en 1944)",
+    "Église Marie-Reine et son clocher de 1846",
+    "Village décrit comme tranquille, tourné vers la mer"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Poudre%20d'Or%2C%20Mauritius",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":2188731987,\"lat\":\"-20.0617988\",\"lon\":\"57.6838133\" … \"display_name\":\"Poudre d'Or, Poudre d’Or VCA, Riviere du Rempart, 30420, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Poudre_d%27Or",
+      "title": "Poudre d'Or — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Elle est située sur la côte et relève ce faisant du district de Rivière du Rempart."
+    },
+    {
+      "field": "pitch, description_md, likes, why_go_md",
+      "url": "https://fr.wikipedia.org/wiki/Poudre_d%27Or",
+      "title": "Poudre d'Or — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "En 1944, la Société de l'Histoire de l'Ile Maurice a érigé un mémorial en hommage au naufrage du Saint-Géran en 1744  au large de Poudre d'Or avec 167 personnes à bord, dont seules 9 ont survécu. Cette catastrophe maritime inspira Bernardin de Saint-Pierre pour son roman Paul et Virginie"
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://fr.wikipedia.org/wiki/Poudre_d%27Or",
+      "title": "Poudre d'Or — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le mémorial est inscrit à la liste du patrimoine national protégé mauricien."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://fr.wikipedia.org/wiki/Poudre_d%27Or",
+      "title": "Poudre d'Or — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "C'est à Poudre d'or que se trouvait le chef-lieu administratif du district de Rivière du Rempart jusqu'en 1933, avant d'être transféré à Mapou."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://fr.wikipedia.org/wiki/Poudre_d%27Or",
+      "title": "Poudre d'Or — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "L'église catholique de Marie-Reine domine les environs depuis 1846, grâce à son clocher puissant."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Poudre_d%27Or",
+      "title": "Poudre d'Or — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "La mosquée a été édifiée en 1877, c'est une des plus anciennes du nord de l'île."
+    },
+    {
+      "field": "pitch, description_md",
+      "url": "https://defimedia.info/poudre-dor-un-havre-de-paix-charge-dhistoire",
+      "title": "Poudre-d’Or, un havre de paix chargé d’histoire | Defimedia (11 septembre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "En 1744, le navire Saint-Géran fit naufrage au large de ses côtes, emportant 167 âmes. Seuls neuf passagers survécurent. Cette catastrophe inspira le célèbre écrivain Bernardin de Saint-Pierre pour son roman « Paul et Virginie »."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://defimedia.info/poudre-dor-un-havre-de-paix-charge-dhistoire",
+      "title": "Poudre-d’Or, un havre de paix chargé d’histoire | Defimedia (11 septembre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le mémorial érigé en 1944 rappelle le naufrage du Saint-Géran."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://defimedia.info/poudre-dor-un-havre-de-paix-charge-dhistoire",
+      "title": "Poudre-d’Or, un havre de paix chargé d’histoire | Defimedia (11 septembre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Aujourd’hui, encore, Poudre-d’Or conserve son charme unique, bordé par les champs de cannes à sucre et la mer qui est aussi le gagne-pain de plusieurs personnes. C’est un lieu où la simplicité et la tranquillité sont élevées en art de vivre."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Emplacement exact du mémorial du Saint-Géran dans le village : non trouvé. Les coordonnées sont celles du centre du village (OpenStreetMap).",
+    "Inscription du mémorial au patrimoine national : affirmée par Wikipédia seulement, non recoupée auprès du National Heritage Fund (hôte non autorisé).",
+    "Wikipédia mentionne un petit port nautique, des plages de sable fin, des hôtels et des restaurants ; Le Défi mentionne un point d'embarquement pour des sorties en mer. Non détaillé faute de précisions : à vérifier sur place.",
+    "Le Défi (2019) situe le naufrage du Saint-Géran dans la passe des Citronniers ; à garder en tête pour la rédaction finale.",
+    "Aucune photo Wikimedia Commons du village trouvée (une seule image, « Fishing the offshore reef near Poudre D'or », ne montre pas le village) : `media` vide.",
+    "Prix, horaires, durée de visite, accès (parking, bus) et équipements : aucune source officielle consultable dans cette session, champs laissés à null.",
+    "lexpress.mu a répondu 403 (protection Cloudflare) : aucun article de L'Express n'a pu être lu. Les sites de la Beach Authority et du National Heritage Fund ne font pas partie des hôtes autorisés.",
+    "Les articles Wikipédia ont été lus via l'API (action=query&prop=extracts) des pages citées ; les extraits viennent du texte brut renvoyé."
+  ]
+}

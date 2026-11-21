@@ -1,0 +1,114 @@
+{
+  "slug": "marche-de-goodlands",
+  "name": "Foire de Goodlands",
+  "family": "villages_marches",
+  "tags": [],
+  "region": "nord",
+  "locality": "Goodlands",
+  "lat": -20.0384464,
+  "lng": 57.6525315,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Goodlands%2C%20Mauritius",
+  "google_place_id": null,
+  "pitch": "La foire d'un gros bourg commerçant du nord ; jours de foire le mardi et le vendredi selon Le Défi (2016).",
+  "description_md": "Goodlands est un village du nord, dans le district de Rivière du Rempart, l'un des plus peuplés de l'île (20 712 habitants au recensement de 2011). En 2016, Le Défi le décrivait comme la localité rurale la plus dense en commerces avec Centre de Flacq : quelque 800 commerces de tous genres les mardis et vendredis, ses deux jours de foire. On y vend notamment des vêtements, d'après les commerçants cités.",
+  "why_go_md": "Pour l'ambiance d'un bourg commerçant mauricien : selon Le Défi (2016), Goodlands a longtemps été connu comme le centre des bonnes affaires, où l'on venait de toute l'île, et la foire garde sa propre clientèle.",
+  "likes": [
+    "Quelque 800 commerces les jours de foire (chiffre de 2016)",
+    "Foire et magasins de vêtements, réputés pour leurs prix"
+  ],
+  "watchouts": [
+    "Les informations disponibles datent de 2016 et 2021 : jours, lieu et horaires sont à confirmer avant d'y aller."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": "Jours de foire : mardi et vendredi, selon Le Défi (2016). Horaires non trouvés. À confirmer.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Goodlands%2C%20Mauritius",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":2188729948,\"lat\":\"-20.0384464\",\"lon\":\"57.6525315\" … \"display_name\":\"Goodlands, Goodlands VCA, Riviere du Rempart, 30420, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Goodlands,_Mauritius",
+      "title": "Goodlands, Mauritius - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Goodlands is a medium-sized village in northern Mauritius located in Rivière du Rempart District."
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Goodlands,_Mauritius",
+      "title": "Goodlands, Mauritius - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "It is one of the most populated villages in Mauritius. According to the 2011 census, the population was 20,712."
+    },
+    {
+      "field": "pitch, description_md, likes, hours_note",
+      "url": "https://defimedia.info/goodlands-la-route-de-tous-les-commerces",
+      "title": "Goodlands : la route de tous les commerces | Defimedia (24 septembre 2016)",
+      "accessed_at": "2026-11-21",
+      "evidence": "L’agglomération de Goodlands compte quelque 800 commerces de tous genres durant les mardis et vendredis,ses deux jours de foire."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://defimedia.info/goodlands-la-route-de-tous-les-commerces",
+      "title": "Goodlands : la route de tous les commerces | Defimedia (24 septembre 2016)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Goodlands était connu comme le centre des bonnes affaires. Les femmes de l’ile Maurice accouraient de partout, sachant qu’elles y trouveraient ici des articles qu’elles cherchaient mais à des meiileurs prix que dans les villes."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://defimedia.info/goodlands-la-route-de-tous-les-commerces",
+      "title": "Goodlands : la route de tous les commerces | Defimedia (24 septembre 2016)",
+      "accessed_at": "2026-11-21",
+      "evidence": "De toute façon, il y a une clientèle pour la foire et une autre pour des commerces comme le nôtre."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://defimedia.info/goodlands-la-route-de-tous-les-commerces",
+      "title": "Goodlands : la route de tous les commerces | Defimedia (24 septembre 2016)",
+      "accessed_at": "2026-11-21",
+      "evidence": "a lui créer son business de prêt-à-porter, après avoir commencé dans la foire."
+    },
+    {
+      "field": "watchouts, hours_note",
+      "url": "https://defimedia.info/deuxieme-phase-de-reouverture-les-foires-de-goodlands-pamplemousses-et-triolet-de-nouveau-operationnelles",
+      "title": "Deuxième phase de réouverture : les foires de Goodlands, Pamplemousses et Triolet de nouveau opérationnelles | Defimedia (5 mai 2021)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Bonne nouvelle pour les marchands des foires de Goodlands, Pamplemousses et Triolet. Ils sont de nouveau autorisés à opérer aux jours habituels."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Emplacement de la foire : non établi. Les coordonnées sont celles du centre de Goodlands (OpenStreetMap). OpenStreetMap référence aussi un « Goodlands New Vegetable Market » à lat -20.0511236, lon 57.6636363 (https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Goodlands%20Market%2C%20Mauritius) : est-ce le marché visé par la fiche ?",
+    "Une recherche a fait remonter des articles de L'Express sur une nouvelle foire / un nouveau marché à Goodlands (attribution des étals contestée), non consultables (403) : la foire a peut-être déménagé.",
+    "Jours de foire (mardi, vendredi) : source de presse de 2016, non officielle ; `opening_hours` laissé à null. À confirmer auprès du conseil de district de Rivière du Rempart.",
+    "Nom de la fiche : « Foire de Goodlands » (terme utilisé par la presse) ou « Marché de Goodlands » (demande initiale ; le slug est marche-de-goodlands).",
+    "Aucune photo Wikimedia Commons trouvée (les résultats « Goodlands » concernent le Manitoba) : `media` vide.",
+    "Prix, horaires, durée de visite, accès (parking, bus) et équipements : aucune source officielle consultable dans cette session, champs laissés à null.",
+    "lexpress.mu a répondu 403 (protection Cloudflare) : aucun article de L'Express n'a pu être lu. Les sites de la Beach Authority et du National Heritage Fund ne font pas partie des hôtes autorisés.",
+    "Les articles Wikipédia ont été lus via l'API (action=query&prop=extracts) des pages citées ; les extraits viennent du texte brut renvoyé."
+  ]
+}

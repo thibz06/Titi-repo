@@ -22,12 +22,14 @@ type Pin = { id: string; el: HTMLElement };
 export function ExploreMap({
   places,
   selectedId,
+  userPosition = null,
   onSelect,
   onError,
   label,
 }: {
   places: PlaceSummary[];
   selectedId: string | null;
+  userPosition?: { lat: number; lng: number } | null;
   onSelect: (id: string) => void;
   onError: () => void;
   label: string;
@@ -146,6 +148,19 @@ export function ExploreMap({
       })),
       });
   }, [places, ready]);
+
+  // Position de l'utilisateur : un point bleu, et la carte s'y recentre.
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !userPosition) return;
+    const el = document.createElement("div");
+    el.className = "h-5 w-5 rounded-full border-[3px] border-white bg-[#1a73e8] shadow-[0_0_0_6px_rgb(26_115_232/0.25)]";
+    const marker = new maplibregl.Marker({ element: el }).setLngLat([userPosition.lng, userPosition.lat]).addTo(map);
+    map.easeTo({ center: [userPosition.lng, userPosition.lat], zoom: Math.max(map.getZoom(), 11.5) });
+    return () => {
+      marker.remove();
+    };
+  }, [userPosition]);
 
   const byId = new Map(places.map((p) => [p.id, p]));
   return (

@@ -21,16 +21,13 @@
     "title": "Mauritius Quest",
     "pitch": "Un guide vérifié de l'île, posé sur une carte. Pour voir un maximum de choses en dépensant le moins possible.",
     "openMap": "Ouvrir la carte",
-    "statusTitle": "En construction",
-    "statusBody": "La carte, les fiches et les favoris sont là. Les quêtes et le programme de voyage arrivent ensuite.",
     "principlesTitle": "Ce que tu trouveras ici",
     "principles": {
       "sourced": "Des fiches sourcées et datées. Ce qu'on ne sait pas est écrit « Non renseigné ».",
       "budget": "Les prix en roupies, tels qu'annoncés par les lieux.",
       "noPressure": "Une progression pour le plaisir : pas de série à tenir, pas de compte à rebours.",
-      "offline": "Une app à installer sur ton téléphone."
-    },
-    "stampAlt": "Tampon de passeport Mauritius Quest"
+      "offline": "Une app à installer, qui garde tes fiches ouvertes même sans réseau."
+    }
   },
   "explore": {
     "title": "Explorer",
@@ -41,11 +38,25 @@
     "sheetHandle": "Agrandir ou réduire la liste",
     "countOne": "1 lieu",
     "countMany": "{count} lieux",
-    "emptyTitle": "Aucune fiche publiée pour l'instant",
-    "emptyBody": "Les fiches sont en cours de vérification. Elles apparaîtront ici dès leur publication.",
+    "emptyTitle": "Aucune fiche pour l'instant",
+    "emptyBody": "Les fiches arrivent.",
     "seePlace": "Voir la fiche",
     "closePreview": "Fermer l'aperçu",
-    "reviewLink": "Relire les {count} brouillons"
+    "searchLabel": "Chercher un lieu",
+    "searchPlaceholder": "Chercher un lieu ou un village",
+    "filtersLabel": "Filtres",
+    "filterAll": "Tout",
+    "filterFree": "Gratuit",
+    "filterSecret": "Île secrète",
+    "nearMe": "Autour de moi",
+    "nearMeOn": "Trié par distance",
+    "locating": "Recherche de ta position…",
+    "geoDenied": "La position est refusée pour ce site. Autorise-la dans les réglages du navigateur pour utiliser « Autour de moi ».",
+    "geoUnavailable": "Ta position n'a pas pu être trouvée. Réessaie à l'extérieur.",
+    "distance": "{value} à vol d'oiseau",
+    "noResultTitle": "Aucun lieu ne correspond",
+    "noResultBody": "Essaie un autre mot ou retire un filtre.",
+    "clearFilters": "Tout afficher"
   },
   "families": {
     "plages_lagon": "Plages et lagon",
@@ -96,7 +107,29 @@
     "goHint": "Ouvre l'itinéraire dans Google Maps",
     "favoriteAdd": "Ajouter aux favoris",
     "favoriteRemove": "Retirer des favoris",
-    "favoriteError": "Le favori n'a pas pu être enregistré sur cet appareil. Il sera perdu à la fermeture."
+    "favoriteError": "Le favori n'a pas pu être enregistré sur cet appareil. Il sera perdu à la fermeture.",
+    "website": "Site officiel",
+    "secretTitle": "L'histoire",
+    "secretWhy": "Pourquoi si peu de monde",
+    "secretAccess": "Comment y aller",
+    "secretPrecautions": "Précautions",
+    "secretKicker": "L'Île secrète",
+    "checkin": "J'y suis",
+    "checkinDone": "Visité",
+    "checkinLocating": "Vérification de ta position…",
+    "checkinTooFar": "Tu es à {distance} du lieu. Rapproche-toi, ou valide à la main.",
+    "checkinGeoDenied": "La position est refusée pour ce site. Tu peux valider à la main.",
+    "checkinGeoUnavailable": "Ta position n'a pas pu être trouvée. Tu peux valider à la main.",
+    "checkinManual": "Valider à la main",
+    "checkinManualLeft": "Encore {count} validation(s) à la main aujourd'hui, même XP.",
+    "checkinManualNone": "Tu as utilisé tes 3 validations à la main d'aujourd'hui. Le GPS reste possible, et le compteur repart demain.",
+    "checkinCancel": "Fermer",
+    "checkinSaveError": "La visite n'a pas pu être enregistrée sur cet appareil.",
+    "rewardTitle": "Tampon ajouté",
+    "rewardXp": "+{xp} XP",
+    "rewardRegion": "Région complétée : +100 XP",
+    "rewardSkip": "Continuer",
+    "visitedOn": "Visité le {date}"
   },
   "profile": {
     "title": "Profil",
@@ -105,11 +138,40 @@
     "favoritesEmptyBody": "Touche le cœur sur une fiche pour la retrouver ici.",
     "explore": "Explorer la carte",
     "storageTitle": "Tes données",
-    "storageBody": "Tes favoris sont enregistrés sur cet appareil uniquement. Pas de compte, rien n'est envoyé ailleurs. Si tu effaces les données du navigateur, ils disparaissent."
+    "storageBody": "Tes favoris et tes visites sont enregistrés sur cet appareil uniquement. Pas de compte, rien n'est envoyé ailleurs. Si tu effaces les données du navigateur, ils disparaissent.",
+    "levelLabel": "Niveau",
+    "xp": "{xp} XP",
+    "nextLevel": "Encore {remaining} XP avant « {level} »",
+    "maxLevel": "Tu as atteint le dernier niveau.",
+    "visitedCount": "{count} lieux visités sur {total}",
+    "regionsTitle": "Par région",
+    "regionProgress": "{done} sur {total}",
+    "journalTitle": "Mon carnet",
+    "journalEmptyTitle": "Aucun tampon pour l'instant",
+    "journalEmptyBody": "Sur place, touche « J'y suis » sur la fiche d'un lieu pour le tamponner.",
+    "manual": "validé à la main",
+    "gps": "validé par GPS"
   },
   "review": {
-    "title": "Relecture",
-    "bannerTitle": "Brouillon non vérifié",
-    "bannerBody": "Cette fiche n'a pas encore été vérifiée ni publiée. Ses informations peuvent être incomplètes ou fausses : ne t'y fie pas sur place."
+    "badge": "À vérifier",
+    "bannerTitle": "Fiche pas encore vérifiée sur place",
+    "bannerBody": "Ces informations viennent de sources citées en bas de fiche, mais personne ne les a encore vérifiées sur place. Confirme les horaires et les prix avant d'y aller."
+  },
+  "levels": {
+    "debutant": "Explorateur débutant",
+    "lagons": "Amateur de lagons",
+    "aventurier": "Aventurier tropical",
+    "explorateur": "Explorateur de l'île",
+    "expert": "Expert mauricien"
+  },
+  "regions": {
+    "nord": "Nord",
+    "nord_ouest": "Nord-Ouest",
+    "ouest": "Ouest",
+    "sud_ouest": "Sud-Ouest",
+    "sud": "Sud",
+    "sud_est": "Sud-Est",
+    "est": "Est",
+    "centre": "Centre"
   }
 }

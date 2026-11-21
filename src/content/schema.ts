@@ -69,6 +69,19 @@ export const placeDraftSchema = z.strictObject({
   sources: z.array(sourceSchema).min(1),
   media: z.array(mediaSchema),
   open_questions: z.array(z.string()),
+  /** Site officiel du lieu ou du prestataire, s'il existe. */
+  website_url: url.nullable().optional(),
+  /** Récit « Île secrète » : réservé aux lieux insolites. */
+  secret: z
+    .strictObject({
+      story_md: z.string().min(1),
+      why_unknown_md: z.string().nullable(),
+      access_md: z.string().nullable(),
+      precautions_md: z.string().nullable(),
+      legal_access_checked: z.boolean(),
+    })
+    .nullable()
+    .optional(),
 });
 
 export type PlaceDraft = z.infer<typeof placeDraftSchema>;

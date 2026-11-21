@@ -1,0 +1,129 @@
+{
+  "slug": "pereybere",
+  "name": "Plage de Pereybère",
+  "family": "plages_lagon",
+  "tags": [
+    "famille"
+  ],
+  "region": "nord",
+  "locality": "Pereybère",
+  "lat": -19.9940741,
+  "lng": 57.5907942,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&q=Pereybere%20Public%20Beach",
+  "google_place_id": null,
+  "pitch": "Plage publique juste au nord-est de Grand Baie, sur un bout de côte à l'ambiance plus familiale.",
+  "description_md": "Pereybère désigne la partie de côte située à l'est de Grand Baie, vers le nord. Le lieu doit son nom à Charles Pereybère (1816-1883), qui achète ces terrains en 1845. Les plages restent peu fréquentées jusqu'au milieu des années 1930 à cause des moustiques porteurs du paludisme ; les familles y installent ensuite des « campements » de villégiature et la côte est lotie dans les années 1940.",
+  "why_go_md": "Wikipédia décrit Pereybère comme un lieu plus familial du tourisme mauricien, avec des campements moins luxueux que ceux qui bordent Grand Baie.",
+  "likes": [
+    "Ambiance décrite comme plus familiale que Grand Baie",
+    "Plage publique, à quelques minutes de Grand Baie par la route côtière bordée de restaurants"
+  ],
+  "watchouts": [
+    "Transats : en janvier 2017, la Beach Authority a retiré une trentaine de transats de la plage publique ; selon le ministre de l'Environnement d'alors, personne n'y détenait d'autorisation pour des transats ou des parasols. Situation actuelle non vérifiée."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&q=Pereybere%20Public%20Beach",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":199494068,\"lat\":\"-19.9940741\",\"lon\":\"57.5907942\" … \"display_name\":\"Pereybere Public Beach, Pereybere, Grand Baie, Grand Baie VCA, East, Riviere du Rempart, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Grand_Baie",
+      "title": "Grand Baie — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Pereybère est le nom de la partie est du littoral derrière la baie, vers le nord."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Pereyb%C3%A8re",
+      "title": "Pereybère — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Son nom provient de celui de son propriétaire, Charles Pereybère (1816-1883), qui acquiert les terrains en 1845"
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Pereyb%C3%A8re",
+      "title": "Pereybère — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Jusqu'au milieu des années 1930, les plages sont sauvages, car auparavant infestées, dès la nuit tombée, par les moustiques porteurs du paludisme."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Pereyb%C3%A8re",
+      "title": "Pereybère — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Dans les années 1940, la côte est lotie et au fil des ans des campements « en dur » sont construits, mais moins luxueux que ceux qui bordent Grand Baie."
+    },
+    {
+      "field": "why_go_md, likes, tags, pitch",
+      "url": "https://fr.wikipedia.org/wiki/Pereyb%C3%A8re",
+      "title": "Pereybère — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "C'est un lieu plus familial du tourisme mauricien."
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/grand-baie/",
+      "title": "Grand Baie (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "around 50 line the bay and coastal road to Pereybère."
+    },
+    {
+      "field": "pitch, likes, watchouts",
+      "url": "https://defimedia.info/sur-la-plage-publique-de-trou-aux-biches-soodhun-et-sinatambou-font-la-chasse-aux-transats-et-parasols",
+      "title": "Sur la plage publique de Trou-aux-Biches : Soodhun et Sinatambou font la chasse aux transats et parasols | Defimedia (16 janvier 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le samedi 7 janvier et le dimanche 8 janvier, la Beach Authority a sévi sur la plage publique de Pereybère. Une trentaine de transats avaient été enlevées."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/sur-la-plage-publique-de-trou-aux-biches-soodhun-et-sinatambou-font-la-chasse-aux-transats-et-parasols",
+      "title": "Sur la plage publique de Trou-aux-Biches : Soodhun et Sinatambou font la chasse aux transats et parasols | Defimedia (16 janvier 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "À Pereybère, autant que je sache, personne ne détient d’autorisation pour l’installation de transats ou de parasols"
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Plage_de_Pereybere_2016.jpg",
+      "credit": "Gonzolito",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Plage_de_Pereybere_2016.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Taille de la plage, baignade, snorkeling, sécurité : aucune source autorisée lue. Une recherche a fait remonter des articles de L'Express sur des noyades à Pereybère, non consultables (403) : à vérifier avant de publier un avis sur la baignade.",
+    "L'article Wikipédia ne décrit pas la plage elle-même ; la description est surtout historique.",
+    "Prix, horaires, durée de visite, accès (parking, bus) et équipements : aucune source officielle consultable dans cette session, champs laissés à null.",
+    "lexpress.mu a répondu 403 (protection Cloudflare) : aucun article de L'Express n'a pu être lu. Les sites de la Beach Authority et du National Heritage Fund ne font pas partie des hôtes autorisés.",
+    "Les articles Wikipédia ont été lus via l'API (action=query&prop=extracts) des pages citées ; les extraits viennent du texte brut renvoyé."
+  ]
+}
