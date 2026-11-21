@@ -1,0 +1,117 @@
+{
+  "slug": "poste-lafayette",
+  "name": "Plage de Poste Lafayette",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "est",
+  "locality": "Poste Lafayette",
+  "lat": -20.1281682,
+  "lng": 57.7569508,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Poste%20Lafayette%20Public%20Beach",
+  "google_place_id": null,
+  "pitch": "Plage publique ventée de la côte est, connue des kitesurfeurs ; baignade classée dangereuse.",
+  "description_md": "Poste Lafayette est une plage publique de la côte est, dans le district de Flacq, entre Roches Noires et Belle Mare. La presse mauricienne en parle surtout pour deux raisons : c'est un spot de kitesurf les jours de vent, et son lagon figure sur la liste des zones de baignade dangereuse de la Beach Authority.",
+  "why_go_md": "Pour regarder les kitesurfeurs ou pratiquer toi-même les jours de vent : en 2014, ionnews décrivait Poste Lafayette comme un « superbe spot » où une école de kitesurf donnait ses cours. Les sources consultées ne décrivent ni le paysage ni les équipements : cette fiche reste volontairement courte.",
+  "likes": [
+    "Spot de kitesurf les jours de vent (ionnews, 2014)",
+    "Plage publique équipée de lampadaires supplémentaires par la Beach Authority (Le Défi, 2018)"
+  ],
+  "watchouts": [
+    "Baignade dangereuse : Poste-Lafayette figure sur la liste des 36 lagons à risque de la Beach Authority (2018), parmi les lagons « les plus meurtriers » selon une source policière, et parmi les plages munies de panneaux d'avertissement (ionnews, 2024).",
+    "Une noyade y a été enregistrée en mars 2020 (Le Défi).",
+    "Des méduses-boîtes ont été signalées sur la côte est, dont Poste-Lafayette, en janvier 2019."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": "medium",
+  "risk_note": "Lagon inscrit sur la liste des zones de baignade dangereuse (courants, houle, chenaux selon la Beach Authority et la National Coast Guard) ; une noyade en mars 2020. Respecte les panneaux et ne t'éloigne pas du bord.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Poste%20Lafayette%20Public%20Beach",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"lat\":\"-20.1281682\",\"lon\":\"57.7569508\" [...] \"type\":\"beach\" [...] \"name\":\"Poste Lafayette Public Beach\" [...] Poste de Flacq VCA, Flacq"
+    },
+    {
+      "field": "description_md, why_go_md, likes, pitch",
+      "url": "https://ionnews.mu/homme-une-passion-richi-le-kitesurf-0109/",
+      "title": "Un homme, une passion : Richi et le kitesurf — ionnews.mu (1er septembre 2014)",
+      "accessed_at": "2026-11-21",
+      "evidence": "A Anse-La-Raie ou à Poste-Lafayette qui bénéficie d’un superbe spot, vous rencontrerez Richi et son équipe les jours de vent."
+    },
+    {
+      "field": "risk_level, risk_note, watchouts, description_md",
+      "url": "https://defimedia.info/baignade-dangereuse-36-lagons-consideres-risque-pour-les-nageurs",
+      "title": "Baignade dangereuse : 36 lagons considérés à risque pour les nageurs — Defimedia (3 février 2018)",
+      "accessed_at": "2026-11-21",
+      "evidence": "sur les 121 plages publiques, 36 lagons figurent sur la liste des zones de baignade dangereuse. La BA y a placé 87 panneaux. Ces lagons sont connus pour leurs houles, leurs chenaux, le dénivellement subit du plancher et les courants, entre autres. [...] La liste des lagons dangereux : Le Goulet, Pointe-aux-Piments, La Cuvette, Pointe d ’Azur, Bain-Bœuf, Poste-Lafayette"
+    },
+    {
+      "field": "risk_level, watchouts",
+      "url": "https://defimedia.info/baignade-dangereuse-36-lagons-consideres-risque-pour-les-nageurs",
+      "title": "Baignade dangereuse : 36 lagons considérés à risque pour les nageurs — Defimedia (3 février 2018)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Selon notre source, les lagons les plus meurtriers sont : Albion, La Prairie, Le Goulet, Flic-en-Flac, Belle-Mare, Blue-Bay, Gris-Gris, le chenal de Grande-Rivière-Sud-Est, Poste-Lafayette"
+    },
+    {
+      "field": "watchouts, risk_level",
+      "url": "https://ionnews.mu/baignade-dangereuse-voici-les-plages-a-risques/",
+      "title": "Baignade dangereuse : Voici les plages à risques — ionnews.mu (27 avril 2024)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Région Est : Belle Mare, Trou d’Eau Douce, Quatre Cocos, Poste La Fayette et Bras d’Eau."
+    },
+    {
+      "field": "watchouts, risk_note",
+      "url": "https://defimedia.info/poste-la-fayette-un-corps-repeche",
+      "title": "Poste-La-Fayette : un corps repêché — Defimedia (2 mars 2020)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Un cas de noyade a été enregistré à Poste-La-Fayette ce lundi après-midi"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/apres-le-littoral-nord-les-meduses-se-propagent-dautres-plages",
+      "title": "Après le littoral Nord : les méduses se propagent à d’autres plages — Defimedia (5 janvier 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Est : Poste-Lafayette, Roches-Noires et Belle-Mare"
+    },
+    {
+      "field": "likes, description_md",
+      "url": "https://defimedia.info/en-une-dizaine-dannees-les-plages-publiques-representent-15-du-littoral",
+      "title": "En une dizaine d'années : les plages publiques représentent 15% du littoral — Defimedia (29 août 2018)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Poste-Lafayette, Bras-d’Eau, Belle-Mare, GRSE Channel et Deux-Frères. [...] Des lampadaires additionnels installés à Roches-Noires (5), Poste-Lafayette (6) et Quatre-Sœurs (10)."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Fiche courte faute de sources : ni l'office du tourisme (mauritiusnow.com) ni Wikipédia (aucun article trouvé en français ou en anglais) ne décrivent la plage ; le site de la Beach Authority n'a pas pu être consulté (erreur 502 via le proxy).",
+    "Paysage, longueur, ombre, toilettes, parking : non sourcés.",
+    "Kitesurf : la seule source date de 2014 ; écoles en activité, zone autorisée et saison de vent à vérifier.",
+    "Gratuité non écrite par une source : price_kind reste à null.",
+    "risk_level « medium » est une lecture du rédacteur à partir des listes de baignade dangereuse (2018, 2024) : à confirmer par l'éditeur.",
+    "L'article du Défi sur la noyade est daté du 2 mars 2020 mais parle du « lundi 3 mars » : date exacte incertaine.",
+    "Aucune photo sous licence vérifiée n'a été retenue."
+  ],
+  "website_url": null,
+  "secret": null
+}

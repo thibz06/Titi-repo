@@ -1,0 +1,211 @@
+{
+  "slug": "le-pouce",
+  "name": "Le Pouce",
+  "family": "randos_sommets",
+  "tags": [
+    "spot_photo"
+  ],
+  "region": "nord_ouest",
+  "locality": "La Laura-Malenga",
+  "lat": -20.1981131,
+  "lng": 57.5288172,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Le+Pouce%2C+Mauritius&format=jsonv2&limit=4",
+  "google_place_id": null,
+  "pitch": "Troisième sommet de l'île (812 m), en forme de pouce : 3 à 4 h aller-retour pour une vue à 360° sur Port-Louis. Darwin y est monté en 1836.",
+  "description_md": "Le Pouce est une montagne de la chaîne de Moka, entre le Pieter Both et la montagne des Signaux, qui culmine à 812 mètres : c'est le troisième sommet de Maurice. Son nom vient de la forme de son piton. L'office du tourisme compte trois à quatre heures aller-retour par le sentier balisé, sur terrain rocailleux, avec un court passage d'escalade facile pour finir. On y monte depuis Moka ou depuis Port-Louis, sans matériel d'escalade. À titre indicatif, un tracé publié sur Visorando depuis le parking côté Moka jusqu'au plateau au pied du piton (point haut à 734 m, donc sans le ressaut final) fait 3,7 km aller-retour pour 402 m de dénivelé positif, 2 h 10 en moyenne, difficulté « moyenne ».",
+  "why_go_md": "Pour une vue à 360° depuis le troisième sommet de l'île, notamment sur Port-Louis et Moka. Et pour marcher dans les pas de Charles Darwin, monté ici en mai 1836. L'office du tourisme le range parmi les randonnées familiales, en précisant que c'est la plus difficile de sa liste.",
+  "likes": [
+    "Vue à 360° au sommet : Port-Louis, Moka, Beau-Bassin Rose-Hill",
+    "Troisième sommet de Maurice (812 m), accessible sans matériel d'escalade",
+    "Ascension de Charles Darwin en mai 1836, racontée dans son journal",
+    "Sentier balisé, trois à quatre heures aller-retour selon l'office du tourisme"
+  ],
+  "watchouts": [
+    "Dernier tronçon raide : on s'aide des mains par endroits, et le sommet est étroit avec des bords abrupts",
+    "Sol glissant par temps de pluie ou après la pluie (terre argileuse, passage final) selon Visorando, Hiking Project et Explore Mauritius",
+    "Pars tôt pour éviter la chaleur et prends de vraies chaussures de marche : terrain rocailleux",
+    "Parking côté Moka limité à quelques voitures"
+  ],
+  "tips_md": "Si tu veux éviter le ressaut final, le plateau herbeux au pied du piton offre déjà une vue sur les deux versants de l'île (Visorando : une heure à une heure et demie de montée depuis le parking côté Moka).",
+  "duration_min": 180,
+  "duration_max": 240,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "heure": "Départ tôt le matin pour éviter la chaleur (office du tourisme)",
+    "saison": "En été (novembre à avril), des averses sont possibles l'après-midi, et la pluie est plus probable de janvier à mars, selon l'office du tourisme : vise une matinée sèche"
+  },
+  "rain_ok": false,
+  "risk_level": null,
+  "risk_note": "Passage final raide et exposé, glissant quand il est mouillé. Aucune source ne donne de niveau de risque officiel.",
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Troisième sommet de l'île, décrit par l'office du tourisme comme une montagne « populaire » et par Wikipédia en anglais comme une randonnée prisée pour sa vue sur Port-Louis.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Le+Pouce%2C+Mauritius&format=jsonv2&limit=4",
+      "title": "Nominatim (OpenStreetMap), recherche « Le Pouce, Mauritius »",
+      "accessed_at": "2026-11-21",
+      "evidence": "OpenStreetMap node 991418571 (natural=peak) « Le Pouce » : lat -20.1981131, lon 57.5288172"
+    },
+    {
+      "field": "duration_min, duration_max, description_md, pitch, likes, watchouts, best_time, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/le-pouce/",
+      "title": "Le Pouce: A Breathtaking Peak in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "It takes around three to four hours to hike to the top and back, following the marked trail. Start early to avoid the heat and wear suitable footwear for the rocky terrain en route and the final scramble to the top. You’ll be following in the footsteps of Charles Darwin, who made it to the summit back in 1836. The 360-degree views are spectacular, so don’t forget a camera!"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, secret",
+      "url": "https://mauritiusnow.com/blog/things-to-do/le-pouce/",
+      "title": "Le Pouce: A Breathtaking Peak in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le Pouce, named because of its thumb shape, is the third highest mountain in Mauritius and has great views over Port Louis."
+    },
+    {
+      "field": "why_go_md, rarity, secret",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-family-hikes-in-mauritius/",
+      "title": "Family-Friendly Hikes in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "For families who are up for a challenge, Mauritius’ popular Le Pouce Mountain is an 812-metre climb up into the clouds. Named for its thumb shape, this is the hardest of Mauritius’ family-friendly hikes"
+    },
+    {
+      "field": "description_md, likes, rarity, secret",
+      "url": "https://en.wikipedia.org/wiki/Le_Pouce",
+      "title": "Le Pouce — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "is the third highest mountain in Mauritius, at 812 meters (2664 feet).[1] Only Piton de la Petite Rivière Noire (828 m) and Pieter Both (820 m) are taller.[2] It is named Le Pouce because of the thumb-shaped peak of the mountain.[1][3] It can be viewed from the capital of Mauritius, Port Louis, and is a popular hike for the view of the city.[1] The mountain is in the Moka Range and is closest to the village of La Laura-Malenga in the Moka District. Charles Darwin ascended the mountain on 2 May 1836."
+    },
+    {
+      "field": "description_md, likes, watchouts, secret",
+      "url": "https://en.wikipedia.org/wiki/Le_Pouce",
+      "title": "Le Pouce — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "However, the ascent is very steep, especially near the thumb. Le Pouce can be reached from Moka or Port Louis. Unlike Pieter Both, climbing gear is not needed. From the peak, Port Louis, Moka, and Beau-Bassin Rose-Hill can be seen"
+    },
+    {
+      "field": "secret",
+      "url": "https://en.wikipedia.org/wiki/Le_Pouce",
+      "title": "Le Pouce — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le Pouce is the second highest peak in the Moka Range, which was formed ten million years ago from volcano eruptions.[5] The range is a basalt lava dome and is no longer volcanically active."
+    },
+    {
+      "field": "secret",
+      "url": "https://en.wikipedia.org/wiki/Le_Pouce",
+      "title": "Le Pouce — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le Pouce is overgrown with guava and acacia, which are not native to the area.[6] One example of flora endemic to Le Pouce is Pandanus pseudomontanus commonly known as Le Pouce Mountain Screwpine. [...] The only individuals of this species are two plants in the Le Pouce Mountain Nature Reserve. Since both of these are male plants, the species is at \"extremely high risk of extinction'."
+    },
+    {
+      "field": "secret",
+      "url": "https://en.wikipedia.org/wiki/Le_Pouce",
+      "title": "Le Pouce — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le Pouce Nature Reserve was created in 1951. It protects an area of 0.69 km2 on the mountain's northwest flank."
+    },
+    {
+      "field": "description_md, secret",
+      "url": "https://fr.wikipedia.org/wiki/Le_Pouce",
+      "title": "Le Pouce — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Se dressant entre le Pieter Both et la montagne des Signaux, il doit son nom à sa forme caractéristique rappelant un pouce. Il culmine à 812 mètres d'altitude [...] La vue sur le Nord de l'île y est dégagée, ainsi que sur les îlots septentrionaux tels que le Coin de Mire, l'île Plate, l'île Ronde et l'île aux Serpents."
+    },
+    {
+      "field": "secret, likes",
+      "url": "https://darwin-online.org.uk/content/contentblock?itemID=F10.3&basepage=1&hitpage=1&viewtype=text",
+      "title": "Darwin, C. R. 1839. Journal and remarks, 1832-1836 (Narrative of the surveying voyages of H.M.S. Adventure and Beagle, vol. III) — Darwin Online, F10.3",
+      "accessed_at": "2026-11-21",
+      "evidence": "MAY 1ST.—Sunday. I took a quiet walk along the sea-coast [...] The next day I ascended La Pouce, a mountain so called from a thumb-like projection, which rises close behind the town to a height of 2600 feet. M. Lesson, in the voyage of the Coquille, has stated, that the central plain of the island appeared like the basin of a grand crater, and that La Pouce and the other mountains once formed parts of a connected wall."
+    },
+    {
+      "field": "secret",
+      "url": "https://darwin-online.org.uk/content/contentblock?itemID=F10.3&basepage=1&hitpage=1&viewtype=text",
+      "title": "Darwin, C. R. 1839. Journal and remarks, 1832-1836 (Narrative of the surveying voyages of H.M.S. Adventure and Beagle, vol. III) — Darwin Online, F10.3",
+      "accessed_at": "2026-11-21",
+      "evidence": "From our elevated position we enjoyed an excellent view over this great mass of volcanic matter. The country on this side of the island appears pretty well cultivated, the whole being divided into fields, and studded with farm-houses."
+    },
+    {
+      "field": "description_md, tips_md, watchouts, rain_ok, risk_note, secret",
+      "url": "https://www.visorando.com/randonnee-montee-du-pouce-depuis-mokka/",
+      "title": "Montée du Pouce depuis Mokka — Visorando",
+      "accessed_at": "2026-11-21",
+      "evidence": "Montée d’une heure à une heure 1/2 pour arriver au pied du pouce sur un plateau permettant la vue splendide sur les 2 faces de l’ile. (Vue a quasi 360*) [...] Avoir de bonnes chaussures, debut caillouteux. En cas de pluie ou apres la pluie, sol glissant (seconde partie)."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.visorando.com/randonnee-montee-du-pouce-depuis-mokka/",
+      "title": "Montée du Pouce depuis Mokka — Visorando",
+      "accessed_at": "2026-11-21",
+      "evidence": "Distance : 3,70 km Durée moyenne : 2h 10 Difficulté : Moyenne [...] Dénivelé positif : + 402 m [...] Point haut : 734 m Point bas : 378 m"
+    },
+    {
+      "field": "watchouts, rain_ok, risk_note, secret",
+      "url": "https://www.exploremauritius.org/?p=459",
+      "title": "Le Pouce – Explore Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "There are two approaches: from Port Louis on the north side and Moka on the south side. [...] The south route is standard route most visitors take as it begins at a higher elevation and requires less than half the distance of the north route. [...] The last section – where you actually ascend “the thumb” – is relatively steep for both approaches as they take the same trail. You will have to use your hands in a few places. It could be challenging in the rain."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.exploremauritius.org/?p=459",
+      "title": "Le Pouce – Explore Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "The trail begins at a trailhead where Chateau D’eau Street ends. [...] There are stones marked with blue and white paint every few hundred meters making it difficult to lose your way."
+    },
+    {
+      "field": "watchouts, rain_ok, risk_note, secret",
+      "url": "https://www.hikingproject.com/trail/7052205/le-pouce-southern-route",
+      "title": "Le Pouce Southern Route Hiking Trail, Saint Pierre, Mauritius — Hiking Project",
+      "accessed_at": "2026-11-21",
+      "evidence": "The trail is easy, although rocky, until the final stretch up the \"thumb\" which gets very steep and has some exposure. [...] The very top is very small with steep edges so it may not be comfortable if crowded. [...] This section of trail is easy going, but the clay-like dirt can be slick when wet."
+    },
+    {
+      "field": "watchouts, secret",
+      "url": "https://www.hikingproject.com/trail/7052205/le-pouce-southern-route",
+      "title": "Le Pouce Southern Route Hiking Trail, Saint Pierre, Mauritius — Hiking Project",
+      "accessed_at": "2026-11-21",
+      "evidence": "Head towards Moka and pick up B47/Bois Cheri Road. This road will have a sharp bend in the northwest corner of Moka. Just to the east of the bend look for a tiny farm road that has a decent sized brown sign for Le Pouce. This single-lane road heads northeast to a small parking area. There is only room for a few cars in the parking area"
+    },
+    {
+      "field": "best_time, secret",
+      "url": "https://mauritiusnow.com/mauritius-weather/",
+      "title": "Mauritius Weather (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "There is a higher chance of rain from January to March [...] If you’re looking for maximum heat, come to our island in summer, between November and April. [...] There may be afternoon rain"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Atlas Obscura a refusé l'accès (403, blocage Cloudflare) : sa page éventuelle sur Le Pouce n'a pas été lue et n'a servi à rien dans ce récit.",
+    "Les sources décrivent un sommet très fréquenté (« popular »), pas un lieu confidentiel : `rarity` est mis à « incontournable » ; à l'éditeur de décider si Le Pouce a bien sa place dans « L'Île secrète ».",
+    "`difficulty` laissé à null : aucune source ne donne une cotation chiffrée. Qualitatif seulement : « easy hike » mais montée finale très raide (Wikipédia en), « la plus difficile des randonnées familiales » (office du tourisme), « Moyenne » pour le tracé Visorando qui s'arrête au plateau (734 m).",
+    "`risk_level` laissé à null : pas de niveau officiel. Les mises en garde (final raide et exposé, sol glissant mouillé) viennent de sites de randonnée communautaires (Visorando, Hiking Project, Explore Mauritius), pas d'un organisme public.",
+    "Dénivelé et distance jusqu'au sommet même (812 m) : non sourcés ; les seuls chiffres lus (3,7 km, +402 m, 2 h 10) concernent un tracé Visorando qui s'arrête à 734 m. La durée retenue (3 à 4 h aller-retour) est celle de l'office du tourisme, sans précision du point de départ.",
+    "Point de départ côté Moka (panneau, parking, état du chemin) et côté Port-Louis (rue Château d'Eau) : décrits par des sites de randonnée non datés ; à vérifier sur place. Sentier gratuit ou non, guide obligatoire ou non : aucune source.",
+    "Consignes officielles en cas de fortes pluies ou d'alerte cyclonique (décembre-janvier) : le site de Mauritius Meteorological Services n'a pas répondu, celui du National Parks and Conservation Service n'affiche rien d'exploitable ; seule la page météo de l'office du tourisme a été citée.",
+    "Géologie (« dôme de lave basaltique », dix millions d'années) et botanique (Pandanus pseudomontanus, deux pieds mâles) : Wikipédia en anglais uniquement, qui cite un document gouvernemental archivé et une fiche UICN de 2012 non relus ; la situation de l'espèce a pu changer.",
+    "Darwin écrit « the next day » après le dimanche 1er mai 1836 : la date du 2 mai est une déduction (reprise par Wikipédia). Il donne 2 600 pieds, soit moins que les 812 m actuels.",
+    "Photo : API Wikimedia Commons en 429 pendant la session, aucun média."
+  ],
+  "website_url": null,
+  "secret": {
+    "story_md": "Visible depuis Port-Louis, la montagne doit son nom à son piton en forme de pouce dressé. À 812 mètres, Le Pouce est le troisième sommet de l'île Maurice, derrière le piton de la Petite Rivière Noire (828 m) et le Pieter Both (820 m). Il appartient à la chaîne de Moka, que Wikipédia en anglais décrit comme un ensemble basaltique formé il y a une dizaine de millions d'années et aujourd'hui éteint.\n\nLe visiteur le plus célèbre de ce sommet est Charles Darwin. Le naturaliste est à Maurice en mai 1836. Dans son journal publié en 1839, à la suite de la journée du dimanche 1er mai, il écrit que « le lendemain » il est monté à « La Pouce », montagne « ainsi nommée d'après une saillie en forme de pouce », qui s'élève juste derrière la ville à 2 600 pieds selon son estimation. Wikipédia en anglais et l'office du tourisme retiennent la date du 2 mai 1836.\n\nCe que Darwin regarde de là-haut, ce n'est pas la mer mais l'intérieur de l'île. Il rapporte l'idée d'un M. Lesson, du voyage de la *Coquille*, pour qui la plaine centrale ressemblait au fond d'un grand cratère dont Le Pouce et les autres montagnes auraient formé la muraille. Il note aussi un pays « assez bien cultivé », découpé en champs et semé de fermes. Aujourd'hui, le panorama annoncé par les sources est celui de Port-Louis, de Moka et de Beau-Bassin Rose-Hill ; Wikipédia en français ajoute les îlots du nord : le Coin de Mire, l'île Plate, l'île Ronde et l'île aux Serpents.\n\nLa montagne est aussi un petit refuge botanique. Ses pentes sont envahies de goyaviers et d'acacias introduits, mais son flanc nord-ouest est protégé depuis 1951 par une réserve naturelle de 0,69 km². Wikipédia en anglais, citant l'UICN, y signale le vacoa du Pouce (*Pandanus pseudomontanus*), dont il ne resterait que deux pieds, tous deux mâles : une espèce décrite comme exposée à un risque d'extinction extrêmement élevé.\n\nCe qui rend Le Pouce singulier, c'est ce mélange : un sommet de premier rang qui se gravit sans matériel d'escalade, contrairement à son voisin le Pieter Both, par un sentier balisé que l'office du tourisme classe parmi les randonnées familiales de l'île, la plus difficile d'entre elles. Deux itinéraires y mènent, l'un depuis Moka, court, l'autre depuis Port-Louis, nettement plus long ; ils se rejoignent pour le dernier ressaut, raide, où il faut parfois poser les mains.",
+    "why_unknown_md": null,
+    "access_md": "Deux approches décrites par les sources. Côté Moka (itinéraire habituel, plus court car il part de plus haut) : d'après Hiking Project, on prend la B47 / Bois Cheri Road vers Moka ; juste à l'est d'un virage serré, un petit chemin agricole signalé par un panneau marron « Le Pouce » mène à un parking de quelques places, d'où le sentier part entre les champs de canne. Côté Port-Louis : d'après Explore Mauritius, le sentier commence au bout de la rue Château d'Eau et suit des pierres peintes en bleu et blanc ; il est nettement plus long. Les deux itinéraires se rejoignent avant l'ascension finale du « pouce ».",
+    "precautions_md": "Le dernier tronçon est raide, avec quelques passages où l'on s'aide des mains, et le sommet est étroit, bordé de pentes abruptes. Plusieurs sources signalent un sol glissant par temps de pluie ou après la pluie (terre argileuse, passage final). L'office du tourisme indique des averses possibles l'après-midi en été (novembre à avril) et davantage de pluie de janvier à mars : pars tôt, par temps sec, avec de bonnes chaussures, et renonce si le sentier est détrempé.",
+    "legal_access_checked": false
+  }
+}

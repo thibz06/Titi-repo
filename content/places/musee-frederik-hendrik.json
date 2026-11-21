@@ -1,0 +1,98 @@
+{
+  "slug": "musee-frederik-hendrik",
+  "name": "Musée Frederik Hendrik (Vieux Grand Port)",
+  "family": "culture_patrimoine",
+  "tags": [
+    "gratuit"
+  ],
+  "region": "sud_est",
+  "locality": "Vieux Grand Port",
+  "lat": -20.3749966,
+  "lng": 57.7218506,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Frederik+Hendrik+Museum&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Site historique gratuit de Vieux Grand Port : ruines françaises bâties sur le fort hollandais et petit musée archéologique.",
+  "description_md": "Le site historique de Vieux Grand Port est classé patrimoine national. Les bâtiments visibles (loge, prison, boulangerie, magasin, forge) sont d'origine française, construits après 1753 sur les ruines du fort hollandais Frederik Hendrik, dont les vestiges, fouillés en 2000, reposent à une cinquantaine de centimètres sous terre. Le musée présente dans une salle permanente des panneaux et des objets retraçant 400 ans d'occupation du site, une maquette du site et un modèle réduit de navire de la Compagnie hollandaise ; des documentaires y sont projetés.",
+  "why_go_md": "L'entrée est gratuite et le site est ouvert même le dimanche matin. C'est l'endroit où se lit le début de la présence européenne à Maurice, sur la route côtière entre Mahébourg et Flacq.",
+  "likes": [
+    "Entrée gratuite",
+    "Ruines visibles : loge, prison, boulangerie, forge",
+    "Graffitis de navires des XVIIIe et XIXe siècles sur les murs de la loge",
+    "Maquette du site et objets de fouilles",
+    "Ouvert le dimanche matin"
+  ],
+  "watchouts": [
+    "Fermé les jours fériés",
+    "Ouvre seulement à 11 h le mercredi ; ferme à midi le dimanche"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "free",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "« ENTRANCE FREE » sur la page du Mauritius Museums Council (pied de page « Copyright © 2026 », consultée le 21 novembre 2026).",
+  "opening_hours": "Mo,Tu,Th,Fr,Sa 09:00-16:00; We 11:00-16:00; Su 09:00-12:00; PH off",
+  "hours_note": "Horaires de la page « Contact Info & Visiting Hours » du Mauritius Museums Council (consultée le 21 novembre 2026, non datée).",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Frederik+Hendrik+Museum&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Frederik Hendrik Museum",
+      "accessed_at": "2026-11-21",
+      "evidence": "Frederik Hendrik Museum, Route Royale Flacq – Mahebourg, Anse Jonchée, Bois des Amourettes, Old Grand Port VCA, Grand Port, 50401, Mauritius / Maurice — lat -20.3749966, lon 57.7218506 (OpenStreetMap way 761291072)"
+    },
+    {
+      "field": "price_kind, price_note, opening_hours, hours_note, watchouts, likes, tags, locality",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1824",
+      "title": "Frederik Hendrik Museum – Contact Info & Visiting Hours – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "Address: Frederik Hendrik Museum Royal Road, Old Grand Port, Mauritius [...] Visiting hours: Monday,Tuesday,Thursday,Friday and Saturday: 0900 to 1600 hrs Wednesday: :11 00 to 16 00 hrs Sunday: 0900 to 12 00 hrs. Public Holiday: Closed ENTRANCE FREE"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1822",
+      "title": "Frederik Hendrik Museum – About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Vieux Grand Port Historic Site is a National Heritage. The structures visible above the ground are all of French origin, built on the very ruins of the Dutch Fort Frederik Hendrik after 1753. They consist of a lodge, a prison, a bakery, a bancassal and a blacksmith’s workshop. On the walls of the lodge there are graffiti depicting 18th /19th century ships. In the year 2000, the remains of the Dutch Fort Frederik Hendrik were excavated. They lie some 50cm deep into the ground."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1822",
+      "title": "Frederik Hendrik Museum – About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Frederik Hendrik Museum has one permanent display room in which panels and artefacts are exhibited. A “maquette “of the site, found in the Reception room, helps in the orientation of visitors."
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1822",
+      "title": "Frederik Hendrik Museum – About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The exhibits have been arranged under different themes to enlighten the visitor on the 400 years of the occupation and use of the site. [...] A reduced model of a Dutch East Indiaman is on show. Documentaries are also projected at the museum for the visitors."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "« Le début de la présence européenne à Maurice » : formulation de rédaction appuyée sur les 400 ans d'occupation et le fort hollandais ; à valider. « Sur la route côtière entre Mahébourg et Flacq » vient de l'adresse OpenStreetMap (Route Royale Flacq – Mahebourg).",
+    "Page non datée : horaires et gratuité à revérifier, notamment entre Noël et le Nouvel An.",
+    "Durée de visite non indiquée : duration_min et duration_max à null. Site en partie extérieur : rain_ok laissé à null.",
+    "Le National History Museum de Mahébourg (même organisme, gratuit) n'a pas de fiche : il est annoncé fermé pour rénovation depuis le 15 décembre 2025.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/",
+  "secret": null
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "plongee-grand-baie",
+  "name": "Plongée bouteille au départ de Grand Baie",
+  "family": "mer_activites",
+  "tags": [],
+  "region": "nord",
+  "locality": "Grand Baie",
+  "lat": -20.015149,
+  "lng": 57.5832373,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Panorama+Divers&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Sorties de deux plongées sur les récifs et épaves du Nord : Grand Baie, Trou aux Biches ou Coin de Mire, en petits groupes.",
+  "description_md": "Panorama Divers, centre PADI installé à Grand Baie, organise des sorties de deux plongées dans trois zones : Grand Baie et Pereybère, Trou aux Biches, et le Coin de Mire. Les sites vont de récifs peu profonds, comme Merville Patches (12 mètres au plus) ou Ti Koraye (16 mètres), à des épaves comme le Djabeda au Coin de Mire (30 mètres). Le centre dit privilégier les petits groupes et les départs tôt le matin.",
+  "why_go_md": "Le centre affiche ses prix en roupies, ce qui permet de comparer. Ti Koraye est décrit comme adapté aux débutants comme aux plongeurs confirmés, avec une chance de voir des raies ; Merville Patches est connu pour sa petite faune et une tortue y passe parfois.",
+  "likes": [
+    "Trois zones au choix : Grand Baie / Pereybère, Trou aux Biches, Coin de Mire",
+    "Blocs et plombs compris dans le prix",
+    "Petits groupes, d'après le centre",
+    "Épaves accessibles : Silverstar, KT Mawar, Stella Maru, Djabeda"
+  ],
+  "watchouts": [
+    "Le prix ne comprend pas l'équipement : location à Rs 500 par jour",
+    "Les sorties hors zone Grand Baie / Pereybère coûtent Rs 1 000 de plus par jour",
+    "L'épave du Djabeda est à 30 mètres de profondeur : vérifie avec le centre que ton niveau le permet"
+  ],
+  "tips_md": "Un forfait de 10 plongées (5 sorties de 2 plongées dans la zone Grand Baie / Pereybère) est affiché à Rs 18 500, sans équipement, avec un supplément de Rs 500 par plongée hors zone. Une caméra d'action se loue Rs 1 000 par jour.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 4000,
+  "price_visitor_mur_max": 5000,
+  "price_resident_mur": null,
+  "price_note": "Tarifs de la page « Diving Prices » de Panorama Divers (pied de page « Copyright © 2026 », consultée le 21 novembre 2026), par jour pour deux plongées, blocs et plombs compris, équipement non compris : Rs 4 000 en zone Grand Baie / Pereybère, Rs 5 000 en zone Trou aux Biches ou Coin de Mire. Location d'équipement : Rs 500 par jour. Forfait 10 plongées : Rs 18 500. Le site ne distingue pas résidents et visiteurs.",
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Panorama+Divers&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Panorama Divers",
+      "accessed_at": "2026-11-21",
+      "evidence": "Panorama Divers, School Street, La Croisette, Grand Baie, Grand Baie VCA, East, Riviere du Rempart, 30529, Mauritius / Maurice — lat -20.0151490, lon 57.5832373 (OpenStreetMap node 12573942498)"
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_note, likes, description_md",
+      "url": "https://panoramadivers.com/en/home/pricing",
+      "title": "Diving Prices – Panorama Divers Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Our Dive trips include 3 zones pricing is always without equipment but tanks and weights are included Grand Bay / Pereybere Zone 1 2 tank dives in the zone 1 Get the best experience from the area. Doing two dives at Ti Korail, Merville Patches, GB Aqua , Silverstar (Wreck) or Shamenta. Mur 4000 / Day"
+    },
+    {
+      "field": "price_visitor_mur_max, price_note, likes",
+      "url": "https://panoramadivers.com/en/home/pricing",
+      "title": "Diving Prices – Panorama Divers Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Trou au Biches Zone 2 2 tank dives in the zone 2 Get the best experience from the area. Doing two dives at Kt Mawar (Wreck) Stella Maru (Wreck) Japanese Garden Carre Metal Lost Anchor Holt Rock or The Chapel. Mur 5000 / Day"
+    },
+    {
+      "field": "price_visitor_mur_max, price_note, likes",
+      "url": "https://panoramadivers.com/en/home/pricing",
+      "title": "Diving Prices – Panorama Divers Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Coin de Mire Zone 3 2 tank dives in the zone 3 Get the best experience from the area. Doing two dives at Djabeda (Wreck) The Wall, Three Caves or Konfetti Bay Mur 5000 / Day"
+    },
+    {
+      "field": "price_note, watchouts",
+      "url": "https://panoramadivers.com/en/home/pricing",
+      "title": "Diving Prices – Panorama Divers Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "The rental package includes a Aqualung Long 5.5 mm suit, a BCD Aqualung Axiom, an Apeks ATX 40 balanced regulator, a pair of fins a mask and a diving computer Suunto. Mur 500 / Day"
+    },
+    {
+      "field": "tips_md, price_note",
+      "url": "https://panoramadivers.com/en/home/pricing",
+      "title": "Diving Prices – Panorama Divers Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Enjoy 5 trips of 2 tanks dives in Grand Bay Pereybere at a premium price Dives in the 10 dives packages are not limited to Grand Bay Pereybere but an additional cost of 500 Mur will be charged for out of zone Dives Equipment is not included Mur 18.500 / 10 Dives Package"
+    },
+    {
+      "field": "tips_md",
+      "url": "https://panoramadivers.com/en/home/pricing",
+      "title": "Diving Prices – Panorama Divers Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Rent a Go Pro 12 with the housing. Mur 1000 / Day"
+    },
+    {
+      "field": "description_md, pitch, locality",
+      "url": "https://panoramadivers.com/en/home",
+      "title": "Panorama Divers Mauritius – PADI 5★ IDC & Dive Center in Grand Baie",
+      "accessed_at": "2026-11-21",
+      "evidence": "Panorama Divers Mauritius – PADI 5★ IDC & Dive Center in Grand Baie [...] Orchid street 4 Grand Bay Mauritius"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://panoramadivers.com/en/home",
+      "title": "Panorama Divers Mauritius – PADI 5★ IDC & Dive Center in Grand Baie",
+      "accessed_at": "2026-11-21",
+      "evidence": "At Panorama Divers, we get you to the dive sites early for the best conditions and exclusive reef access. [...] At Panorama Divers, we keep our groups small to ensure a more personalized and enjoyable diving experience."
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://panoramadivers.com/en/destinations/visit-with-us-4",
+      "title": "Dive with us – Panorama Divers Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ti Koraye: Max depth: 16 meters A vibrant reef teeming with diverse marine life, perfect for both beginners and experienced divers. Here, you might encounter mesmerizing rays"
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://panoramadivers.com/en/destinations/visit-with-us-4",
+      "title": "Dive with us – Panorama Divers Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Merville Patches: Max depth: 12 meters Known for its stunning macro life, Merville Patches offers a spectacular dive with the chance to spot tiny critters, vibrant corals, and even a turtle gliding by."
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://panoramadivers.com/en/destinations/visit-with-us-4",
+      "title": "Dive with us – Panorama Divers Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Coin de Mire : Djabeda Wreck Max depth: 30 meters"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Un seul centre a publié des prix lisibles en roupies (Panorama Divers) ; la fiche ne le recommande pas pour autant. D'autres centres PADI existent dans le Nord (repérés via padi.com : Bigorno Diving Centre et Diving World à Trou aux Biches, Ocean Spirit à Pereybère), prix non trouvés.",
+    "Prix d'un baptême (PADI Discover Scuba Diving) et âge minimum : la page des cours ne les affiche pas. C'est l'information la plus utile pour une famille non brevetée : à demander au centre.",
+    "Sortie snorkeling sans bouteille : aucune offre ni prix trouvé sur un site de prestataire du Nord.",
+    "Adresse : le site écrit « Orchid street 4 Grand Bay », OpenStreetMap place le centre School Street, La Croisette. Coordonnées OpenStreetMap retenues.",
+    "Horaires des sorties non publiés : opening_hours à null. Niveau de risque non évalué par une source : risk_level à null.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://panoramadivers.com/",
+  "secret": null
+}

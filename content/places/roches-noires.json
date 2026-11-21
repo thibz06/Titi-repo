@@ -1,0 +1,136 @@
+{
+  "slug": "roches-noires",
+  "name": "Roches Noires",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "est",
+  "locality": "Roches Noires",
+  "lat": -20.1110998,
+  "lng": 57.7181573,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Roches%20Noires",
+  "google_place_id": null,
+  "pitch": "Village du nord-est aux rochers de basalte, criques de sable blanc et tunnels de lave à visiter tout près.",
+  "description_md": "Roches Noires est un village de la côte nord-est, dans le district de Rivière du Rempart, qui doit son nom aux roches de basalte volcanique visibles surtout en bord de mer. Longtemps village de pêcheurs, il aligne aujourd'hui des « campements » (villas de bord de mer) le long de la route côtière. D'après Wikipédia en anglais, le littoral voisin est fait de petites criques de sable blanc et le récif s'approche par endroits à 50 mètres du rivage. Au sud du village commence le parc national de Bras d'Eau.",
+  "why_go_md": "Pour un bord de mer plus tranquille que les grandes plages, et pour les tunnels de lave : l'office du tourisme décrit près du village une petite réserve naturelle où un sentier mène à un réseau de grottes volcaniques. La principale, Princess Margaret Cave, se descend par un large escalier jusqu'à des salles reliées entre elles, des bassins d'eau douce et des formations rocheuses ; un musée explique la formation des tunnels.",
+  "likes": [
+    "Rochers de basalte noir en bord de mer, à l'origine du nom du village",
+    "Criques de sable blanc ; récif à une cinquantaine de mètres du rivage par endroits (Wikipédia en anglais)",
+    "Tunnels de lave de Roches Noires : sentier, grotte Princess Margaret avec escalier, bassins d'eau douce, petit musée (office du tourisme)",
+    "Parc national de Bras d'Eau juste au sud du village"
+  ],
+  "watchouts": [
+    "Plage érodée et remaniée : profil de plage refait sur environ 200 mètres en 2012, digue en enrochements et revêtement de gravier en 2016 (Le Défi, 2024). En 2016, un conseiller de village dénonçait le sable noir déversé sur la plage et une eau noirâtre.",
+    "Statut de la plage : en 2016, le directeur de la Beach Authority déclarait que la plage de Coastal Road « n'est pas publique » ; en 2018, la Beach Authority prévoyait pourtant des toilettes et un parking à Roches-Noires. Statut et équipements actuels non vérifiés.",
+    "Toilettes : leur absence était signalée en 2016 et leur construction encore « à venir » en 2018.",
+    "Baignade : « Roche Noires » figure parmi les plages du Nord munies de panneaux « Baignade dangereuse » (ionnews, 2024) ; des méduses-boîtes ont été signalées dans le lagon le 1er janvier 2019.",
+    "Tunnels de lave : prix, horaires et modalités de visite non trouvés. Renseigne-toi avant de t'y rendre."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Roches%20Noires",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"lat\":\"-20.1110998\",\"lon\":\"57.7181573\" [...] \"type\":\"village\" [...] \"name\":\"Roches Noires\""
+    },
+    {
+      "field": "description_md, likes, pitch",
+      "url": "https://fr.wikipedia.org/wiki/Roches_Noires_(Maurice)",
+      "title": "Roches Noires (Maurice) — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Roches Noires est un village du nord-est de l'île Maurice dépendant du district de Rivière du Rempart. [...] Roches Noires doit son nom aux roches de basalte d'origine volcanique que l'on y rencontre, en particulier en bord de mer. [...] Au sud du village, s'étend le parc naturel national de Bras d'Eau. [...] Longtemps village de pêcheurs, Roches Noires est devenu un lieu touristique prisé avec de jolis « campements » (nom local pour les villas en bord de mer) donnant sur la route côtière B15"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://en.wikipedia.org/wiki/Roches_Noires,_Mauritius",
+      "title": "Roches Noires, Mauritius — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "This part of the coast located near the village consists of several secluded coves of white sand beach. In several places around Roches Noires, the reef comes to within 50 meters of the shore. [...] Places of interest include the \"La Cave Madame\" in the Royal Road, the public beach, the lava tubes"
+    },
+    {
+      "field": "why_go_md, likes, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/roches-noires-lava-tubes/",
+      "title": "Roches Noires Lava Tubes — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Roches Noires Lava Tubes, otherwise known as Roches Noires caves, is a small nature reserve close to Roches Noires village in the northeast region of the island. [...] You can follow the Roches Noires Cave Trail to the network of volcanic underground caves and discover the main cavern, Princess Margaret Cave, with its wide staircase that leads you down to a subterranean entrance where interconnecting chambers, freshwater pools and fascinating rock formations await. No visit is complete without stopping by the museum"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/reevaluation-des-infrastructures-cotieres-15-plages-publiques-en-situation-critique",
+      "title": "Réévaluation des infrastructures côtières : 15 plages publiques en situation critique — Defimedia (23 décembre 2024)",
+      "accessed_at": "2026-11-21",
+      "evidence": "À Roches-Noires, des aménagements côtiers ont été réalisés à deux reprises au cours des dernières années pour contrer l’érosion et protéger la plage. En 2012, un premier chantier a consisté à remodeler le profil de la plage sur une étendue d’environ 200 mètres. Par la suite, en 2016, des interventions supplémentaires ont été entreprises : une digue en enrochements de 20 mètres de long a été installée"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/plage-de-roches-noires-le-comblement-de-la-plage-avec-du-sable-noir-deplait",
+      "title": "Plage de Roches-Noires : le comblement de la plage avec du sable noir déplaît — Defimedia (29 septembre 2016)",
+      "accessed_at": "2026-11-21",
+      "evidence": "des tonnes de sable noir ont été déversées sur la plage de Roches-Noires pour combler le vide causé par l’érosion. [...] Autre inconvénient qui agace les baigneurs : l’eau noirâtre dans laquelle ils sont contraints de nager. [...] un manque de toilettes publiques sur cette plage. [...] Le directeur de la Beach Authority indique, quant à lui, que cette plage n’est pas publique."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/en-une-dizaine-dannees-les-plages-publiques-representent-15-du-littoral",
+      "title": "En une dizaine d'années : les plages publiques représentent 15% du littoral — Defimedia (29 août 2018)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Projet(s) à venir : [...] Construction de nouvelles toilettes à Roches-Noires. [...] Aménagement d’une aire de stationnement à Palmar. et Roches-Noires"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://ionnews.mu/baignade-dangereuse-voici-les-plages-a-risques/",
+      "title": "Baignade dangereuse : Voici les plages à risques — ionnews.mu (27 avril 2024)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Régions Nord : Le Goulet, Côte d’Azur, Pointe aux Canonniers, Pointe aux Piments, Pointe aux Biches, Roche Noires et Îlot Bernache."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/apres-le-littoral-nord-les-meduses-se-propagent-dautres-plages",
+      "title": "Après le littoral Nord : les méduses se propagent à d’autres plages — Defimedia (5 janvier 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La présence de ces méduses a aussi été signalée par un touriste d’origine sud-africaine dans le lagon de Roches-Noires, le mardi 1er janvier."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Roches_Noires_Lagoon_-_panoramio.jpg",
+      "credit": "Mr Arvind Toolooa (Wikimedia Commons, via Panoramio)",
+      "license": "CC BY 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Roches_Noires_Lagoon_-_panoramio.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Plage publique : quel est l'emplacement exact et le statut de la plage ? OpenStreetMap n'indique à Roches Noires qu'une « Von Molke Public Beach » ; le directeur de la Beach Authority disait en 2016 que la plage de Coastal Road n'était pas publique. Les coordonnées sont donc celles du village ; à replacer sur la plage choisie par l'éditeur.",
+    "Tunnels de lave : l'office du tourisme confirme leur existence et le parcours, mais pas le prix, les horaires, l'exploitant ni l'obligation de guide. OpenStreetMap place les entrées « Princess Margaret Cave » vers Kalimaye Road. Une fiche séparée serait justifiée si l'éditeur obtient ces informations.",
+    "« La Cave Madame », citée par Wikipédia en anglais comme ancienne cachette d'esclaves d'après un guide Lonely Planet, n'a pas été recoupée : non reprise dans le texte.",
+    "Région : le village dépend du district de Rivière du Rempart (nord-est) ; la fiche est classée dans la région est comme demandé.",
+    "Gratuité de la plage non écrite par une source : price_kind reste à null.",
+    "Site de la Beach Authority non consultable (erreur 502 via le proxy) ; lexpress.mu bloqué (Cloudflare, 403)."
+  ],
+  "website_url": null,
+  "secret": null
+}

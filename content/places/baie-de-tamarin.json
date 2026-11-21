@@ -1,0 +1,117 @@
+{
+  "slug": "baie-de-tamarin",
+  "name": "Baie de Tamarin",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "ouest",
+  "locality": "Tamarin",
+  "lat": -20.3262023,
+  "lng": 57.3772209,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Tamarin+Public+Beach%2C+Mauritius&format=jsonv2&limit=4",
+  "google_place_id": null,
+  "pitch": "Baie et plage publique d'un ancien village de pêcheurs entouré de collines, connue des surfeurs ; dauphins au large tôt le matin.",
+  "description_md": "Tamarin est un village de la côte ouest, au bord de la baie du même nom, entouré de collines. Ancien village de pêcheurs, il est devenu une zone résidentielle et une petite station de vacances, surtout connue des surfeurs. La plage publique de Tamarin est proclamée depuis 1940 : 410 mètres de front de mer d'après la liste de la Beach Authority. Wikipédia en anglais rappelle que la baie a été révélée à un large public par le documentaire de surf « Forgotten Island of Santosha » (1974) et cite deux spots, « Dal » au sud et « Black Stone » au nord.",
+  "why_go_md": "Pour l'ambiance d'une baie de surfeurs au pied des collines, et pour goûter la cuisine de rue, que l'office du tourisme recommande à Tamarin Bay. Des dauphins (long bec et grands dauphins) sont souvent vus près de la baie tôt le matin avant de regagner le large, selon Wikipédia en anglais ; des sorties en bateau partent les observer.",
+  "likes": [
+    "Plage publique proclamée (410 m de front de mer), dans une baie entourée de collines",
+    "Spots de surf « Dal » et « Black Stone », rendus célèbres par un documentaire de 1974",
+    "Dauphins souvent visibles près de la baie tôt le matin",
+    "Cuisine de rue recommandée par l'office du tourisme"
+  ],
+  "watchouts": [
+    "Observation des dauphins encadrée par un règlement de 2012 : interdiction de les nourrir, approche des bateaux par le côté et à vitesse réduite, trois nageurs au maximum à l'eau en même temps"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "dauphins": "Tôt le matin, d'après Wikipédia en anglais (source non officielle)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Tamarin+Public+Beach%2C+Mauritius&format=jsonv2&limit=4",
+      "title": "Nominatim (OpenStreetMap), recherche « Tamarin Public Beach, Mauritius »",
+      "accessed_at": "2026-11-21",
+      "evidence": "OpenStreetMap node 10150945105 (tourism=attraction) « Tamarin Public Beach » : lat -20.3262023, lon 57.3772209"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius (Beach Authority, fichier List2025.pdf)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Tamarin 2.1859 410 206/1940"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://en.wikipedia.org/wiki/Tamarin,_Mauritius",
+      "title": "Tamarin, Mauritius — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "An old fisherman village, Tamarin has developed into a residential area and a moderated holiday resort. Tamarin is especially popular with surfers. [...] The village is surrounded by hills and is very picturesque."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://en.wikipedia.org/wiki/Tamarin,_Mauritius",
+      "title": "Tamarin, Mauritius — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Tamarin Bay was discovered by a wider audience and immortalised after the release of the classic surf documentary \"Forgotten Island of Santosha\" by Larry and Roger Yates in 1974.[2] Tamarin has two world renowned surfing spots: ‘Dal’ on its left (south) and ‘Black Stone’ on the right (north) of the bay."
+    },
+    {
+      "field": "why_go_md, likes, pitch, best_time",
+      "url": "https://en.wikipedia.org/wiki/Tamarin,_Mauritius",
+      "title": "Tamarin, Mauritius — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Dolphins are often found close to Tamarin Bay. Both Spinners and Bottlenose dolphins are usually seen playing early in the morning in the bay before going back to the open sea. Various boat companies offer trips to watch and swim with dolphins in the mornings."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Tamarin_(Maurice)",
+      "title": "Tamarin (Maurice) — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Tamarin est un village de la côte ouest de l'île Maurice au bord de la baie de Tamarin."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/mauritius-map/west-mauritius/",
+      "title": "Discover the stunning West of Mauritius now! (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You can try some street food in Tamarin Bay"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/dolphins-in-mauritius/",
+      "title": "Swim with Dolphins in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "There are strict guidelines in place to keep you and the dolphins safe, which have been set by the Tourism Authority (Dolphin and Whale Watching) Regulations 2012. [...] You cannot feed a dolphin [...] Pleasure crafts can only approach dolphins from the side, must follow a parallel course to the dolphin, and operate the pleasure craft at a no-wake speed [...] No more than three swimmers (including a designated life saver) to enter, dive or snorkel simultaneously in the sea"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "`price_kind` laissé à null : plage publique proclamée, mais aucune source lue ne dit explicitement que l'accès est gratuit.",
+    "Baignade : aucune source officielle lue sur la sécurité (embouchure de rivière, courants, vagues, qualité de l'eau après les pluies de décembre-janvier). À sourcer avant de recommander la baignade à une famille.",
+    "Surf et dauphins : informations tirées de Wikipédia en anglais (article signalé comme insuffisamment sourcé), pas d'un organisme mauricien. Saison de surf, écoles, prix des sorties dauphins : non sourcés.",
+    "Coordonnées : point « Tamarin Public Beach » d'OpenStreetMap, pas le centre de la baie.",
+    "Photo : API Wikimedia Commons en 429 (trop de requêtes) pendant la session ; aucune licence n'a pu être lue, donc aucun média."
+  ],
+  "website_url": null,
+  "secret": null
+}

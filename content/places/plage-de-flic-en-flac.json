@@ -1,0 +1,116 @@
+{
+  "slug": "plage-de-flic-en-flac",
+  "name": "Plage de Flic en Flac",
+  "family": "plages_lagon",
+  "tags": [
+    "famille"
+  ],
+  "region": "ouest",
+  "locality": "Flic en Flac",
+  "lat": -20.281073,
+  "lng": 57.3646394,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Flic+en+Flac+Public+Beach%2C+Mauritius&format=jsonv2&limit=4",
+  "google_place_id": null,
+  "pitch": "Longue plage publique de sable blanc de la côte ouest, bordée de filaos : baignade, snorkeling dans le lagon et cuisine de rue.",
+  "description_md": "Flic en Flac est un village balnéaire de la côte ouest, dans le district de Rivière Noire. Sa plage est l'une des plus longues de Maurice : environ huit kilomètres selon l'office du tourisme. Elle est bordée de filaos qui donnent de l'ombre, et son lagon est protégé par la barrière de corail. La Beach Authority y recense plusieurs tronçons de plage publique proclamée, dont un de 545 mètres de front de mer en face de l'hôtel Manisha et un de près de 1,8 kilomètre à Wolmar.",
+  "why_go_md": "Pour une grande plage publique où l'on se baigne, où l'on explore le lagon et le récif avec un masque et un tuba, et où l'on mange aux stands de cuisine de rue voisins. C'est aussi un point de départ de plongée : les sites Snake Reef et Cathedral sont facilement accessibles d'après l'office du tourisme. Depuis la plage, la vue porte jusqu'à la presqu'île du Morne Brabant.",
+  "likes": [
+    "Environ huit kilomètres de sable blanc, parmi les plus longues plages de l'île",
+    "Ombre des filaos le long de la plage",
+    "Snorkeling dans le lagon et sur le récif ; plongée vers Snake Reef et Cathedral",
+    "Stands de cuisine de rue à proximité",
+    "Toilettes publiques sur plusieurs points de la plage (Beach Authority)"
+  ],
+  "watchouts": [
+    "Beaucoup de monde le week-end : les familles mauriciennes y passent la journée, avec musique et séga",
+    "Les blocs sanitaires ferment parfois pour travaux : la Beach Authority l'annonce par communiqué sur son site"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "semaine": "Le week-end, de nombreux Mauriciens viennent y passer la journée en famille (Wikipédia en anglais) : la semaine devrait être plus calme, ce qui reste une déduction"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Flic+en+Flac+Public+Beach%2C+Mauritius&format=jsonv2&limit=4",
+      "title": "Nominatim (OpenStreetMap), recherche « Flic en Flac Public Beach, Mauritius »",
+      "accessed_at": "2026-11-21",
+      "evidence": "OpenStreetMap node 10150945085 (tourism=attraction) « Flic en Flac Public Beach » : lat -20.2810730, lon 57.3646394"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/flic-en-flac-beach/",
+      "title": "Flic en Flac Beach: Mauritius' Popular Coastal Destination (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "At around eight kilometres, Flic en Flac beach is one of the longest beaches in Mauritius. When you’re not splashing about in the Indian Ocean, seek shade under the casuarina trees that line the beach or grab a bite to eat at one of the nearby street food stands"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/flic-en-flac-beach/",
+      "title": "Flic en Flac Beach: Mauritius' Popular Coastal Destination (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Flic en Flac beach is a great spot for embarking on a diving trip, with the popular Snake Reef and Cathedral dive sites both easily accessible. Not into diving but still want to see marine life? Grab a snorkel and safely explore the warm blue lagoon and coral reef."
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius (Beach Authority, fichier List2025.pdf)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Flic en Flac Wolmar (near Pearl Beach Hotel) 12.7498 1795 142/1984 [...] Flic en Flac (opposite Manisha Hotel) 2.1104 545 206/1940"
+    },
+    {
+      "field": "description_md, why_go_md, pitch, tags",
+      "url": "https://en.wikipedia.org/wiki/Flic_en_Flac",
+      "title": "Flic-en-Flac — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "is a seaside village on the west coast of Mauritius in the district of Black River. [...] Its public white sandy beach is one of the longest on the island. This public beach attracts local families, tourists and visitors throughout the year. Its lagoon is protected by the surrounding coral reefs.[3] The beach provides scenic views over the Indian Ocean horizon and of Le Morne Brabant Peninsula"
+    },
+    {
+      "field": "watchouts, best_time",
+      "url": "https://en.wikipedia.org/wiki/Flic_en_Flac",
+      "title": "Flic-en-Flac — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "On the weekend, a lot of locals go to the beach to spend the day with their families and friends, which is a source of entertainment in itself as some of the locals tend to sing and dance to the typical Sega music"
+    },
+    {
+      "field": "likes, watchouts",
+      "url": "https://beachauthority.mu/",
+      "title": "Beach Authority – Our Official Website (communiqués en page d'accueil)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The public is kindly informed that the toilet blocks at Flic en Flac public beach (opposite Manisa Hotel) will be closed as mentioned below due to some repair works [...] The public is kindly requested to make use of toilet block at Flic en Flac public beach (opposite Cemetery)."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "`price_kind` laissé à null : la plage est « publique » et proclamée, mais aucune source lue n'écrit qu'elle est gratuite (accès, parking).",
+    "Longueur : « environ huit kilomètres » selon l'office du tourisme ; Wikipédia en français parle de « plus d'un kilomètre et demi » de plages et Wikipédia en anglais d'un littoral d'environ 13 km pour la localité. La fiche retient le chiffre de l'office du tourisme.",
+    "Sécurité de la baignade (surveillance, courants, zones de bateaux, oursins ou poissons-pierres) : aucune source officielle lue ; à compléter.",
+    "Érosion : Wikipédia en anglais cite une étude de 1997 donnant un recul du trait de côte de 2,7 m par an près de Flic en Flac ; non repris dans la fiche faute de source récente.",
+    "Tag « famille » : appuyé seulement sur Wikipédia en anglais (« attracts local families ») ; à valider par l'éditeur.",
+    "Coucher de soleil : la côte ouest est vantée pour ses couchers de soleil par l'office du tourisme, mais aucune source lue ne le dit pour cette plage précisément ; tag non posé.",
+    "Photo : API Wikimedia Commons en 429 (trop de requêtes) pendant la session ; aucune licence n'a pu être lue, donc aucun média."
+  ],
+  "website_url": null,
+  "secret": null
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "marche-de-flacq",
+  "name": "Marché de Flacq",
+  "family": "villages_marches",
+  "tags": [],
+  "region": "est",
+  "locality": "Centre de Flacq",
+  "lat": -20.1893349,
+  "lng": 57.7256981,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Flacq%20Market",
+  "google_place_id": null,
+  "pitch": "Présenté comme le plus grand marché en plein air de Maurice : produits frais, cuisine de rue, vêtements et souvenirs.",
+  "description_md": "Le marché (la foire) de Centre de Flacq est présenté par l'office du tourisme comme le plus grand marché en plein air de Maurice. Les habitants y achètent leurs produits frais auprès de marchands qui crient leurs prix ; on y trouve aussi de la cuisine de rue, des vêtements et des souvenirs.",
+  "why_go_md": "Pour voir un marché mauricien du quotidien plutôt qu'un marché à touristes. L'office du tourisme conseille le mercredi et le dimanche, jours où tous les étals sont ouverts et où la cuisine de rue bat son plein.",
+  "likes": [
+    "Étals de produits frais, marchands qui annoncent leurs prix à la criée",
+    "Cuisine de rue préparée sur place",
+    "Stands de vêtements et de souvenirs"
+  ],
+  "watchouts": [
+    "Affluence : un dimanche de novembre 2020, Le Défi décrivait un marché « bondé de monde » dès 8 h 30.",
+    "Le dimanche, les marchés ferment à midi selon un communiqué de 2020 : viens le matin."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": "Jours conseillés par l'office du tourisme (page non datée) : mercredi et dimanche, quand tous les étals sont ouverts. Horaires : aucun horaire officiel propre à Flacq n'a été trouvé. Un communiqué du ministère des Administrations régionales relayé par Le Défi le 30 mai 2020 indiquait pour les marchés du pays, dont « Flacq – Ti Bazar », 7 h à 16 h en semaine et 7 h à midi le dimanche.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "jours": "Mercredi et dimanche, quand tous les étals sont ouverts (office du tourisme)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Présenté par l'office du tourisme comme le plus grand marché en plein air de Maurice.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Flacq%20Market",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"lat\":\"-20.1893349\",\"lon\":\"57.7256981\" [...] \"type\":\"marketplace\" [...] \"name\":\"Central Flacq Market Fair\""
+    },
+    {
+      "field": "description_md, pitch, likes, rarity",
+      "url": "https://mauritiusnow.com/blog/things-to-do/central-flacq-market/",
+      "title": "Central Flacq Market — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Central Flacq Market is the largest outdoor market in Mauritius. [...] the market is an authentic slice of Mauritian life. Locals shop for fresh produce with stallholders shouting out their prices and trying to vie for your attention. You can smell freshly-cooked street food and browse stalls offering souvenirs and clothing."
+    },
+    {
+      "field": "why_go_md, hours_note, best_time",
+      "url": "https://mauritiusnow.com/blog/things-to-do/central-flacq-market/",
+      "title": "Central Flacq Market — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Wednesdays and Sundays are the best days to visit, as all the stalls are open and you can make the most of the street food scene."
+    },
+    {
+      "field": "hours_note, watchouts",
+      "url": "https://defimedia.info/les-marches-bazars-ouverts-ce-dimanche-voici-les-regles-respecter",
+      "title": "Les marchés (bazars) ouverts ce dimanche : voici les règles à respecter — Defimedia (30 mai 2020)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Les heures d’ouverture restent inchangées notamment de 7h à 16h en jours de semaine et de 7h à midi, les dimanches. [...] Flacq – Ti Bazar"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/flacq-ambiance-bon-enfant-entachee-par-quelques-incidents",
+      "title": "Flacq : ambiance bon enfant entachée par quelques incidents — Defimedia (23 novembre 2020)",
+      "accessed_at": "2026-11-21",
+      "evidence": "D’ailleurs, vers 8 h 30, le marché de Flacq était bondé de monde."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Jours et horaires : la seule source touristique officielle (office du tourisme) donne les « meilleurs jours » (mercredi et dimanche), pas un calendrier d'ouverture ; les horaires 7 h-16 h / 7 h-midi viennent d'un communiqué de 2020 relayé par la presse et visent « Flacq – Ti Bazar ». opening_hours reste à null : à confirmer auprès du conseil de district de Flacq.",
+    "Le marché est-il ouvert les autres jours, et la foire aux vêtements suit-elle les mêmes jours que le marché aux légumes ? Non sourcé.",
+    "Emplacement : OpenStreetMap distingue « Central Flacq Market Fair » (retenu) et une « Flacq New Market Fair Road » voisine ; vérifier quel site correspond au marché décrit par l'office du tourisme.",
+    "L'office du tourisme situe Centre de Flacq dans le « nord-est » ; la fiche le classe dans la région est.",
+    "Aucune photo sous licence vérifiée n'a été retenue.",
+    "Ouverture pendant les fêtes (25 décembre, 1er et 2 janvier) : inconnue."
+  ],
+  "website_url": null,
+  "secret": null
+}

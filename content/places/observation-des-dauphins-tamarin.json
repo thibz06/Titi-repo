@@ -1,0 +1,164 @@
+{
+  "slug": "observation-des-dauphins-tamarin",
+  "name": "Observation des dauphins au large de Tamarin",
+  "family": "mer_activites",
+  "tags": [],
+  "region": "ouest",
+  "locality": "Tamarin",
+  "lat": -20.317,
+  "lng": 57.383,
+  "coords_source_url": "https://en.wikipedia.org/wiki/Tamarin,_Mauritius",
+  "google_place_id": null,
+  "pitch": "Sortie en bateau le matin sur la côte ouest pour voir grands dauphins et dauphins à long bec, dans un cadre réglementé.",
+  "description_md": "La côte ouest est le secteur où l'office du tourisme situe l'observation des dauphins : grands dauphins et dauphins à long bec, souvent en groupes d'une vingtaine. D'après Wikipédia, on les voit tôt le matin près de la baie de Tamarin avant qu'ils ne regagnent le large, et plusieurs compagnies y organisent des sorties. L'activité est encadrée par un règlement de 2012 de la Tourism Authority, qui impose une licence aux opérateurs et fixe distances, horaires et gestes interdits.",
+  "why_go_md": "Voir des dauphins sauvages est possible, mais ce n'est pas garanti et l'activité pèse sur les animaux : le choix d'un opérateur licencié et respectueux des règles compte plus ici que le prix.",
+  "likes": [
+    "Deux espèces observées sur la côte ouest : grand dauphin et dauphin à long bec",
+    "Activité encadrée par un règlement officiel depuis 2012",
+    "Certaines croisières vers l'île aux Bénitiers passent par la baie de Tamarin avec une chance d'en voir"
+  ],
+  "watchouts": [
+    "L'opérateur doit détenir une licence ; le bateau porte une étiquette de la Tourism Authority et un protège-hélice",
+    "Aucun bateau à moins de 50 mètres du dauphin le plus proche ; approche par le côté, à vitesse réduite, sans traverser le groupe",
+    "Interdit : nourrir, toucher ou tenter de toucher les dauphins, faire du bruit pour les attirer, tourner autour d'eux",
+    "Observation payante autorisée de 6 h à midi seulement ; nage avec les dauphins de 6 h à 9 h seulement",
+    "Nage : trois nageurs au plus dans l'eau en même temps, sauveteur compris, après briefing et signature d'une décharge",
+    "Nager, plonger ou faire du snorkeling avec une baleine est interdit",
+    "En octobre 2026, le gouvernement a annoncé une brigade de contrôle et un durcissement à venir du règlement"
+  ],
+  "tips_md": "Avant de réserver, demande à l'opérateur sa licence « dolphin and whale watching » et s'il respecte la distance de 50 mètres. Le règlement oblige l'opérateur à te remettre à bord une information écrite sur ces règles.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Aucun tarif officiel. Seul prix lu sur un site de prestataire (catamaran-cruises.com, consulté le 21 novembre 2026) : croisière partagée d'une journée vers l'île aux Bénitiers au départ de Rivière Noire, passant vers la baie de Tamarin « avec une occasion de voir des dauphins », à partir de 70 €. Prix en euros : champs en roupies laissés à null.",
+  "opening_hours": null,
+  "hours_note": "Pas d'horaires d'ouverture : le règlement de 2012 limite l'observation payante à la plage 6 h – midi, et la nage avec les dauphins à 6 h – 9 h.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "moment": "Tôt le matin : les dauphins sont vus dans la baie avant de regagner le large (Wikipédia), et le règlement n'autorise l'activité que le matin"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": "Activité en mer, hors lagon pour certaines sorties ; la nage se fait sous la surveillance d'un sauveteur obligatoire. Aucune source n'évalue le niveau de risque.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://en.wikipedia.org/wiki/Tamarin,_Mauritius",
+      "title": "Tamarin, Mauritius — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Coordinates : 20°19′S 57°23′E [...] 20.317°S 57.383°E"
+    },
+    {
+      "field": "description_md, best_time, locality",
+      "url": "https://en.wikipedia.org/wiki/Tamarin,_Mauritius",
+      "title": "Tamarin, Mauritius — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Dolphins are often found close to Tamarin Bay. Both Spinners and Bottlenose dolphins are usually seen playing early in the morning in the bay before going back to the open sea. Various boat companies offer trips to watch and swim with dolphins in the mornings."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/dolphins-in-mauritius/",
+      "title": "Swim with Dolphins in Mauritius: A Magical Experience – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The west coast is their favourite playground and you can see both bottlenose and spinner dolphins here, often travelling in pods of 20."
+    },
+    {
+      "field": "watchouts, description_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/dolphins-in-mauritius/",
+      "title": "Swim with Dolphins in Mauritius: A Magical Experience – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "There are strict guidelines in place to keep you and the dolphins safe, which have been set by the Tourism Authority (Dolphin and Whale Watching) Regulations 2012. [...] You must travel with a licenced dolphin watching provider"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/dolphins-in-mauritius/",
+      "title": "Swim with Dolphins in Mauritius: A Magical Experience – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "If swimming with dolphins, you must be briefed on sound techniques related to calm and silent swimming. No more than three swimmers (including a designated life saver) to enter, dive or snorkel simultaneously in the sea"
+    },
+    {
+      "field": "watchouts, tips_md",
+      "url": "https://faolex.fao.org/docs/pdf/mat116851.pdf",
+      "title": "Tourism Authority (Dolphin and Whale Watching) Regulations 2012, GN No. 154 of 2012 (copie FAOLEX)",
+      "accessed_at": "2026-11-21",
+      "evidence": "a label provided by the Authority, indicating that the licensee is authorised to carry out the activity of dolphin and whale watching; and (d) the pleasure craft is equipped with a propeller guard approved by the Authority."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://faolex.fao.org/docs/pdf/mat116851.pdf",
+      "title": "Tourism Authority (Dolphin and Whale Watching) Regulations 2012, GN No. 154 of 2012 (copie FAOLEX)",
+      "accessed_at": "2026-11-21",
+      "evidence": "(a) in relation to a dolphin, means the zone within a radius of 50 metres from the closest dolphin; [...] (a) operate a pleasure craft or an exempt pleasure craft in the prohibited zone; (b) swim, dive or snorkel with a whale;"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://faolex.fao.org/docs/pdf/mat116851.pdf",
+      "title": "Tourism Authority (Dolphin and Whale Watching) Regulations 2012, GN No. 154 of 2012 (copie FAOLEX)",
+      "accessed_at": "2026-11-21",
+      "evidence": "(a) approach the dolphin or whale from the side; [...] (g) not drive through or amidst a pod."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://faolex.fao.org/docs/pdf/mat116851.pdf",
+      "title": "Tourism Authority (Dolphin and Whale Watching) Regulations 2012, GN No. 154 of 2012 (copie FAOLEX)",
+      "accessed_at": "2026-11-21",
+      "evidence": "(c) feed a dolphin or whale, or throw food or any other object, substance or matter near or around a dolphin or whale; (d) touch or attempt to touch, whether by using an object or otherwise, a dolphin or whale; (e) make any noise for the purpose of attracting a dolphin or whale;"
+    },
+    {
+      "field": "watchouts, hours_note, best_time",
+      "url": "https://faolex.fao.org/docs/pdf/mat116851.pdf",
+      "title": "Tourism Authority (Dolphin and Whale Watching) Regulations 2012, GN No. 154 of 2012 (copie FAOLEX)",
+      "accessed_at": "2026-11-21",
+      "evidence": "(a) provide the activity of dolphin and whale watching at a time other than from 06.00 hours to noon; (b) provide the activity of dolphin and whale watching, together with swimming with dolphins, at a time other than from 06.00 hours to 09.00 hours."
+    },
+    {
+      "field": "watchouts, risk_note",
+      "url": "https://faolex.fao.org/docs/pdf/mat116851.pdf",
+      "title": "Tourism Authority (Dolphin and Whale Watching) Regulations 2012, GN No. 154 of 2012 (copie FAOLEX)",
+      "accessed_at": "2026-11-21",
+      "evidence": "(e) the swimmer has, before entering the sea, duly filled in and signed a disclaimer form in respect of any liability that may arise as a result of the swimming; [...] (a) there is at least one life-saver on board the pleasure craft;"
+    },
+    {
+      "field": "tips_md",
+      "url": "https://faolex.fao.org/docs/pdf/mat116851.pdf",
+      "title": "Tourism Authority (Dolphin and Whale Watching) Regulations 2012, GN No. 154 of 2012 (copie FAOLEX)",
+      "accessed_at": "2026-11-21",
+      "evidence": "(2) A licensee shall provide every person who proceeds on a trip for dolphin and whale watching against payment of a fee"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://fr.allafrica.com/stories/202610090740.html",
+      "title": "Ile Maurice: Tourisme - Maurice renforce les contrôles autour des dauphins et des baleines (L'Express, 9 octobre 2026, repris par allAfrica)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Une Enforcement Squad , dirigée par la Tourism Authority, a été mise en place pour veiller au respect des règles en vigueur. [...] le ministère apportera des amendements aux Tourism Authority (Dolphin and Whale Watching) Regulations 2012 afin d'imposer des exigences plus strictes pour encadrer ces activités."
+    },
+    {
+      "field": "price_kind, price_note, likes",
+      "url": "https://catamaran-cruises.com/cruises/",
+      "title": "Our Cruises – Catamaran Cruises Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Discover the south west part of the island on board our catamaran with an opportunity to see dolphins. This catamaran cruise departs at 9am from Black River and sails in deep blue waters outside the reef towards Tamarin Bay. Book Now As From €70"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucun opérateur spécialisé « dauphins » n'a été sourcé sur son propre site : pas de prix d'une sortie dédiée, pas de point d'embarquement précis. Les coordonnées sont celles du village de Tamarin (Wikipédia), pas d'un ponton.",
+    "Le texte du règlement vient de la copie FAOLEX (FAO) du GN 154 de 2012 ; le site de la Tourism Authority n'a pas été fouillé pour une version consolidée. Les amendements annoncés en octobre 2026 peuvent avoir changé les règles (horaires, distances, nage) : à revérifier avant publication.",
+    "« Ce n'est pas garanti » et « l'activité pèse sur les animaux » : formulation éditoriale déduite de l'existence du règlement et des contrôles renforcés ; aucune étude d'impact n'a été lue. À valider ou adoucir.",
+    "Pour une famille logée dans le Nord, le départ très matinal impose un long trajet : temps de route non sourcé, non chiffré.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": null,
+  "secret": null
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "baie-aux-tortues",
+  "name": "Baie aux Tortues (Balaclava)",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Balaclava",
+  "lat": -20.0867931,
+  "lng": 57.5165204,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Turtle+Bay%2C+Balaclava%2C+Mauritius&format=jsonv2&limit=4",
+  "google_place_id": null,
+  "pitch": "Baie de Balaclava classée parc marin, bordée par les ruines d'un arsenal français du XVIIIe siècle (visite payante).",
+  "description_md": "La baie aux Tortues (Turtle Bay) se trouve à Balaclava, sur la côte nord-ouest. Son nom remonte à la période hollandaise, où elle s'appelait Schildpad Baai, d'après le Maritim Resort qui occupe sa rive. La réglementation mauricienne de 2001 sur les aires marines protégées contient des dispositions propres au parc marin de Balaclava. Sur le domaine de l'hôtel (25 hectares) subsistent les ruines de Balaclava, du XVIIIe siècle : sous le gouverneur Mahé de La Bourdonnais, le site abritait une fonderie, une poudrerie, un arsenal naval et un moulin à farine qui ont servi au développement de Port-Louis et de son port.",
+  "why_go_md": "Pour une baie protégée par un statut de parc marin et pour les ruines de Balaclava, que l'hôtel présente comme un monument national : vieux murs de pierre au milieu de jardins tropicaux et de banians, au bord de la rivière Citron et de ses cascades.",
+  "likes": [
+    "Baie couverte par la réglementation du parc marin de Balaclava",
+    "Ruines de Balaclava (XVIIIe siècle) : fonderie, poudrerie, arsenal naval et moulin à farine de l'époque de La Bourdonnais",
+    "Rivière Citron, cascades et tortues géantes dans le domaine des ruines"
+  ],
+  "watchouts": [
+    "Les ruines sont dans un domaine hôtelier privé : l'entrée est payante pour qui ne loge pas à l'hôtel",
+    "Aucune plage publique proclamée au nom de Balaclava ou de la baie aux Tortues dans la liste 2025 de la Beach Authority : l'accès public au rivage reste à vérifier"
+  ],
+  "tips_md": "Tarif affiché par le Maritim Resort pour l'entrée au domaine des ruines de Balaclava sans loger à l'hôtel (page non datée, consultée le 21 novembre 2026) : non-résidents, Rs 1000 par adulte et Rs 500 par enfant de moins de 12 ans ; résidents mauriciens, Rs 500 et Rs 250 ; gratuit avant 2 ans. Avec l'objectif de dépenser peu, compare ce prix à d'autres sites historiques gratuits ou moins chers avant de t'y engager.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Turtle+Bay%2C+Balaclava%2C+Mauritius&format=jsonv2&limit=4",
+      "title": "Nominatim (OpenStreetMap), recherche « Turtle Bay, Balaclava, Mauritius »",
+      "accessed_at": "2026-11-21",
+      "evidence": "OpenStreetMap node 12018514182 (tourism=hotel, hôtel situé sur la rive de la baie) « Maritim Resort & Spa Mauritius » : lat -20.0867931, lon 57.5165204"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://www.maritimresortandspa.mu/experiences-3/ruins-of-balaclava/",
+      "title": "Ruins of Balaclava - Maritim Resort & Spa Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Located within the 25-hectare Maritim Estate along the shores of Turtle Bay, the Ruins of Balaclava are among the most important historical landmarks in Mauritius. [...] Dating back to the 18th century, this national monument bears witness to the island's rich colonial past"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://www.maritimresortandspa.mu/experiences-3/ruins-of-balaclava/",
+      "title": "Ruins of Balaclava - Maritim Resort & Spa Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "The history of Balaclava dates back to the Dutch period, when Turtle Bay was known as Schildpad Baai, meaning \"Turtle Bay\". During the French administration under Governor Mahé de La Bourdonnais, the area became an important industrial and strategic centre. [...] The site housed an iron foundry, gunpowder factory, naval arsenal and flour mill, supplying materials and equipment that contributed to the development of Port Louis and its harbour."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://www.maritimresortandspa.mu/experiences-3/ruins-of-balaclava/",
+      "title": "Ruins of Balaclava - Maritim Resort & Spa Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ancient stone walls stand amongst tropical gardens, towering banyan trees and the peaceful surroundings of Turtle Bay. The gentle flow of the Citron River, its waterfalls [...] you may encounter giant tortoises"
+    },
+    {
+      "field": "tips_md, watchouts",
+      "url": "https://www.maritimresortandspa.mu/experiences-3/ruins-of-balaclava/",
+      "title": "Ruins of Balaclava - Maritim Resort & Spa Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Visitors who are not staying at Maritim Resort & Spa Mauritius are welcome to discover the Ruins of Balaclava Estate. The following entrace fees apply: [...] For Non-Mauritian Residents: [...] Rs 1000 per adult [...] Rs 500 for children (under 12 years old - Free for children under 2 years old) [...] For Mauritian Residents: [...] Rs 500 per adult [...] Rs 250 for children"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://leap.unep.org/en/countries/mu/national-legislation/fisheries-and-marine-resources-marine-protected-areas-regulations",
+      "title": "Fisheries and Marine Resources (Marine Protected Areas) Regulations 2001. Government Notice no. 172 of 2001 — UNEP LEAP / FAOLEX",
+      "accessed_at": "2026-11-21",
+      "evidence": "Specific provisions for Blue Bay marine park (VI); Specific provisions for Balaclava marine park (VII)"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius (Beach Authority, fichier List2025.pdf)",
+      "accessed_at": "2026-11-21",
+      "evidence": "List of proclaimed public beaches in Mauritius [...] NORTHERN REGION [...] Le Goulet"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Coordonnées : OpenStreetMap ne renvoie aucun objet « Baie aux Tortues » / « Turtle Bay » ; le point retenu est celui du Maritim Resort, que son site situe sur la rive de la baie. À recaler sur le point d'accès réel choisi par l'éditeur.",
+    "Accès public à la baie (plage, sentier, stationnement) : non sourcé. La liste 2025 des plages publiques de la Beach Authority ne contient aucune entrée « Balaclava » ni « Baie aux Tortues » (recherche dans le PDF) ; la plage publique la plus proche n'a pas été identifiée.",
+    "Parc marin de Balaclava : date de proclamation, superficie, zones et règles (baignade, snorkeling, pêche) non lues dans une source officielle. La fiche Protected Planet ne s'affiche qu'en JavaScript, la page du ministère de l'Économie bleue a répondu 404 ; seul le résumé FAOLEX/UNEP du règlement de 2001 a pu être cité.",
+    "Présence actuelle de tortues marines dans la baie : aucune source fiable ; ne rien promettre.",
+    "Histoire des ruines (dates précises, explosion de la poudrerie évoquée par des sites de voyage) : seule la page du Maritim a été retenue ; « monument national » est son expression, à confirmer auprès du National Heritage Fund.",
+    "Le tarif des ruines vient du site de l'hôtel, sans date affichée ; horaires de visite non indiqués sur la page lue.",
+    "Photo : API Wikimedia Commons en 429 pendant la session, aucun média."
+  ],
+  "website_url": "https://www.maritimresortandspa.mu/experiences-3/ruins-of-balaclava/",
+  "secret": null
+}

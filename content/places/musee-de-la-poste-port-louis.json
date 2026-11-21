@@ -1,0 +1,118 @@
+{
+  "slug": "musee-de-la-poste-port-louis",
+  "name": "Musée de la Poste de Port-Louis",
+  "family": "culture_patrimoine",
+  "tags": [
+    "pluie_ok"
+  ],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1599339,
+  "lng": 57.5016507,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Postal+Museum%2C+Port+Louis&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "L'ancien Hôtel des Postes du front de mer, bâtiment victorien devenu musée de l'histoire postale mauricienne en 2008.",
+  "description_md": "Le musée occupe le General Post Office, bâtiment de style victorien élevé entre 1865 et 1870 sur le front de mer de la capitale et classé monument national en 1958. Converti en musée en 2008, il présente les grands moments de l'histoire des services postaux à Maurice. Un personnage, Sam Le Facteur, raconte cette histoire aux plus jeunes.",
+  "why_go_md": "C'est une visite couverte et courte à caser dans une journée à Port-Louis, avec visite guidée gratuite sur demande et un billet famille à Rs 600 pour deux adultes et deux enfants.",
+  "likes": [
+    "Bâtiment victorien classé monument national",
+    "Visite guidée gratuite sur demande",
+    "Parcours pour enfants avec le personnage Sam Le Facteur",
+    "Gratuit pour les enfants de moins de 6 ans",
+    "Boutique et bureau philatélique sur place"
+  ],
+  "watchouts": [
+    "Fermé le dimanche et les jours fériés",
+    "Ferme à 12 h 15 le samedi"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 150,
+  "price_visitor_mur_max": 225,
+  "price_resident_mur": 50,
+  "price_note": "Tarifs de la page « Postal Museum » de Mauritius Post (consultée le 21 novembre 2026, non datée). Non-résidents : enfant de 0 à 6 ans gratuit, de 6 à 18 ans Rs 150, adulte Rs 225 (y compris 60 ans et plus), famille (2 adultes + 2 enfants de 6 à 18 ans) Rs 600. Résidents : adulte de 18 à 59 ans Rs 50, 11 à 17 ans Rs 25, gratuit jusqu'à 10 ans et à partir de 60 ans.",
+  "opening_hours": "Mo-Fr 08:30-16:30; Sa 08:30-12:15; Su,PH off",
+  "hours_note": "« Monday to Friday: 08:30 to 16:30 — Saturday: 08:30 to 12:15 — Closed: Sunday and Public Holidays » (page officielle consultée le 21 novembre 2026).",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": true,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Postal+Museum%2C+Port+Louis&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Postal Museum, Port Louis",
+      "accessed_at": "2026-11-21",
+      "evidence": "Postal Museum, Quay Street, William Newton, Caudan Waterfront, Town of Port-Louis, Ward 3, Port Louis, 11307, Mauritius / Maurice — lat -20.1599339, lon 57.5016507 (OpenStreetMap way 306395387)"
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts",
+      "url": "https://www.mauritiuspost.mu/postal-museum/",
+      "title": "Postal Museum – Mauritius Post",
+      "accessed_at": "2026-11-21",
+      "evidence": "Opening hours and accessibility Monday to Friday: 08:30 to 16:30 Saturday: 08:30 to 12:15 Closed: Sunday and Public Holidays"
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_note, likes, why_go_md",
+      "url": "https://www.mauritiuspost.mu/postal-museum/",
+      "title": "Postal Museum – Mauritius Post",
+      "accessed_at": "2026-11-21",
+      "evidence": "Entrance Fees for Non – Resident Child 0 to 6 yrs - Free Child 6 to 18 yrs - Rs 150.00 Adult 18 + yrs - Rs 225.00 Adult 60 + yrs - Rs 225.00 Family fare 2 adults + 2 children 6 - 18 yrs - Rs 600.00"
+    },
+    {
+      "field": "price_resident_mur, price_note",
+      "url": "https://www.mauritiuspost.mu/postal-museum/",
+      "title": "Postal Museum – Mauritius Post",
+      "accessed_at": "2026-11-21",
+      "evidence": "Entrance Fees for Resident Child 0 to 10 yrs - Free Child 11 to 17 yrs - Rs 25.00 Adult 18 to 59 yrs - Rs 50.00 Adult 60 + yrs - Free"
+    },
+    {
+      "field": "description_md, pitch, likes, rain_ok, tags",
+      "url": "https://www.mauritiuspost.mu/postal-museum/",
+      "title": "Postal Museum – Mauritius Post",
+      "accessed_at": "2026-11-21",
+      "evidence": "Located in the capital city by the waterfront, the General Post Office, a historical mid-Victorian style building erected between 1865 and 1870, and listed as a national monument in 1958, was converted into a Postal Museum in 2008. This museum presents the major events that marked the history of postal services in Mauritius."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://www.mauritiuspost.mu/postal-museum/",
+      "title": "Postal Museum – Mauritius Post",
+      "accessed_at": "2026-11-21",
+      "evidence": "Sam Le Facteur, our friendly postman character, will delight younger visitors by relating the history in a playful"
+    },
+    {
+      "field": "likes, why_go_md",
+      "url": "https://www.mauritiuspost.mu/postal-museum/",
+      "title": "Postal Museum – Mauritius Post",
+      "accessed_at": "2026-11-21",
+      "evidence": "Complimentary guided tours on request, with our Heritage Guide Officer offering insights throughout the museum's history."
+    },
+    {
+      "field": "likes",
+      "url": "https://www.mauritiuspost.mu/postal-museum/",
+      "title": "Postal Museum – Mauritius Post",
+      "accessed_at": "2026-11-21",
+      "evidence": "Museum shop Purchase exclusive numismatic products and collection of stamps, craft products, philatelic materials, and books on Mauritius' fauna, flora, and history."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Horaires : la recherche web signale une autre page de Mauritius Post donnant 9 h 30 – 16 h 30 en semaine et 9 h 30 – 15 h 30 le samedi et les jours fériés. La page « Postal Museum » lue ici a été retenue ; à confirmer.",
+    "Le tarif non-résident se chevauche à 6 ans (« 0 to 6 » gratuit, « 6 to 18 » payant) et à 18 ans : à préciser sur place.",
+    "« Visite courte » : aucune durée n'est donnée par la source ; duration_min et duration_max à null.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://www.mauritiuspost.mu/postal-museum/",
+  "secret": null
+}

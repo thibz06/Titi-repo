@@ -1,0 +1,112 @@
+{
+  "slug": "rhumerie-de-chamarel",
+  "name": "Rhumerie de Chamarel : visite et dégustation",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "sud_ouest",
+  "locality": "Chamarel",
+  "lat": -20.4279321,
+  "lng": 57.3964871,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Rhumerie+de+Chamarel&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Visite guidée d'une distillerie de rhum agricole, des alambics en cuivre aux chais, suivie d'une dégustation. Sans réservation.",
+  "description_md": "La Rhumerie de Chamarel produit du rhum agricole dans un bâtiment de bois, de pierre et d'eau dessiné par l'architecte mauricien Maurice Giraud et pensé dès l'origine pour accueillir des visiteurs. Des guides racontent la fabrication, des alambics en cuivre aux chais où le rhum vieillit en fûts de chêne. La visite se termine par une dégustation des rhums de la maison.",
+  "why_go_md": "La visite se fait sans réservation, du lundi au samedi, et se combine avec les autres sites de Chamarel. Elle s'adresse aux adultes : la dégustation en fait l'intérêt et le tarif adolescent ne commence qu'à 16 ans.",
+  "likes": [
+    "Visite guidée sans réservation",
+    "Alambics en cuivre et chais à fûts de chêne",
+    "Dégustation de tous les rhums de la maison en fin de visite",
+    "Restaurant sur place"
+  ],
+  "watchouts": [
+    "Fermé le dimanche",
+    "Compte une vingtaine de minutes d'attente à l'accueil",
+    "Rs 800 par personne : cher pour une famille si les enfants paient aussi (tarif des moins de 16 ans non affiché)",
+    "Dégustation d'alcool : le site lui-même est réservé aux 18 ans et plus"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 400,
+  "price_visitor_mur_max": 800,
+  "price_resident_mur": null,
+  "price_note": "Tarifs de la page « La visite guidée » du site officiel (pied de page « © 2026 », consultée le 21 novembre 2026) : visite et dégustation Rs 800 par personne, adolescents de 16-17 ans Rs 400. Visite privée sur réservation : Rs 1 500 par personne. La page ne distingue pas résidents et visiteurs et ne donne pas de tarif pour les moins de 16 ans.",
+  "opening_hours": "Mo-Sa 09:30-16:30; Su off",
+  "hours_note": "« Lundi à Samedi de 09hrs30 à 16hrs30 — Fermer les Dimanches » pour la visite et dégustation (site officiel, consulté le 21 novembre 2026). Visite privée : du lundi au samedi de 9 h 30 à 15 h 30.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Rhumerie+de+Chamarel&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Rhumerie de Chamarel",
+      "accessed_at": "2026-11-21",
+      "evidence": "Rhumerie de Chamarel, Plaine Champagne Road, Chamarel, Chamarel VCA, West, Black River, 91102, Mauritius / Maurice — lat -20.4279321, lon 57.3964871 (OpenStreetMap way 207216019)"
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_note, opening_hours, hours_note, watchouts, likes, pitch",
+      "url": "https://www.rhumeriedechamarel.com/la-visite-guidee/",
+      "title": "La visite guidée - La Rhumerie de Chamarel",
+      "accessed_at": "2026-11-21",
+      "evidence": "Visite et dégustation de rhum Lundi à Samedi de 09hrs30 à 16hrs30 Fermer les Dimanches 20 mins d’attente à l’accueil Rs 800 par personne et Adolescents (16-17 ans) : Rs 400 / personne Pas de réservation Visite et dégustation Privée Lundi à Samedi de 09hrs30 à 15hrs30"
+    },
+    {
+      "field": "price_note",
+      "url": "https://www.rhumeriedechamarel.com/la-visite-guidee/",
+      "title": "La visite guidée - La Rhumerie de Chamarel",
+      "accessed_at": "2026-11-21",
+      "evidence": "Rs1500 par personne Sur réservation"
+    },
+    {
+      "field": "description_md, likes, pitch",
+      "url": "https://www.rhumeriedechamarel.com/la-visite-guidee/",
+      "title": "La visite guidée - La Rhumerie de Chamarel",
+      "accessed_at": "2026-11-21",
+      "evidence": "C’est donc la magie de cette transformation qui vous sera contée par des guides professionnels tout au long d’un processus de fabrication « esthétisé » et sécurisé. A la fin de la visite, après avoir vu les alambics en cuivre et les chais où trônent fièrement les fûts de chêne dans lesquels vieillissent le rhum, les visiteurs pourront déguster gracieusement tous les rhums agricoles de la Maison"
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.rhumeriedechamarel.com/la-visite-guidee/",
+      "title": "La visite guidée - La Rhumerie de Chamarel",
+      "accessed_at": "2026-11-21",
+      "evidence": "L’une des particularités de La Rhumerie est qu’elle a été pensée dès sa conception pour offrir une expérience touristique complète. L’espace architectural à taille humaine, créé par l’architecte mauricien Maurice Giraud, dégage une sensation de bien-être. L’utilisation de matériaux naturels tels le bois, la pierre et l’eau"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.rhumeriedechamarel.com/la-visite-guidee/",
+      "title": "La visite guidée - La Rhumerie de Chamarel",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ce site Web exige que vous ayez 18 ans ou plus pour y accéder."
+    },
+    {
+      "field": "locality, likes",
+      "url": "https://www.rhumeriedechamarel.com/la-visite-guidee/",
+      "title": "La visite guidée - La Rhumerie de Chamarel",
+      "accessed_at": "2026-11-21",
+      "evidence": "LA RHUMERIE DE CHAMAREL Route Royale – Chamarel ILE MAURICE [...] Alchimiste Restaurant – Réservez votre table"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Tarif et conditions d'accès des enfants de moins de 16 ans : non affichés. À demander (+230 483 4980) avant de recommander la visite à une famille.",
+    "Durée de la visite non indiquée (seule l'attente de 20 minutes l'est) : duration_min et duration_max à null.",
+    "Famille de la fiche : classée en culture_patrimoine (visite d'un savoir-faire) faute de catégorie « domaines » ; à reclasser si l'éditeur préfère sport_loisirs ou manger.",
+    "Ouverture les jours fériés et entre Noël et le Nouvel An : non précisée.",
+    "Bois Chéri / Saint-Aubin (Route du Thé) et Takamaka n'ont pas de fiche : le domaine saintaubin.mu héberge désormais un guide indépendant, et le site de Takamaka ne publie aucune information de visite. Le Curious Corner of Chamarel n'a pas de site officiel joignable.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://www.rhumeriedechamarel.com/",
+  "secret": null
+}

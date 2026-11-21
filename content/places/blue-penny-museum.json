@@ -1,0 +1,127 @@
+{
+  "slug": "blue-penny-museum",
+  "name": "Blue Penny Museum",
+  "family": "culture_patrimoine",
+  "tags": [
+    "pluie_ok"
+  ],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1609058,
+  "lng": 57.4975013,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Blue+Penny+Museum&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Musée d'art et d'histoire de Maurice au Caudan, où les timbres « Post Office » ne sont éclairés que dix minutes par heure.",
+  "description_md": "Le Blue Penny Museum, au Caudan Waterfront, est un musée d'art et d'histoire entièrement consacré à Maurice. Ses salles traitent de la navigation et des découvertes, de l'histoire coloniale de l'île, du Port-Louis des XVIIIe et XIXe siècles, de l'histoire postale et de la gravure des timbres, et du roman Paul et Virginie. Il conserve les timbres « Post Office », que le musée qualifie de mondialement connus.",
+  "why_go_md": "Le billet famille (2 adultes et 2 enfants) à Rs 820 en fait une visite couverte abordable à Port-Louis. Les timbres « Post Office » ne sont visibles que dix minutes, au quart de chaque heure d'ouverture, pour les protéger du vieillissement : c'est le moment à ne pas manquer.",
+  "likes": [
+    "Timbres « Post Office » présentés dix minutes au quart de chaque heure",
+    "Salle de cartes et d'images anciennes de Port-Louis",
+    "Salle consacrée à Paul et Virginie, avec une sculpture",
+    "Billet famille : Rs 820 pour 2 adultes et 2 enfants"
+  ],
+  "watchouts": [
+    "Fermé le dimanche et les jours fériés",
+    "Ferme exceptionnellement à 13 h les 24 et 31 décembre ; fermé du 1er au 3 janvier",
+    "Photos interdites dans la salle des timbres",
+    "Nourriture et boissons interdites dans le musée"
+  ],
+  "tips_md": "Cale ton arrivée pour être dans la salle des timbres au quart d'une heure (10 h 15, 11 h 15…).",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 200,
+  "price_visitor_mur_max": 325,
+  "price_resident_mur": 50,
+  "price_note": "Tarifs affichés sur le site officiel (consulté le 21 novembre 2026). Non-résidents : adulte Rs 325, enfant ou étudiant Rs 200, famille (2 adultes + 2 enfants) Rs 820. Résidents : adulte Rs 50. La page n'indique pas l'année des tarifs.",
+  "opening_hours": "Mo-Sa 09:30-16:00; Su,PH off",
+  "hours_note": "« 9.30 a.m. to 4:00 p.m., Monday through Saturday — Closed on Sundays and Public Holidays ». Fermeture à 13 h les 24 et 31 décembre, fermé du 1er au 3 janvier (site officiel, consulté le 21 novembre 2026 ; la page mentionnait encore une fermeture du 13 décembre 2025).",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": true,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Blue+Penny+Museum&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Blue Penny Museum",
+      "accessed_at": "2026-11-21",
+      "evidence": "Blue Penny Museum, Caudan Waterfront Road, Caudan Waterfront, Town of Port-Louis, Ward 3, Port Louis, 11307, Mauritius / Maurice — lat -20.1609058, lon 57.4975013 (OpenStreetMap node 380468499)"
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Opening Hours 9.30 a.m. to 4:00 p.m., Monday through Saturday Closed on Sundays and Public Holidays The museum closes exceptionally at 1 p.m. on 24th and 31st December. The museum remains closed on 1st to 3rd January. The museum closes exceptionally at 2 p.m. on 13th December 2025."
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_resident_mur, price_note, likes, why_go_md",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Entry Fees Non-Residents Adult: Rs. 325 Children/Student: Rs. 200 Family (2 adults + 2 children): Rs. 820 Residents Adult: Rs. 50"
+    },
+    {
+      "field": "pitch, why_go_md, likes, watchouts, tips_md, rain_ok, tags",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Photography is allowed inside the museum except in the Stamps room. The Post Office stamps are only visible for 10 minutes on the quarter past the hour of every opening hour. The aim is to protect these philatelic gems from ageing. Food and drinks are not permitted inside the museum."
+    },
+    {
+      "field": "description_md",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Blue Penny Museum is an art and history museum wholly devoted to Mauritius. It houses some prestigious collections, including the world-renowned Post Office stamps"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "The island builders The second room of the museum offers a broad outline of the colonial history of the island. Port Louis, a leading city This third room houses a series of old images and maps that will take you on a voyage through time, back to the Port Louis of the 18th and 19th centuries."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Paul & Virginie Dive into the timeless love story through beautiful art and a stunning classic sculpture."
+    },
+    {
+      "field": "description_md",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "The age of discovery This room has a magical quality and provides an insight into the world of navigation. [...] The visit of the museum continues into a room that offers a broad outline of the history of postal services in Mauritius."
+    },
+    {
+      "field": "locality, description_md",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Blue Penny Museum, Le Caudan Waterfront, Port Louis, Mauritius"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Dates de fin d'année : la page annonce une fermeture à 13 h les 24 et 31 décembre et une fermeture du 1er au 3 janvier, sans année, à côté d'une mention datée du 13 décembre 2025. À revérifier pour décembre 2026 – janvier 2027.",
+    "Âge limite du tarif « Children/Student » et gratuité éventuelle des tout-petits : non précisés.",
+    "Durée de visite non indiquée : duration_min et duration_max à null.",
+    "Une fiche « Caudan Waterfront » existe déjà ; celle-ci ne traite que du musée.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://bluepenny.museum/",
+  "secret": null
+}

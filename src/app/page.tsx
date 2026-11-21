@@ -1,7 +1,8 @@
 import { Compass } from "lucide-react";
 import Link from "next/link";
 import { ProgressCard } from "@/components/ProgressCard";
-import { loadSummaries } from "@/content/load";
+import { HomeWeather } from "@/components/HomeWeather";
+import { loadPlanData, loadSummaries } from "@/content/load";
 import { getMessages } from "@/i18n";
 
 export default function HomePage() {
@@ -27,6 +28,9 @@ export default function HomePage() {
 
       <div className="px-4">
         <ProgressCard places={places} />
+        <div className="mt-3">
+          <HomeWeather starts={loadPlanData().starts} />
+        </div>
       </div>
 
       <section className="px-4 pb-[calc(104px+env(safe-area-inset-bottom))] pt-6">

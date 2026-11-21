@@ -1,0 +1,145 @@
+{
+  "slug": "ile-aux-cerfs",
+  "name": "Île aux Cerfs",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "est",
+  "locality": "Trou d'Eau Douce",
+  "lat": -20.2720269,
+  "lng": 57.8036655,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=%C3%8Ele%20aux%20Cerfs",
+  "google_place_id": null,
+  "pitch": "Île privée de 87 hectares au large de Trou d'Eau Douce : plages de sable blanc, lagon turquoise, accès en bateau seulement.",
+  "description_md": "L'île aux Cerfs est une île privée de 87 hectares au large de la côte est, face à Trou d'Eau Douce. Son exploitant la présente pour ses plages de sable blanc, son lagon, ses restaurants, ses sports nautiques et son golf de 18 trous dessiné par Bernhard Langer. Personne n'y habite et il n'y a pas d'hôtel, seulement trois lodges-bulles, d'après l'office du tourisme. On n'y accède qu'en bateau.",
+  "why_go_md": "Pour une journée de plage sur un îlot : la pointe nord concentre les plages, le lagon peu profond et les bars de plage, et l'on peut longer la côte est de l'île jusqu'à trouver un coin à l'ombre des filaos. Le lagon abrité par le récif se prête aux sports nautiques (parachute ascensionnel, ski nautique, wakeboard, bouée banane).",
+  "likes": [
+    "Plages de sable blanc et lagon peu profond à la pointe nord de l'île",
+    "Navette de l'exploitant toutes les 30 minutes depuis la jetée de Pointe Maurice, avec parking surveillé",
+    "Sports nautiques sur le lagon : parachute ascensionnel, ski nautique, wakeboard, bouée banane",
+    "Restaurants et bars de plage sur la moitié nord de l'île"
+  ],
+  "watchouts": [
+    "Très fréquentée : Wikipédia la décrit comme « extrêmement touristique » et l'office du tourisme comme l'une des îles les plus populaires de Maurice.",
+    "Heure du dernier bateau : la page d'accueil du site officiel annonce une navette jusqu'à 18 h, les pages des formules un dernier retour à 17 h. Fais-toi confirmer l'heure à l'aller.",
+    "Le site officiel ne publie pas le prix de la navette seule ; les formules avec déjeuner se réservent obligatoirement à l'avance.",
+    "L'île est privée : l'accueil, les transats et les restaurants dépendent de l'exploitant."
+  ],
+  "tips_md": "La jetée de Pointe Maurice, ouverte au public, se trouve à Trou d'Eau Douce, à côté de l'hôtel Shangri-La Le Touessrok ; la navette de plage arrive à la jetée Masala, au nord-ouest de l'île. Une autre navette, toutes les 20 minutes, dessert la jetée du golf. Tu peux aussi traverser avec les bateliers de Trou d'Eau Douce (voir la fiche du village).",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "variable",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Le site officiel de l'île (consulté le 21 novembre 2026, pages non datées) ne publie aucun tarif pour la navette seule. Il affiche deux formules à la journée, transferts en bateau, parking, cocktail d'accueil et déjeuner compris, sur réservation : en semaine (lundi à vendredi) Rs 1 950 par adulte et Rs 1 550 par enfant de 3 à 9 ans ; le week-end (samedi et dimanche) Rs 1 350 par adulte et Rs 950 par enfant de 3 à 9 ans. Côté bateliers de Trou d'Eau Douce, seul repère trouvé : Rs 1 100 par personne pour le seul trajet en catamaran, selon Le Défi en mars 2019.",
+  "opening_hours": "Mo-Su 09:00-18:00",
+  "hours_note": "« The Ile aux Cerfs Leisure Island is open everyday from 09:00 to 18:00 » et navette de 9 h 30 à 18 h toutes les 30 minutes, d'après la page d'accueil du site officiel (page non datée, consultée le 21 novembre 2026). Les pages des formules indiquent un dernier bateau retour à 17 h.",
+  "difficulty": null,
+  "accessibility": {
+    "acces": "Uniquement en bateau ; la navette de l'exploitant part de la jetée de Pointe Maurice dans des bateaux de 24 places (site officiel)",
+    "stationnement": "Parking surveillé par caméras à la jetée de Pointe Maurice (site officiel)"
+  },
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Décrite par l'office du tourisme comme l'une des îles au large les plus populaires de Maurice, et par Wikipédia comme « extrêmement touristique ».",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=%C3%8Ele%20aux%20Cerfs",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"lat\":\"-20.2720269\",\"lon\":\"57.8036655\" [...] \"type\":\"island\" [...] \"name\":\"Île aux Cerfs\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.ileauxcerfsleisureisland.com/",
+      "title": "Ile aux Cerfs Leisure Island - Official Site",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ile aux Cerfs is a picturesque island spread over 87 hectares of untouched land off the east coast of Mauritius. It is famous for its white sandy beaches, its turquoise lagoons and for the wide range of restaurants, water sports and land activities on offer. [...] an 18-hole championship golf course designed by two-time Masters champion Bernhard Langer."
+    },
+    {
+      "field": "opening_hours, hours_note, likes, tips_md, accessibility",
+      "url": "https://www.ileauxcerfsleisureisland.com/",
+      "title": "Ile aux Cerfs Leisure Island - Official Site",
+      "accessed_at": "2026-11-21",
+      "evidence": "The jetty at Pointe Maurice is open to the public and is proven to be the quickest and shortest way to access Ile aux Cerfs Leisure Island and the Ile aux Cerfs Golf Club in safe and secured 24-seater boats. We offer a secured parking area equipped with CCTV cameras. [...] The Ile aux Cerfs Leisure Island is open everyday from 09:00 to 18:00. [...] The boat shuttle service is operational as from 09:30 to 18:00, every 30 minutes from from Pointe Maurice to Ile aux Cerfs Masala Jetty and back."
+    },
+    {
+      "field": "tips_md",
+      "url": "https://www.ileauxcerfsleisureisland.com/",
+      "title": "Ile aux Cerfs Leisure Island - Official Site",
+      "accessed_at": "2026-11-21",
+      "evidence": "The boat shuttle service is operational as from 06h40 till the last guest departs, every 20 minutes from Pointe Maurice to Ile aux Cerfs Golf Club's jetty and back."
+    },
+    {
+      "field": "price_kind, price_note, watchouts, hours_note",
+      "url": "https://www.ileauxcerfsleisureisland.com/weekday-package",
+      "title": "WEEKDAY PACKAGE — Ile aux Cerfs",
+      "accessed_at": "2026-11-21",
+      "evidence": "Availability: Weekdays only (Mon to Fri) [...] Price: Rs 1,950 per person (adult) & Rs 1,550 per person (kids 3-9 yrs.) [...] Secured parking [...] Boat transfers every 30 mins as from 9 am (Last return boat from lle Aux Cerfs at 17hrs) [...] Booking compulsory with"
+    },
+    {
+      "field": "price_kind, price_note, tips_md",
+      "url": "https://www.ileauxcerfsleisureisland.com/weekend-family-package",
+      "title": "WEEKEND FAMILY PACKAGE — Ile aux Cerfs",
+      "accessed_at": "2026-11-21",
+      "evidence": "Availability: Weekend only (Sat and Sun) [...] Price: Rs 1,350 pp (adult) & Rs 950 pp (kids 3-9 yrs.) [...] Meeting point: Pointe Maurice Jetty, Trou d'eau Douce (next to Shangri-la Le Touessrok Hotel) [...] Buffet lunch (12.30-14.30)"
+    },
+    {
+      "field": "price_note",
+      "url": "https://defimedia.info/fructueux-business-des-plaisanciers-de-rs-300-000-plus-de-rs-1-m-de-recettes-par-bateau",
+      "title": "Fructueux business des plaisanciers : de Rs 300 000 à plus de Rs 1 M de recettes par bateau — Defimedia (10 mars 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Rs 1 100 par personne rien que pour le trajet vers l’île-aux-Cerfs"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://www.ileauxcerfsleisureisland.com/activities",
+      "title": "Activities — Ile aux Cerfs Leisure Island",
+      "accessed_at": "2026-11-21",
+      "evidence": "The island of Ile aux Cerfs is famous for its turquoise coral-reefed lagoon which lends itself perfectly to a wide array of water sports for all ages including parasailing, speed boat rides, water skiing, wakeboarding and banana rides."
+    },
+    {
+      "field": "likes",
+      "url": "https://www.ileauxcerfsleisureisland.com/restaurants-ile-aux-cerfs",
+      "title": "Restaurants at Ile aux Cerfs",
+      "accessed_at": "2026-11-21",
+      "evidence": "The island of Ile aux Cerfs offers a choice of three beachside restaurants located on the northern half of the island"
+    },
+    {
+      "field": "description_md, why_go_md, tips_md, watchouts, rarity",
+      "url": "https://mauritiusnow.com/blog/things-to-do/ile-aux-cerfs/",
+      "title": "Ile aux Cerfs — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ile aux Cerfs is one of the most popular offshore islands in Mauritius. This private island lies off the east coast of Mauritius. [...] This service will take you to the Masala Jetty on the northwest side of the island [...] The northern tip of the island is where you’ll find white sandy beaches, a turquoise lagoon and rustic beach bars. [...] you can keep walking around the east coast until you find your perfect spot under the casuarinas [...] There are no hotels on the island and no-one lives on Ile aux Cerfs. However, you can stay in one of three eco-bubble lodges."
+    },
+    {
+      "field": "watchouts, rarity",
+      "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_aux_Cerfs_(Maurice)",
+      "title": "Île aux Cerfs (Maurice) — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Inhabitée, l'île aux Cerfs est extrêmement touristique"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix de la navette seule depuis Pointe Maurice : non publié sur le site officiel (pages consultées : accueil, activités, restaurants, formules semaine et week-end). À demander au +230 402 7720 ou sur place ; les champs de prix restent à null.",
+    "Dernier bateau : 18 h (page d'accueil) ou 17 h (pages des formules) ? Les pages ne portent aucune date.",
+    "Les formules semaine et week-end (Rs 1 950 et Rs 1 350 par adulte) sont-elles encore en vigueur pour décembre 2026 - janvier 2027, et valables les jours fériés ?",
+    "Peut-on débarquer et rester sur les plages sans rien consommer, et avec des bateliers extérieurs ? Aucune source ne le précise.",
+    "L'office du tourisme parle d'un golf de 19 trous, le site officiel de 18 trous : la fiche retient le site officiel.",
+    "L'origine du nom donnée par Wikipédia (cerfs de Java, chiffre de 75 000) n'est pas sourcée dans l'article : non reprise.",
+    "Durée conseillée : aucune source ; duration_min et duration_max restent à null.",
+    "Coordonnées : centre de l'île dans OpenStreetMap, pas la jetée d'arrivée (Masala) ni celle de départ (Pointe Maurice), introuvables dans Nominatim."
+  ],
+  "website_url": "https://www.ileauxcerfsleisureisland.com/",
+  "secret": null
+}

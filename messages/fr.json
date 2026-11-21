@@ -268,5 +268,15 @@
     "cancel": "Annuler",
     "backToTrip": "Retour au programme",
     "noData": "Le planificateur a besoin des temps de trajet, qui ne sont pas encore calculés."
+  },
+  "weather": {
+    "kicker": "Météo",
+    "title": "Autour de {place}",
+    "today": "Aujourd'hui",
+    "tomorrow": "Demain",
+    "line": "{temp} °C max · pluie {rain} % ({mm} mm) · vent {wind} km/h",
+    "estimate": "Prévision, donc estimation. Source : {source}, calculée le {time}.",
+    "error": "La météo est indisponible pour le moment.",
+    "official": "Alertes et avis de cyclone : Mauritius Meteorological Services"
   }
 }

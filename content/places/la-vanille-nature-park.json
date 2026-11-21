@@ -1,0 +1,154 @@
+{
+  "slug": "la-vanille-nature-park",
+  "name": "La Vanille Nature Park",
+  "family": "nature_parcs",
+  "tags": [
+    "famille"
+  ],
+  "region": "sud",
+  "locality": "Rivière des Anguilles",
+  "lat": -20.5007576,
+  "lng": 57.5640885,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=La+Vanille+Nature+Park&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Parc animalier du Sud fondé en 1985 : tortues géantes d'Aldabra en liberté, crocodiles du Nil, insectarium et musée des fossiles.",
+  "description_md": "Fondé en 1985 à Rivière des Anguilles, La Vanille Nature Park s'étend sur 5,5 hectares dans une vallée tropicale. Le parc dit protéger plus de 1 000 tortues géantes d'Aldabra en liberté et abriter plus de 2 000 crocodiles du Nil, ainsi qu'un insectarium et un musée des fossiles. La visite se fait en autonomie sur 3,5 km de sentiers, avec des séances de nourrissage à heures fixes.",
+  "why_go_md": "Les tortues géantes en liberté sont l'attrait principal, et le billet reste modéré pour un parc animalier (Rs 950 par adulte non résident). Le parc annonce un accès adapté aux familles et un parking gratuit.",
+  "likes": [
+    "Plus de 1 000 tortues géantes d'Aldabra en liberté",
+    "Nourrissage des crocodiles à 11 h 30 et 14 h 30",
+    "Insectarium et musée des fossiles",
+    "Parking gratuit, restaurant sur place",
+    "Ouvert tous les jours, jours fériés compris"
+  ],
+  "watchouts": [
+    "Fermé le 25 décembre et le 1er janvier",
+    "Le parc conseille d'arriver avant 15 h",
+    "Ne pas nourrir ni toucher les animaux en dehors des expériences autorisées ; rester sur les sentiers balisés",
+    "Billets valables uniquement pour la date choisie",
+    "Les rencontres avec les animaux sont en option, à places limitées",
+    "Drones interdits sans autorisation ; flash interdit dans certaines zones"
+  ],
+  "tips_md": "Une carte interactive et une carte téléchargeable du parc sont proposées sur le site pour préparer le parcours.",
+  "duration_min": 120,
+  "duration_max": 180,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 665,
+  "price_visitor_mur_max": 950,
+  "price_resident_mur": 425,
+  "price_note": "Tarifs de la page « Planifier votre visite » du site officiel (pied de page « © 2026 », consultée le 21 novembre 2026). Non-résident : adulte Rs 950, enfant de 3 à 12 ans Rs 665. Résident : adulte Rs 425, enfant Rs 275. Rencontres avec les animaux en supplément.",
+  "opening_hours": "Mo-Su,PH 09:00-17:00; Dec 25 off; Jan 01 off",
+  "hours_note": "« Du lundi au dimanche - de 9h00 à 17h00 — Ouvert les jours fériés — Fermé les 25 décembre et 1er janvier » (site officiel, consulté le 21 novembre 2026). Les conditions de visite précisent que les horaires peuvent varier.",
+  "difficulty": null,
+  "accessibility": {
+    "stationnement": "Parking gratuit sur place (site officiel)",
+    "familles": "« Accès adapté aux familles dans tout le parc » (site officiel)"
+  },
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=La+Vanille+Nature+Park&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : La Vanille Nature Park",
+      "accessed_at": "2026-11-21",
+      "evidence": "La Vanille Nature Park, Senneville, Rivière des Anguilles VCA, Savanne, Mauritius / Maurice — lat -20.5007576, lon 57.5640885 (OpenStreetMap way 133261501)"
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_resident_mur, price_note, why_go_md",
+      "url": "https://www.lavanillenaturepark.com/planifier-votre-visite",
+      "title": "Planifier votre visite | La Vanille Nature Park",
+      "accessed_at": "2026-11-21",
+      "evidence": "Non-Résident ( Adulte ) Rs 950 Non-Résident ( Enfant ) Rs 665 Résident ( Adulte ) Rs 425 Résident ( Enfant ) Rs 275 Enfant (3-12ans) En option : Vous pouvez ajouter des rencontres avec les animaux lors de votre réservation. Les places étant limitées"
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts, likes",
+      "url": "https://www.lavanillenaturepark.com/planifier-votre-visite",
+      "title": "Planifier votre visite | La Vanille Nature Park",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ouvert tous les jours : Du lundi au dimanche - de 9h00 à 17h00 Ouvert les jours fériés Fermé les 25 décembre et 1er janvier. Arrivez avant 15h pour avoir suffisamment de temps pour profiter pleinement de l'expérience."
+    },
+    {
+      "field": "duration_min, duration_max, description_md",
+      "url": "https://www.lavanillenaturepark.com/planifier-votre-visite",
+      "title": "Planifier votre visite | La Vanille Nature Park",
+      "accessed_at": "2026-11-21",
+      "evidence": "Visite entièrement en autonomie Sessions de nourrissage programmées Musées éducatifs à explorer Rencontres animales optionnelles (réservation conseillée) Durée moyenne de la visite : 2 à 3 heures"
+    },
+    {
+      "field": "accessibility, likes, why_go_md, tags",
+      "url": "https://www.lavanillenaturepark.com/planifier-votre-visite",
+      "title": "Planifier votre visite | La Vanille Nature Park",
+      "accessed_at": "2026-11-21",
+      "evidence": "Parking gratuit sur place Accès adapté aux familles dans tout le parc"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.lavanillenaturepark.com/planifier-votre-visite",
+      "title": "Planifier votre visite | La Vanille Nature Park",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ne donnez pas de nourriture extérieure aux animaux Surveillez vos enfants en permanence La photographie est autorisée, mais sans flash dans les zones réglementées"
+    },
+    {
+      "field": "tips_md, likes",
+      "url": "https://www.lavanillenaturepark.com/planifier-votre-visite",
+      "title": "Planifier votre visite | La Vanille Nature Park",
+      "accessed_at": "2026-11-21",
+      "evidence": "La carte téléchargeable comprend des légendes et des itinéraires suggérés [...] Restaurant et boutique de souvenirs"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.lavanillenaturepark.com/",
+      "title": "La Vanille Nature Park Île Maurice",
+      "accessed_at": "2026-11-21",
+      "evidence": "nous protégeons depuis des décennies plus de 1 000 tortues géantes d'Aldabra en liberté [...] 3,5 km de sentiers naturels [...] Nourrissage : 11:30am & 2:30pm Prédateurs Plus de 2 000 crocodiles du Nil vivent ici."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.lavanillenaturepark.com/",
+      "title": "La Vanille Nature Park Île Maurice",
+      "accessed_at": "2026-11-21",
+      "evidence": "EST. 1985 • RIVIÈRE DES ANGUILLES [...] Situé dans une vallée tropicale luxuriante au sud de Maurice [...] Musée des fossiles Remontez le temps et découvrez le passé préhistorique de Maurice."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.lavanillenaturepark.com/",
+      "title": "La Vanille Nature Park Île Maurice",
+      "accessed_at": "2026-11-21",
+      "evidence": "Les billets sont valables pour une date précise"
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.lavanillenaturepark.com/le-parc",
+      "title": "Le Parc | La Vanille Nature Park",
+      "accessed_at": "2026-11-21",
+      "evidence": "La Vanille Nature Park s'étend sur 5,5 hectares d'espace naturel verdoyant"
+    },
+    {
+      "field": "watchouts, hours_note",
+      "url": "https://www.lavanillenaturepark.com/conditions-de-visite",
+      "title": "Conditions de visite | La Vanille Nature Park",
+      "accessed_at": "2026-11-21",
+      "evidence": "Nourrir les animaux sauf autorisation explicite Jeter des objets dans les enclos Tenter de toucher ou de perturber les animaux en dehors des expériences autorisées [...] L'utilisation de drones est interdite sans autorisation préalable. [...] Les horaires d'ouverture peuvent varier selon : La saison Les jours fériés Les contraintes opérationnelles"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "La page d'accueil affiche aussi « Billet à partir de MUR 450 » et « Billets à partir de MUR 425 » : incohérence mineure du site ; les tarifs détaillés de la page « Planifier votre visite » ont été retenus.",
+    "Tranche d'âge du tarif enfant : « Enfant (3-12ans) » ; gratuité avant 3 ans supposée mais non écrite. Tarif des 13-17 ans : a priori adulte, à confirmer.",
+    "« Billet modéré » est une appréciation éditoriale (comparaison avec Odysseo, Rs 1 280).",
+    "Le nombre total d'animaux (« plus de 2 000 animaux ») et le nombre de crocodiles (« plus de 2 000 ») se contredisent en apparence sur la page d'accueil : seul le chiffre des crocodiles est cité, tel quel.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://www.lavanillenaturepark.com/",
+  "secret": null
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "valle-tyroliennes-chamouny",
+  "name": "Vallé (La Vallée des Couleurs) : tyroliennes et parc nature",
+  "family": "sport_loisirs",
+  "tags": [],
+  "region": "sud",
+  "locality": "Chamouny",
+  "lat": -20.4574949,
+  "lng": 57.4849894,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=La+Vall%C3%A9e+des+Couleurs&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Parc d'aventure du Sud : huit formules de tyrolienne de 300 m à 5,5 km, en plus d'un parc nature avec cascades et terre colorée.",
+  "description_md": "Le parc Vallé, à Chamouny, combine des activités à sensations (tyroliennes, quad, buggy, pont népalais, luge) et un parc nature : terre aux 23 couleurs, cascades, animaux, arbres endémiques, jardin de rochers. Huit formules de tyrolienne sont proposées, de la Waterfall Zipline (deux lignes, 300 m, environ 20 minutes, vers la cascade Chamouzé) à l'Advenature Flight (11 lignes, 5,5 km). Un billet d'entrée est exigé pour accéder au parc.",
+  "why_go_md": "C'est le parc de tyroliennes dont les tarifs en roupies sont publiés. Pour limiter la dépense, l'entrée seule (Rs 550 par personne de 12 ans et plus, Rs 325 de 6 à 11 ans) donne déjà accès au parc ; les tyroliennes s'ajoutent, à partir de Rs 1 375 pour une ligne de 500 m.",
+  "likes": [
+    "Tyroliennes courtes à petit prix : The Plunge (500 m, une ligne) et Waterfall Zipline (300 m, deux lignes)",
+    "Terre aux 23 couleurs et cascades dans le parc nature",
+    "Entrée gratuite pour les enfants de 1 à 5 ans",
+    "Ouvert tous les jours de 9 h à 17 h 30 ; parc pour enfants et restaurant"
+  ],
+  "watchouts": [
+    "Le billet d'entrée est obligatoire, en plus du prix des activités",
+    "Les grandes formules dépassent Rs 4 000 par personne non résidente",
+    "Âge, taille et poids minimum des tyroliennes non publiés sur les pages lues : à vérifier avant de venir avec des enfants"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 325,
+  "price_visitor_mur_max": 550,
+  "price_resident_mur": 400,
+  "price_note": "Entrée du parc (page « Book Your Adventure », consultée le 21 novembre 2026). Non-résidents : Rs 550 à partir de 12 ans, Rs 325 de 6 à 11 ans, gratuit de 1 à 5 ans. Résidents : Rs 400 et Rs 275. Les champs de prix ne portent que sur l'entrée. Tyroliennes en supplément, prix non-résident lus dans le formulaire de réservation : The Plunge Rs 1 375, Waterfall Zipline Rs 1 950, Signature Rs 2 850, Adventure Tour Rs 2 950, Discovery Tour Rs 3 600, Ten Flight Trail Rs 4 150, Sky Pulse Rs 4 975, Advenature Flight Rs 5 650.",
+  "opening_hours": "Mo-Su 09:00-17:30",
+  "hours_note": "« Opening Hours Monday to Sunday 9:00AM to 5:30PM » (page Contact du site officiel, consultée le 21 novembre 2026).",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=La+Vall%C3%A9e+des+Couleurs&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : La Vallée des Couleurs",
+      "accessed_at": "2026-11-21",
+      "evidence": "La Vallée des Couleurs Nature Park, La Marie – Le Pétrin – Chamouny Road, Mont Blanc, Chamouny VCA, Savanne, Mauritius / Maurice — lat -20.4574949, lon 57.4849894 (OpenStreetMap node 5625285721)"
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_resident_mur, price_note, watchouts, likes, why_go_md",
+      "url": "https://vallepark.com/book-your-adventure/",
+      "title": "Book Your Adventure – Vallé",
+      "accessed_at": "2026-11-21",
+      "evidence": "Entrance tickets are required for park access. Residents Rs 400 (12+ yrs) Rs 275 (6–11 yrs) Free (1–5 yrs)"
+    },
+    {
+      "field": "price_visitor_mur_min, price_visitor_mur_max, price_note",
+      "url": "https://vallepark.com/book-your-adventure/",
+      "title": "Book Your Adventure – Vallé",
+      "accessed_at": "2026-11-21",
+      "evidence": "Rs 550 (12+ yrs) Rs 325 (6–11 yrs) Free (1–5 yrs)"
+    },
+    {
+      "field": "opening_hours, hours_note, locality, likes",
+      "url": "https://vallepark.com/contact/",
+      "title": "Contact – Vallé",
+      "accessed_at": "2026-11-21",
+      "evidence": "Address B102, Mare Anguilles Chamouny, Mauritius Email sales@vallepark.com Phone +230 660 44 77 Opening Hours Monday to Sunday 9:00AM to 5:30PM"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://vallepark.com/adventure-activities/zipline/",
+      "title": "Zipline Adventures – Vallé",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ziplines Choose an option The Plunge (500m - 1 line) The Waterfall Zipline (300m - 2 lines) The Adventure Tour (2.4km - 6 lines) The Signature (1.5 Km) The Discovery Tour (1.6km - 7 lines) Ten Flight Trail (4km- 10 lines) Sky Pulse Tour (3.1km - 7 lines) Advenature Flight (5.5km - 11 lines)"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://vallepark.com/adventure-activities/zipline/",
+      "title": "Zipline Adventures – Vallé",
+      "accessed_at": "2026-11-21",
+      "evidence": "Soar towards the majestic Chamouzé waterfall on our Waterfall Zipline, a 20-minute journey that takes you along a 200m flight to the waterfall and a 100m return glide."
+    },
+    {
+      "field": "price_note, why_go_md, watchouts",
+      "url": "https://vallepark.com/adventure-activities/zipline/",
+      "title": "Zipline Adventures – Vallé",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"attribute_pa_choose-type\":\"non-resident\",\"attribute_pa_ziplines\":\"the-plunge-500-m-1-line\"} [...] \"display_price\":1375 [...] \"attribute_pa_ziplines\":\"the-waterfall-zipline\"} [...] \"display_price\":1950 [...] \"display_price\":2850 [...] \"display_price\":2949.98 [...] \"display_price\":3600 [...] \"display_price\":4150 [...] \"display_price\":4975 [...] \"display_price\":5650"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://vallepark.com/about-us/",
+      "title": "Our Story – Vallé",
+      "accessed_at": "2026-11-21",
+      "evidence": "Adventure Buggy Quad Zipline Adventures Nepalese Bridge Bicycle Zipline Mountain Luge Kart Private Expedition Group Expedition The Peak Nature 23 Coloured Earth Animals Endemic Trees Rock Garden Waterfalls Team Building Kids Park Restaurants"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Nom : le site s'appelle « Vallé » (vallepark.com, vers lequel redirige lvdc.mu) ; OpenStreetMap et les plateformes parlent encore de « La Vallée des Couleurs Nature Park ». Nom affiché à trancher.",
+    "Les prix des tyroliennes viennent des données du formulaire de réservation intégrées à la page (non visibles sans sélectionner une option) : à contrôler à l'écran. Inconnu : le billet d'entrée est-il compris dans le prix d'une tyrolienne ?",
+    "Le site affiche deux longueurs pour le Ten Flight Trail (4 km dans le formulaire, 3,5 km dans le texte) et deux compositions pour l'Adventure Tour (6 lignes / « 4 lines » dans l'identifiant) : chiffres non repris.",
+    "Âge, taille et poids minimum, durée des parcours longs, fermeture éventuelle les 25 décembre et 1er janvier : non trouvés.",
+    "Domaine de l'Étoile (autre parc de tyroliennes) : domainedeletoile.com n'a pas répondu (connexion réinitialisée) ; pas de fiche.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://vallepark.com/",
+  "secret": null
+}

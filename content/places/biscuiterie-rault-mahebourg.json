@@ -1,0 +1,139 @@
+{
+  "slug": "biscuiterie-rault-mahebourg",
+  "name": "Biscuiterie Rault : visite de la fabrique de biscuits de manioc",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "sud_est",
+  "locality": "Mahébourg",
+  "lat": -20.4039986,
+  "lng": 57.6979162,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Biscuiterie+Rault&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Fabrique familiale de biscuits de manioc lancés en 1870 : visite guidée des gestes traditionnels et dégustation.",
+  "description_md": "À Ville Noire, Mahébourg, la famille Rault-Sénèque fabrique des biscuits de manioc sans gluten selon une recette mise au point par Hilarion Rault en 1868 et commercialisée en 1870. La fabrique est ouverte aux visiteurs depuis 1995. La visite guidée montre le manioc pesé sur une ancienne balance de gare, la râpe et la presse d'époque, puis la cuisson sur plaques dans un four chauffé aux feuilles de canne séchées ; elle se termine par une dégustation.",
+  "why_go_md": "C'est une visite courte d'un artisanat encore en activité, qui parle aux enfants (on voit, on sent, on goûte) et se combine avec Mahébourg. Les biscuits se déclinent en plusieurs goûts : lait, chocolat, beurre, cannelle, coco, vanille, anis étoilé.",
+  "likes": [
+    "Fabrication artisanale visible : balance, râpe, presse et four traditionnels toujours en service",
+    "Dégustation en fin de visite",
+    "Biscuits sans gluten, sans colorants ni conservateurs",
+    "Entreprise familiale depuis cinq générations"
+  ],
+  "watchouts": [
+    "Fermé le week-end et les jours fériés",
+    "Ferme à 15 h 30",
+    "Visite payante, tarif non affiché sur le site",
+    "Le musée national d'histoire de Mahébourg, tout proche, est fermé pour rénovation depuis le 15 décembre 2025 d'après le Mauritius Museums Council"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Le site mentionne l'achat de billets mais n'affiche aucun tarif (consulté le 21 novembre 2026).",
+  "opening_hours": "Mo-Fr 09:00-15:30; Sa,Su,PH off",
+  "hours_note": "« Lundi – Vendredi : 9h00 – 15h30 — Week-ends & jours fériés : Fermé » (site officiel, consulté le 21 novembre 2026). Le site annonce ses fermetures exceptionnelles dans la même rubrique.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "peu_connu",
+  "rarity_reason": "Fabrique artisanale familiale à l'écart des grands sites ; le site présente ses biscuits de manioc comme uniques au monde.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Biscuiterie+Rault&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Biscuiterie Rault",
+      "accessed_at": "2026-11-21",
+      "evidence": "Biscuiterie Rault, Riverside Street, Petit Bel Air, Petit Bel Air VCA, Grand Port, 50810, Mauritius / Maurice — lat -20.4039986, lon 57.6979162 (OpenStreetMap way 256686852)"
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts",
+      "url": "https://biscuitmanioc.com/fr/accueil/",
+      "title": "Biscuiterie H.Rault",
+      "accessed_at": "2026-11-21",
+      "evidence": "Heures d’ouverture Lundi – Vendredi : 9h00 – 15h30 Week-ends & jours fériés : Fermé Fermeture exceptionnelle Veuillez noter que la Biscuiterie sera exceptionnellement fermée le Vendredi 28 aout 2026."
+    },
+    {
+      "field": "price_kind, price_note, watchouts",
+      "url": "https://biscuitmanioc.com/fr/accueil/",
+      "title": "Biscuiterie H.Rault",
+      "accessed_at": "2026-11-21",
+      "evidence": "pendant l’achat des billets, le parfum des épices provenant des plaques de cuisson vous met en appétit"
+    },
+    {
+      "field": "description_md, locality",
+      "url": "https://biscuitmanioc.com/fr/accueil/",
+      "title": "Biscuiterie H.Rault",
+      "accessed_at": "2026-11-21",
+      "evidence": "Adresse Biscuiterie de Manioc H. Rault Co Ltd Rue Fabien, Ville Noire, Mahébourg"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://biscuitmanioc.com/fr/accueil/",
+      "title": "Biscuiterie H.Rault",
+      "accessed_at": "2026-11-21",
+      "evidence": "lorsque Hilarion Rault mit au point une recette de biscuits de manioc. Encouragé par sa famille, il lança les « Biscuits Manioc » en 1870."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://biscuitmanioc.com/fr/accueil/",
+      "title": "Biscuiterie H.Rault",
+      "accessed_at": "2026-11-21",
+      "evidence": "Depuis 1995, la Biscuiterie Rault ouvre ses portes aux visiteurs, préservant son savoir-faire artisanal tout en intégrant de petites améliorations mécaniques conçues par les membres de la famille. Avec son antique balance et son four traditionnel toujours en service"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://biscuitmanioc.com/fr/accueil/",
+      "title": "Biscuiterie H.Rault",
+      "accessed_at": "2026-11-21",
+      "evidence": "la vieille balance de la gare ferroviaire, sauvée du temps, pèse encore le manioc frais livré chaque jour. Tout ici parle de tradition manuelle : la râpe et la presse d’époque"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://biscuitmanioc.com/fr/accueil/",
+      "title": "Biscuiterie H.Rault",
+      "accessed_at": "2026-11-21",
+      "evidence": "aucun conservateur ni colorant, un four chauffé aux feuilles de canne séchées [...] Pendant la dégustation, au milieu d’une nature préservée"
+    },
+    {
+      "field": "likes, rarity, why_go_md",
+      "url": "https://biscuitmanioc.com/fr/accueil/",
+      "title": "Biscuiterie H.Rault",
+      "accessed_at": "2026-11-21",
+      "evidence": "une entreprise familiale située à l’île Maurice, dont les biscuits sans gluten sont uniques au monde [...] Cinq générations ont préservé la recette secrète"
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://biscuitmanioc.com/fr/accueil/",
+      "title": "Biscuiterie H.Rault",
+      "accessed_at": "2026-11-21",
+      "evidence": "Biscuits Manioc goût lait [...] Biscuits Manioc goût chocolat [...] Biscuits Manioc goût beurre [...] Biscuits Manioc goût cannelle [...] Biscuits Manioc goût coco [...] Biscuits Manioc goût vanille [...] Biscuits Manioc goût anis étoilé"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1875",
+      "title": "National History Museum – Contact Info & Visiting Hours – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "emporarily closed for renovation works as from 15 December 2025."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix de la visite et durée : non publiés. « Visite courte » et « parle aux enfants » sont des appréciations de rédaction, à valider.",
+    "Fermeture de fin d'année : aucune annonce lue pour décembre 2026 – janvier 2027 ; la fabrique étant fermée les jours fériés et le week-end, vérifier les jours ouvrés entre Noël et le Nouvel An.",
+    "Adresse : « Rue Fabien, Ville Noire » selon le site, « Riverside Street, Petit Bel Air » selon OpenStreetMap. Coordonnées OpenStreetMap retenues.",
+    "Le site hésite entre « plus de 155 ans », « 140 ans » et « plus de 140 ans » d'existence : seules les dates 1868 et 1870 sont reprises.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://biscuitmanioc.com/",
+  "secret": null
+}
