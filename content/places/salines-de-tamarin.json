@@ -1,0 +1,122 @@
+{
+  "slug": "salines-de-tamarin",
+  "name": "Salines de Tamarin",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "ouest",
+  "locality": "Tamarin",
+  "lat": -20.3319477,
+  "lng": 57.3774172,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Salines%2C+Tamarin%2C+Mauritius&format=jsonv2&limit=4",
+  "google_place_id": null,
+  "pitch": "Dernières salines en activité de l'île, au pied de la Tourelle : bassins de pierre et d'argile où le sel est encore récolté à la main.",
+  "description_md": "Les salines de Tamarin s'étendent au pied de la montagne de la Tourelle, à l'entrée du village. L'office du tourisme les présente comme les dernières salines en activité de l'île : on y produit près de 1 500 tonnes de sel avec des gestes qui n'ont guère changé en deux cents ans. Il s'agit aujourd'hui des Salines de Yémen, propriété de la famille Maingard, sur plus de 30 hectares selon Le Mauricien (2021) ; une autre saline de Tamarin, celle de la société de Ravel, a annoncé sa fermeture en 2015 après la libéralisation des importations de sel. L'eau de mer est pompée vers un réservoir en hauteur, descend par gravité de bassin en bassin, d'abord en argile puis en pierre, où elle s'évapore : le gros sel se dépose au fond et la fleur de sel cristallise en surface.",
+  "why_go_md": "Pour voir un savoir-faire artisanal encore vivant : les paludières récoltent le gros sel à la pelle et à la brosse, puis le portent sur la tête jusqu'à l'entrepôt. Un circuit de visite balisé explique chaque étape, et une petite boutique vend le sel nature ou aromatisé. Le site donne aussi de belles vues sur les montagnes.",
+  "likes": [
+    "Dernières salines en activité de l'île selon l'office du tourisme",
+    "Récolte manuelle du gros sel et de la fleur de sel par les paludières",
+    "Circuit de visite balisé et petite boutique de sel nature ou aromatisé",
+    "Vue sur les montagnes autour de Tamarin"
+  ],
+  "watchouts": [
+    "Pas de récolte quand il pleut, d'après la guide citée par Le Mauricien : or l'office du tourisme annonce des averses possibles l'après-midi en été et plus de pluie de janvier à mars : tu peux trouver les bassins sans activité",
+    "Le travail se fait tôt : viens en début de matinée si tu veux voir les paludières",
+    "À l'ancienne saline de Ravel, le ramassage se faisait de septembre à décembre (Défi Media, 2015) : rien ne garantit une récolte visible pendant ton séjour"
+  ],
+  "tips_md": "Va tôt le matin pour voir les ouvrières au travail, conseille l'office du tourisme.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Aucun tarif officiel trouvé. Le Mauricien (article du 28 février 2021) indiquait : entrée Rs 150 par adulte, Rs 75 par enfant, Rs 50 par personne pour les écoles. Montants anciens et non officiels, à vérifier.",
+  "opening_hours": null,
+  "hours_note": "Aucun horaire officiel trouvé. Le Mauricien (article du 28 février 2021) indiquait : ouvert de 8h à 16h les jours de semaine et jusqu'à 11h30 le samedi. À vérifier, en particulier pour les jours fériés de fin d'année.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "heure": "Tôt le matin, pour voir les ouvrières au travail (office du tourisme)",
+    "meteo": "Récolte tous les sept jours « sauf quand il pleut » (Le Mauricien, 2021)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Salines%2C+Tamarin%2C+Mauritius&format=jsonv2&limit=4",
+      "title": "Nominatim (OpenStreetMap), recherche « Salines, Tamarin, Mauritius »",
+      "accessed_at": "2026-11-21",
+      "evidence": "OpenStreetMap node 12065696069 (tourism=attraction) « Salines de Yemen-Tamarin » : lat -20.3319477, lon 57.3774172"
+    },
+    {
+      "field": "description_md, pitch, likes, why_go_md, tips_md, best_time, watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/tamarin-salt-pans/",
+      "title": "Tamarin Salt Pans: Mauritius' Historic Salt Production (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Found at the foot of La Tourelle mountain near the entrance of Tamarin village, Tamarin Salt Pans are a rare sight to behold. These are the last active salt pans on the whole of the island, with workers utilising techniques that haven’t changed in some 200 years to produce nearly 1,500 tons of salt. [...] you can visit the small shop. Go early in the morning to see the workers in action. Visitors to the seaside community of Tamarin can also enjoy incredible mountain views."
+    },
+    {
+      "field": "description_md, watchouts, best_time",
+      "url": "https://www.lemauricien.com/actualites/circuit-de-visite-evasion-detente-les-salines-de-yemen-qui-fleurent-bon-le-patrimoine/406389/",
+      "title": "Circuit de visite évasion-détente : Les Salines de Yémen qui fleurent bon le patrimoine | Le Mauricien (28 février 2021)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Les Salines de Yémen s’étendent sur plus de 30 hectares, c’est un patrimoine familial des Maingard et 13 paludières y sont affectées. [...] « Nous récoltons tous les sept jours plus de 15 tonnes de sel, sauf quand il pleut."
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.lemauricien.com/actualites/circuit-de-visite-evasion-detente-les-salines-de-yemen-qui-fleurent-bon-le-patrimoine/406389/",
+      "title": "Circuit de visite évasion-détente : Les Salines de Yémen qui fleurent bon le patrimoine | Le Mauricien (28 février 2021)",
+      "accessed_at": "2026-11-21",
+      "evidence": "la première étape est une pompe qui est utilisée pour ramener l’eau de sel directement dans un grand réservoir qui se trouve tout en hauteur. [...] Comme nos bassins sont en pente, l’eau de mer se déverse tout naturellement par gravité dans différents bassins en argile. [...] En terminant sa course dans les bassins pierres, c’est là où l’eau de mer s’évapore, ce qui nous permet d’obtenir du gros sel dans le fond et de la fleur de sel en surface"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://www.lemauricien.com/actualites/circuit-de-visite-evasion-detente-les-salines-de-yemen-qui-fleurent-bon-le-patrimoine/406389/",
+      "title": "Circuit de visite évasion-détente : Les Salines de Yémen qui fleurent bon le patrimoine | Le Mauricien (28 février 2021)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La récolte du gros sel se fait avec l’aide d’une pelle que les paludières utilisent pour atteindre le fond du bassin. Lors de la deuxième étape, elles ont recours à une brosse [...] Elles les transporteront ensuite sur leur tête avant de déverser tout le sel dans l’entrepôt. [...] « On vend le sel naturel ou aromatisé. [...] Avec notre circuit balisé qui invite le visiteur à mieux s’imprégner des lieux"
+    },
+    {
+      "field": "price_note, hours_note",
+      "url": "https://www.lemauricien.com/actualites/circuit-de-visite-evasion-detente-les-salines-de-yemen-qui-fleurent-bon-le-patrimoine/406389/",
+      "title": "Circuit de visite évasion-détente : Les Salines de Yémen qui fleurent bon le patrimoine | Le Mauricien (28 février 2021)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ouvert de 8h à 16h les jours de semaine et jusqu’à 11h30, les samedis, l’entrée est à Rs 150 (adultes), Rs 75 (enfants) et Rs 50 par personne pour les écoles."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://mauritiusnow.com/mauritius-weather/",
+      "title": "Mauritius Weather (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "There is a higher chance of rain from January to March [...] There may be afternoon rain"
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://defimedia.info/difficultes-economiques-les-salines-de-tamarin-ferment-leurs-portes",
+      "title": "Difficultés économiques: les salines de Tamarin ferment leurs portes | Defimedia (17 septembre 2015)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La Société RPS de Ravel, productrice du sel marin de Tamarin, ferme ses portes après 60 années d’existence. La compagnie évoque des difficultés économiques suivant la décision du gouvernement de libéraliser l’importation du sel de table. [...] Le travail dure jusqu’à 9 heures du matin [...] Le ramassage du sel se fait entre septembre et décembre."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucun site officiel des Salines de Yémen trouvé : tarif et horaires ne viennent que d'un article du Mauricien de février 2021, d'où `price_kind`, prix et `opening_hours` à null. Vérifier par téléphone ou sur place que le site se visite toujours et à quel prix.",
+    "Statut actuel : l'office du tourisme (page consultée le 21 novembre 2026) parle des dernières salines en activité ; Wikipédia en anglais écrit qu'en 2017 les principales salines avaient cessé de fonctionner et étaient loties. Les deux se concilient si l'on distingue la saline de Ravel (fermée en 2015) et les Salines de Yémen ; à confirmer sur place.",
+    "Récolte pendant le séjour (21 décembre au 7 janvier) : incertaine. Pas de récolte sous la pluie (Le Mauricien) et, à l'ancienne saline de Ravel, ramassage de septembre à décembre (Défi Media).",
+    "lexpress.mu, qui a plusieurs articles sur les salines, a répondu 403.",
+    "L'ancienneté varie selon les sources : techniques vieilles de « quelque 200 ans » (office du tourisme), Salines de Yémen « 75 ans d'existence » en 2021 (Le Mauricien). La fiche ne donne pas de date de fondation.",
+    "Coordonnées : point OpenStreetMap « Salines de Yemen-Tamarin ».",
+    "Photo : API Wikimedia Commons en 429 (trop de requêtes) pendant la session ; aucune licence n'a pu être lue, donc aucun média."
+  ],
+  "website_url": null,
+  "secret": null
+}

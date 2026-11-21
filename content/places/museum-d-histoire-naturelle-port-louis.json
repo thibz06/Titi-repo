@@ -1,0 +1,113 @@
+{
+  "slug": "museum-d-histoire-naturelle-port-louis",
+  "name": "Muséum d'histoire naturelle de Port-Louis",
+  "family": "culture_patrimoine",
+  "tags": [
+    "gratuit",
+    "pluie_ok"
+  ],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1632449,
+  "lng": 57.5024298,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Natural+History+Museum%2C+Port+Louis&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Musée gratuit du centre de Port-Louis : quatre galeries d'histoire naturelle, dont un squelette de dodo issu d'un seul oiseau.",
+  "description_md": "Le Natural History Museum occupe le rez-de-chaussée du Mauritius Institute Building, face au Jardin de la Compagnie, au centre de Port-Louis. Le bâtiment, construit entre 1880 et 1884, est classé patrimoine national. D'après le Mauritius Museums Council, c'est le plus ancien musée de Maurice. Ses quatre galeries permanentes retracent 500 ans d'histoire naturelle de l'île : oiseaux, mammifères et reptiles, vie marine, géologie et insectes, et une galerie consacrée au dodo.",
+  "why_go_md": "L'entrée est gratuite. La galerie du dodo montre une maquette de l'oiseau et un squelette recueilli en 1900 dont tous les os proviennent du même individu, ce que le musée présente comme unique.",
+  "likes": [
+    "Entrée gratuite",
+    "Squelette de dodo dont tous les os viennent d'un seul oiseau",
+    "Galerie entièrement consacrée à la vie marine",
+    "Insectarium avec une collection presque complète de papillons",
+    "Face au Jardin de la Compagnie"
+  ],
+  "watchouts": [
+    "Fermé le dimanche et les jours fériés",
+    "Ouvre seulement à 11 h le mercredi ; ferme à midi le samedi"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "free",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "« ENTRANCE FREE » sur la page du Mauritius Museums Council (pied de page « Copyright © 2026 », consultée le 21 novembre 2026).",
+  "opening_hours": "Mo,Tu,Th,Fr 09:00-16:00; We 11:00-16:00; Sa 09:00-12:00; Su,PH off",
+  "hours_note": "Horaires de la page « Contact Info & Visiting Hours » du Mauritius Museums Council (consultée le 21 novembre 2026).",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": true,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Natural+History+Museum%2C+Port+Louis&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Natural History Museum, Port Louis",
+      "accessed_at": "2026-11-21",
+      "evidence": "Natural History Museum, Poudrière Street, Centre-Ville, Barracks, Town of Port-Louis, Ward 3, Port Louis, 11317, Mauritius / Maurice — lat -20.1632449, lon 57.5024298 (OpenStreetMap relation 14750287)"
+    },
+    {
+      "field": "price_kind, price_note, opening_hours, hours_note, watchouts, likes, tags",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1876",
+      "title": "Natural History Museum – Contact Info & Visiting Hours – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "Address: Mauritius Institute Building, Chaussée, Port Louis, Mauritius Email: mimuse@intnet.mu Visiting Hours: Monday, Tuesday, Thursday & Friday: 09 00 to 16 00 hours Wednesday : 11 00 to 16 00 hours Saturday: 09 00 to 12 00 hours Sunday & Public Holiday: Closed ENTRANCE FREE"
+    },
+    {
+      "field": "description_md, likes, rain_ok, tags",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1855",
+      "title": "Natural History Museum – Historical Background – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Natural History Museum is located on the ground floor of the Mauritius Institute Building, right in front of the “Jardin de la Compagnie”, in the heart of the City of Port Louis. The Mauritius Institute Building, constructed between 1880 and 1884, is listed as a National Heritage."
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1855",
+      "title": "Natural History Museum – Historical Background – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Natural History Museum is the oldest museum of Mauritius and amongst the oldest in southern Africa."
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1847",
+      "title": "Natural History Museum – About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Natural History Museum, through its four permanent galleries, presents the past 500 years of the natural history of Mauritius. The first gallery exhibits mammals, reptiles and mostly birds."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1847",
+      "title": "Natural History Museum – About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The second gallery is wholly dedicated to marine life [...] The third gallery has sections on geology, corals, shrimps, insects, turtles and local woods. [...] An insectarium showing almost complete collection of butterflies"
+    },
+    {
+      "field": "why_go_md, likes, pitch",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1847",
+      "title": "Natural History Museum – About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "A model of the Dodo, the centrepiece of the museum, is displayed in this gallery. The skeleton of the Dodo, collected by E. Thirioux, a barber, in 1900, is unique in the sense that all the bones come from one individual bird."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Adresse : « Chaussée » selon le Mauritius Museums Council, « Poudrière Street » selon OpenStreetMap (le bâtiment donne sur plusieurs rues ?). Coordonnées OpenStreetMap retenues.",
+    "La page n'est pas datée : horaires et gratuité à revérifier, ainsi que l'ouverture entre Noël et le Nouvel An (hors jours fériés).",
+    "Durée de visite non indiquée : duration_min et duration_max à null.",
+    "Le Jardin de la Compagnie voisin et le Musée de la Photographie n'ont pas de fiche : aucune source officielle lisible trouvée (pas de site officiel repéré pour le musée ; museephoto.mu ne répond pas).",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/",
+  "secret": null
+}

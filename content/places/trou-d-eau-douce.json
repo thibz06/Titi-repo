@@ -1,0 +1,156 @@
+{
+  "slug": "trou-d-eau-douce",
+  "name": "Trou d'Eau Douce",
+  "family": "villages_marches",
+  "tags": [],
+  "region": "est",
+  "locality": "Trou d'Eau Douce",
+  "lat": -20.2397513,
+  "lng": 57.784971,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Trou%20d%27Eau%20Douce",
+  "google_place_id": null,
+  "pitch": "Village de pêcheurs de la côte est, principal point de départ des bateaux pour l'île aux Cerfs.",
+  "description_md": "Trou d'Eau Douce est un village de la côte est, dans le district de Flacq, qui comptait 5 672 habitants en 2011. D'après Wikipédia, il doit son nom à une source d'eau potable qui rejoint la mer sur le rivage et fut l'un des premiers points de ravitaillement en eau des navires hollandais. Après l'abolition de l'esclavage en 1835, des affranchis se sont installés le long de la côte, aux lieux-dits Débarcadère et Le Maho, et ont vécu de la pêche. Le village est aujourd'hui le principal lieu de départ vers l'île aux Cerfs.",
+  "why_go_md": "L'office du tourisme en fait une étape à ne pas manquer de la côte est : un village de pêcheurs chargé d'histoire, aux rues bordées de restaurants, où l'on peut voir le lever du soleil et le départ des pêcheurs si on se lève tôt. C'est aussi là que tu embarques pour l'île aux Cerfs, et l'ancien four à chaux, bâti sur une plage du village, se visite avant de monter à bord.",
+  "likes": [
+    "Lever du soleil et départ des pêcheurs au petit matin (office du tourisme)",
+    "Ruines de l'ancien four à chaux, sur une plage du village : on y brûlait des coraux pour produire la chaux des maçons (Le Défi, 2020)",
+    "Rues bordées de restaurants (office du tourisme)",
+    "Bateaux-taxis et bateaux de plaisance pour l'île aux Cerfs et le lagon"
+  ],
+  "watchouts": [
+    "Embarquement : en janvier 2024, Le Défi indiquait que les passagers pour l'île aux Cerfs devaient marcher dans l'eau pour monter à bord au site du Maho, où la Tourism Authority projetait une jetée. État actuel non vérifié.",
+    "Bateliers : en 2019, la Tourism Authority signalait à Trou d'Eau Douce des opérateurs travaillant sans permis et du démarchage illégal de clients. Chaque bateau autorisé est rattaché à un point d'embarquement précis.",
+    "Baignade : Trou d'Eau Douce figure parmi les plages de l'Est où des panneaux « Baignade dangereuse » ont été posés (liste donnée au Parlement, ionnews, avril 2024).",
+    "Érosion : selon Le Défi (août 2026), la plupart des plages de Belle-Mare et Trou d'Eau Douce pourraient disparaître à l'horizon 2050."
+  ],
+  "tips_md": "Pour l'île aux Cerfs, deux possibilités : la navette de l'exploitant de l'île, qui part de la jetée de Pointe Maurice (voir la fiche Île aux Cerfs), ou les bateliers du village. Seul repère de prix trouvé pour ces derniers, et il est ancien : en mars 2019, Le Défi citait Rs 1 100 par personne pour le seul trajet en catamaran vers l'île aux Cerfs et Rs 1 800 avec la cascade de Grande Rivière Sud-Est et des activités. Fais-toi confirmer le prix et l'heure du retour avant d'embarquer.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "lever_du_soleil": "L'office du tourisme recommande de se lever tôt pour le lever du soleil et le départ des pêcheurs."
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "L'office du tourisme écrit qu'une visite de Trou d'Eau Douce est un « must » de la côte est ; Wikipédia en fait le principal lieu de départ vers l'île aux Cerfs.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Trou%20d%27Eau%20Douce",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"lat\":\"-20.2397513\",\"lon\":\"57.7849710\" [...] \"type\":\"village\" [...] \"name\":\"Trou d'Eau Douce\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Trou_d%27Eau_Douce",
+      "title": "Trou d'Eau Douce — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Trou d’Eau Douce est un village situé sur la côte est de l’île Maurice, dans le district de Flacq. [...] Avec une population d'environ 5 600 habitants en 2006 et 5 672 en 2011"
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Trou_d%27Eau_Douce",
+      "title": "Trou d'Eau Douce — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le village tire son nom du fait qu’à un endroit sur le rivage, Belle Île, de l’eau de source potable entre en contact avec l’eau salée. [...] Trou d’Eau Douce fut un des premiers endroits de leurs ravitaillements en eau, d’où le nom."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Trou_d%27Eau_Douce",
+      "title": "Trou d'Eau Douce — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "À l'abolition de l'esclavage en 1835, beaucoup d’affranchis cessèrent de travailler dans les champs et s’installèrent le long de la côte, plus particulièrement à Débarcadère et Le Maho, et vécurent de la pêche."
+    },
+    {
+      "field": "description_md, pitch, rarity",
+      "url": "https://fr.wikipedia.org/wiki/Trou_d%27Eau_Douce",
+      "title": "Trou d'Eau Douce — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le tourisme s’est encore développé avec la popularité grandissante de l’île aux Cerfs. Le village est le principal lieu de départ pour cet îlot aux plages paradisiaques."
+    },
+    {
+      "field": "why_go_md, likes, best_time, rarity",
+      "url": "https://mauritiusnow.com/mauritius-map/east-mauritius/",
+      "title": "East Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "A visit to Trou d’Eau Douce is a must. This fishing village is rich with history and the streets are lined with restaurants. If you get up early enough, you can watch an incredible sunrise and spot local fishermen heading out to catch your supper!"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://defimedia.info/trou-deau-douce-dans-les-ruines-du-four-chaux",
+      "title": "Trou-d’Eau-Douce : dans les ruines du four à chaux — Defimedia (10 février 2020)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Construit sur une des plages de ce village, l’ancien four à chaux est une escale obligatoire. D’ailleurs, touristes et mauriciens ne manquent pas de le visiter avant d’embarquer sur les bateaux-taxis qui les conduiront à l’île-aux-Cerfs [...] les gens de l’époque y fabriquaient de la chaux en brûlant des coraux. La chaux ainsi obtenue était utilisée pour les travaux de maçonnerie."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/riviere-noire-et-trou-deau-douce-la-tourism-authority-prevoit-la-construction-de-deux-jetees",
+      "title": "Rivière-Noire et Trou-d'Eau-Douce : la Tourism Authority prévoit la construction de deux jetées — Defimedia (5 janvier 2024)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le site de Trou-D'Eau-Douce, également appelé Le Maho, abrite l'un des points d'embarquement les plus actifs de la côte Est, utilisé par plus d'une soixantaine d'opérateurs de bateaux de plaisance. [...] Avec ce projet, les passagers embarquant pour l'Île-aux-Cerfs n'auront plus à marcher dans l'eau."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/fructueux-business-des-plaisanciers-de-rs-300-000-plus-de-rs-1-m-de-recettes-par-bateau",
+      "title": "Fructueux business des plaisanciers : de Rs 300 000 à plus de Rs 1 M de recettes par bateau — Defimedia (10 mars 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "À Trou-d'Eau-Douce, des plaisanciers travaillaient illégalement. Ils tentaient d'attirer les clients des plaisanciers patentés. D'autres faisaient du canvassing illégalement et proposaient de meilleurs tarifs."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/uproar-among-eastern-boaters-tourism-authority-wading-through-troubled-waters",
+      "title": "Uproar among Eastern Boaters : Tourism Authority wading through troubled waters — Defimedia (22 février 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "She points out that each pleasure craft license is linked to a specific embarkation point. [...] there are two points at Trou d’Eau Douce"
+    },
+    {
+      "field": "tips_md",
+      "url": "https://defimedia.info/fructueux-business-des-plaisanciers-de-rs-300-000-plus-de-rs-1-m-de-recettes-par-bateau",
+      "title": "Fructueux business des plaisanciers : de Rs 300 000 à plus de Rs 1 M de recettes par bateau — Defimedia (10 mars 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Une tournée en catamaran, incluant une visite à la cascade de Grande-Rivière-Sud-Est, le parasailing, la marche sous l’eau et la plongée, coûte Rs 1 800 par personne et Rs 1 100 par personne rien que pour le trajet vers l’île-aux-Cerfs."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://ionnews.mu/baignade-dangereuse-voici-les-plages-a-risques/",
+      "title": "Baignade dangereuse : Voici les plages à risques — ionnews.mu (27 avril 2024)",
+      "accessed_at": "2026-11-21",
+      "evidence": "il y avait 24 plages à Maurice où des panneaux de « Baignade dangereuse » ont été installés afin d’alerter le public. [...] Région Est : Belle Mare, Trou d’Eau Douce, Quatre Cocos, Poste La Fayette et Bras d’Eau."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/erosion-jusquou-retenir-la-mer",
+      "title": "Érosion : jusqu’où retenir la mer ? — Defimedia (23 août 2026)",
+      "accessed_at": "2026-11-21",
+      "evidence": "À Belle-Mare et Trou-d’Eau-Douce, la plupart des plages pourraient disparaître à l’horizon 2050"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Embarcadère : aucun point précis (Le Maho, Débarcadère) n'a pu être géolocalisé par une source autorisée ; les coordonnées sont celles du village dans OpenStreetMap. À placer sur le point d'embarquement réel avant publication.",
+    "Jetée : le projet annoncé en janvier 2024 par la Tourism Authority est-il réalisé ? Aucune source plus récente trouvée.",
+    "Tarifs des bateliers du village : aucun tarif officiel publié ; seul repère, un article du Défi de mars 2019 (Rs 1 100 le trajet). À relever sur place.",
+    "Le Défi (2020) situe le village sur la côte « sud-est », Wikipédia et l'office du tourisme sur la côte est : la fiche retient l'est.",
+    "L'origine du nom et l'histoire hollandaise viennent de Wikipédia (article peu sourcé) : à recouper.",
+    "lexpress.mu (Cloudflare, 403) et beachauthority.govmu.org (erreur 502 via le proxy) n'ont pas pu être consultés."
+  ],
+  "website_url": null,
+  "secret": null
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "ebony-forest-chamarel",
+  "name": "Ebony Forest : randonnée dans la forêt d'ébènes",
+  "family": "nature_parcs",
+  "tags": [
+    "famille"
+  ],
+  "region": "sud_ouest",
+  "locality": "Chamarel",
+  "lat": -20.4370934,
+  "lng": 57.3718465,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Ebony+Forest&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Réserve associative de Chamarel : sentiers faciles de 2,3 à 6,1 km, passerelle dans une forêt d'ébènes et petit musée.",
+  "description_md": "Ebony Forest est une réserve gérée par une organisation à but non lucratif, sur la route de la Terre des Sept Couleurs à Chamarel. Le billet « Take a Hike » donne accès aux sentiers en autonomie (2,3 à 6,1 km selon que l'on monte à Sublime Point ou au Piton Canot), à un film de quelques minutes en français ou en anglais, à un musée d'histoire naturelle et à une visite guidée sur une passerelle surélevée de 300 mètres dans une forêt d'ébènes ancienne.",
+  "why_go_md": "Les randonnées sont classées faciles et conviennent à tous les âges d'après la réserve, pour un prix modéré (Rs 600 par adulte non résident, gratuit avant 5 ans). Les recettes financent les programmes de conservation.",
+  "likes": [
+    "Sentiers classés faciles, de 1 à 4 heures",
+    "Visites guidées de la passerelle chaque heure de 9 h 30 à 16 h, sans réservation",
+    "Gratuit pour les moins de 5 ans",
+    "10 % de réduction pour un billet acheté en ligne",
+    "Parking sur place"
+  ],
+  "watchouts": [
+    "La montée au Piton Canot peut être glissante par temps humide",
+    "La passerelle est à plus de 4 mètres de haut, avec 113 marches à monter et 142 à descendre : préviens le personnel en cas de vertige",
+    "La réserve conseille d'arriver avant 14 h 30 ; fermeture à 17 h"
+  ],
+  "tips_md": "Baskets ou chaussures de marche et antimoustique recommandés par la réserve. Pour un budget serré ou des personnes peu mobiles, la « Green Loop » (250 m, 25 minutes, centre des visiteurs accessible aux fauteuils et poussettes) coûte Rs 300 par adulte non résident et Rs 230 de 5 à 17 ans.",
+  "duration_min": 60,
+  "duration_max": 240,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 370,
+  "price_visitor_mur_max": 600,
+  "price_resident_mur": 400,
+  "price_note": "Tarifs « Take a Hike » du site officiel (pied de page « © 2026 », consulté le 21 novembre 2026). Non-résident : adulte Rs 600, 5-17 ans Rs 370, 0-4 ans gratuit. Résident : adulte Rs 400, 5-17 ans Rs 250. Réduction de 10 % en ligne. Autres formules plus chères (safari en jeep Rs 1 600, randonnées guidées Rs 2 500 par adulte non résident).",
+  "opening_hours": "Mo-Su 09:00-17:00",
+  "hours_note": "« Opening Hours: 09:00 – 17.00 daily » (page Contact du site officiel, consultée le 21 novembre 2026).",
+  "difficulty": 1,
+  "accessibility": {
+    "green_loop": "Centre des visiteurs accessible aux fauteuils roulants et aux poussettes ; boucle de 250 m (site officiel)"
+  },
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Ebony+Forest&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Ebony Forest",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ebony Forest, 7, Flycather raised walkway, La Gaulette, La Gaulette VCA, Black River, 91102, Mauritius / Maurice — lat -20.4370934, lon 57.3718465 (OpenStreetMap way 459008713)"
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_resident_mur, price_note, duration_min, duration_max, likes",
+      "url": "https://www.ebonyforest.com/visit-ebony/",
+      "title": "Visit Ebony – Ebony Forest Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Distance: 2.3 km – 6.1 km, depending on your route. Buying your ticket: Purchase your ticket either online to benefit from 10 % discount or when you visit. Duration : 1 – 4 hours, depending on if you hike up Piton Canot Booking: Not necessary. Resident Rates: Adult: Rs 400 5-17 years: Rs 250 0-4 years: free of charge Resident group rate (>10 persons): Adult Rs 360, Child Rs Rs 225 Non-Resident Rates: Adult: Rs 600 5-17 years: Rs 370 0-4 years: free of charge"
+    },
+    {
+      "field": "price_note",
+      "url": "https://www.ebonyforest.com/visit-ebony/",
+      "title": "Visit Ebony – Ebony Forest Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Tours depart at set times: 9:30, 11:30, 13:30, 15:30 Resident Rates: Adult: Rs 1050 5-17 years: Rs 630 0-4 years: free of charge Private drive: On request Non-Resident Rates: Adult: Rs 1600 5-17 years: Rs 1080"
+    },
+    {
+      "field": "tips_md, accessibility",
+      "url": "https://www.ebonyforest.com/visit-ebony/",
+      "title": "Visit Ebony – Ebony Forest Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Visitor Centre is accessible to wheel- and push- chair users. [...] Duration: 25 mins Distance: 250 m Booking: not necessary. [...] Resident Rates: Adult: Rs 250 5-17 years: Rs 190 0-4 years: free of charge Non-Resident Rates: Adult: Rs 300 5-17 years: Rs 230 0-4 years: free of charge"
+    },
+    {
+      "field": "difficulty, why_go_md, likes, pitch, tags",
+      "url": "https://www.ebonyforest.com/visit-ebony/take-a-hike/",
+      "title": "Take a Hike – Ebony Forest Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Hikes range from 1 to 4 hours over 2.3 km to 6.1 km , are graded easy , and are suitable for all ages. Guided Flycatcher tours run hourly from 9:30 to 16:00 , and booking is not required"
+    },
+    {
+      "field": "difficulty, watchouts",
+      "url": "https://www.ebonyforest.com/visit-ebony/take-a-hike/",
+      "title": "Take a Hike – Ebony Forest Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "The hikes are graded easy, based on international standards. The hike up Piton Canot can be slippy when wet. The Flycatcher raised walkway is more than 4m in height so if you suffer from vertigo, please inform our staff in advance. There are 113 steps up and 142 down on the walkway"
+    },
+    {
+      "field": "watchouts, description_md",
+      "url": "https://www.ebonyforest.com/visit-ebony/take-a-hike/",
+      "title": "Take a Hike – Ebony Forest Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "We recommend you visit before 2.30 pm to fully appreciate your visit as we close at 17:00. Distance: 2.3 km – 6.1 km if you hike to Sublime Point or Piton Canot."
+    },
+    {
+      "field": "tips_md, likes",
+      "url": "https://www.ebonyforest.com/visit-ebony/take-a-hike/",
+      "title": "Take a Hike – Ebony Forest Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "We recommend trainers or hiking shoes. Mosquito repellent is advised, and of course your camera. Parking Available."
+    },
+    {
+      "field": "description_md, why_go_md, pitch",
+      "url": "https://www.ebonyforest.com/visit-ebony/take-a-hike/",
+      "title": "Take a Hike – Ebony Forest Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "All proceeds contribute directly to ongoing conservation programmes. Highlights Guided tour on our 300 m raised walkway through an ancient ebony forest Savouring snacks at Sublime Point Hike along the Ridgeline Trail Museum about the island’s natural history [...] Includes Access to self-guided hiking trails Film in English (6 mins) or French (8 mins)"
+    },
+    {
+      "field": "opening_hours, hours_note",
+      "url": "https://www.ebonyforest.com/contact-us-2/",
+      "title": "Contact us – Ebony Forest Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Opening Hours: 09:00 – 17.00 daily"
+    },
+    {
+      "field": "description_md, locality",
+      "url": "https://www.ebonyforest.com/contact-us-2/",
+      "title": "Contact us – Ebony Forest Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ebony Forest is a registered non-profit organisation (NSIF/2024/0016) in Mauritius [...] Address: 90409, 7 Coloured Earth Road, Chamarel, Mauritius"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "difficulty = 1 traduit « graded easy » : l'échelle 1 à 5 de l'app n'a pas d'équivalence officielle ; 2 serait défendable pour la montée au Piton Canot.",
+    "Ouverture les 25 décembre et 1er janvier : « daily » sans exception mentionnée ; à confirmer.",
+    "OpenStreetMap rattache le bâtiment à La Gaulette (limite administrative), le site officiel donne l'adresse à Chamarel : localité « Chamarel » retenue.",
+    "Aucune randonnée guidée gratuite n'a été trouvée sur un site officiel ; les randonnées guidées d'Ebony Forest et de Yemaya Adventures sont payantes.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://www.ebonyforest.com/",
+  "secret": null
+}

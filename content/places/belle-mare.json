@@ -1,0 +1,141 @@
+{
+  "slug": "belle-mare",
+  "name": "Plage de Belle Mare",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "est",
+  "locality": "Belle Mare",
+  "lat": -20.1911172,
+  "lng": 57.775207,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Belle%20Mare%20Public%20Beach",
+  "google_place_id": null,
+  "pitch": "L'une des plus longues plages de l'île, sable blanc et filaos sur la côte est, belle au lever du soleil.",
+  "description_md": "Sur la côte est, dans le district de Flacq, Belle Mare est présentée par l'office du tourisme comme l'une des plus longues plages de Maurice, une bande de sable blanc bordée de filaos face à une eau claire. D'après un relevé de la Beach Authority cité par Le Défi en 2018, la plage publique de Belle Mare (portion 1, 17,4 hectares) est la deuxième plus grande de l'île après sa voisine Palmar.",
+  "why_go_md": "L'office du tourisme la classe parmi ses cinq plus belles plages : promenade au lever du soleil, baignade, snorkeling, puis l'ombre des filaos pour se sécher. Elle reste, selon lui, très appréciée des visiteurs comme des Mauriciens.",
+  "likes": [
+    "Très longue plage de sable blanc, parmi les plus longues de l'île (office du tourisme)",
+    "Lever du soleil sur le lagon de la côte est",
+    "Ombre des filaos en bord de plage",
+    "Deuxième plus grande plage publique de l'île par sa superficie (relevé de la Beach Authority, 2018)"
+  ],
+  "watchouts": [
+    "Baignade : le lagon de Belle-Mare figure sur la liste des zones de baignade dangereuse de la Beach Authority (Le Défi, 2018) et parmi les plages munies de panneaux « Baignade dangereuse » (ionnews, 2024). Respecte les panneaux.",
+    "Méduses : le 15 janvier 2026, la police demandait d'éviter la baignade et les activités nautiques dans le lagon de Belle-Mare jusqu'à nouvel ordre. Levée de l'avis non vérifiée ; des méduses-boîtes y avaient déjà été signalées en janvier 2019.",
+    "Érosion : des filaos sont remplacés par des arbres endémiques depuis 2021, sur une zone clôturée de 400 mètres ; selon Le Défi (août 2026), la plupart des plages de Belle-Mare pourraient disparaître à l'horizon 2050."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "lever_du_soleil": "L'office du tourisme recommande la promenade au lever du soleil."
+  },
+  "rain_ok": null,
+  "risk_level": "medium",
+  "risk_note": "Lagon inscrit sur la liste des zones de baignade dangereuse de la Beach Authority et cité en 2018 par une source policière parmi les lagons les plus meurtriers ; avis méduses de la police en janvier 2026. Baignade près du bord, en respectant les panneaux.",
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Classée par l'office du tourisme parmi les cinq plus belles plages de l'île et décrite comme très fréquentée par les visiteurs et les Mauriciens.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Belle%20Mare%20Public%20Beach",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"lat\":\"-20.1911172\",\"lon\":\"57.7752070\" [...] \"name\":\"Belle Mare Public Beach\""
+    },
+    {
+      "field": "description_md, why_go_md, likes, pitch, best_time, rarity",
+      "url": "https://mauritiusnow.com/blog/things-to-do/belle-mare-beach/",
+      "title": "Belle Mare Beach — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Located on the east coast of the island, there is no better way to start the day than a sunrise stroll on one of Mauritius’s longest beaches. [...] Belle Mare beach remains a popular choice for visitors and locals to come and relax. [...] white sand and transparent aquamarine waters make this a perfect spot for relaxing and discovering marine life, whether you’re snorkelling, swimming or diving. [...] dry-off in the shade of casuarina trees"
+    },
+    {
+      "field": "why_go_md, rarity",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-beaches-in-mauritius/",
+      "title": "Best beaches in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Top 5 best beaches in Mauritius [...] Belle Mare [...] Start the day as you mean to go on with a sunrise stroll on one of Mauritius’s longest beaches."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://defimedia.info/en-une-dizaine-dannees-les-plages-publiques-representent-15-du-littoral",
+      "title": "En une dizaine d'années : les plages publiques représentent 15% du littoral — Defimedia (29 août 2018)",
+      "accessed_at": "2026-11-21",
+      "evidence": "De Roches-Noires à Quatre-Sœurs, le district de Flacq abrite les deux plus grandes plages de l’île, avec P.G Palmar (18,5 Ha) et P.G Belle-Mare-portion 1 (17,4 Ha) respectivement."
+    },
+    {
+      "field": "risk_level, risk_note, watchouts",
+      "url": "https://defimedia.info/baignade-dangereuse-36-lagons-consideres-risque-pour-les-nageurs",
+      "title": "Baignade dangereuse : 36 lagons considérés à risque pour les nageurs — Defimedia (3 février 2018)",
+      "accessed_at": "2026-11-21",
+      "evidence": "sur les 121 plages publiques, 36 lagons figurent sur la liste des zones de baignade dangereuse. La BA y a placé 87 panneaux. [...] La liste des lagons dangereux : Le Goulet, Pointe-aux-Piments, La Cuvette, Pointe d ’Azur, Bain-Bœuf, Poste-Lafayette, Bras-d’Eau, Belle-Mare"
+    },
+    {
+      "field": "risk_level, risk_note",
+      "url": "https://defimedia.info/baignade-dangereuse-36-lagons-consideres-risque-pour-les-nageurs",
+      "title": "Baignade dangereuse : 36 lagons considérés à risque pour les nageurs — Defimedia (3 février 2018)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Selon notre source, les lagons les plus meurtriers sont : Albion, La Prairie, Le Goulet, Flic-en-Flac, Belle-Mare, Blue-Bay, Gris-Gris, le chenal de Grande-Rivière-Sud-Est, Poste-Lafayette"
+    },
+    {
+      "field": "watchouts, risk_level",
+      "url": "https://ionnews.mu/baignade-dangereuse-voici-les-plages-a-risques/",
+      "title": "Baignade dangereuse : Voici les plages à risques — ionnews.mu (27 avril 2024)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Région Est : Belle Mare, Trou d’Eau Douce, Quatre Cocos, Poste La Fayette et Bras d’Eau."
+    },
+    {
+      "field": "watchouts, risk_note",
+      "url": "https://defimedia.info/belle-mare-presence-de-meduses-signalee-dans-le-lagon",
+      "title": "Belle-Mare : présence de méduses signalée dans le lagon — Defimedia (15 janvier 2026)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La police signale la présence de méduses dans le lagon de Belle-Mare. [...] Le public est invité à faire preuve de la plus grande prudence et à éviter la baignade ainsi que toute activité nautique jusqu’à nouvel ordre."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/apres-le-littoral-nord-les-meduses-se-propagent-dautres-plages",
+      "title": "Après le littoral Nord : les méduses se propagent à d’autres plages — Defimedia (5 janvier 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "des méduses-boîtes (box-jellyfish) ont été aperçues dans quelques zones sur les côtes nord, est et ouest du pays. [...] Est : Poste-Lafayette, Roches-Noires et Belle-Mare"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://ionnews.mu/a-belle-mare-des-arbres-endemiques-pour-lutter-contre-lerosion-cotiere/",
+      "title": "À Belle-Mare : Des arbres endémiques pour lutter contre l’érosion côtière — ionnews.mu (12 février 2021)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Un projet de remplacement des filaos (casuarinas) à Belle-Mare a été mis en œuvre en collaboration avec le Service forestier du ministère de l’Agro-industrie et s’étalera sur une période de deux ans. Des arbres endémiques seront plantés et clôturés sur une zone de 400 mètres de long et 15 mètres de large."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/erosion-jusquou-retenir-la-mer",
+      "title": "Érosion : jusqu’où retenir la mer ? — Defimedia (23 août 2026)",
+      "accessed_at": "2026-11-21",
+      "evidence": "À Belle-Mare et Trou-d’Eau-Douce, la plupart des plages pourraient disparaître à l’horizon 2050"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Gratuité : aucune source consultée n'écrit que l'accès à la plage publique est gratuit ; price_kind reste à null.",
+    "Longueur : l'office du tourisme parle d'environ six miles de sable ; le chiffre n'a pas été recoupé et n'est pas repris.",
+    "La page de l'office du tourisme situe Belle Mare « près de Mahébourg », ce qui contredit sa propre localisation sur la côte est : phrase non reprise.",
+    "risk_level « medium » est une lecture du rédacteur à partir de la liste des baignades dangereuses (2018, 2024) et de l'avis méduses de janvier 2026 : à confirmer par l'éditeur, et vérifier si l'avis de la police a été levé.",
+    "Équipements (toilettes, parking, maîtres-nageurs) : le site de la Beach Authority n'a pas pu être consulté (erreur 502 via le proxy).",
+    "Aucune page Wikipédia en français pour Belle Mare ; l'API Wikipédia en anglais et Commons ont répondu 429 (limite de débit)."
+  ],
+  "website_url": null,
+  "secret": null
+}

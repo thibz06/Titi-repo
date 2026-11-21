@@ -1,0 +1,107 @@
+{
+  "slug": "marie-reine-de-la-paix",
+  "name": "Marie Reine de la Paix",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1704019,
+  "lng": 57.4962804,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Marie+Reine+de+la+Paix%2C+Port+Louis&format=jsonv2&limit=4",
+  "google_place_id": null,
+  "pitch": "Monument marial de 1940 à flanc de montagne au-dessus de Port-Louis, avec vue sur la ville et la mer ; deux papes y ont célébré la messe.",
+  "description_md": "Marie Reine de la Paix est un sanctuaire catholique en plein air du diocèse de Port-Louis, installé sur les pentes d'une montagne qui domine la capitale. Le monument a été inauguré le 15 août 1940, jour de l'Assomption. Un texte de dévotion consulté précise que la statue, haute de trois mètres, a été érigée sur la montagne des Signaux par Mgr James Leen, huitième évêque de Port-Louis, pour placer les Mauriciens sous la protection de la Vierge dans le contexte de la Seconde Guerre mondiale. Jean-Paul II y a célébré la messe en 1989, puis le pape François le 9 septembre 2019 devant environ 100 000 personnes.",
+  "why_go_md": "Pour le point de vue : depuis l'autel, on voit la ville et la mer au-delà, selon les mots du pape François en 2019. Et pour un lieu qui compte dans la vie religieuse du pays : le 15 août, fête de l'Assomption, y est lié et s'appelle couramment « Fête Marie » dans les familles mauriciennes.",
+  "likes": [
+    "Vue sur Port-Louis et la mer depuis le monument",
+    "Statue de la Vierge haute de trois mètres, dévoilée le 15 août 1940",
+    "Lieu des messes de Jean-Paul II (1989) et du pape François (2019, environ 100 000 personnes)"
+  ],
+  "watchouts": [
+    "Lieu de culte en activité : tenue et comportement respectueux"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Marie+Reine+de+la+Paix%2C+Port+Louis&format=jsonv2&limit=4",
+      "title": "Nominatim (OpenStreetMap), recherche « Marie Reine de la Paix, Port Louis »",
+      "accessed_at": "2026-11-21",
+      "evidence": "OpenStreetMap node 5242566674 (tourism=artwork) « Marie Reine de la Paix » : lat -20.1704019, lon 57.4962804"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.vaticannews.va/en/pope/news/2019-09/pope-francis-mass-mauritius-youthful-missionary-church.print.html",
+      "title": "Pope at Mass in Mauritius: Be a youthful, joyful, missionary Church — Vatican News (septembre 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Mass was celebrated at the Monument of Our Lady, on the slopes of a mountain overlooking the city. The Monument was inaugurated on the Feast of the Assumption in 1940, and was dedicated to Mary Queen of Peace in thanksgiving for keeping the country safe during World War I."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.vaticannews.va/en/pope/news/2019-09/pope-francis-mass-mauritius-youthful-missionary-church.print.html",
+      "title": "Pope at Mass in Mauritius: Be a youthful, joyful, missionary Church — Vatican News (septembre 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Around 100,000 people attended the Pope’s Mass in Port Louis. [...] This is where Pope St John Paul II celebrated Mass when he visited the island nation in 1989."
+    },
+    {
+      "field": "why_go_md, likes, pitch",
+      "url": "https://www.vaticannews.va/en/pope/news/2019-09/pope-francis-mass-mauritius-youthful-missionary-church.print.html",
+      "title": "Pope at Mass in Mauritius: Be a youthful, joyful, missionary Church — Vatican News (septembre 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "“Before this altar dedicated to Mary Queen of Peace, on this mountain from which we can see the city and the sea beyond, we are part of a great multitude”, said the Pope"
+    },
+    {
+      "field": "description_md, why_go_md, likes",
+      "url": "https://etoilenotredame.org/pdf/neuvaine-pour-l-ile-maurice-pere-laval",
+      "title": "Neuvaine pour l'île Maurice avec le Père Laval — Étoile Notre Dame (PDF)",
+      "accessed_at": "2026-11-21",
+      "evidence": "fit ériger sur la montagne des Signaux qui domine [...] Il voulait mettre les Mauriciens sous la protection de la Vierge Marie, dans le [...] contexte de la Seconde Guerre mondiale. Elle fut dévoilée le 15 août 1940. [...] C’est ainsi que la date du 15 août, fête de l’Assomption est devenue un jour de fête dans les familles mauriciennes"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://etoilenotredame.org/pdf/neuvaine-pour-l-ile-maurice-pere-laval",
+      "title": "Neuvaine pour l'île Maurice avec le Père Laval — Étoile Notre Dame (PDF)",
+      "accessed_at": "2026-11-21",
+      "evidence": "la statue de Marie, Reine de la Paix, haute de trois mètres, que Monseigneur James Leen, huitième évêque de"
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://gcatholic.org/churches/islands/70617",
+      "title": "Marie Reine de la Paix, Port-Louis — GCatholic.org",
+      "accessed_at": "2026-11-21",
+      "evidence": "Jurisdiction: Diocese of Port-Louis [...] Type: Shrine [...] Pope Francis (2019.09.09)"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Le site du diocèse (dioceseportlouis.org) a répondu 403 : aucune source officielle sur l'histoire du lieu, les horaires d'accès, les messes ou le stationnement.",
+    "Contexte de 1940 : Vatican News écrit que le monument remercie Marie d'avoir protégé le pays pendant la « World War I » ; le texte de dévotion d'Étoile Notre Dame parle de la Seconde Guerre mondiale, ce qui cadre mieux avec la date. La fiche retient la seconde version ; à confirmer par une source diocésaine ou de presse mauricienne.",
+    "Mgr James Leen, la hauteur de trois mètres et le nom « montagne des Signaux » ne viennent que d'un texte de dévotion (Étoile Notre Dame), pas d'une source mauricienne.",
+    "Accès (escalier, route, parking), durée de visite et gratuité : non sourcés. La mention « tenue respectueuse » découle seulement du statut de sanctuaire.",
+    "Pas d'article Wikipédia (fr/en) trouvé sous ce titre (404). Photo : API Wikimedia Commons en 429 pendant la session, aucun média."
+  ],
+  "website_url": null,
+  "secret": null
+}

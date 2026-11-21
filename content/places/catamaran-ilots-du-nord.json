@@ -1,0 +1,126 @@
+{
+  "slug": "catamaran-ilots-du-nord",
+  "name": "Croisière en catamaran vers les îlots du Nord",
+  "family": "mer_activites",
+  "tags": [],
+  "region": "nord",
+  "locality": "Grand Baie",
+  "lat": -20.0115613,
+  "lng": 57.5842937,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Grand+Baie+Public+Beach&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Journée en catamaran au départ de Grand Baie vers l'îlot Gabriel et l'île Plate, en groupe partagé ou en bateau privatisé.",
+  "description_md": "Plusieurs compagnies proposent une journée en catamaran depuis le Nord vers l'îlot Gabriel et l'île Plate. Celle dont le site a pu être consulté, Catamaran Cruises Mauritius, annonce une croisière partagée de 8 heures au départ de Grand Baie (jusqu'à 35 personnes), présentée comme une combinaison de trois îles, et une version plus petite de 6 heures au départ de Bain Bœuf à 9 h 45 (17 personnes au plus).",
+  "why_go_md": "C'est le moyen proposé pour approcher les îlots du Nord, que l'on n'atteint qu'en bateau. La formule partagée est la moins chère ; la privatisation du bateau coûte plus de dix fois le prix d'une place.",
+  "likes": [
+    "Croisière partagée de 8 heures depuis Grand Baie, à partir de 74 € par personne",
+    "Variante en plus petit comité (17 personnes au plus) depuis Bain Bœuf, 6 heures, à partir de 98 €",
+    "D'après la compagnie, la plupart de ses croisières incluent eau, sodas, bière, rhum local et collations",
+    "Toilettes marines et douches d'eau douce à bord"
+  ],
+  "watchouts": [
+    "L'itinéraire peut être modifié si la météo n'est pas bonne, pour rester en eaux calmes et peu profondes",
+    "Les chaussures s'enlèvent à bord",
+    "Prévois de l'argent pour les activités à terre sur les îles",
+    "En formule partagée, d'autres passagers sont à bord"
+  ],
+  "tips_md": "À emporter d'après la compagnie : maillot et vêtements de rechange, serviette, crème solaire, casquette ou chapeau, lunettes de soleil, appareil photo.",
+  "duration_min": 360,
+  "duration_max": 480,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Prix publiés en euros seulement sur le site de Catamaran Cruises Mauritius (consulté le 21 novembre 2026) : croisière partagée depuis Grand Baie « à partir de » 74 € ; croisière partagée depuis Bain Bœuf à partir de 98 € ; bateau privatisé à partir de 950 €. Aucun prix en roupies, aucun tarif enfant affiché sur la page.",
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Grand+Baie+Public+Beach&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Grand Baie Public Beach",
+      "accessed_at": "2026-11-21",
+      "evidence": "Grand Baie Public Beach, Morcellement Swan, Grand Baie, Grand Baie VCA, East, Riviere du Rempart, Mauritius / Maurice — lat -20.0115613, lon 57.5842937 (OpenStreetMap way 607465040)"
+    },
+    {
+      "field": "price_kind, price_note, duration_max, description_md, pitch, likes",
+      "url": "https://catamaran-cruises.com/cruises/",
+      "title": "Our Cruises – Catamaran Cruises Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Full day cruise on shared basis to the Northern Islands from Grand Baie Duration 8 Hours Group Size 1 to 35 Enjoy an unforgettable cruising experience on board one of our catamarans based in the north to Ilot Gabriel. The cruise is a combination of 3 islands Book Now As From €74"
+    },
+    {
+      "field": "price_note, duration_min, description_md, likes",
+      "url": "https://catamaran-cruises.com/cruises/",
+      "title": "Our Cruises – Catamaran Cruises Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Luxury Full Day Cruise on shared basis to Northern Islands from Bain Boeuf Duration 6 Hours Group Size 1 to 17 Embark on a Lagoon 380 catamaran at 09h45 from Coin de Mire Attitude hotel located in Bain Boeuf in the north of the island. Set sail towards Ilot Gabriel & Flat island for the day. Book Now As From €98"
+    },
+    {
+      "field": "price_note, why_go_md, pitch",
+      "url": "https://catamaran-cruises.com/cruises/",
+      "title": "Our Cruises – Catamaran Cruises Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Private Full Day Cruise to Northern Islands from Grand Baie Duration 8 Hours Group Size 1 to 35 Treat yourself to a Private catamaran cruise exclusively for you, your friends or your family. Travel in comfort to the magnificent Northern Isles to Ilot Gabriel, Flat Island aboard one of our beautiful catamarans Book Now As From €950"
+    },
+    {
+      "field": "likes",
+      "url": "https://catamaran-cruises.com/faq/",
+      "title": "FAQs – Catamaran Cruises Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "most of our cruises come with bottled water and soft drinks as well as ice cold beer, local Rhum & snacks"
+    },
+    {
+      "field": "likes",
+      "url": "https://catamaran-cruises.com/faq/",
+      "title": "FAQs – Catamaran Cruises Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "It has a flushable marine toilet for liquids only. The boat also has fresh water showers so you can rinse yourself from salt water."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://catamaran-cruises.com/faq/",
+      "title": "FAQs – Catamaran Cruises Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Sometimes we will have to because the weather isn’t always ideal and we want to stay in shallow, calm waters to keep the trip enjoyable."
+    },
+    {
+      "field": "watchouts, tips_md",
+      "url": "https://catamaran-cruises.com/faq/",
+      "title": "FAQs – Catamaran Cruises Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "What to Bring? – Swim suits + change clothes – Beach towel – Camera – Sun cream – Cap or hat – Sun glasses – Money for onland activities on the islands. – Shoes will need to be removed once on board the Catamaran."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://catamaran-cruises.com/faq/",
+      "title": "FAQs – Catamaran Cruises Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "YES if you have booked our shared basis c"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Un seul site de compagnie a pu être lu (catamaran-cruises.com). Les plateformes (Expedia, Travelocity, vues le 21 novembre 2026 via la recherche) listent d'autres opérateurs à Grand Baie, avec des prix d'environ 70 à 113 dollars par adulte selon l'offre : repérage seulement, non vérifié. oceane.mu et blue-safari.com ont répondu 403 ; croisieres-australes.mu n'a pas répondu.",
+    "Lieu d'embarquement exact à Grand Baie non précisé par la source : les coordonnées sont celles de la plage publique de Grand Baie (OpenStreetMap). À confirmer à la réservation.",
+    "Repas de midi, arrêts baignade, tarif enfant et âge minimum : non précisés sur la page consultée (le détail est sur le module de réservation AnyRoad, non consulté).",
+    "Laquelle des « trois îles » est seulement longée (Coin de Mire ?) : la source ne le dit pas.",
+    "Prix en euros seulement : champs de prix en roupies laissés à null.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://catamaran-cruises.com/",
+  "secret": null
+}

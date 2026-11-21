@@ -1,0 +1,179 @@
+{
+  "slug": "kayak-mangrove-ile-d-ambre",
+  "name": "Kayak dans la mangrove de l'île d'Ambre",
+  "family": "mer_activites",
+  "tags": [
+    "famille"
+  ],
+  "region": "nord",
+  "locality": "Calodyne",
+  "lat": -19.9975524,
+  "lng": 57.654072,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Butte+%C3%A0+l%27Herbe&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Sortie guidée de 3 heures en kayak de mer : mangrove, baignade et ruines de l'île d'Ambre, sans expérience requise.",
+  "description_md": "Yemaya Adventures, société créée en 2000, propose une sortie guidée de 3 heures en kayak de mer vers l'île d'Ambre, parc national de 137 hectares situé à environ 300 mètres du rivage. Après un briefing de sécurité, on pagaie entre les pirogues au mouillage puis au cœur de la mangrove, avec un arrêt pour nager ou faire du snorkeling. De l'autre côté de l'îlot, une courte marche mène à des ruines ; des rafraîchissements sont servis au kiosque.",
+  "why_go_md": "C'est une sortie en mer accessible aux débutants (aucune expérience demandée) et aux enfants à partir de 5 ans, avec gilets de sauvetage pour enfants. Le prestataire indique que le kayak est le meilleur moyen d'atteindre l'île et d'explorer la mangrove, à cause des eaux peu profondes.",
+  "likes": [
+    "Aucune expérience du kayak n'est demandée (niveau annoncé : débutant à intermédiaire)",
+    "Arrêt baignade et snorkeling pendant la sortie",
+    "Kayaks doubles, ou triple pour deux adultes et un enfant ; gilets de sauvetage pour enfants",
+    "Boissons et collations offertes",
+    "Annulation gratuite jusqu'à 24 heures avant l'activité"
+  ],
+  "watchouts": [
+    "Âge minimum : 5 ans",
+    "Le lieu de rendez-vous n'est communiqué qu'après le paiement",
+    "Retard de plus de 15 minutes ou absence : 100 % de frais d'annulation",
+    "La sortie est le plus souvent maintenue sous la pluie, sauf orage ou pluie trop forte ; en cas de météo défavorable, elle est reportée",
+    "La pêche est interdite pendant la sortie"
+  ],
+  "tips_md": "À emporter d'après le prestataire : eau, masque et tuba, chaussures d'eau, crème solaire (de préférence sans danger pour le récif) et casquette. Il prête masque, veste de pluie ou chaussures d'eau si tu n'en as pas.",
+  "duration_min": 180,
+  "duration_max": 180,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Prix publiés en euros seulement sur le site de Yemaya Adventures (consulté le 21 novembre 2026) : 50 € par adulte, 35 € par enfant de 5 à 12 ans. Tarif résident sur demande. Aucun prix en roupies n'est affiché.",
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "peu_connu",
+  "rarity_reason": "L'île d'Ambre n'est accessible que par bateau d'après le prestataire, ce qui en limite la fréquentation.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Butte+%C3%A0+l%27Herbe&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Butte à l'Herbe",
+      "accessed_at": "2026-11-21",
+      "evidence": "Butte à l’Herbe, Grand Gaube, Grand Gaube VCA, Riviere du Rempart, 30617, Mauritius / Maurice — lat -19.9975524, lon 57.6540720 (OpenStreetMap node 12458626136)"
+    },
+    {
+      "field": "price_kind, price_note",
+      "url": "https://yemayaadventures.com/sea-kayaking-mauritius/",
+      "title": "Sea Kayaking Mauritius – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ile D'Ambre €50 (Adult) €35 (Child, age 5 to 12) Local resident? Contact us here ."
+    },
+    {
+      "field": "duration_min, duration_max, description_md, pitch",
+      "url": "https://yemayaadventures.com/sea-kayaking-mauritius/",
+      "title": "Sea Kayaking Mauritius – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "This 3-hour guided trip starts off by a safety briefing following the Paddle UK standards. We will then set off, slaloming in-between the moored traditional pirogues (skiffs) to reach the 137 hectare National Park of Ile D’Ambre some 300 meters further."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://yemayaadventures.com/sea-kayaking-mauritius/",
+      "title": "Sea Kayaking Mauritius – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "Paddle in the heart of the mangroves and learn about this amazing plant. We will also have a chance to stop off for a short swim/ snorkel."
+    },
+    {
+      "field": "description_md",
+      "url": "https://yemayaadventures.com/sea-kayaking-mauritius/",
+      "title": "Sea Kayaking Mauritius – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "take a short scroll by foot to the ruins and learn about the 300-year history of this once inhabited islet [...] At the kiosk, we provide refreshments."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://yemayaadventures.com/sea-kayaking-mauritius/",
+      "title": "Sea Kayaking Mauritius – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "No prior kayaking experience is required! [...] Difficulty Beginners to Intermediate"
+    },
+    {
+      "field": "watchouts, tags",
+      "url": "https://yemayaadventures.com/sea-kayaking-mauritius/",
+      "title": "Sea Kayaking Mauritius – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "Number of children (Must be minimum of age 5)"
+    },
+    {
+      "field": "likes",
+      "url": "https://yemayaadventures.com/sea-kayaking-mauritius/",
+      "title": "Sea Kayaking Mauritius – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "Drinks & Snacks Offered Eco-friendly Tours Certified Guides Paddle UK Standards"
+    },
+    {
+      "field": "watchouts, tips_md",
+      "url": "https://yemayaadventures.com/sea-kayaking-mauritius/",
+      "title": "Sea Kayaking Mauritius – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "What You Should Bring Water Mask & Snorkel Sea Shoes Sunscreen (Reefsafe recommended) Cap We will send you the location after payment has been done."
+    },
+    {
+      "field": "likes, watchouts",
+      "url": "https://yemayaadventures.com/sea-kayaking-mauritius/",
+      "title": "Sea Kayaking Mauritius – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "Free cancelation until 24 hours before activity. If a customer does not show up for activity or is late by more than 15 minutes, a 100% Cancellation Fee will apply. [...] If weather conditions do not permit the trip to be held, a rescheduling will be arranged."
+    },
+    {
+      "field": "watchouts, tips_md",
+      "url": "https://yemayaadventures.com/faq/",
+      "title": "FAQ – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "Most of the time we still do trips if it is raining, unless there is lightning or the rain is too heavy. We do have rain jackets if needed."
+    },
+    {
+      "field": "likes, why_go_md",
+      "url": "https://yemayaadventures.com/faq/",
+      "title": "FAQ – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "If your group is an odd number, we provide either a triple kayak for 2 adults and 1 child, or an extra single kayak. [...] Yes. We do provide life jackets for children."
+    },
+    {
+      "field": "why_go_md, rarity",
+      "url": "https://yemayaadventures.com/faq/",
+      "title": "FAQ – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "Visitors can reach the island by boat only. Kayaking is the best way to reach the island and explore the mangroves, due to the shallow waters."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://yemayaadventures.com/faq/",
+      "title": "FAQ – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "tunately it is not allowed to fish during the trip."
+    },
+    {
+      "field": "description_md",
+      "url": "https://yemayaadventures.com/",
+      "title": "Yemaya Adventures | Sea Kayaking - Hiking - Mountain Biking",
+      "accessed_at": "2026-11-21",
+      "evidence": "Created in 2000 by Patrick Haberland, Yemaya Adventures is an adventure company based in Mauritius offering sea kayaking (like a canoe), mountain biking, hiking and team building activities for all levels."
+    },
+    {
+      "field": "locality",
+      "url": "https://yemayaadventures.com/contact-us/",
+      "title": "Contact Us – Yemaya Adventures",
+      "accessed_at": "2026-11-21",
+      "evidence": "Location: Butte à L'Herbe, Calodyne, Mauritius, 30603"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Point de départ réel inconnu : le prestataire n'envoie le lieu de rendez-vous qu'après paiement. Les coordonnées sont celles du hameau de Butte à l'Herbe (adresse du prestataire), pas celles de la mise à l'eau.",
+    "Prix en euros seulement : champs de prix en roupies laissés à null. Tarif des 13-17 ans non précisé (le tarif enfant couvre 5 à 12 ans).",
+    "Jours et heures de départ non publiés (réservation par formulaire avec trois dates au choix) : opening_hours à null.",
+    "Une fiche « Île d'Ambre » (lieu) existe déjà : celle-ci décrit l'activité kayak d'un prestataire. Yemaya Adventures est le seul prestataire dont le site a été consulté ; d'autres peuvent exister.",
+    "Le site parle de ruines et d'une histoire de 300 ans sans autre détail : non développé dans la fiche.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://yemayaadventures.com/",
+  "secret": null
+}

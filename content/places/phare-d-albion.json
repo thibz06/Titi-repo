@@ -1,0 +1,137 @@
+{
+  "slug": "phare-d-albion",
+  "name": "Phare d'Albion (Pointe aux Caves)",
+  "family": "culture_patrimoine",
+  "tags": [
+    "coucher_soleil"
+  ],
+  "region": "ouest",
+  "locality": "Albion",
+  "lat": -20.1912583,
+  "lng": 57.4115218,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Albion+Lighthouse%2C+Mauritius&format=jsonv2&limit=4",
+  "google_place_id": null,
+  "pitch": "Phare rouge et blanc de 30 m inauguré en 1910, toujours en service, posé sur les falaises noires d'Albion. Beau site au coucher du soleil.",
+  "description_md": "Le phare de la Pointe aux Caves, dit phare d'Albion, se dresse au bord des falaises de la côte ouest, entre Port-Louis et Flic en Flac. Inauguré en 1910 sous le gouverneur Sir Charles Cavendish Boyle, c'est une tour de 30 mètres peinte en blanc avec deux bandes rouges, toujours en service : la nuit, elle émet deux éclats blancs toutes les dix secondes pour guider les navires vers le port de Port-Louis, à une dizaine de kilomètres. D'abord alimenté au pétrole, le phare a reçu des batteries en 1952 et a été raccordé au réseau électrique en 1973. Il est géré par la Mauritius Ports Authority.",
+  "why_go_md": "Pour le décor : les rayures rouges et blanches du phare au-dessus des falaises noires et des vagues, et la vue sur le littoral depuis le sentier qui y monte. Défi Media signale sous les falaises l'entrée d'une grotte, des pêcheurs, et recommande de rester pour le coucher du soleil. L'intérieur (98 marches jusqu'à la coupole, panorama de Pointe aux Sables à Flic en Flac) ne se visite qu'avec une autorisation écrite.",
+  "likes": [
+    "Phare de 1910 toujours en service, tour de 30 m blanche à bandes rouges",
+    "Falaises noires battues par les vagues, vue sur le littoral depuis le sentier",
+    "Coucher de soleil : Albion est présenté par l'office du tourisme comme un très bon endroit pour le regarder",
+    "Départ possible d'une marche côtière : 13 km entre Albion et Pointe aux Sables"
+  ],
+  "watchouts": [
+    "L'intérieur ne se visite pas librement : il faut une lettre d'autorisation de la Mauritius Ports Authority, reçue par courrier",
+    "Bord de falaise et mer agitée en contrebas ; évite les jours de grand vent, surtout pour monter à la coupole",
+    "98 marches en bois et en fonte pour atteindre la coupole, déconseillées si tu as le vertige"
+  ],
+  "tips_md": "Sans autorisation, contente-toi de l'extérieur : le sentier qui monte au phare offre déjà la vue sur la côte, d'après Défi Media.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "heure": "Fin de journée pour le coucher du soleil (Défi Media ; office du tourisme pour Albion en général)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Albion+Lighthouse%2C+Mauritius&format=jsonv2&limit=4",
+      "title": "Nominatim (OpenStreetMap), recherche « Albion Lighthouse, Mauritius »",
+      "accessed_at": "2026-11-21",
+      "evidence": "OpenStreetMap relation 7314140 (man_made=lighthouse) « Albion Lighthouse » : lat -20.1912583, lon 57.4115218"
+    },
+    {
+      "field": "description_md, pitch, likes, tags, best_time",
+      "url": "https://mauritiusnow.com/blog/things-to-do/albion/",
+      "title": "Visit Albion: Mauritius' Coastal Beauty (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Located on the west coast of the island between Port Louis and Flic-en-Flac, Albion is a quiet little village [...] In the evening, it’s a prime sunset-watching spot [...] Albion’s craggy shores are famous for its 19th-century Lighthouse of Pointe aux Caves, also known as Albion Lighthouse, which stands 30 metres tall and is still in operation today. Its red stripes cut a dramatic image against the crashing waves below."
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://defimedia.info/cave-point-lighthouse-albion-not-faint-hearted",
+      "title": "Cave Point Lighthouse, Albion: Not for the faint-hearted | Defimedia (28 juin 2016)",
+      "accessed_at": "2026-11-21",
+      "evidence": "the lighthouse guides incoming ships that enter the Port Louis harbour, found only 10km from Albion. At night, the lighthouse emits the two white flashes every 10 seconds to guide ships. [...] The concrete tower with its cast iron dome is 30 meters high (97 feet). The lighthouse was inaugurated in 1910 under the government of Sir Charles Cavendish Boyle. Initially running on oil, it is in 1952 that a battery system was installed. In 1973, the lighthouse was connected to the public electricity grid."
+    },
+    {
+      "field": "why_go_md, watchouts",
+      "url": "https://defimedia.info/cave-point-lighthouse-albion-not-faint-hearted",
+      "title": "Cave Point Lighthouse, Albion: Not for the faint-hearted | Defimedia (28 juin 2016)",
+      "accessed_at": "2026-11-21",
+      "evidence": "To access the top of the lighthouse that is the dome, you will have to climb a daunting 98-step wooden and cast iron staircase. However, the pain is worth it, as you will discover panoramic views from Pointe aux Sables to Flic en Flac, Albion village and the cliffs."
+    },
+    {
+      "field": "why_go_md, tips_md, likes, tags, best_time",
+      "url": "https://defimedia.info/cave-point-lighthouse-albion-not-faint-hearted",
+      "title": "Cave Point Lighthouse, Albion: Not for the faint-hearted | Defimedia (28 juin 2016)",
+      "accessed_at": "2026-11-21",
+      "evidence": "If you are afraid of heights, walking along the trail that runs up to the lighthouse with your family and friends will also offer you excellent views over the shoreline. Under the cliffs, you may also discover the entrance of a cave, capture daring divers climbing the rocks to dive into the rough sea and fishermen trying to lure fishes. [...] You may also stay a bit longer to admire the beautiful sunset."
+    },
+    {
+      "field": "description_md, why_go_md, watchouts",
+      "url": "https://defimedia.info/cave-point-lighthouse-albion-not-faint-hearted",
+      "title": "Cave Point Lighthouse, Albion: Not for the faint-hearted | Defimedia (28 juin 2016)",
+      "accessed_at": "2026-11-21",
+      "evidence": "visits to the lighthouse will require an authorisation letter which can be obtained by asking for permission from the Mauritius Ports Authority, which manages and maintains the lighthouse."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://ibiblio.org/lighthouse/mus.htm",
+      "title": "Lighthouses of Mauritius — The Lighthouse Directory (ibiblio.org)",
+      "accessed_at": "2026-11-21",
+      "evidence": "1910. Active; focal plane 46 m (151 ft); two white flashes every 10 s [...] m (98 ft) masonry tower with lantern and gallery. Lighthouse painted white with two red horizontal bands."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://vintagemauritius.org/discover/a-guided-visit-to-the-pointe-aux-caves-albion-lighthouse/",
+      "title": "A Guided Visit to the Pointe aux Caves (Albion) Lighthouse - Vintage Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Visits to the lighthouse will require an authorisation letter which can be obtained by requesting with the Mauritius Ports Authority, since the latter is responsible for the site. Once you receive the letter by post you can present yourself at the Lighthouse and the visit hopefully can start. It is somehow recommended to avoid very windy days"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/west-coast-mauritius/",
+      "title": "Discover the West coast of Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Their favourite stretch is the 13km between Albion and Pointe aux Sables on the west coast. Here, you can spot the red and white stripes of Albion Lighthouse sitting proudly on the black cliffs, waves crashing against the volcanic rocks below."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusnow.com/mauritius-map/west-mauritius/",
+      "title": "Discover the stunning West of Mauritius now! (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "take a stroll up to Phare d’Albion Lighthouse"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Visite intérieure : la procédure (lettre d'autorisation de la Mauritius Ports Authority) vient de Défi Media (2016) et de Vintage Mauritius, pas du site de la MPA, où rien n'a été trouvé. À confirmer auprès de la MPA ; délai et gratuité inconnus.",
+    "Accès extérieur : stationnement, état du chemin, distance à pied, accès libre ou non au pied du phare : non sourcés. `price_kind` laissé à null.",
+    "Date : l'office du tourisme écrit « 19th-century lighthouse », alors que Défi Media, The Lighthouse Directory et Wikipédia en anglais donnent 1910 (commande en 1909). La fiche retient 1910.",
+    "Rythme du feu : deux éclats toutes les 10 secondes (Défi Media, The Lighthouse Directory) ; Vintage Mauritius écrit 15 secondes.",
+    "Sécurité au bord des falaises (absence de garde-corps, vagues) : aucune source officielle ; prudence avec des enfants.",
+    "Coordonnées : relation OpenStreetMap « Albion Lighthouse » ; l'article Wikipédia en anglais sur Albion donne le centre du village, pas le phare.",
+    "Photo : API Wikimedia Commons en 429 (trop de requêtes) pendant la session ; aucune licence n'a pu être lue, donc aucun média."
+  ],
+  "website_url": null,
+  "secret": null
+}

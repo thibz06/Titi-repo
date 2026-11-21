@@ -1,0 +1,162 @@
+{
+  "slug": "odysseo-oceanarium",
+  "name": "Odysseo Oceanarium",
+  "family": "nature_parcs",
+  "tags": [
+    "famille",
+    "pluie_ok"
+  ],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1590809,
+  "lng": 57.4949591,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Odysseo%2C+Port+Louis&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Océanarium couvert de Port-Louis : 45 aquariums et 200 espèces de l'océan Indien, ouvert tous les jours.",
+  "description_md": "Odysseo se présente comme le premier océanarium de Maurice. Installé aux Salines, sur le front de mer de Port-Louis, il annonce 5 500 m² de parcours, 45 aquariums, 200 espèces de l'océan Indien et 3 500 spécimens. La visite est libre, avec un audioguide en anglais, français et allemand à louer à la billetterie.",
+  "why_go_md": "C'est une activité entièrement couverte, donc une solution les jours de pluie, pensée pour les familles : allées praticables en poussette, espaces pour changer les bébés, accès sans obstacle pour les personnes à mobilité réduite. Les moins de 4 ans entrent gratuitement.",
+  "likes": [
+    "Attraction couverte, ouverte tous les jours de 9 h à 17 h",
+    "Gratuit pour les moins de 4 ans",
+    "Parking gratuit et couvert",
+    "À 5 minutes à pied de la gare routière Victoria par la passerelle du Caudan",
+    "Audioguide en français"
+  ],
+  "watchouts": [
+    "Dernière entrée à 16 h 15",
+    "Fermé le 1er janvier",
+    "Billet visiteur non résident nettement plus cher que le billet résident",
+    "Les expériences (réalité virtuelle, nourrissage, etc.) sont vendues à part"
+  ],
+  "tips_md": "La billetterie en ligne permet de choisir date et heure et d'éviter la file. Un film en réalité virtuelle de 12 minutes (Sea 360 VR) est proposé en supplément.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 960,
+  "price_visitor_mur_max": 1280,
+  "price_resident_mur": 650,
+  "price_note": "Billetterie en ligne du site officiel (consultée le 21 novembre 2026, pied de page « © 2026 »). Non-résident : adulte de 18 ans et plus Rs 1 280 ; enfant de 4 à 12 ans Rs 960 ; moins de 4 ans gratuit. Résident : adulte Rs 650 (affiché en promotion à Rs 495 ce jour-là), 13-17 ans Rs 325, 4-12 ans Rs 285, 60 ans et plus Rs 400. Audioguide et expériences en supplément.",
+  "opening_hours": "Mo-Su 09:00-17:00; Jan 01 off",
+  "hours_note": "« Mon-Sun: 09:00-17:00 — Closed on 1st January » ; dernière entrée à 16 h 15 (site officiel, consulté le 21 novembre 2026).",
+  "difficulty": null,
+  "accessibility": {
+    "mobilite_reduite": "Équipements adaptés aux fauteuils roulants et accès sans obstacle (site officiel)",
+    "poussette": "Allées praticables en poussette, espaces pour changer les bébés (site officiel)",
+    "stationnement": "Parking gratuit et couvert (site officiel)",
+    "transports": "Bus ou métro jusqu'à la gare Victoria, puis 5 minutes à pied par la passerelle du Caudan (site officiel)"
+  },
+  "best_time": null,
+  "rain_ok": true,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Odysseo%2C+Port+Louis&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Odysseo, Port Louis",
+      "accessed_at": "2026-11-21",
+      "evidence": "Odysseo, Lu Suffren Approach Road, Caudan Waterfront, Town of Port-Louis, Ward 3, Port Louis, 11306, Mauritius / Maurice — lat -20.1590809, lon 57.4949591 (OpenStreetMap way 1160821248)"
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts",
+      "url": "https://odysseomauritius.com/plan-your-visit/",
+      "title": "Plan your visit – Odysseo Oceanarium Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Open Hours Mon-Sun: 09:00-17:00 Closed on 1st January"
+    },
+    {
+      "field": "hours_note, watchouts, likes",
+      "url": "https://odysseomauritius.com/plan-your-visit/",
+      "title": "Plan your visit – Odysseo Oceanarium Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Odysseo is open every day from 9:00 AM to 5:00 PM. Last entry is at 4:15 PM."
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_note",
+      "url": "https://odysseomauritius.com/plan-your-visit/",
+      "title": "Plan your visit – Odysseo Oceanarium Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Non Resident - Entrance Ticket - Adult - + 18 years ₨ 1,280 - + Non Resident - Entrance Ticket - Kid - 4 to 12 years ₨ 960 - + Non Resident - Entrance Ticket - Toddler - under 4 years ₨ 0"
+    },
+    {
+      "field": "price_resident_mur, price_note",
+      "url": "https://odysseomauritius.com/plan-your-visit/",
+      "title": "Plan your visit – Odysseo Oceanarium Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Resident - Entrance Ticket - Senior - + 60 years ₨ 400 - + Resident - Entrance Ticket - Adult - + 18 years ₨ 650 Original price was: ₨650. ₨ 495 Current price is: ₨495. - + Resident - Entrance Ticket - Toddler - under 4 years ₨ 0 - + Resident - Entrance Ticket - Kid - 4 to 12 years ₨ 285 - + Resident - Entrance Ticket - Teen - 13 to 17 years ₨ 325"
+    },
+    {
+      "field": "price_note, likes, why_go_md",
+      "url": "https://odysseomauritius.com/plan-your-visit/",
+      "title": "Plan your visit – Odysseo Oceanarium Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Children under 4 years old enter free of charge."
+    },
+    {
+      "field": "rain_ok, tags, why_go_md, accessibility",
+      "url": "https://odysseomauritius.com/plan-your-visit/",
+      "title": "Plan your visit – Odysseo Oceanarium Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Odysseo is a family-friendly indoor attraction with stroller-friendly pathways, baby-changing facilities"
+    },
+    {
+      "field": "accessibility, why_go_md",
+      "url": "https://odysseomauritius.com/plan-your-visit/",
+      "title": "Plan your visit – Odysseo Oceanarium Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Odysseo has wheelchair-friendly facilities and barrier-free access for people with reduced mobility."
+    },
+    {
+      "field": "accessibility, likes",
+      "url": "https://odysseomauritius.com/plan-your-visit/",
+      "title": "Plan your visit – Odysseo Oceanarium Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Free and covered parking available at Odysseo’s parking lot. [...] Take a bus or metro to Victoria Bus Station in Port Louis. A 5-minute walk from the station via Caudan Waterfront"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://odysseomauritius.com/plan-your-visit/",
+      "title": "Plan your visit – Odysseo Oceanarium Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Our audio guide is available in English, French, and German, providing fascinating facts and stories behind each exhibit. Simply rent it onsite at the ticketi"
+    },
+    {
+      "field": "description_md, locality",
+      "url": "https://odysseomauritius.com/plan-your-visit/",
+      "title": "Plan your visit – Odysseo Oceanarium Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Odysseo is located at Les Salines, Harbour Waterfront, Port Louis, Mauritius."
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://odysseomauritius.com/",
+      "title": "Odysseo Oceanarium | Much More Than An Aquarium",
+      "accessed_at": "2026-11-21",
+      "evidence": "Discover Mauritius’ First Oceanarium [...] 5500 m 2 of interactive exploration 200 Species from the Indian Ocean 45 Aquariums featuring diverse habitats 3500 Specimens to marvel at"
+    },
+    {
+      "field": "tips_md, watchouts",
+      "url": "https://odysseomauritius.com/",
+      "title": "Odysseo Oceanarium | Much More Than An Aquarium",
+      "accessed_at": "2026-11-21",
+      "evidence": "Experience a spectacular 12-minute VR immersion that transports you beneath the surface of the ocean without getting wet."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucun billet non-résident « 13-17 ans » n'apparaît dans la billetterie (seulement adulte 18+ et enfant 4-12 ans) : tarif des adolescents visiteurs à confirmer.",
+    "Durée de visite : aucune durée conseillée sur le site ; duration_min et duration_max à null.",
+    "Le prix de l'audioguide et des expériences n'a pas été relevé.",
+    "Le Mauritius Aquarium de Pointe aux Piments, plus proche du Nord, n'a pas pu être traité : son site (mauritiusaquarium.com) répond 403 aux robots.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://odysseomauritius.com/",
+  "secret": null
+}

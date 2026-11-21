@@ -1,0 +1,174 @@
+{
+  "slug": "casela-nature-parks",
+  "name": "Casela Nature Parks",
+  "family": "nature_parcs",
+  "tags": [
+    "famille"
+  ],
+  "region": "ouest",
+  "locality": "Cascavelle",
+  "lat": -20.3050626,
+  "lng": 57.4079745,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Casela&format=jsonv2&limit=3&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Grand parc animalier et de loisirs de l'Ouest, ouvert en 1979 : volières, safari, parc pour enfants et luge sur rail.",
+  "description_md": "Ouvert en 1979 comme parc d'oiseaux, Casela annonce aujourd'hui 350 hectares et cinq univers : volières, parc pour enfants Pangia, safari africain, royaume des prédateurs et nourrissage des animaux. Les lions y sont arrivés en 1998, le safari en 2014, et la luge sur rail Tulawaka, que le parc présente comme la première de Maurice, en 2018. Toutes les attractions se rejoignent à pied par des sentiers.",
+  "why_go_md": "Le parc dit proposer des activités pour tous les âges : les plus jeunes profitent surtout de la volière, de la ferme et des aires de jeux et manèges de Pangia. C'est une journée entière, et probablement la plus chère de la liste : beaucoup d'activités se paient en plus de l'entrée.",
+  "likes": [
+    "Cinq univers sur 350 hectares",
+    "Volière, ferme et aires de jeux adaptées aux petits",
+    "Tables à langer dans tous les sanitaires",
+    "Ouvert tous les jours, jours fériés compris"
+  ],
+  "watchouts": [
+    "Fermé le 25 décembre et le 1er janvier",
+    "Avis du parc lu le 21 novembre 2026 : par précaution contre la fièvre aphteuse, le nourrissage à la ferme, le nourrissage des girafes et tout contact rapproché avec les animaux du safari sont suspendus",
+    "Certaines zones sont difficiles d'accès en poussette ou en fauteuil roulant à cause du terrain",
+    "Des restrictions de taille et de poids s'appliquent à certaines activités ; des attractions peuvent fermer sans préavis pour maintenance",
+    "Vélos, rollers et skateboards interdits"
+  ],
+  "tips_md": "Le parc recommande d'acheter les billets en ligne et d'arriver au moins 45 minutes avant la première activité réservée. Paiement en roupies ; espèces et cartes Visa, MasterCard, American Express et UnionPay acceptées.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Le prix d'entrée visiteur n'a pas pu être lu : la billetterie (booking.caselaparks.com) ne s'affiche qu'avec JavaScript. Seule offre chiffrée vue sur le site le 21 novembre 2026 : forfaits à –50 % réservés aux résidents mauriciens, Rs 800 par adulte et Rs 650 par enfant de 4 à 12 ans, du 1er novembre au 15 décembre 2026, au guichet uniquement.",
+  "opening_hours": "Mo-Su,PH 09:00-17:00; Dec 25 off; Jan 01 off",
+  "hours_note": "« Monday to Sunday – 9 AM to 5 PM — Open on public holidays — Closed on 25th December and 1st of january » (pied de page du site officiel, consulté le 21 novembre 2026).",
+  "difficulty": null,
+  "accessibility": {
+    "poussette_fauteuil": "Certaines zones difficiles d'accès à cause du terrain ; le personnel peut aider (FAQ officielle)",
+    "bebes": "Tables à langer dans tous les sanitaires du parc (FAQ officielle)"
+  },
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Casela&format=jsonv2&limit=3&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap : Casela",
+      "accessed_at": "2026-11-21",
+      "evidence": "Casela Nature Parks, Casela Road, Xavier, Cascavelle, Cascavelle VCA West, Black River, 90512, Mauritius / Maurice — lat -20.3050626, lon 57.4079745 (OpenStreetMap way 996645321)"
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts, likes",
+      "url": "https://caselaparks.com/",
+      "title": "Casela Nature Parks",
+      "accessed_at": "2026-11-21",
+      "evidence": "Opening Hours Monday to Sunday – 9 AM to 5 PM Open on public holidays Closed on 25th December and 1st of january"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://caselaparks.com/",
+      "title": "Casela Nature Parks",
+      "accessed_at": "2026-11-21",
+      "evidence": "Discover 350 hectares of nature and its activities"
+    },
+    {
+      "field": "price_note",
+      "url": "https://caselaparks.com/",
+      "title": "Casela Nature Parks",
+      "accessed_at": "2026-11-21",
+      "evidence": "HOLIDAY SPECIALS 50% OFF FOR MAURITIUS RESIDENTS Rs 800 (Adults) Rs 650 (Kids: 4 - 12 Yrs) Available only at the Casela counter. Enjoy 50% off selected Casela packages from 1 November to 15 December 2026. Offer exclusively reserved for Mauritius residents upon presentation of a valid National Identity Card or valid residence permit."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://caselaparks.com/",
+      "title": "Casela Nature Parks",
+      "accessed_at": "2026-11-21",
+      "evidence": "Following precautionary measures issued by the authorities against Foot-and-Mouth Disease (FMD), Casela Nature Parks remains open with a few temporary adjustments [...] Temporarily suspended Feeding at the Petting Farm Giraffe feeding All close contact with Safari animals at Safari Kingdom"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://caselaparks.com/about-us/",
+      "title": "About Us – Casela",
+      "accessed_at": "2026-11-21",
+      "evidence": "Open since 1979, Casela Nature Parks offers visitors 5 distinct areas to discover, marvel, and connect with nature and wildlife."
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://caselaparks.com/about-us/",
+      "title": "About Us – Casela",
+      "accessed_at": "2026-11-21",
+      "evidence": "2018 Launch of the Tulawaka Gold Coaster The first alpine coaster in Mauritius [...] 2014 The Safari activity is launched, and a rhinoceros is introduced to the park [...] 1998 Lions are introduced [...] 1979 Opening Casela opens as a bird park"
+    },
+    {
+      "field": "description_md",
+      "url": "https://caselaparks.com/our-activities/",
+      "title": "Our Activities – Casela",
+      "accessed_at": "2026-11-21",
+      "evidence": "All activities African Safari Animal Feeding Bird Aviaries Pangia Kids Park Predator Kingdom"
+    },
+    {
+      "field": "price_kind, tips_md",
+      "url": "https://caselaparks.com/frequently-asked-questions/",
+      "title": "FAQ – Casela Nature Parks",
+      "accessed_at": "2026-11-21",
+      "evidence": "We accept cash, Visa, MasterCard, American Express, and Union Pay cards. For faster access to the park, we recommend purchasing your tickets online before your visit. Make sure to arrive at least 45 minutes before your first activity."
+    },
+    {
+      "field": "why_go_md, likes, tags",
+      "url": "https://caselaparks.com/frequently-asked-questions/",
+      "title": "FAQ – Casela Nature Parks",
+      "accessed_at": "2026-11-21",
+      "evidence": "We offer activities for all ages. Younger visitors will particularly enjoy our aviary, petting farm, as well as Pangia’s playgrounds and carousels. Access restrictions apply to certain rides."
+    },
+    {
+      "field": "watchouts, accessibility",
+      "url": "https://caselaparks.com/frequently-asked-questions/",
+      "title": "FAQ – Casela Nature Parks",
+      "accessed_at": "2026-11-21",
+      "evidence": "Some park areas may be difficult to access due to rough terrain. However, our staff are available to assist as much as possible."
+    },
+    {
+      "field": "likes, accessibility",
+      "url": "https://caselaparks.com/frequently-asked-questions/",
+      "title": "FAQ – Casela Nature Parks",
+      "accessed_at": "2026-11-21",
+      "evidence": "Changing tables are available in all park restrooms."
+    },
+    {
+      "field": "watchouts, description_md",
+      "url": "https://caselaparks.com/frequently-asked-questions/",
+      "title": "FAQ – Casela Nature Parks",
+      "accessed_at": "2026-11-21",
+      "evidence": "For safety reasons, the use of bicycles, roller skates, and skateboards is strictly prohibited within the park. All our attractions are accessible on foot via walking trails"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://caselaparks.com/frequently-asked-questions/",
+      "title": "FAQ – Casela Nature Parks",
+      "accessed_at": "2026-11-21",
+      "evidence": "ies without notice for maintenance purposes to ensure the safety of guests and staff. [...] Check our website or the signs at the park entrance for specific restrictions for each activity."
+    },
+    {
+      "field": "tips_md",
+      "url": "https://booking.caselaparks.com/",
+      "title": "Casela Home – Online Ticketing",
+      "accessed_at": "2026-11-21",
+      "evidence": "For your convenience, all payments are to be made in Mauritian Rupees (MUR)"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix d'entrée visiteur (adulte, enfant) introuvable sans JavaScript : champs de prix à null. À relever sur booking.caselaparks.com avant publication, avec la liste de ce que le billet d'entrée inclut.",
+    "« Probablement la plus chère de la liste » et « beaucoup d'activités se paient en plus » sont des déductions (les activités ont chacune un bouton de réservation) : à confirmer ou retirer une fois les prix connus.",
+    "L'avis sur la fièvre aphteuse date de la consultation (21 novembre 2026) : à revérifier avant le séjour.",
+    "Durée de visite non indiquée : duration_min et duration_max à null.",
+    "Le compteur d'animaux et d'espèces de la page « About Us » est animé en JavaScript (valeurs illisibles) : non cité.",
+    "Aucune photo : aucun fichier Wikimedia Commons n'a été recherché pour cette fiche (media vide)."
+  ],
+  "website_url": "https://caselaparks.com/",
+  "secret": null
+}

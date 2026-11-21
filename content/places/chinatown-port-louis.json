@@ -1,0 +1,100 @@
+{
+  "slug": "chinatown-port-louis",
+  "name": "Chinatown de Port-Louis",
+  "family": "villages_marches",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.158718,
+  "lng": 57.5065145,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Chinatown%2C+Port+Louis%2C+Mauritius&format=jsonv2&limit=4",
+  "google_place_id": null,
+  "pitch": "Quartier chinois de Port-Louis : ruelles, boutiques de famille, dim sums et fresques de street art, près du Marché central.",
+  "description_md": "Chinatown est le quartier chinois de Port-Louis, autour de Royal Road, à deux pas du front de mer et du Marché central. D'après l'office du tourisme mauricien, de nombreux immigrants chinois arrivés dans les années 1940 pour ouvrir des commerces s'y sont installés, et le quartier compte parmi les plus anciens Chinatowns d'Afrique. Les Sino-Mauriciens représentent environ trois pour cent de la population de l'île, toujours selon l'office du tourisme.",
+  "why_go_md": "Pour manger sur le pouce et flâner : biscuiteries, gâteaux chinois et dim sums à la vapeur (viande, poisson ou légumes) se vendent dans de minuscules échoppes, souvent transmises de génération en génération. Le quartier est aussi l'un des meilleurs endroits de la ville pour voir du street art : un panda qui traverse un mur rue Emmanuel Anquetil, des fresques manga rue Venpin, et sur Royal Road une grande fresque de Frau Isa représentant trois Mauriciennes.",
+  "likes": [
+    "Biscuiteries, gâteaux chinois et dim sums à la vapeur dans de petites échoppes",
+    "Boutiques et restaurants transmis de génération en génération",
+    "Street art : panda rue Emmanuel Anquetil, manga rue Venpin, fresque de Frau Isa sur Royal Road",
+    "À côté du Marché central et du front de mer : facile à combiner dans la même sortie"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "festival": "Le Chinatown Food & Culture Festival a lieu chaque année en mai selon l'office du tourisme : il ne tombe pas pendant ton séjour"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Chinatown%2C+Port+Louis%2C+Mauritius&format=jsonv2&limit=4",
+      "title": "Nominatim (OpenStreetMap), recherche « Chinatown, Port Louis, Mauritius »",
+      "accessed_at": "2026-11-21",
+      "evidence": "OpenStreetMap node 9271987047 (place=quarter) « Chinatown » : lat -20.1587180, lon 57.5065145"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/chinatown-in-port-louis/",
+      "title": "Chinatown in Port Louis (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "In the 1940s, large numbers of Chinese immigrants arrived in Mauritius to open businesses and settled around the Royal Road area in the centre of Port Louis. This district was established as Chinatown and is one of the oldest Chinatowns in Africa. [...] Sino-Mauritians, Mauritians of Chinese origin, make up about three per cent of our island’s ethnically-diverse population"
+    },
+    {
+      "field": "description_md, why_go_md, likes, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/chinatown-in-port-louis/",
+      "title": "Chinatown in Port Louis (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You’ll find Chinatown close to the waterfront and Central Market in Port Louis [...] Explore the narrow streets and discover shops and restaurants that have been passed down from generation to generation. Biscuit shops, Chinese cakes and steaming dim sums"
+    },
+    {
+      "field": "why_go_md, likes, best_time",
+      "url": "https://mauritiusnow.com/blog/things-to-do/chinatown-in-port-louis/",
+      "title": "Chinatown in Port Louis (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You might stumble across a panda bursting through the wall on Emmanuel Anquetil Street or amazing Manga street art on Venpin Street. If you’re lucky enough to be in Port Louis in May, the annual Chinatown Food & Culture Festival is a must-visit."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/street-art-in-port-louis/",
+      "title": "Exploring Street Art in Port Louis, Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "One of the best places to see street art in Port Louis is Chinatown. On Royal Road, the main road heading through Chinatown, there is a huge piece of art depicting three Mauritian women by Frau Isa"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/mauritius-map/port-louis-in-mauritius/",
+      "title": "Discover the stunning capital of Mauritius now! (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You’ll find Central Market close to the Chinatown district, where the flavours continue inside tiny shopfronts. Biscuit shops, Chinese cakes and steaming dim sums freshly-stuffed with meat, fish or vegetables tempt visitors inside these colourful doorways."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucune source consultée ne donne les jours et heures d'ouverture des commerces du quartier (dimanche, jours fériés de fin d'année, 1er et 2 janvier) : à vérifier sur place ou auprès d'une source locale.",
+    "Histoire du quartier : seule la page de l'office du tourisme (arrivées des années 1940) a pu être citée. Wikipédia en anglais n'a pas d'article « Chinatown, Port Louis » (404) et lexpress.mu a refusé l'accès (403). L'ancienneté réelle du quartier (présence chinoise antérieure au XXe siècle ?) reste à sourcer.",
+    "Stationnement et accès à pied depuis le Caudan : non sourcés.",
+    "Photo : l'API de Wikimedia Commons a répondu 429 (trop de requêtes) pendant toute la session ; aucune licence n'a pu être lue, donc aucun média."
+  ],
+  "website_url": null,
+  "secret": null
+}
