@@ -68,8 +68,8 @@ Vercel, branché sur le dépôt GitHub. La branche par défaut du dépôt s'appe
 
 ## Tout gratuit, sans compte : ni Supabase ni Google (21 novembre 2026)
 Thibault n'a pas réussi à mettre en place Supabase et veut une app entièrement gratuite. L'architecture change donc par rapport au brief :
-- **Fiches** : les JSON de `content/places` sont lus à la compilation ; les pages sont générées en statique. Pas de base de données. Explorer ne montre que les fiches `published` ; les brouillons se lisent dans `/relecture`, avec un avertissement « Brouillon non vérifié » jusque sur la fiche.
-- **Publication** : une fiche passe en `published` dans son JSON, avec `verified_at` et `verified_by` (contrôlé par le schéma). C'est Thibault qui décide ; Claude ne publie pas de lui-même.
+- **Fiches** : les JSON de `content/places` sont lus à la compilation ; les pages sont générées en statique. Pas de base de données.
+- **Visibilité** (demande de Thibault : « la version finale avec les vrais lieux ») : toutes les fiches sourcées apparaissent dans Explorer. Tant qu'une fiche n'est pas vérifiée, elle porte l'avertissement « Fiche pas encore vérifiée sur place ». Elle le perd en passant en `published` avec `verified_at` et `verified_by`, ce que seul Thibault décide. C'est un assouplissement de la règle 2 du brief, qui réservait l'affichage aux fiches vérifiées.
 - **Favoris** : enregistrés sur l'appareil (`localStorage`). Pas de compte ni de session. Limite : ils ne suivent pas d'un téléphone à l'autre.
 - **Carte** : MapLibre GL avec le fond OpenFreeMap (données OpenStreetMap), gratuit, sans clé ni carte bancaire. MapLibre 5 plutôt que 6 : la v6 ne charge pas son worker avec Turbopack. Regroupement des marqueurs par la source GeoJSON de MapLibre.
 - **« Y aller »** : reste un simple lien Google Maps (format Maps URLs), gratuit et sans clé.
@@ -88,8 +88,13 @@ Le brief prévoit cinq onglets. Seuls ceux qui fonctionnent sont affichés (Accu
 ## Brouillons de fiches
 Un JSON par lieu dans `content/places`, validé par un schéma zod (`src/content/schema.ts`) et un test : coordonnées dans l'île, au moins une source avec extrait, aucun lien Google Maps, chaque prix/horaire/durée/difficulté couvert par une source dédiée. `interest` et `xp_base` restent vides : ce sont des décisions d'éditeur.
 
+## Progression (XP, niveaux, check-in)
+Thibault a laissé le choix du barème. XP de base par famille : 10 pour plages, villages et marchés, tables ; 20 pour culture, nature et parcs, activités en mer, sport et loisirs ; 30 pour cascades et randonnées (l'effort, pas le danger). Multiplicateur de rareté 1 / 1,25 / 1,5 / 2, région complétée 100 XP, cinq niveaux aux seuils du brief. Le check-in GPS accepte un rayon par famille (200 à 800 m) plus l'imprécision du GPS plafonnée à 150 m ; hors rayon ou sans GPS, validation à la main, même XP, trois par jour. Tout est stocké sur l'appareil, donc fonctionne hors-ligne sans file d'attente. Limite assumée : sans serveur, rien n'empêche de tricher en modifiant le stockage du navigateur ; sans conséquence pour un usage familial.
+
+## Sources de contenu
+Wikipédia sert au contexte et aux coordonnées. Le contenu utile (quoi faire, prix, horaires) vient du site officiel du lieu ou du prestataire, des offices du tourisme, des organismes publics et de la presse mauricienne. GetYourGuide, Viator et consorts servent à repérer des activités ; on ne recopie ni leurs textes ni leurs notes, et ils refusent de toute façon les robots.
+
 ## Questions ouvertes
-- Quelle famille vaut 10, 20 ou 30 XP ? Le brief donne les trois valeurs sans la répartition.
 - Source gratuite du taux roupie / euro, à vérifier.
 - Tracé des 8 régions : quelle source (districts OpenStreetMap regroupés ?) ou dessin fourni par Thibault.
 - Source du taux roupie / euro (`EXCHANGE_RATE_API_URL`) : à proposer et vérifier en phase 1.

@@ -1,11 +1,12 @@
 "use client";
 
-import { ArrowLeft, Heart, Navigation } from "lucide-react";
+import { ArrowLeft, ExternalLink, Heart, Navigation } from "lucide-react";
 import Link from "next/link";
 import { useState, type ReactNode } from "react";
 import { fill, getMessages } from "@/i18n";
 import { coverPhoto, directionsUrl, formatDateFr, formatDuration, formatPriceMur } from "@/lib/places/format";
 import { useFavorites } from "@/lib/favorites";
+import { CheckIn } from "./CheckIn";
 import { Photo } from "./Photo";
 import type { PlaceDetail } from "@/lib/places/types";
 import { FamilyBadge } from "./FamilyBadge";
@@ -107,7 +108,7 @@ function FavoriteButton({ slug }: { slug: string }) {
   );
 }
 
-function PlaceContent({ place }: { place: PlaceDetail }) {
+function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs: string[] }) {
   const t = getMessages();
   const price = formatPriceMur(place);
   const priceText =
@@ -162,6 +163,35 @@ function PlaceContent({ place }: { place: PlaceDetail }) {
         ) : null}
         </div>
 
+        {place.secret ? (
+          <section className="mt-3 rounded-3xl border border-or/50 bg-basalte p-5 text-sable shadow-[0_10px_30px_rgb(16_34_43/0.3)]">
+            <p className="flex items-center gap-2 text-sm font-semibold uppercase tracking-widest text-or">
+              <span aria-hidden className="h-2.5 w-2.5 rotate-45 bg-or" />
+              {t.place.secretKicker}
+            </p>
+            <h2 className="mt-1 font-display text-2xl font-semibold">{t.place.secretTitle}</h2>
+            <div className="mt-2 text-[1.05rem]">
+              <Paragraphs text={place.secret.story_md} />
+            </div>
+            {(
+              [
+                [t.place.secretWhy, place.secret.why_unknown_md],
+                [t.place.secretAccess, place.secret.access_md],
+                [t.place.secretPrecautions, place.secret.precautions_md],
+              ] as const
+            ).map(([title, text]) =>
+              text ? (
+                <div key={title} className="mt-5">
+                  <h3 className="font-display text-xl font-semibold text-or">{title}</h3>
+                  <div className="mt-1">
+                    <Paragraphs text={text} />
+                  </div>
+                </div>
+              ) : null,
+            )}
+          </section>
+        ) : null}
+
         {place.why_go_md ? (
           <Section title={t.place.whyGo}>
             <Paragraphs text={place.why_go_md} />
@@ -213,6 +243,18 @@ function PlaceContent({ place }: { place: PlaceDetail }) {
           )}
         </Section>
 
+        {place.website_url ? (
+          <a
+            href={place.website_url}
+            target="_blank"
+            rel="noreferrer"
+            className="glass mt-3 flex min-h-14 items-center justify-between gap-3 rounded-3xl px-5 font-semibold"
+          >
+            {t.place.website}
+            <ExternalLink size={20} aria-hidden />
+          </a>
+        ) : null}
+
         <Section title={t.place.sources}>
           {place.verified_at ? (
             <p className="mb-2 text-sm font-semibold text-passe">{fill(t.place.verifiedOn, { date: formatDateFr(place.verified_at) })}</p>
@@ -242,6 +284,7 @@ function PlaceContent({ place }: { place: PlaceDetail }) {
             <Navigation size={20} aria-hidden />
             {t.place.go}
           </a>
+          <CheckIn place={place} regionSlugs={regionSlugs} />
           <FavoriteButton slug={place.slug} />
         </div>
       </div>
@@ -249,19 +292,19 @@ function PlaceContent({ place }: { place: PlaceDetail }) {
   );
 }
 
-export function PlaceView({ place }: { place: PlaceDetail }) {
+export function PlaceView({ place, regionSlugs }: { place: PlaceDetail; regionSlugs: string[] }) {
   const t = getMessages();
   return (
     <main className="mx-auto min-h-dvh max-w-md">
       <Backdrop place={place} />
       <Link
-        href={place.status === "draft" ? "/relecture" : "/explorer"}
+        href="/explorer"
         aria-label={t.place.backToMap}
         className="glass glass-strong fixed left-3 top-[max(0.75rem,env(safe-area-inset-top))] z-30 grid h-11 w-11 place-items-center rounded-full"
       >
         <ArrowLeft size={22} aria-hidden />
       </Link>
-      <PlaceContent place={place} />
+      <PlaceContent place={place} regionSlugs={regionSlugs} />
     </main>
   );
 }

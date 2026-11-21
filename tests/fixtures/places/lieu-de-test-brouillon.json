@@ -46,6 +46,21 @@
       "title": "Source fictive",
       "accessed_at": "2026-11-20",
       "evidence": "Extrait fictif."
+    },
+    {
+      "field": "secret",
+      "url": "https://example.org/source",
+      "title": "Source fictive",
+      "accessed_at": "2026-11-20",
+      "evidence": "Extrait fictif."
     }
-  ]
+  ],
+  "secret": {
+    "story_md": "Récit fictif pour les tests.",
+    "why_unknown_md": null,
+    "access_md": null,
+    "precautions_md": null,
+    "legal_access_checked": false
+  },
+  "website_url": "https://example.org/officiel"
 }

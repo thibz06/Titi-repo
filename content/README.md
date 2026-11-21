@@ -14,6 +14,13 @@ Une fiche rédigée reste en `draft`. Elle ne passe en `published` que sur déci
 - Textes en français, tutoiement, ton sobre de guide. Pas de superlatifs gratuits, pas de légende. Une hypothèse est écrite comme une hypothèse.
 - Ne copie pas le texte des sources : reformule.
 
+## Sources : au-delà de Wikipédia
+- Wikipédia et Wikidata servent aux coordonnées et au contexte, pas plus. Pour ce qu'on fait sur place, combien ça coûte et quand c'est ouvert, cherche d'abord le **site officiel du lieu ou du prestataire**, puis l'office du tourisme (mauritiusnow.com, mymauritius.travel), les organismes publics (govmu.org, Beach Authority, National Heritage Fund, National Parks), la presse mauricienne.
+- Les plateformes de réservation (GetYourGuide, Viator, TripAdvisor, Klook…) et les blogs de voyage servent à **repérer** des activités et des prestataires. On ne recopie ni leurs textes, ni leurs notes, ni leurs avis. Un prix lu sur une plateforme peut être cité dans `price_note` avec le nom de la plateforme, la devise et la date, mais ne remplit pas les champs de prix.
+- Une activité payante (catamaran, plongée, tyrolienne…) est une fiche comme une autre : famille `mer_activites` ou `sport_loisirs`, coordonnées du point de départ, `website_url` vers le prestataire. S'il y a plusieurs prestataires équivalents, la fiche décrit l'activité et le lieu, et les cite sans en recommander un.
+- Si un site refuse les robots (403, Cloudflare, captcha), ne le contourne pas : pas de faux navigateur, pas de cache tiers. Note-le dans `open_questions`.
+- Prix : en roupies quand la source les donne en roupies. S'ils ne sont donnés qu'en euros ou dollars, laisse les champs de prix à `null`, mets `price_kind` et écris le montant tel quel dans `price_note` avec la source et la date.
+
 ## Format
 
 ```json
@@ -62,9 +69,25 @@ Une fiche rédigée reste en `draft`. Elle ne passe en `published` que sur déci
   "media": [
     { "kind": "photo", "external_url": "URL du fichier Wikimedia Commons", "credit": "Auteur", "license": "CC BY-SA 4.0…", "source_url": "URL de la page du fichier sur Commons", "is_cover": true }
   ],
-  "open_questions": ["Ce qui n'a pas pu être vérifié et que l'éditeur devra trancher"]
+  "open_questions": ["Ce qui n'a pas pu être vérifié et que l'éditeur devra trancher"],
+  "website_url": "https://site-officiel… ou null",
+  "secret": null
 }
 ```
 
 `duration_*` en minutes ; `difficulty` de 1 à 5 ; `risk_level` : `low`, `medium`, `high` ou `null`.
 `accessibility` et `best_time` sont des objets libres dont chaque valeur est sourcée, sinon `null`.
+
+`secret` ne concerne que les lieux insolites de « L'Île secrète ». Sinon `null`. Quand il est rempli :
+
+```json
+"secret": {
+  "story_md": "Récit long, façon magazine, uniquement à partir de faits sourcés. Une hypothèse est écrite comme une hypothèse. Aucune légende inventée.",
+  "why_unknown_md": "Pourquoi peu de visiteurs y vont, si une source le dit, sinon null",
+  "access_md": "Comment y accéder, si sourcé, sinon null",
+  "precautions_md": "Précautions, si sourcées, sinon null",
+  "legal_access_checked": false
+}
+```
+
+`legal_access_checked` reste `false` : seul l'éditeur confirme que l'accès est légal. Chaque paragraphe du récit doit être couvert par une entrée `sources` avec `field: "secret"`.

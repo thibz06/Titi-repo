@@ -36,6 +36,17 @@ function toDetail(d: PlaceDraft): PlaceDetail {
     price_kind: d.price_kind,
     rarity: d.rarity,
     status: d.status,
+    region: d.region,
+    isSecret: !!d.secret,
+    website_url: d.website_url ?? null,
+    secret: d.secret
+      ? {
+          story_md: d.secret.story_md,
+          why_unknown_md: d.secret.why_unknown_md,
+          access_md: d.secret.access_md,
+          precautions_md: d.secret.precautions_md,
+        }
+      : null,
     google_place_id: d.google_place_id,
     description_md: d.description_md,
     why_go_md: d.why_go_md,
@@ -79,11 +90,8 @@ export function loadPlaces(): PlaceDetail[] {
 }
 
 export function toSummary(p: PlaceDetail): PlaceSummary {
-  const { id, slug, name, family, tags, locality, lat, lng, pitch, price_kind, rarity, status, place_media } = p;
-  return { id, slug, name, family, tags, locality, lat, lng, pitch, price_kind, rarity, status, place_media };
+  const { id, slug, name, family, tags, locality, lat, lng, pitch, price_kind, rarity, status, region, isSecret, place_media } = p;
+  return { id, slug, name, family, tags, locality, lat, lng, pitch, price_kind, rarity, status, region, isSecret, place_media };
 }
 
-export const loadSummaries = (status: "draft" | "published") =>
-  loadPlaces()
-    .filter((p) => p.status === status)
-    .map(toSummary);
+export const loadSummaries = () => loadPlaces().map(toSummary);

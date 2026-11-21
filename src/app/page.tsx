@@ -1,20 +1,12 @@
 import { Compass } from "lucide-react";
 import Link from "next/link";
+import { ProgressCard } from "@/components/ProgressCard";
+import { loadSummaries } from "@/content/load";
 import { getMessages } from "@/i18n";
-
-function Stamp({ label }: { label: string }) {
-  return (
-    <svg viewBox="0 0 120 120" role="img" aria-label={label} className="h-24 w-24 shrink-0 -rotate-6">
-      <circle cx="60" cy="60" r="54" fill="none" stroke="#0B4F6C" strokeWidth="4" />
-      <circle cx="60" cy="60" r="44" fill="none" stroke="#0B4F6C" strokeWidth="1.5" strokeDasharray="3 4" />
-      <path d="M60 30 L82 60 L60 90 L38 60 Z" fill="#0FB5BA" stroke="#10222B" strokeWidth="3" strokeLinejoin="round" />
-      <path d="M46 62 q7 -7 14 0 t14 0" fill="none" stroke="#10222B" strokeWidth="3" strokeLinecap="round" />
-    </svg>
-  );
-}
 
 export default function HomePage() {
   const t = getMessages().home;
+  const places = loadSummaries();
   const principles = [t.principles.sourced, t.principles.budget, t.principles.noPressure, t.principles.offline];
 
   return (
@@ -33,13 +25,9 @@ export default function HomePage() {
         </Link>
       </header>
 
-      <section className="glass mx-4 flex items-center gap-4 rounded-3xl p-5">
-        <Stamp label={t.stampAlt} />
-        <div>
-          <h2 className="font-display text-2xl font-semibold text-passe">{t.statusTitle}</h2>
-          <p className="mt-1 text-base leading-snug">{t.statusBody}</p>
-        </div>
-      </section>
+      <div className="px-4">
+        <ProgressCard places={places} />
+      </div>
 
       <section className="px-4 pb-[calc(104px+env(safe-area-inset-bottom))] pt-6">
         <h2 className="px-2 font-display text-2xl font-semibold">{t.principlesTitle}</h2>

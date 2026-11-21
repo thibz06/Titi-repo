@@ -14,7 +14,7 @@ Le brief complet fait foi. Choix techniques et versions : `docs/DECISIONS.md`.
 
 ## Règles non négociables
 1. Aucune donnée inventée : note, prix, horaire, vidéo, temps de trajet, légende. Un champ inconnu vaut `null` et s'affiche « Non renseigné ».
-2. Une fiche n'est publiée (`status: "published"` dans son JSON) que si elle a au moins une source (URL + date de consultation), une date de vérification et le nom de qui a vérifié. Les fiches rédigées par Claude restent en `draft` ; Claude n'en passe une en `published` que sur demande explicite de Thibault, fiche par fiche.
+2. Toute fiche a au moins une source (URL + date de consultation). Décision de Thibault (21 novembre 2026) : les fiches sourcées sont visibles dans l'app même non vérifiées, avec l'avertissement « Fiche pas encore vérifiée sur place ». Une fiche ne passe en `status: "published"` (sans avertissement) qu'avec `verified_at` et `verified_by`, sur demande explicite de Thibault. Claude n'écrit jamais qu'une fiche est vérifiée de son propre chef.
 3. Rien ne vient de Google : ni coordonnées, ni notes, ni avis, ni horaires, ni photos. Seul le lien « Y aller » ouvre Google Maps.
 4. Aucune clé secrète côté client. Aujourd'hui l'app n'a besoin d'aucune clé.
 5. Pas de base de données pour l'instant. Si une base revient : RLS activée et testée sur toutes les tables (la migration et ses tests sont conservés).
@@ -49,6 +49,9 @@ Transitions de 200 à 300 ms ; récompense de 1,2 s maximum et passable ; confet
 - `supabase/migrations` : schéma SQL et RLS, conservé mais non utilisé par l'app
 - `content/places` : fiches (règles dans `content/README.md`)
 - `docs/DECISIONS.md` : un paragraphe par choix technique, à tenir à jour à chaque ajout de dépendance
+
+## Progression
+Règles dans `src/lib/progress/rules.ts` (XP par famille, multiplicateur de rareté, niveaux, rayon de check-in, trois validations manuelles par jour). Favoris et visites sont stockés sur l'appareil (`src/lib/store.ts`).
 
 ## Onglets
 N'afficher que les onglets qui fonctionnent. Quêtes et Mon voyage s'ajoutent avec leurs phases.

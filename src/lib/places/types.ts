@@ -33,6 +33,9 @@ export interface PlaceSummary {
   price_kind: PriceKind | null;
   rarity: Rarity | null;
   status: "draft" | "published";
+  region: RegionCode;
+  /** Lieu de « L'Île secrète » (possède un récit). */
+  isSecret: boolean;
   place_media: PlaceMedia[];
 }
 
@@ -75,5 +78,12 @@ export interface PlaceDetail extends PlaceSummary {
   risk_note: string | null;
   verified_at: string | null;
   regions: { code: RegionCode; name: string } | null;
+  website_url: string | null;
+  secret: {
+    story_md: string;
+    why_unknown_md: string | null;
+    access_md: string | null;
+    precautions_md: string | null;
+  } | null;
   place_sources: PlaceSource[];
 }
