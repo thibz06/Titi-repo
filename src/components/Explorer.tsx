@@ -1,33 +1,32 @@
 "use client";
 
 import { X } from "lucide-react";
+import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useState } from "react";
 import { fill, getMessages } from "@/i18n";
-import { hasGoogleMaps, hasSupabase, missingPublicEnv } from "@/lib/env";
-import { usePublishedPlaces } from "@/lib/places/hooks";
+import type { PlaceSummary } from "@/lib/places/types";
 import { useOnline } from "@/lib/useOnline";
 import { BottomSheet, type SheetSnap } from "./BottomSheet";
-import { ExploreMap } from "./ExploreMap";
 import { FamilyBadge } from "./FamilyBadge";
 import { PlaceCard } from "./PlaceCard";
-import { MissingConfig, Notice, PrimaryButton, Skeleton } from "./States";
+import { Notice } from "./States";
 
-export function Explorer() {
+const ExploreMap = dynamic(() => import("./ExploreMap").then((m) => m.ExploreMap), { ssr: false });
+
+export function Explorer({ places, draftCount, review = false }: { places: PlaceSummary[]; draftCount: number; review?: boolean }) {
   const t = getMessages();
   const online = useOnline();
-  const { data: places = [], isPending, isError, refetch } = usePublishedPlaces();
-  const [snap, setSnap] = useState<SheetSnap>(hasGoogleMaps ? "peek" : "half");
+  const [snap, setSnap] = useState<SheetSnap>("half");
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [mapFailed, setMapFailed] = useState(false);
   const selected = places.find((p) => p.id === selectedId) ?? null;
-  const mapUsable = hasGoogleMaps && online && !mapFailed;
-
+  const mapUsable = online && !mapFailed;
   const count = places.length === 1 ? t.explore.countOne : fill(t.explore.countMany, { count: places.length });
 
   return (
     <div className="app-backdrop relative h-full overflow-hidden">
-      <h1 className="sr-only">{t.explore.title}</h1>
+      <h1 className="sr-only">{review ? t.review.title : t.explore.title}</h1>
 
       {mapUsable ? (
         <ExploreMap
@@ -42,15 +41,9 @@ export function Explorer() {
         />
       ) : (
         <div className="mx-auto max-w-md p-4 pt-[max(1rem,env(safe-area-inset-top))]">
-          {!hasGoogleMaps ? (
-            <MissingConfig
-              names={missingPublicEnv(["NEXT_PUBLIC_GOOGLE_MAPS_API_KEY", "NEXT_PUBLIC_GOOGLE_MAPS_MAP_ID"])}
-            />
-          ) : (
-            <Notice title={t.explore.mapUnavailableTitle} tone="warning">
-              {online ? t.explore.mapError : t.explore.mapOffline}
-            </Notice>
-          )}
+          <Notice title={t.explore.mapUnavailableTitle} tone="warning">
+            {online ? t.explore.mapError : t.explore.mapOffline}
+          </Notice>
         </div>
       )}
 
@@ -64,7 +57,7 @@ export function Explorer() {
               <FamilyBadge family={selected.family} size={44} />
               <div className="min-w-0 flex-1">
                 <p className="truncate font-display text-xl font-semibold">{selected.name}</p>
-                <p className="truncate text-sm text-encre/75">
+                <p className="truncate text-sm text-encre/80">
                   {[t.families[selected.family], selected.locality].filter(Boolean).join(" · ")}
                 </p>
               </div>
@@ -84,30 +77,33 @@ export function Explorer() {
               </button>
             </div>
           ) : (
-            <p className="font-display text-xl font-semibold" aria-live="polite">
-              {isPending && hasSupabase ? t.common.loading : count}
-            </p>
+            <p className="font-display text-xl font-semibold">{review ? `${t.review.title} · ${count}` : count}</p>
           )
         }
       >
-        {!hasSupabase ? (
-          <MissingConfig names={missingPublicEnv(["NEXT_PUBLIC_SUPABASE_URL", "NEXT_PUBLIC_SUPABASE_ANON_KEY"])} />
-        ) : isPending ? (
-          <div className="space-y-3" aria-busy="true">
-            <Skeleton className="h-16" />
-            <Skeleton className="h-16" />
-            <Skeleton className="h-16" />
+        {review ? (
+          <div className="mb-3">
+            <Notice title={t.review.bannerTitle} tone="warning">
+              {t.review.bannerBody}
+            </Notice>
           </div>
-        ) : isError ? (
+        ) : null}
+        {places.length === 0 ? (
           <Notice
-            title={t.explore.errorTitle}
-            tone="warning"
-            action={<PrimaryButton onClick={() => refetch()}>{t.common.retry}</PrimaryButton>}
+            title={t.explore.emptyTitle}
+            action={
+              draftCount > 0 ? (
+                <Link
+                  href="/relecture"
+                  className="inline-flex min-h-11 items-center rounded-full bg-lagon px-5 font-semibold text-encre"
+                >
+                  {fill(t.explore.reviewLink, { count: draftCount })}
+                </Link>
+              ) : undefined
+            }
           >
-            {online ? null : t.common.offline}
+            {t.explore.emptyBody}
           </Notice>
-        ) : places.length === 0 ? (
-          <Notice title={t.explore.emptyTitle}>{t.explore.emptyBody}</Notice>
         ) : (
           <ul className="space-y-3">
             {places.map((place) => (

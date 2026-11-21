@@ -11,7 +11,7 @@ export function TabBar() {
   const pathname = usePathname();
   const tabs = [
     { href: "/", label: t.home, icon: Home, active: pathname === "/" },
-    { href: "/explorer", label: t.explore, icon: Compass, active: pathname.startsWith("/explorer") || pathname.startsWith("/lieu") },
+    { href: "/explorer", label: t.explore, icon: Compass, active: ["/explorer", "/lieu", "/relecture"].some((p) => pathname.startsWith(p)) },
     { href: "/profil", label: t.profile, icon: UserRound, active: pathname.startsWith("/profil") },
   ];
   return (

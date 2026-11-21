@@ -2,14 +2,10 @@ import { defineConfig } from "@playwright/test";
 
 const port = 3100;
 
-// Valeurs factices : les appels Supabase sont interceptés dans les tests, la carte Google
-// n'est pas chargée (pas de clé), et les deux « secrets » servent à vérifier qu'ils
-// n'atterrissent jamais dans le bundle client.
+// L'app est compilée avec des fiches fictives (tests/fixtures/places), jamais avec le vrai contenu.
+// Les deux « secrets » servent à vérifier qu'ils n'atterrissent jamais dans le bundle client.
 export const TEST_ENV = {
-  NEXT_PUBLIC_SUPABASE_URL: "http://supabase.test",
-  NEXT_PUBLIC_SUPABASE_ANON_KEY: "cle-anonyme-de-test",
-  NEXT_PUBLIC_GOOGLE_MAPS_API_KEY: "",
-  NEXT_PUBLIC_GOOGLE_MAPS_MAP_ID: "",
+  CONTENT_DIR: "tests/fixtures/places",
   SUPABASE_SERVICE_ROLE_KEY: "SECRET-service-role-de-test",
   GOOGLE_MAPS_SERVER_KEY: "SECRET-google-serveur-de-test",
 };

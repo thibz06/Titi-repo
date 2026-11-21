@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { fill } from "@/i18n";
-import { directionsUrl, formatDateFr, formatDuration, formatPriceMur } from "@/lib/places/format";
+import { commonsThumb, directionsUrl, formatDateFr, formatDuration, formatPriceMur } from "@/lib/places/format";
 
 describe("lien « Y aller »", () => {
   it("utilise le format Google Maps URLs avec les coordonnées de la fiche", () => {
@@ -41,4 +41,15 @@ describe("prix en roupies", () => {
 describe("textes", () => {
   it("date en français", () => expect(formatDateFr("2026-11-20")).toBe("20 novembre 2026"));
   it("remplace les variables", () => expect(fill("{count} lieux", { count: 3 })).toBe("3 lieux"));
+});
+
+describe("miniature Wikimedia Commons", () => {
+  const original = "https://upload.wikimedia.org/wikipedia/commons/b/b0/CoinDeMire01.jpg";
+  it("construit l'URL de miniature à une largeur standard", () =>
+    expect(commonsThumb(original, 900)).toBe(
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CoinDeMire01.jpg/960px-CoinDeMire01.jpg",
+    ));
+  it("prend la plus petite largeur standard suffisante", () => expect(commonsThumb(original, 200)).toContain("/250px-"));
+  it("laisse intacte une URL qui n'est pas un fichier Commons", () =>
+    expect(commonsThumb("https://example.org/photo.jpg", 500)).toBe("https://example.org/photo.jpg"));
 });

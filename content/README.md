@@ -1,6 +1,8 @@
 # Brouillons de fiches
 
-Un fichier JSON par lieu dans `content/places/<slug>.json`. Tous restent en `status: "draft"` : seul Thibault publie.
+Un fichier JSON par lieu dans `content/places/<slug>.json`. L'app les lit directement : Explorer montre les fiches `published`, la page Relecture montre les `draft` avec un avertissement.
+
+Une fiche rédigée reste en `draft`. Elle ne passe en `published` que sur décision de Thibault, avec `verified_at` (date) et `verified_by` (son nom).
 
 ## Règles de rédaction
 - Aucune donnée inventée. Un fait (prix, horaire, durée, difficulté, accès, risque, histoire) n'est écrit que s'il est lu dans une source réellement consultée, listée dans `sources` avec l'extrait qui le prouve (`evidence`). Sinon le champ vaut `null` (ou `[]`).
@@ -8,7 +10,7 @@ Un fichier JSON par lieu dans `content/places/<slug>.json`. Tous restent en `sta
 - Coordonnées : Wikidata, Wikipedia ou OpenStreetMap, avec l'URL dans `coords_source_url`.
 - Prix en roupies mauriciennes uniquement, tels qu'écrits par la source officielle du lieu. Jamais de conversion.
 - `opening_hours` en syntaxe OSM (ex. `Mo-Fr 08:30-17:00; Sa 09:00-12:00; PH off`), seulement si une source officielle donne les horaires.
-- `interest`, `xp_base`, `verified_at`, `verified_by` restent `null` : décisions de l'éditeur.
+- `interest` et `xp_base` restent `null` : décisions de l'éditeur. `verified_at` et `verified_by` restent `null` tant que la fiche est en `draft`.
 - Textes en français, tutoiement, ton sobre de guide. Pas de superlatifs gratuits, pas de légende. Une hypothèse est écrite comme une hypothèse.
 - Ne copie pas le texte des sources : reformule.
 
@@ -51,7 +53,7 @@ Un fichier JSON par lieu dans `content/places/<slug>.json`. Tous restent en `sta
   "rarity": "incontournable | peu_connu | insolite | tres_confidentiel | null",
   "rarity_reason": "Argument sourcé, ou null",
   "xp_base": null,
-  "status": "draft",
+  "status": "draft | published",
   "verified_at": null,
   "verified_by": null,
   "sources": [

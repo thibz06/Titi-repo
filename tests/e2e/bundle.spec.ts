@@ -26,6 +26,4 @@ test("aucune clé secrète dans le bundle client", () => {
     for (const needle of forbidden) if (content.includes(needle)) leaks.push(`${needle} dans ${file}`);
   }
   expect(leaks).toEqual([]);
-  // Contrôle du contrôle : la clé anonyme, elle, doit bien être dans le bundle.
-  expect(clientFiles.some((f) => readFileSync(f, "utf8").includes(TEST_ENV.NEXT_PUBLIC_SUPABASE_ANON_KEY))).toBe(true);
 });

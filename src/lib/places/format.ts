@@ -54,3 +54,15 @@ export function formatDateFr(iso: string): string {
     new Date(`${iso.slice(0, 10)}T00:00:00Z`),
   );
 }
+
+/**
+ * Miniature d'un fichier Wikimedia Commons, à l'une des largeurs standard servies par Wikimedia.
+ * Renvoie l'URL d'origine si ce n'est pas un fichier Commons au format attendu.
+ */
+export function commonsThumb(url: string, width: number): string {
+  const match = /^(https:\/\/upload\.wikimedia\.org\/wikipedia\/commons)\/([0-9a-f]\/[0-9a-f]{2})\/([^/]+\.(?:jpe?g|png))$/i.exec(url);
+  if (!match) return url;
+  const [, base, hash, file] = match;
+  const step = [250, 500, 960, 1280].find((w) => w >= width) ?? 1280;
+  return `${base}/thumb/${hash}/${file}/${step}px-${file}`;
+}

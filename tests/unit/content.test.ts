@@ -2,10 +2,12 @@ import { readdirSync, readFileSync } from "node:fs";
 import { describe, expect, it } from "vitest";
 import { lintDraft, placeDraftSchema } from "@/content/schema";
 
-const dir = new URL("../../content/places/", import.meta.url);
-const files = readdirSync(dir).filter((f) => f.endsWith(".json"));
+describe.each([
+  ["content/places", new URL("../../content/places/", import.meta.url)],
+  ["tests/fixtures/places", new URL("../../tests/fixtures/places/", import.meta.url)],
+])("fiches de %s", (_label, dir) => {
+  const files = readdirSync(dir).filter((f) => f.endsWith(".json"));
 
-describe("brouillons de fiches", () => {
   it.each(files)("%s respecte le schéma et les règles de sources", (file) => {
     const raw: unknown = JSON.parse(readFileSync(new URL(file, dir), "utf8"));
     const parsed = placeDraftSchema.safeParse(raw);

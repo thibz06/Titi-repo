@@ -1,43 +1,58 @@
 import { expect, test } from "@playwright/test";
-import { mockSupabase, TEST_PLACES } from "./fixtures";
+import { mockMap } from "./fixtures";
 
-test.beforeEach(async ({ page }) => mockSupabase(page));
+test.beforeEach(async ({ page }) => mockMap(page));
 
-test("trouver un lieu, lire sa fiche et lancer la navigation", async ({ page }) => {
+test("de la carte à la fiche puis à la navigation, en moins de 30 secondes", async ({ page }) => {
   const start = Date.now();
   await page.goto("/");
   await page.getByRole("link", { name: "Ouvrir la carte" }).click();
   await expect(page.getByText("2 lieux")).toBeVisible();
 
-  await page.getByRole("link", { name: /Plage de test/ }).click();
+  // Le marqueur du lieu sur la carte ouvre l'aperçu, puis la fiche.
+  await page.getByRole("button", { name: "Plage de test" }).click();
+  await page.getByRole("link", { name: "Voir la fiche" }).click();
   await expect(page.getByRole("heading", { level: 1, name: "Plage de test" })).toBeVisible();
   await expect(page.getByText("1 h à 1 h 30")).toBeVisible();
   await expect(page.getByRole("link", { name: "Source fictive" })).toBeVisible();
   await expect(page.getByText("Fiche vérifiée le 20 novembre 2026")).toBeVisible();
 
   const go = page.getByRole("link", { name: "Y aller" });
-  await expect(go).toBeVisible();
-  const href = await go.getAttribute("href");
-  const place = TEST_PLACES[0]!;
-  expect(href).toBe(`https://www.google.com/maps/dir/?api=1&destination=${place.lat}%2C${place.lng}`);
+  expect(await go.getAttribute("href")).toBe("https://www.google.com/maps/dir/?api=1&destination=-20.01%2C57.58");
   expect(Date.now() - start).toBeLessThan(30_000);
+});
+
+test("les brouillons n'apparaissent pas dans Explorer", async ({ page }) => {
+  await page.goto("/explorer");
+  await expect(page.getByRole("link", { name: /Musée de test/ })).toBeVisible();
+  await expect(page.getByText("Brouillon de test")).toHaveCount(0);
+});
+
+test("la relecture montre les brouillons avec un avertissement, jusque sur la fiche", async ({ page }) => {
+  await page.goto("/relecture");
+  await expect(page.getByRole("heading", { name: "Brouillon non vérifié" })).toBeVisible();
+  await page.getByRole("link", { name: /Brouillon de test/ }).click();
+  await expect(page.getByRole("heading", { level: 1, name: "Brouillon de test" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Brouillon non vérifié" })).toBeVisible();
 });
 
 test("un champ inconnu s'affiche « Non renseigné »", async ({ page }) => {
   await page.goto("/lieu/lieu-de-test-musee");
   await expect(page.getByRole("heading", { level: 1, name: "Musée de test" })).toBeVisible();
-  // Trajet, prix, difficulté et horaires sont inconnus dans cette fiche de test.
-  await expect(page.getByText("Non renseigné")).toHaveCount(4);
+  // Trajet, durée, prix, difficulté et horaires sont inconnus dans cette fiche de test.
+  await expect(page.getByText("Non renseigné")).toHaveCount(5);
 });
 
 test("une fiche inexistante le dit clairement", async ({ page }) => {
-  await page.goto("/lieu/nexiste-pas");
+  const response = await page.goto("/lieu/nexiste-pas");
+  expect(response?.status()).toBe(404);
   await expect(page.getByRole("heading", { name: "Fiche introuvable" })).toBeVisible();
 });
 
-test("ajouter puis retirer un favori", async ({ page }) => {
+test("ajouter puis retirer un favori, conservé après rechargement", async ({ page }) => {
   await page.goto("/lieu/lieu-de-test-plage");
   await page.getByRole("button", { name: "Ajouter aux favoris" }).click();
+  await page.reload();
   await expect(page.getByRole("button", { name: "Retirer des favoris" })).toHaveAttribute("aria-pressed", "true");
 
   await page.getByRole("link", { name: "Profil" }).click();
@@ -49,21 +64,25 @@ test("ajouter puis retirer un favori", async ({ page }) => {
   await expect(page.getByRole("heading", { name: "Pas encore de favori" })).toBeVisible();
 });
 
-test("sans clé Google Maps, l'app le dit et la liste reste utilisable", async ({ page }) => {
+test("si le fond de carte ne charge pas, l'app le dit et la liste reste utilisable", async ({ page }) => {
+  await page.unroute("https://tiles.openfreemap.org/**");
+  await page.route("https://tiles.openfreemap.org/**", (route) => route.abort());
   await page.goto("/explorer");
-  await expect(page.getByText("NEXT_PUBLIC_GOOGLE_MAPS_API_KEY")).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Carte indisponible" })).toBeVisible();
   await expect(page.getByRole("link", { name: /Musée de test/ })).toBeVisible();
 });
 
 test("les zones tactiles font au moins 44 px", async ({ page }) => {
-  await page.goto("/lieu/lieu-de-test-plage");
-  await expect(page.getByRole("link", { name: "Y aller" })).toBeVisible();
-  const small = await page.evaluate(() =>
-    [...document.querySelectorAll<HTMLElement>("a, button")]
-      .filter((el) => el.offsetParent !== null)
-      .map((el) => ({ label: el.getAttribute("aria-label") ?? el.textContent?.trim().slice(0, 30), r: el.getBoundingClientRect() }))
-      .filter(({ r }) => r.width < 44 || r.height < 44)
-      .map(({ label, r }) => `${label} (${Math.round(r.width)}×${Math.round(r.height)})`),
-  );
-  expect(small).toEqual([]);
+  for (const url of ["/lieu/lieu-de-test-plage", "/explorer"]) {
+    await page.goto(url);
+    await page.waitForTimeout(800);
+    const small = await page.evaluate(() =>
+      [...document.querySelectorAll<HTMLElement>("a, button")]
+        .filter((el) => el.offsetParent !== null && !el.closest(".maplibregl-ctrl"))
+        .map((el) => ({ label: el.getAttribute("aria-label") ?? el.textContent?.trim().slice(0, 30), r: el.getBoundingClientRect() }))
+        .filter(({ r }) => r.width < 44 || r.height < 44)
+        .map(({ label, r }) => `${label} (${Math.round(r.width)}×${Math.round(r.height)})`),
+    );
+    expect(small, url).toEqual([]);
+  }
 });

@@ -63,9 +63,9 @@ export const placeDraftSchema = z.strictObject({
   rarity: z.enum(RARITIES).nullable(),
   rarity_reason: z.string().nullable(),
   xp_base: z.union([z.literal(10), z.literal(20), z.literal(30)]).nullable(),
-  status: z.literal("draft"),
-  verified_at: z.null(),
-  verified_by: z.null(),
+  status: z.enum(["draft", "published"]),
+  verified_at: isoDate.nullable(),
+  verified_by: z.string().min(1).nullable(),
   sources: z.array(sourceSchema).min(1),
   media: z.array(mediaSchema),
   open_questions: z.array(z.string()),
@@ -98,6 +98,13 @@ export function lintDraft(draft: PlaceDraft): string[] {
     problems.push("duration_max < duration_min");
   }
   if (draft.rarity !== null && !draft.rarity_reason) problems.push("rarity sans rarity_reason");
+  // Règle 2 : pas de publication sans date de vérification ni nom du vérificateur.
+  if (draft.status === "published" && (!draft.verified_at || !draft.verified_by)) {
+    problems.push("fiche publiée sans verified_at ou verified_by");
+  }
+  if (draft.status === "draft" && (draft.verified_at || draft.verified_by)) {
+    problems.push("brouillon avec une date de vérification : passe-le en published ou retire la date");
+  }
   if (draft.media.filter((m) => m.is_cover).length > 1) problems.push("plusieurs photos de couverture");
   return problems;
 }

@@ -1,0 +1,77 @@
+{
+  "tags": [
+    "gratuit",
+    "famille"
+  ],
+  "region": "nord",
+  "locality": "Village test",
+  "coords_source_url": "https://example.org/coords",
+  "google_place_id": null,
+  "description_md": "Description fictive.",
+  "why_go_md": null,
+  "likes": [
+    "Un point fort fictif"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": 60,
+  "duration_max": 90,
+  "price_kind": "free",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "media": [],
+  "open_questions": [],
+  "slug": "lieu-de-test-plage",
+  "name": "Plage de test",
+  "family": "plages_lagon",
+  "lat": -20.01,
+  "lng": 57.58,
+  "pitch": "Une fiche fictive pour les tests.",
+  "status": "published",
+  "verified_at": "2026-11-20",
+  "verified_by": "Test",
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://example.org/source",
+      "title": "Source fictive",
+      "accessed_at": "2026-11-20",
+      "evidence": "Extrait fictif."
+    },
+    {
+      "field": "price_kind",
+      "url": "https://example.org/source",
+      "title": "Source fictive",
+      "accessed_at": "2026-11-20",
+      "evidence": "Extrait fictif."
+    },
+    {
+      "field": "duration_min",
+      "url": "https://example.org/source",
+      "title": "Source fictive",
+      "accessed_at": "2026-11-20",
+      "evidence": "Extrait fictif."
+    },
+    {
+      "field": "duration_max",
+      "url": "https://example.org/source",
+      "title": "Source fictive",
+      "accessed_at": "2026-11-20",
+      "evidence": "Extrait fictif."
+    }
+  ]
+}

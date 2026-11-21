@@ -1,6 +1,4 @@
 import type { ReactNode } from "react";
-import { getMessages } from "@/i18n";
-import type { PublicEnvName } from "@/lib/env";
 
 export function Notice({
   title,
@@ -22,38 +20,5 @@ export function Notice({
       {children ? <div className="mt-1 text-base leading-snug">{children}</div> : null}
       {action ? <div className="mt-3">{action}</div> : null}
     </div>
-  );
-}
-
-export function MissingConfig({ names }: { names: PublicEnvName[] }) {
-  const t = getMessages().config;
-  return (
-    <Notice title={t.title} tone="warning">
-      <p>{t.body}</p>
-      <ul className="mt-2 space-y-1">
-        {names.map((name) => (
-          <li key={name}>
-            <code className="break-all rounded bg-white/70 px-1.5 py-0.5 text-sm">{name}</code>
-          </li>
-        ))}
-      </ul>
-      <p className="mt-2 text-sm">{t.hint}</p>
-    </Notice>
-  );
-}
-
-export function Skeleton({ className = "" }: { className?: string }) {
-  return <div aria-hidden className={`animate-pulse rounded-xl bg-encre/10 ${className}`} />;
-}
-
-export function PrimaryButton({ children, ...props }: React.ButtonHTMLAttributes<HTMLButtonElement>) {
-  return (
-    <button
-      type="button"
-      {...props}
-      className="inline-flex min-h-11 items-center justify-center rounded-full bg-lagon px-5 font-semibold text-encre shadow-[inset_0_1px_0_rgb(255_255_255/0.6)]"
-    >
-      {children}
-    </button>
   );
 }

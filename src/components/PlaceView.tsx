@@ -2,16 +2,14 @@
 
 import { ArrowLeft, Heart, Navigation } from "lucide-react";
 import Link from "next/link";
-import type { ReactNode } from "react";
+import { useState, type ReactNode } from "react";
 import { fill, getMessages } from "@/i18n";
-import { hasSupabase, missingPublicEnv } from "@/lib/env";
 import { coverPhoto, directionsUrl, formatDateFr, formatDuration, formatPriceMur } from "@/lib/places/format";
-import { useFavoriteIds, usePlace, useToggleFavorite } from "@/lib/places/hooks";
+import { useFavorites } from "@/lib/favorites";
+import { Photo } from "./Photo";
 import type { PlaceDetail } from "@/lib/places/types";
-import { useOnline } from "@/lib/useOnline";
 import { FamilyBadge } from "./FamilyBadge";
-import { useSession } from "./Providers";
-import { MissingConfig, Notice, PrimaryButton, Skeleton } from "./States";
+import { Notice } from "./States";
 
 function Paragraphs({ text }: { text: string }) {
   return text
@@ -43,14 +41,11 @@ function Stat({ label, value }: { label: string; value: string | null }) {
 }
 
 /** Fond plein écran : la photo créditée du lieu, sinon un dégradé aux couleurs du projet. */
-function Backdrop({ place }: { place: PlaceDetail | null }) {
-  const cover = place ? coverPhoto(place.place_media) : null;
+function Backdrop({ place }: { place: PlaceDetail }) {
+  const cover = coverPhoto(place.place_media);
   return (
     <div aria-hidden className="app-backdrop fixed inset-0 -z-10">
-      {cover ? (
-        // eslint-disable-next-line @next/next/no-img-element -- fichier Wikimedia Commons, servi tel quel
-        <img src={cover.external_url} alt="" className="h-full w-full object-cover" />
-      ) : null}
+      {cover ? <Photo src={cover.external_url} width={960} eager className="h-full w-full object-cover" /> : null}
     </div>
   );
 }
@@ -87,26 +82,24 @@ function Hero({ place }: { place: PlaceDetail }) {
   );
 }
 
-function FavoriteButton({ placeId }: { placeId: string }) {
+function FavoriteButton({ slug }: { slug: string }) {
   const t = getMessages().place;
-  const session = useSession();
-  const { data: ids = [] } = useFavoriteIds();
-  const toggle = useToggleFavorite();
-  const on = ids.includes(placeId);
+  const { ids, toggle } = useFavorites();
+  const [failed, setFailed] = useState(false);
+  const on = ids.includes(slug);
   return (
     <>
       <button
         type="button"
         aria-pressed={on}
         aria-label={on ? t.favoriteRemove : t.favoriteAdd}
-        disabled={session.status !== "ready"}
-        onClick={() => toggle.mutate({ placeId, on: !on })}
-        className="grid h-12 w-12 shrink-0 place-items-center rounded-full bg-white/80 disabled:opacity-50"
+        onClick={() => setFailed(!toggle(slug))}
+        className="grid h-12 w-12 shrink-0 place-items-center rounded-full bg-white/80"
       >
         <Heart size={24} aria-hidden className={on ? "fill-corail text-encre" : "text-encre"} />
       </button>
-      {toggle.isError ? (
-        <p role="alert" className="absolute inset-x-4 -top-12 rounded-xl bg-encre px-3 py-2 text-sm text-white">
+      {failed ? (
+        <p role="alert" className="absolute inset-x-2 -top-14 rounded-2xl bg-encre px-3 py-2 text-sm text-white">
           {t.favoriteError}
         </p>
       ) : null}
@@ -124,6 +117,13 @@ function PlaceContent({ place }: { place: PlaceDetail }) {
     <>
       <Hero place={place} />
       <div className="px-3 pb-44">
+        {place.status === "draft" ? (
+          <div className="mb-3">
+            <Notice title={t.review.bannerTitle} tone="warning">
+              {t.review.bannerBody}
+            </Notice>
+          </div>
+        ) : null}
         <div className="glass rounded-3xl p-5">
         <p className="text-sm font-semibold uppercase tracking-wide text-passe">
           {[t.families[place.family], place.locality, place.regions?.name].filter(Boolean).join(" · ")}
@@ -242,62 +242,26 @@ function PlaceContent({ place }: { place: PlaceDetail }) {
             <Navigation size={20} aria-hidden />
             {t.place.go}
           </a>
-          <FavoriteButton placeId={place.id} />
+          <FavoriteButton slug={place.slug} />
         </div>
       </div>
     </>
   );
 }
 
-export function PlaceView({ slug }: { slug: string }) {
+export function PlaceView({ place }: { place: PlaceDetail }) {
   const t = getMessages();
-  const online = useOnline();
-  const { data: place, isPending, isError, refetch } = usePlace(slug);
-
   return (
     <main className="mx-auto min-h-dvh max-w-md">
-      <Backdrop place={place ?? null} />
+      <Backdrop place={place} />
       <Link
-        href="/explorer"
+        href={place.status === "draft" ? "/relecture" : "/explorer"}
         aria-label={t.place.backToMap}
         className="glass glass-strong fixed left-3 top-[max(0.75rem,env(safe-area-inset-top))] z-30 grid h-11 w-11 place-items-center rounded-full"
       >
         <ArrowLeft size={22} aria-hidden />
       </Link>
-
-      {!hasSupabase ? (
-        <div className="p-5 pt-20">
-          <MissingConfig names={missingPublicEnv(["NEXT_PUBLIC_SUPABASE_URL", "NEXT_PUBLIC_SUPABASE_ANON_KEY"])} />
-        </div>
-      ) : isPending ? (
-        <div aria-busy="true" aria-label={t.common.loading}>
-          <Skeleton className="h-40 rounded-none" />
-          <div className="space-y-3 p-5">
-            <Skeleton className="h-10 w-3/4" />
-            <Skeleton className="h-6" />
-            <div className="grid grid-cols-2 gap-3">
-              <Skeleton className="h-16" />
-              <Skeleton className="h-16" />
-            </div>
-          </div>
-        </div>
-      ) : isError ? (
-        <div className="p-5 pt-20">
-          <Notice
-            title={t.place.errorTitle}
-            tone="warning"
-            action={<PrimaryButton onClick={() => refetch()}>{t.common.retry}</PrimaryButton>}
-          >
-            {online ? null : t.common.offline}
-          </Notice>
-        </div>
-      ) : place ? (
-        <PlaceContent place={place} />
-      ) : (
-        <div className="p-5 pt-20">
-          <Notice title={t.place.notFoundTitle}>{t.place.notFoundBody}</Notice>
-        </div>
-      )}
+      <PlaceContent place={place} />
     </main>
   );
 }

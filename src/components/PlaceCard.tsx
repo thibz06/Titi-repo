@@ -3,6 +3,7 @@ import { getMessages } from "@/i18n";
 import { coverPhoto } from "@/lib/places/format";
 import type { PlaceSummary } from "@/lib/places/types";
 import { FamilyBadge } from "./FamilyBadge";
+import { Photo } from "./Photo";
 
 export function PlaceCard({ place }: { place: PlaceSummary }) {
   const t = getMessages();
@@ -11,8 +12,8 @@ export function PlaceCard({ place }: { place: PlaceSummary }) {
     <Link href={`/lieu/${place.slug}`} className="glass flex min-h-20 items-center gap-3 overflow-hidden rounded-3xl p-2.5">
       {cover ? (
         <span className="relative h-16 w-16 shrink-0 overflow-hidden rounded-2xl">
-          {/* eslint-disable-next-line @next/next/no-img-element -- fichier Wikimedia Commons, servi tel quel */}
-          <img src={cover.external_url} alt="" loading="lazy" className="h-full w-full object-cover" />
+          <span className="absolute inset-0 grid place-items-center bg-lagon/50" />
+          <Photo src={cover.external_url} width={250} className="absolute inset-0 h-full w-full object-cover" />
           <span className="absolute bottom-0.5 right-0.5">
             <FamilyBadge family={place.family} size={24} />
           </span>
