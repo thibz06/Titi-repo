@@ -1,0 +1,140 @@
+{
+  "slug": "temple-de-triolet",
+  "name": "Temple de Triolet (Maheswarnath Mandir)",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "nord",
+  "locality": "Triolet",
+  "lat": -20.04244444,
+  "lng": 57.55238889,
+  "coords_source_url": "https://en.wikipedia.org/wiki/Maheswarnath_Mandir",
+  "google_place_id": null,
+  "pitch": "Le plus grand temple hindou de Maurice, dédié à Shiva et fondé en 1888 : murs blancs, sculptures colorées.",
+  "description_md": "Le Maheswarnath Mandir, appelé localement « Grand Shivala Triolet », est un temple hindou de Triolet dédié à Shiva. Il a été fondé en 1888 par le pandit Sajeebunlall Ramsoondur, venu de Calcutta ; sa construction, menée par des artisans tamouls, a duré de 1888 à 1891. Le temple principal, toujours peint en blanc, porte des sculptures et des motifs floraux colorés, et l'enceinte abrite plusieurs temples plus petits.",
+  "why_go_md": "L'office du tourisme le présente comme le plus grand temple hindou de Maurice et l'un des plus anciens, à visiter si tu es dans le nord et que tu veux découvrir la culture hindoue. Il est aussi associé au premier pèlerinage vers Ganga Talao (Grand Bassin) : en 1898, son fondateur et un autre pandit s'y rendent à pied avec neuf habitants de Triolet.",
+  "likes": [
+    "Présenté comme le plus grand temple hindou de l'île",
+    "Façades blanches, sculptures et motifs floraux colorés",
+    "Plusieurs petits temples dans la même enceinte",
+    "Lié à l'origine du pèlerinage de Maha Shivaratri vers Grand Bassin"
+  ],
+  "watchouts": [
+    "C'est un lieu de culte en activité."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://en.wikipedia.org/wiki/Maheswarnath_Mandir",
+      "title": "Maheswarnath Mandir - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"coordinates\":[{\"lat\":-20.04244444,\"lon\":57.55238889,\"primary\":\"\",\"globe\":\"earth\"}] (coordonnées de l'article, lues via l'API Wikipédia prop=coordinates)"
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Maheswarnath_Mandir",
+      "title": "Maheswarnath Mandir - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Maheswarnath Mandir (locally known as \"Grand Shivala Triolet\") is a Hindu temple located in the town of Triolet, Mauritius. The presiding deity of the temple is Lord Shiva"
+    },
+    {
+      "field": "pitch, description_md",
+      "url": "https://en.wikipedia.org/wiki/Maheswarnath_Mandir",
+      "title": "Maheswarnath Mandir - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "The temple was founded in 1888 by Pandit Shri Sajeebunlall Ramsoondur, who came from Calcutta."
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Maheswarnath_Mandir",
+      "title": "Maheswarnath Mandir - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "The building was the work of Tamil artisans under the supervision of Mr Goinsamy Maestry."
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Maheswarnath_Mandir",
+      "title": "Maheswarnath Mandir - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "himself helped in constructing the temple; which lasted from 1888 to 1891."
+    },
+    {
+      "field": "pitch, description_md, likes",
+      "url": "https://en.wikipedia.org/wiki/Maheswarnath_Mandir",
+      "title": "Maheswarnath Mandir - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Since its construction, the temple is always painted white while the sculptures and the floral designs are colorful, in contrast to the white background."
+    },
+    {
+      "field": "pitch, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/maheswarnath-mandir/",
+      "title": "Maheswarnath Mandir (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You’ll find the largest Hindu temple in Mauritius in Triolet. Maheswarnath Mandir is dedicated to Lord Shiva and has beautiful white pillars, intricate floral design and vibrant sculptures. Also known as Triolet Temple, this is one of the oldest temples in Mauritius and it was founded in 1888"
+    },
+    {
+      "field": "description_md, why_go_md, likes, watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/maheswarnath-mandir/",
+      "title": "Maheswarnath Mandir (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Within this tranquil complex, you’ll also find a few smaller temples. It is well worth a visit if you are in the north of the island and want to learn more about Hindu culture."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://en.wikipedia.org/wiki/Maheswarnath_Mandir",
+      "title": "Maheswarnath Mandir - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "The following year, Pandit Giri Gossagne and Pandit Sajeebunlall along with nine people from Triolet trekked to Grand Bassin to collect its water to offer to Lord Shiva on the occasion of Maha Shivaratri."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://en.wikipedia.org/wiki/Maheswarnath_Mandir",
+      "title": "Maheswarnath Mandir - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "in 1897 Pandit Shri Jhummon Giri Gossagne Napal"
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Triolet%2CMaheswarnath_Mandir.JPG",
+      "credit": "Karsten Ratzke",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Triolet,Maheswarnath_Mandir.JPG",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Horaires de visite, tenue attendue, photos autorisées ou non, don éventuel : non trouvés.",
+    "Date : 1888 selon Wikipédia (en) et Mauritius Now, mais l'article Wikipédia (fr) sur Trou-aux-Biches parle d'un temple « construit en 1857 » : la fiche retient 1888.",
+    "Statut de patrimoine national : non vérifié (National Heritage Fund non accessible).",
+    "Wikipédia rapporte une légende (pot de pièces d'or trouvé pendant le chantier) : écartée, conformément aux règles.",
+    "Triolet est dans le district de Pamplemousses, à l'intérieur des terres ; la fiche est rangée en région nord comme demandé.",
+    "Les coordonnées viennent de l'article Wikipédia (en) ; Nominatim ne connaît pas le temple sous ce nom.",
+    "Prix, horaires, durée de visite, accès (parking, bus) et équipements : aucune source officielle consultable dans cette session, champs laissés à null.",
+    "lexpress.mu a répondu 403 (protection Cloudflare) : aucun article de L'Express n'a pu être lu. Les sites de la Beach Authority et du National Heritage Fund ne font pas partie des hôtes autorisés.",
+    "Les articles Wikipédia ont été lus via l'API (action=query&prop=extracts) des pages citées ; les extraits viennent du texte brut renvoyé."
+  ]
+}

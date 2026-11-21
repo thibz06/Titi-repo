@@ -1,0 +1,107 @@
+{
+  "slug": "anse-la-raie",
+  "name": "Anse la Raie",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "nord",
+  "locality": "Cap Malheureux",
+  "lat": -19.9902454,
+  "lng": 57.63308,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&q=Anse%20la%20Raie%20Public%20Beach",
+  "google_place_id": null,
+  "pitch": "Plage publique du nord, voisine de Cap Malheureux, défendue par ses habitants contre un projet hôtelier en 2023.",
+  "description_md": "Anse la Raie est une plage publique du nord de l'île, à côté de Cap Malheureux ; un centre de jeunesse se trouve sur le site. En 2023, un projet d'hôtel 5 étoiles sur une bonne partie de la plage a été abandonné après la mobilisation d'un collectif d'habitants, qui demande l'agrandissement de la plage publique et la protection des marécages. En 2018, la Beach Authority indiquait que l'une des trois plages où le kitesurf était autorisé se trouvait à Mare-la-Raie, à proximité.",
+  "why_go_md": null,
+  "likes": [
+    "Plage publique",
+    "Kitesurf autorisé à proximité, à Mare-la-Raie (information de 2018, à confirmer)"
+  ],
+  "watchouts": [
+    "L'avenir du site reste discuté : fin 2023, le collectif d'habitants indiquait qu'un plan d'aménagement de 100 arpents dans la région n'était pas abandonné."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&q=Anse%20la%20Raie%20Public%20Beach",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":10148102738,\"lat\":\"-19.9902454\",\"lon\":\"57.6330800\" … \"display_name\":\"Anse la Raie Public Beach, Route Mon Choisy Cap Malheureux, Anse la Raie, Cap Malheureux, Cap Malheureux VCA, Riviere du Rempart, 30504, Mauritius / Maurice\""
+    },
+    {
+      "field": "pitch, description_md, likes",
+      "url": "https://defimedia.info/projet-hotelier-conteste-anse-la-raie-gopee-recule-les-habitants-sur-leurs-gardes",
+      "title": "Projet hôtelier contesté à Anse-La-Raie : Gopee recule, les habitants sur leurs gardes | Defimedia (26 novembre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "un hôtel 5-étoiles sur une bonne partie de la plage publique d’Anse-La-Raie, endroit se situant à côté de Cap-Malheureux."
+    },
+    {
+      "field": "pitch, description_md",
+      "url": "https://defimedia.info/projet-hotelier-conteste-anse-la-raie-gopee-recule-les-habitants-sur-leurs-gardes",
+      "title": "Projet hôtelier contesté à Anse-La-Raie : Gopee recule, les habitants sur leurs gardes | Defimedia (26 novembre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le groupe N-G met une croix sur son projet hôtelier à Anse-La-Raie."
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/projet-hotelier-conteste-anse-la-raie-gopee-recule-les-habitants-sur-leurs-gardes",
+      "title": "Projet hôtelier contesté à Anse-La-Raie : Gopee recule, les habitants sur leurs gardes | Defimedia (26 novembre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "On revendique un agrandissement de la plage publique. Nous demandons que les marécages soient protégés"
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/projet-hotelier-conteste-anse-la-raie-gopee-recule-les-habitants-sur-leurs-gardes",
+      "title": "Projet hôtelier contesté à Anse-La-Raie : Gopee recule, les habitants sur leurs gardes | Defimedia (26 novembre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Il fait ici référence à la plage publique, mais aussi au centre de jeunesse qui s’y trouve."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/projet-hotelier-conteste-anse-la-raie-gopee-recule-les-habitants-sur-leurs-gardes",
+      "title": "Projet hôtelier contesté à Anse-La-Raie : Gopee recule, les habitants sur leurs gardes | Defimedia (26 novembre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Il indique cependant que la vigilance doit rester de mise, car le gouvernement n’a pas abandonné son masterplan pour développer 100 arpents dans cette région."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://defimedia.info/le-role-de-la-beach-authority-les-services-expliques",
+      "title": "Le rôle de la Beach Authority : les services expliqués | Defimedia (24 avril 2018)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Nous avons pour le moment trois plages où la pratique de ce sport est autorisée. Deux plages au Morne et une au nord, à Mare-la-Raie, à proximité d’Anse-la-Raie."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucune description de la plage elle-même (sable, baignade, lagon) dans les sources lisibles : `why_go_md` laissé à null. Un article de L'Express (« Anse-La-Raie: paradis de la détente ») existe mais n'a pas pu être lu (403).",
+    "Kitesurf : l'autorisation à Mare-la-Raie date d'une déclaration de 2018 ; statut actuel et distance exacte à vérifier.",
+    "Suite du dossier d'aménagement depuis novembre 2023 : non vérifiée.",
+    "Aucune photo Wikimedia Commons trouvée pour Anse la Raie : `media` vide.",
+    "Les coordonnées sont celles du point OpenStreetMap « Anse la Raie Public Beach ».",
+    "Prix, horaires, durée de visite, accès (parking, bus) et équipements : aucune source officielle consultable dans cette session, champs laissés à null.",
+    "lexpress.mu a répondu 403 (protection Cloudflare) : aucun article de L'Express n'a pu être lu. Les sites de la Beach Authority et du National Heritage Fund ne font pas partie des hôtes autorisés.",
+    "Les articles Wikipédia ont été lus via l'API (action=query&prop=extracts) des pages citées ; les extraits viennent du texte brut renvoyé."
+  ]
+}

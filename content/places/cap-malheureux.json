@@ -1,0 +1,131 @@
+{
+  "slug": "cap-malheureux",
+  "name": "Cap Malheureux et la chapelle Notre-Dame Auxiliatrice",
+  "family": "culture_patrimoine",
+  "tags": [
+    "spot_photo"
+  ],
+  "region": "nord",
+  "locality": "Cap Malheureux",
+  "lat": -19.9865465,
+  "lng": 57.6222774,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Notre%20Dame%20Auxiliatrice%2C%20Cap%20Malheureux%2C%20Mauritius",
+  "google_place_id": null,
+  "pitch": "Village de pêcheurs à la pointe nord et sa petite chapelle au toit rouge, face à l'îlot du Coin de Mire.",
+  "description_md": "Cap Malheureux est un village du district de Rivière du Rempart, à la pointe nord de l'île, d'où l'on voit l'îlot du Coin de Mire. Sa chapelle Notre-Dame Auxiliatrice, au toit rouge vif, a été dessinée par Max Boullé, construite par Raoul Lolliot et consacrée le 7 août 1938. Le nom du lieu rappelle le débarquement britannique de 1810 dans le nord de l'île, qui a précédé la fin de la période française.",
+  "why_go_md": "L'office du tourisme en fait l'un des sites les plus populaires du nord et l'une des vues les plus photographiées de l'île : le toit rouge sur fond de ciel, de lagon et du Coin de Mire. Tu peux entrer dans l'église, pour la messe ou pour voir le bénitier taillé dans un coquillage de bénitier géant.",
+  "likes": [
+    "Toit rouge vif face au lagon et au Coin de Mire",
+    "Église ouverte aux visiteurs, bénitier fait d'un coquillage géant",
+    "Village de pêcheurs"
+  ],
+  "watchouts": [
+    "C'est un lieu de culte en activité : des messes y sont célébrées."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Présentée par l'office du tourisme (MTPA) comme l'un des sites les plus populaires du nord et l'une des vues les plus photographiées de l'île.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Notre%20Dame%20Auxiliatrice%2C%20Cap%20Malheureux%2C%20Mauritius",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":189411885,\"lat\":\"-19.9865465\",\"lon\":\"57.6222774\" … \"display_name\":\"Notre-Dame Auxiliatrice, Route Mon Choisy Cap Malheureux, Anse la Raie, Cap Malheureux, Cap Malheureux VCA, Riviere du Rempart, 30504, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Cap_Malheureux",
+      "title": "Cap Malheureux — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Cap Malheureux est un village du district de Rivière du Rempart, au nord de l'île Maurice. Du village, on peut voir l'îlot du Coin de Mire, à quelques kilomètres au large."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Cap_Malheureux",
+      "title": "Cap Malheureux — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Elle est dessinée par Max Boullé, puis construite par Raoul Lolliot. Elle a été consacrée le 7 août 1938 par Mgr Richard Lee, vicaire général."
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Cap_Malheureux",
+      "title": "Cap Malheureux - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "As a result, the French were defeated inland and over the years the area became known as Cap Malheureux as a reminder of the 1810 invasion."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Cap_Malheureux",
+      "title": "Cap Malheureux — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le nom du lieu est dû aux Français qui comprennent que le débarquement que font ici les Anglais en 1810 conduira bientôt au passage de toute l'île sous leur contrôle."
+    },
+    {
+      "field": "pitch, why_go_md, likes, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/cap-malheureux-church/",
+      "title": "Cap Malheureux Church (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The simple little church of Notre Dame Auxiliatrice is one of the most photographed sights on the island – its bright red roof pops against the background of blue sky, turquoise waters and dramatic headland of Le Coin de Mire."
+    },
+    {
+      "field": "why_go_md, likes, watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/cap-malheureux-church/",
+      "title": "Cap Malheureux Church (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You’re welcome to pop into the church, either to join mass or take a peek at the holy water basin made from a giant clam shell."
+    },
+    {
+      "field": "pitch, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/cap-malheureux-church/",
+      "title": "Cap Malheureux Church (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "this pretty fishing village on the island’s northern tip."
+    },
+    {
+      "field": "why_go_md, rarity_reason",
+      "url": "https://mauritiusnow.com/mauritius-map/north-mauritius/",
+      "title": "Discover the stunning North of Mauritius now! (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "One of the most popular sites in the north is the red-roofed church, Notre-Dame Auxiliatrice, in Cap Malheureux."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Church_Notre_Dame_Auxiliatrice%2C_Mauritius.jpg",
+      "credit": "Jean-Marc Astesana",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Church_Notre_Dame_Auxiliatrice,_Mauritius.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Horaires d'ouverture de la chapelle et des messes : non trouvés (pas de site de la paroisse parmi les hôtes autorisés).",
+    "Les coordonnées sont celles du bâtiment « Notre-Dame Auxiliatrice » dans OpenStreetMap.",
+    "Origine du nom : les deux Wikipédia la relient au débarquement britannique de 1810, avec des formulations différentes ; à présenter comme l'explication courante.",
+    "Prix, horaires, durée de visite, accès (parking, bus) et équipements : aucune source officielle consultable dans cette session, champs laissés à null.",
+    "lexpress.mu a répondu 403 (protection Cloudflare) : aucun article de L'Express n'a pu être lu. Les sites de la Beach Authority et du National Heritage Fund ne font pas partie des hôtes autorisés.",
+    "Les articles Wikipédia ont été lus via l'API (action=query&prop=extracts) des pages citées ; les extraits viennent du texte brut renvoyé."
+  ]
+}

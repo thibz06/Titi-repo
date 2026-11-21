@@ -1,0 +1,123 @@
+{
+  "slug": "grand-gaube",
+  "name": "Grand Gaube",
+  "family": "villages_marches",
+  "tags": [],
+  "region": "nord",
+  "locality": "Grand Gaube",
+  "lat": -20.0075682,
+  "lng": 57.6683937,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Grand%20Gaube%2C%20Mauritius",
+  "google_place_id": null,
+  "pitch": "Village de pêcheurs de la côte nord-nord-est, resté célèbre pour ses charpentiers de pirogues en bois.",
+  "description_md": "Grand Gaube est une localité de la côte nord-nord-est, dans le district de Rivière du Rempart, au nord-est de Goodlands. Le village s'est peuplé au début du XIXe siècle autour d'une petite propriété sucrière ; après l'abolition de l'esclavage (1835), d'anciens esclaves s'y sont installés comme pêcheurs, certains se spécialisant dans la construction de pirogues. Deux débarcadères servent aux pêcheurs, l'un devant l'école Saint-Michel, l'autre devant Melville.",
+  "why_go_md": "Pour un village de pêcheurs que Le Défi décrit comme paisible et resté célèbre pour la fabrication de pirogues en bois destinées à la pêche artisanale, même si cette activité recule avec l'arrivée des bateaux en fibre de verre.",
+  "likes": [
+    "Village de pêcheurs décrit comme paisible",
+    "Tradition de construction de pirogues en bois",
+    "Une plage publique y est référencée dans OpenStreetMap (Grand Gaube Public Beach)"
+  ],
+  "watchouts": [
+    "La construction de pirogues est en recul (Le Défi, 2019) : rien ne garantit que tu verras un chantier en activité."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Grand%20Gaube%2C%20Mauritius",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":2188727774,\"lat\":\"-20.0075682\",\"lon\":\"57.6683937\" … \"display_name\":\"Grand Gaube, Grand Gaube VCA, Riviere du Rempart, 30617, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Grand_Gaube",
+      "title": "Grand Gaube — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Elle est située sur la côte au nord-est de Goodlands et relève ce faisant du district de Rivière du Rempart."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Grand_Gaube",
+      "title": "Grand Gaube — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "L'endroit possède deux débarcadères pour les pêcheurs, l'un se trouve devant l'école Saint-Michel et l'autre devant Melville."
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/le-saviez-vous-0",
+      "title": "Le saviez-vous ? | Defimedia (1 avril 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le peuplement de Grand-Gaube a commencé au début du 19e siècle autour d’une petite propriété sucrière, Belle-Vue Cugnet. Après l’abolition de l’esclavage (1835), d’anciens esclaves s’y sont installés pour devenir pêcheurs avec, pour certains d’entre eux, une spécialisation : la construction de pirogues."
+    },
+    {
+      "field": "pitch, why_go_md, likes",
+      "url": "https://defimedia.info/le-saviez-vous-0",
+      "title": "Le saviez-vous ? | Defimedia (1 avril 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Aujourd’hui paisible village de pêcheurs, Grand-Gaube est resté célèbre pour la fabrication de pirogues en bois utilisées pour la pêche artisanale dans le lagon ou à proximité des côtes."
+    },
+    {
+      "field": "why_go_md, watchouts",
+      "url": "https://defimedia.info/le-saviez-vous-0",
+      "title": "Le saviez-vous ? | Defimedia (1 avril 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Mais cette activité est aujourd’hui en recul avec l’avènement des bateaux en fibre de verre."
+    },
+    {
+      "field": "pitch, description_md",
+      "url": "https://defimedia.info/le-saviez-vous-0",
+      "title": "Le saviez-vous ? | Defimedia (1 avril 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Grand-Gaube, village pittoresque sur la côte nord-nord-est de Maurice, dans le district de Rivière-du-Rempart"
+    },
+    {
+      "field": "likes",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&q=Grand%20Gaube%20Public%20Beach",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":1109105203,\"lat\":\"-20.0057155\",\"lon\":\"57.6648140\" … \"display_name\":\"Grand Gaube Public Beach, Petit Camp, Grand Gaube, Grand Gaube VCA, Riviere du Rempart, Mauritius / Maurice\""
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/2011-06-26_10-02-10_Mauritius_Rivi%C3%A8re_du_Rempart_Grand_Gaube_5hl.JPG",
+      "credit": "Hansueli Krapf",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2011-06-26_10-02-10_Mauritius_Rivi%C3%A8re_du_Rempart_Grand_Gaube_5hl.JPG",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Les coordonnées sont celles du centre du village (OpenStreetMap). La plage publique est à lat -20.0057155, lon 57.6648140 (même source) : choisir le point voulu.",
+    "Où voir aujourd'hui les charpentiers de pirogues : non trouvé (source de 2019).",
+    "La photo Commons (2011) est un panorama très large (12043 × 2510 px), légendé « public beach park in Grand Gaube » : à recadrer ou à remplacer.",
+    "Baignade et état de la plage : rien de lu.",
+    "Prix, horaires, durée de visite, accès (parking, bus) et équipements : aucune source officielle consultable dans cette session, champs laissés à null.",
+    "lexpress.mu a répondu 403 (protection Cloudflare) : aucun article de L'Express n'a pu être lu. Les sites de la Beach Authority et du National Heritage Fund ne font pas partie des hôtes autorisés.",
+    "Les articles Wikipédia ont été lus via l'API (action=query&prop=extracts) des pages citées ; les extraits viennent du texte brut renvoyé."
+  ]
+}

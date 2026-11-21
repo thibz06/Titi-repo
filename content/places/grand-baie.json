@@ -1,0 +1,123 @@
+{
+  "slug": "grand-baie",
+  "name": "Grand Baie",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "nord",
+  "locality": "Grand Baie",
+  "lat": -20.0115613,
+  "lng": 57.5842937,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Grand%20Baie%20Public%20Beach%2C%20Mauritius",
+  "google_place_id": null,
+  "pitch": "La baie la plus animée du nord : lagon abrité, restaurants le long du rivage et départs en bateau vers les îles.",
+  "description_md": "Grand Baie est l'une des principales baies de Maurice et abrite un village très touristique du même nom. Le village s'étire autour d'une baie abritée en forme de fer à cheval ; une cinquantaine de cafés et restaurants bordent la baie et la route côtière vers Pereybère. La baie sert de point de départ pour des sorties de pêche ou de plongée et pour des excursions vers l'île Plate, l'île Ronde ou l'île aux Serpents.",
+  "why_go_md": "Pour l'ambiance : l'office du tourisme présente Grand Baie comme le centre de l'animation du nord, avec clubs de plage, bars, boîtes de nuit surtout ouvertes le vendredi et le samedi soir, et concerts ou spectacles de séga en semaine. C'est aussi une base pratique pour embarquer vers les îles du nord.",
+  "likes": [
+    "Baie abritée en fer à cheval autour d'un lagon",
+    "Une cinquantaine de cafés et restaurants le long de la baie et de la route côtière",
+    "Point de départ des sorties en mer : pêche, plongée, île Plate, île Ronde, île aux Serpents"
+  ],
+  "watchouts": [
+    "Village décrit comme très touristique : ce n'est pas l'endroit le plus calme du nord."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "L'office du tourisme (MTPA) présente Grand Baie comme le centre de l'animation du nord ; Wikipédia la classe parmi les principales baies de Maurice.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Grand%20Baie%20Public%20Beach%2C%20Mauritius",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":607465040,\"lat\":\"-20.0115613\",\"lon\":\"57.5842937\" … \"display_name\":\"Grand Baie Public Beach, Morcellement Swan, Grand Baie, Grand Baie VCA, East, Riviere du Rempart, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Grand_Baie",
+      "title": "Grand Baie — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Grand Baie (ou quelquefois Grand Bay) est une des principales baies de Maurice. Elle abrite un village du même nom, très touristique"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://fr.wikipedia.org/wiki/Grand_Baie",
+      "title": "Grand Baie — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "La baie est le point des départs pour des excursions en haute mer pour la pêche ou la plongée, ainsi que vers l'île Plate, l'île Ronde ou l'île aux Serpents."
+    },
+    {
+      "field": "description_md, likes, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/grand-baie/",
+      "title": "Grand Baie (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "is situated in a horseshoe-shaped sheltered bay around an emerald lagoon on the northwest coast. It has a buzzing atmosphere, great shopping opportunities and a fantastic choice of cafes and restaurants – around 50 line the bay and coastal road to Pereybère."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/grand-baie/",
+      "title": "Grand Baie (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "There are beach clubs, cool bars and fantastic places to eat. There is also a choice of nightclubs, mainly open on a Friday and Saturday night, plus the chance to watch jam sessions, live bands and Sega performances happening throughout the week."
+    },
+    {
+      "field": "why_go_md, rarity_reason",
+      "url": "https://mauritiusnow.com/mauritius-map/north-mauritius/",
+      "title": "Discover the stunning North of Mauritius now! (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Grand Baie is the centre of the action with great nightlife. There are beach clubs, cool bars and over 50 restaurants."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusnow.com/mauritius-map/north-mauritius/",
+      "title": "Discover the stunning North of Mauritius now! (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "It’s easy to arrange a boat or catamaran trip from this region."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://fr.wikipedia.org/wiki/Grand_Baie",
+      "title": "Grand Baie — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Elle abrite un village du même nom, très touristique"
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Strand_grand-Baie_2019-09-27.jpg",
+      "credit": "Z thomas",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Strand_grand-Baie_2019-09-27.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Les coordonnées sont celles de l'objet OpenStreetMap « Grand Baie Public Beach » : confirmer que c'est bien le point voulu pour la fiche (plage publique plutôt que centre du village).",
+    "La photo Commons est légendée « Strand in Grand-Baie » sans préciser de quelle plage il s'agit.",
+    "Baignade, qualité de l'eau et sécurité sur la plage publique : rien de lu, à vérifier.",
+    "Mauritius Now situe Grand Baie sur la côte « northwest » ; la fiche est rangée en région nord comme demandé.",
+    "Prix, horaires, durée de visite, accès (parking, bus) et équipements : aucune source officielle consultable dans cette session, champs laissés à null.",
+    "lexpress.mu a répondu 403 (protection Cloudflare) : aucun article de L'Express n'a pu être lu. Les sites de la Beach Authority et du National Heritage Fund ne font pas partie des hôtes autorisés.",
+    "Les articles Wikipédia ont été lus via l'API (action=query&prop=extracts) des pages citées ; les extraits viennent du texte brut renvoyé."
+  ]
+}

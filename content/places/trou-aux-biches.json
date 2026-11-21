@@ -1,0 +1,155 @@
+{
+  "slug": "trou-aux-biches",
+  "name": "Plage de Trou aux Biches",
+  "family": "plages_lagon",
+  "tags": [
+    "coucher_soleil"
+  ],
+  "region": "nord",
+  "locality": "Trou aux Biches",
+  "lat": -20.0349823,
+  "lng": 57.5444702,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Trou%20aux%20Biches%20Public%20Beach%2C%20Mauritius",
+  "google_place_id": null,
+  "pitch": "Deux kilomètres de sable blanc ombragés de filaos, connus pour le snorkeling et le coucher du soleil.",
+  "description_md": "Trou-aux-Biches est une petite ville de la côte nord, dans le district de Pamplemousses, longée par une plage publique de sable blanc d'environ deux kilomètres, ombragée de filaos. Ancien village de pêcheurs, elle a accueilli en 1971 le premier grand hôtel de plage de l'île. Elle garde un air de village et reste moins commerciale que Grand Baie.",
+  "why_go_md": "L'office du tourisme en parle comme d'une plage souvent citée parmi les meilleures de l'île : snorkeling et plongée (des écoles de plongée sont à proximité), longues marches à l'ombre des filaos et coucher du soleil. Elle a valu à Maurice le titre de World's Leading Beach Destination aux World Travel Awards 2011, selon Wikipédia.",
+  "likes": [
+    "Longue plage d'environ deux kilomètres, ombragée de filaos",
+    "Snorkeling et plongée, écoles de plongée à proximité",
+    "Bon endroit pour regarder le coucher du soleil"
+  ],
+  "watchouts": [
+    "L'une des plages les plus fréquentées de l'île (Le Défi, 2019).",
+    "Érosion : en août 2026, Le Défi décrit une plage plus étroite, avec des vagues qui frappent le pied des talus.",
+    "Transats : en 2017, le gouvernement rappelait l'interdiction faite aux opérateurs de transats et de parasols de travailler sur les plages publiques le week-end et les jours fériés. Règle actuelle non vérifiée."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "coucher_soleil": "Plage présentée comme un bon endroit pour regarder le coucher du soleil (MTPA, Wikipédia)."
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Souvent décrite comme l'une des meilleures plages de l'île (MTPA) et l'une des plus fréquentées (Le Défi) ; primée aux World Travel Awards 2011 selon Wikipédia.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=4&q=Trou%20aux%20Biches%20Public%20Beach%2C%20Mauritius",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":205779228,\"lat\":\"-20.0349823\",\"lon\":\"57.5444702\" … \"display_name\":\"Trou aux Biches Public Beach, Morcellement Mascareignes, Trou aux Biches, Trou aux Biches VCA, Pamplemousses, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Trou-aux-Biches",
+      "title": "Trou-aux-Biches - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Trou-aux-Biches is a small town with a public beach on the northern coast of Mauritius, in the district of Pamplemousses."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://en.wikipedia.org/wiki/Trou-aux-Biches",
+      "title": "Trou-aux-Biches - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "it has evolved into a small town with a two kilometer long white sand beach shaded by casuarina trees, snorkeling reefs, boutique shops, a supermarket and other facilities along the B38 road catering to family tourism."
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Trou-aux-Biches",
+      "title": "Trou-aux-Biches - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "the first major hotel was built in Trou-aux-Biches in 1971 after Mauritius gained independence in 1968. The town retains its village style and is less commercialized than nearby Grand Baie."
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/le-saviez-vous-0",
+      "title": "Le saviez-vous ? | Defimedia (1 avril 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Jusqu’au milieu du 20e siècle, Trou-aux-Biches était un paisible village de pêcheurs."
+    },
+    {
+      "field": "why_go_md, rarity_reason",
+      "url": "https://en.wikipedia.org/wiki/Trou-aux-Biches",
+      "title": "Trou-aux-Biches - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "They awarded it the World's Leading Beach Destination at the World Travel Award for 2011."
+    },
+    {
+      "field": "why_go_md, rarity_reason, best_time, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/trou-aux-biches-beach/",
+      "title": "Trou aux Biches beach (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "frequently described as one of the island’s best beaches thanks to its picture-perfect beauty, Trou aux Biches runs alongside the town of the same name ‒ and is a great place to watch the sunset."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/trou-aux-biches-beach/",
+      "title": "Trou aux Biches beach (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Trou aux Biches is a fantastic spot to do some snorkelling or diving ‒ you’ll find a choice of diving schools close by ‒ and it’s also a great location for a long walk in the shade of the casuarinas."
+    },
+    {
+      "field": "best_time, likes",
+      "url": "https://en.wikipedia.org/wiki/Trou-aux-Biches",
+      "title": "Trou-aux-Biches - Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "The beach at Trou-aux-Biches is popular for sunset watching."
+    },
+    {
+      "field": "watchouts, rarity_reason",
+      "url": "https://defimedia.info/le-saviez-vous-0",
+      "title": "Le saviez-vous ? | Defimedia (1 avril 2019)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Sa longue plage de deux kilomètres reste l’une des plus fréquentées de l’île."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/erosion-jusquou-retenir-la-mer",
+      "title": "Érosion : jusqu’où retenir la mer ? | Defimedia (23 août 2026)",
+      "accessed_at": "2026-11-21",
+      "evidence": "À quelques pas, les vagues viennent frapper le pied des talus. La plage est toujours là. Elle est simplement plus étroite."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/sur-la-plage-publique-de-trou-aux-biches-soodhun-et-sinatambou-font-la-chasse-aux-transats-et-parasols",
+      "title": "Sur la plage publique de Trou-aux-Biches : Soodhun et Sinatambou font la chasse aux transats et parasols | Defimedia (16 janvier 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le gouvernement entend faire respecter l’interdiction faite aux opérateurs de transats et de parasols de travailler sur les plages publiques le week-end ainsi que les jours fériés."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Trou_aux_Biches%2C_Beach.JPG",
+      "credit": "Karsten Ratzke",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Trou_aux_Biches,_Beach.JPG",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Transats : Mauritius Now invite à « pick a sunbed » alors que Le Défi (2017) rapporte des restrictions ; règle actuelle à vérifier.",
+    "Le prix World Travel Awards 2011 n'est sourcé que par Wikipédia (non recoupé sur le site des World Travel Awards, hôte non autorisé).",
+    "Prix, horaires, durée de visite, accès (parking, bus) et équipements : aucune source officielle consultable dans cette session, champs laissés à null.",
+    "lexpress.mu a répondu 403 (protection Cloudflare) : aucun article de L'Express n'a pu être lu. Les sites de la Beach Authority et du National Heritage Fund ne font pas partie des hôtes autorisés.",
+    "Les articles Wikipédia ont été lus via l'API (action=query&prop=extracts) des pages citées ; les extraits viennent du texte brut renvoyé."
+  ]
+}
