@@ -1,0 +1,130 @@
+{
+  "slug": "champ-de-mars",
+  "name": "Champ de Mars",
+  "family": "sport_loisirs",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.169158,
+  "lng": 57.510089,
+  "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q5069865.json",
+  "google_place_id": null,
+  "pitch": "Hippodrome de Port-Louis inauguré en 1812, au pied des collines, présenté comme le plus ancien de l'hémisphère sud.",
+  "description_md": "Le Champ de Mars est l'hippodrome de Port-Louis, situé au pied des collines. Ancien terrain d'entraînement militaire français, il a été inauguré le 25 juin 1812 par le Mauritius Turf Club, fondé la même année. Wikipédia le présente comme le plus ancien hippodrome de l'hémisphère sud. La piste, un ovale de 1 298 mètres qui se court à main droite, se termine par une ligne droite en montée de 225 mètres. La cérémonie du lever du drapeau de l'indépendance s'y est tenue le 12 mars 1968.",
+  "why_go_md": "Pour l'ambiance d'un jour de courses, que l'office du tourisme mauricien recommande, et pour un lieu lié à l'histoire du pays. On y trouve aussi une statue d'Édouard VII par Prosper d'Épinay et le tombeau de Malartic, un obélisque dédié à un gouverneur français.",
+  "likes": [
+    "Hippodrome inauguré en 1812, présenté comme le plus ancien de l'hémisphère sud",
+    "Lieu de la cérémonie d'indépendance du 12 mars 1968",
+    "Statue d'Édouard VII et obélisque du tombeau de Malartic dans l'enceinte"
+  ],
+  "watchouts": [
+    "Très forte affluence les jours de courses : des dizaines de milliers de personnes selon Wikipédia en anglais",
+    "D'après Défi Media (19 novembre 2026), les dernières journées de la saison hippique 2026 sont programmées les 28 novembre, 5 et 13 décembre 2026 : si ce calendrier concerne bien le Champ de Mars, il n'y aurait pas de courses entre le 21 décembre 2026 et le 7 janvier 2027"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "saison_des_courses": "De fin mars à début décembre selon Wikipédia en anglais ; en 2026, dernières journées annoncées les 28 novembre, 5 et 13 décembre (Défi Media, 19 novembre 2026)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q5069865.json",
+      "title": "Wikidata Q5069865 (Hippodrome du Champ de Mars)",
+      "accessed_at": "2026-11-21",
+      "evidence": "P625 (coordonnées géographiques) : latitude -20.169158333333, longitude 57.510088888889"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://en.wikipedia.org/wiki/Champ_de_Mars_Racecourse",
+      "title": "Champ de Mars Racecourse — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Racecourse was inaugurated on 25 June 1812, by The Mauritius Turf Club (MTC) which was founded earlier the same year [...] The race track follows a very selective right hand oval path and is relatively small in size, with a circumference of 1,298 metres (4,259 ft) and width between 12 and 14 metres (39 and 46 ft). The home-straight extends uphill and is 225 metres (738 ft) long."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://en.wikipedia.org/wiki/Champ_de_Mars_Racecourse",
+      "title": "Champ de Mars Racecourse — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "When Mauritius gained independence on 12 March 1968, the event including the flag hoisting ceremony was held here."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://en.wikipedia.org/wiki/Champ_de_Mars_Racecourse",
+      "title": "Champ de Mars Racecourse — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Before 1810, the area was a military training ground for French troops. [...] the Champ de Mars racecourse is at the foot of hills. It is the oldest racecourse in the southern hemisphere and the second oldest in the world."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://en.wikipedia.org/wiki/Champ_de_Mars_Racecourse",
+      "title": "Champ de Mars Racecourse — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Within its premises stands a statue of King Edward VII by the sculptor Prosper d’Épinay, and the Malartic Tomb, an obelisk to a French governor."
+    },
+    {
+      "field": "watchouts, best_time",
+      "url": "https://en.wikipedia.org/wiki/Champ_de_Mars_Racecourse",
+      "title": "Champ de Mars Racecourse — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Today, the Champ de Mars attracts tens of thousands of people on each racing day during the racing season from late March to early December"
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusnow.com/mauritius-map/port-louis-in-mauritius/",
+      "title": "Discover the stunning capital of Mauritius now! (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Champ de Mars — Soak up the atmosphere of one of the oldest horse racing tracks in the southern hemisphere."
+    },
+    {
+      "field": "watchouts, best_time",
+      "url": "https://defimedia.info/hippisme-trois-dernieres-journees-de-courses-programmees-les-28-novembre-5-et-13-decembre",
+      "title": "Hippisme : trois dernières journées de courses programmées les 28 novembre, 5 et 13 décembre | Defimedia (19 novembre 2026)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La fin de la saison hippique 2026 se déroulera finalement sur trois semaines de compétition à la suite de l’approbation d’un amendement au calendrier par la Gambling Regulatory Authority (GRA). [...] les dernières réunions de la saison ont été reprogrammées et se tiendront désormais les 28 novembre, 5 décembre et 13 décembre 2026."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Hippodrome_du_Champ_de_Mars",
+      "title": "Hippodrome du Champ de Mars — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "L'hippodrome du Champ de Mars est situé à Port-Louis, capitale de l'île Maurice. [...] Il s'agit du plus vieil hippodrome de l'hémisphère sud et du deuxième plus vieux au monde"
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_Champ_de_Mars_Racecourse.JPG",
+      "credit": "Martin Falbisoner",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Champ_de_Mars_Racecourse.JPG",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Site officiel www.mauritiusturfclub.com injoignable pendant la rédaction (erreur 502) : prix d'entrée, horaires, accès hors jours de courses et calendrier non vérifiés.",
+    "L'article de Défi Media du 19 novembre 2026 sur la fin de saison cite le MTC Jockey Club mais ne nomme pas le Champ de Mars : vérifier que les courses 2026 s'y tiennent bien et qu'aucune journée n'est prévue pendant le séjour (21 décembre 2026 au 7 janvier 2027).",
+    "L'hippodrome se visite-t-il en dehors des jours de courses (accès libre à l'enceinte, statue, tombeau de Malartic) ? Non sourcé.",
+    "« Plus ancien hippodrome de l'hémisphère sud » : affirmation de Wikipédia (fr et en) ; l'office du tourisme écrit plus prudemment « l'un des plus anciens »."
+  ]
+}

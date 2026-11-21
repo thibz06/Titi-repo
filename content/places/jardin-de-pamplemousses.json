@@ -1,0 +1,188 @@
+{
+  "slug": "jardin-de-pamplemousses",
+  "name": "Jardin de Pamplemousses",
+  "family": "nature_parcs",
+  "tags": [],
+  "region": "nord",
+  "locality": "Pamplemousses",
+  "lat": -20.108153,
+  "lng": 57.577253,
+  "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q931430.json",
+  "google_place_id": null,
+  "pitch": "Jardin botanique de 33 hectares fondé au XVIIIe siècle, connu pour son bassin de nénuphars géants et ses palmiers.",
+  "description_md": "Le Sir Seewoosagur Ramgoolam Botanic Garden se trouve dans le village de Pamplemousses, à une dizaine de kilomètres au nord-est de Port-Louis. Il couvre 33 hectares et compte 823 espèces, dont 80 palmiers, d'après l'organisme qui le gère, qui le présente comme le plus ancien jardin botanique de l'hémisphère sud. Son origine remonte au domaine de Mon Plaisir du gouverneur Mahé de Labourdonnais (1735) ; Pierre Poivre en a fait le jardin actuel à partir de 1770. Il porte depuis 1988 le nom du premier Premier ministre de Maurice.",
+  "why_go_md": "Pour le bassin rectangulaire des nénuphars géants d'Amazonie (*Victoria amazonica*), dont les fleurs s'ouvrent en fin d'après-midi, blanches le premier soir puis roses le lendemain, pour les bassins de lotus et pour la collection de palmiers. Le jardin est aussi un conservatoire de plantes menacées des Mascareignes.",
+  "likes": [
+    "Bassin des nénuphars géants Victoria amazonica, aux grandes feuilles flottantes à bord relevé",
+    "Bassins de lotus (Nelumbo nucifera) à fleurs blanches, jaunes et roses",
+    "80 espèces de palmiers sur 823 espèces recensées par le jardin",
+    "Grille d'entrée en fer forgé, en place depuis 1868",
+    "Parking gratuit ; guides agréés payés directement en fin de visite"
+  ],
+  "watchouts": [
+    "Le jardin peut fermer lors de visites officielles : le public est prévenu par communiqué de presse",
+    "Interdit : nourrir les animaux, cueillir fleurs ou fruits, se baigner, pêcher, jeter des pièces dans les bassins, boire de l'alcool et fumer",
+    "Garde ton billet : il peut être demandé pendant la visite",
+    "Ne te gare pas devant la grille principale"
+  ],
+  "tips_md": "Un guide agréé coûte Rs 75 par visiteur de plus de 12 ans d'après le tarif en anglais de la page Services (le tarif en français de la même page est dégressif, de Rs 100 à Rs 50 par personne selon la taille du groupe). Une voiturette avec chauffeur se loue pour un tour de 45 minutes (trois personnes au maximum) : Rs 300 par adulte ou enfant de plus de 12 ans, Rs 100 de 5 à 12 ans.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 300,
+  "price_visitor_mur_max": 300,
+  "price_resident_mur": 25,
+  "price_note": "Tarifs de la page « Visitors’ Information » du site officiel (page modifiée le 28 août 2024, pied de page « Copyright © 2026 »). Non-citoyen de 5 ans et plus sans permis de résidence : Rs 300 ; moins de 5 ans : gratuit ; titulaire d'un permis de résidence : Rs 25. Citoyen mauricien de 5 à 59 ans : Rs 25 ; gratuit avant 5 ans, à partir de 60 ans et pour les personnes handicapées. Entrée gratuite les dimanches et jours fériés pour les Mauriciens seulement.",
+  "opening_hours": "Mo-Su,PH 08:30-17:30",
+  "hours_note": "« Monday to Sunday (including public holidays) 08.30 hrs to 17.30 hrs » sur le site officiel (page modifiée le 28 août 2024). Fermetures possibles lors de visites officielles, annoncées par communiqué.",
+  "difficulty": null,
+  "accessibility": {
+    "fauteuil_roulant": "Fauteuil roulant disponible sur demande, gratuitement (site officiel)",
+    "voiturette": "Voiturette avec chauffeur en location, tour de 45 minutes, trois personnes au maximum (site officiel)",
+    "stationnement": "Parking gratuit (site officiel)"
+  },
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Présenté par l'organisme gestionnaire comme le plus ancien jardin botanique de l'hémisphère sud ; Wikipédia en anglais le décrit comme une attraction touristique populaire.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q931430.json",
+      "title": "Wikidata Q931430 (jardin botanique Sir Seewoosagur Ramgoolam)",
+      "accessed_at": "2026-11-21",
+      "evidence": "P625 (coordonnées géographiques) : latitude -20.108152777778, longitude 57.577252777778"
+    },
+    {
+      "field": "opening_hours, hours_note",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=1581",
+      "title": "Visitors’ Information – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "Opening Hours — Monday to Sunday (including public holidays) — 08.30 hrs to 17.30 hrs"
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_resident_mur, price_note",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=1581",
+      "title": "Visitors’ Information – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "Non Mauritian Citizen — Under the age of 5: FREE — Of the age of 5 and above (not holder of a residence permit): 300 — Holder of a residence permit: 25"
+    },
+    {
+      "field": "price_note",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=1581",
+      "title": "Visitors’ Information – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "Mauritian Citizen — Under the age of 5: FREE — Between the age of 5 and 59: 25,00 — Of the age of 60 and over: FREE — Disabled: FREE [...] Entrance to the Garden is free on Sundays and Public Holidays for Mauritians only"
+    },
+    {
+      "field": "watchouts, hours_note",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=1581",
+      "title": "Visitors’ Information – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "During visits by VIP’s, the public is informed of the closure of the Garden through press notice"
+    },
+    {
+      "field": "tips_md, likes",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=1624",
+      "title": "Services – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "The tariff for Authorized Guides is as follows — Any Visitor aged 12 or under: NIL — Any Visitor over the age of 12: 75 per visitor [...] Groupe de 5 personnes maximum : 100 par personne — Groupe de 6 à 10 personnes : 75 par personne — Groupe de plus de10 personnes : 50 par personne — Kindly pay the guide directly after your guided tour of the garden at the above rates"
+    },
+    {
+      "field": "tips_md, accessibility, likes, watchouts",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=1624",
+      "title": "Services – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "Free parking in the Car Park Area. Please do not park your car in front of the main gate. — Golf cart with driver available on rent for a maximum of three persons per ride — Duration of ride: 45 minutes — Adults and children above 12 yrs: Rs 300/ — Children (5-12 yrs): Rs 100/ — Wheel chair for handicapped person available on request (free of charge)"
+    },
+    {
+      "field": "description_md, pitch, likes, rarity",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=2",
+      "title": "About the Garden – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "situated in the village of Pamplemousses which lies about ten kilometres North East of Port Louis [...] The Garden is the oldest Botanic Garden of the Southern Hemisphere. [...] Today, the Garden covers an area of 33 hectares [...] There are 823 species in the Garden which include 445 exotics, 80 palms, 150 medicinal, 60 endemic, 27 spice, 30 religious, and 31 ferns."
+    },
+    {
+      "field": "description_md",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=2",
+      "title": "About the Garden – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "On 18th September 1988, the Garden was renamed the “Sir Seewoosagur Ramgoolam Botanic Garden” in remembrance of the first Prime Minister of Mauritius."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=2",
+      "title": "About the Garden – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "most importantly it is a plant conservatory. Besides the exotic species planted and maintained, there are threatened plant species from the Mascarenes."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Jardin_botanique_Sir_Seewoosagur_Ramgoolam",
+      "title": "Jardin botanique Sir Seewoosagur Ramgoolam — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le jardin botanique est créé à quelques kilomètres au nord de la capitale Port-Louis à l'initiative de Pierre Poivre, ancien séminariste, intendant de l'Isle de France (aujourd'hui Île Maurice), en 1770 succédant au jardin des agrumes et de potager fondé en 1735. C'est en effet à cette date que Pierre Poivre acquiert le domaine de Mon Plaisir, ancienne propriété du gouverneur de La Bourdonnais."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=1873",
+      "title": "Ponds and the Grand Bassin – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "The rectangular water lily pond houses the famous giant water lily of the Amazon (Victoria amazonica). Its huge floating leaves with a raised edge are spectacular. On two successive days, the flowers open late in the afternoon and remain open until the middle of the following morning. On the first evening the flowers are creamy white with a pleasant fragrance and the next day they turn pink."
+    },
+    {
+      "field": "likes",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=1873",
+      "title": "Ponds and the Grand Bassin – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "The lovely lotus ponds consist of white, yellow and pink flowers. The Nelumbo (Nelumbo nucifera) found in this pond is the lotus that is venerated by Hindus."
+    },
+    {
+      "field": "likes",
+      "url": "https://fr.wikipedia.org/wiki/Jardin_botanique_Sir_Seewoosagur_Ramgoolam",
+      "title": "Jardin botanique Sir Seewoosagur Ramgoolam — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le jardin s'ouvre par une grille de fer forgé peinte en blanc, don de François Liénard de la Mivoye et placée ici en 1868."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=1649",
+      "title": "Do’s & Dont’s – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "Keeping your ticket which must be shown on demand — Refraining from: Feeding the animals both aquatic and terrestrial — Plucking flowers, fruits or any other plant — Lighting fires — Swimming and fishing — Throwing coins in ponds/on water lilies — Consuming alcoholic drinks and smoke"
+    },
+    {
+      "field": "rarity",
+      "url": "https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_Botanical_Garden",
+      "title": "Sir Seewoosagur Ramgoolam Botanical Garden — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Sir Seewoosagur Ramgoolam Botanic Garden [...] is a popular tourist attraction in Pamplemousses, near Port Louis, Mauritius, and the oldest botanical garden in the Southern Hemisphere."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mon_Plaisir_im_Sir_Seewoosagur_Ramgoolam_Botanical_Garden.jpg",
+      "credit": "Lonelyplanet (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0 de",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mon_Plaisir_im_Sir_Seewoosagur_Ramgoolam_Botanical_Garden.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Tarif des guides : la page Services affiche deux barèmes différents (anglais : Rs 75 par visiteur de plus de 12 ans ; français : Rs 100, 75 ou 50 par personne selon la taille du groupe). À confirmer sur place.",
+    "Durée de visite : aucune source officielle ne donne de durée conseillée ; duration_min et duration_max restent à null.",
+    "Superficie : 33 hectares selon le site officiel, 37 selon Wikipédia (fr et en). Le chiffre officiel a été retenu.",
+    "Date du changement de nom : 18 septembre 1988 selon le site officiel, 17 septembre 1988 selon Wikipédia en anglais ; la fiche ne cite que l'année.",
+    "Les tarifs datent d'une page modifiée en août 2024 : à revérifier avant publication. Le site a annoncé un accès gratuit ponctuel pour les citoyens mauriciens le 22 mai 2026 ; rien de tel n'a été trouvé pour la période du 21 décembre 2026 au 7 janvier 2027.",
+    "La photo de couverture montre le château de Mon Plaisir (image principale sur Wikidata) et non le bassin des nénuphars : à remplacer si une photo du bassin est préférée.",
+    "Un programme de réhabilitation est en cours depuis janvier 2024 selon le site officiel : d'éventuelles zones en travaux n'ont pas pu être vérifiées."
+  ]
+}

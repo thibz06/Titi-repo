@@ -1,0 +1,110 @@
+{
+  "slug": "marche-central-port-louis",
+  "name": "Marché central de Port-Louis",
+  "family": "villages_marches",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1604837,
+  "lng": 57.5025791,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=mu&q=Central%20Market%2C%20Port%20Louis",
+  "google_place_id": null,
+  "pitch": "Le « bazar » de Port-Louis : fruits, légumes, épices, cuisine de rue et artisanat à l'étage, à deux pas du Caudan.",
+  "description_md": "Le marché central de Port-Louis, aussi appelé « Bazar Port-Louis », est le marché où les habitants de la capitale font leurs courses : fruits et légumes au rez-de-chaussée, artisanat local au premier étage, vêtements et sacs sur les étals à l'extérieur. Il se trouve à côté de Chinatown et à courte distance à pied du Caudan Waterfront. Selon la presse, 3 000 à 4 000 personnes le fréquentent chaque jour.",
+  "why_go_md": "Pour voir un marché fréquenté par les Port-Louisiens et goûter la cuisine de rue : samoussas, dholl puri, pâtisseries et alouda, la boisson lactée de l'île, sont cités par l'office du tourisme mauricien.",
+  "likes": [
+    "Étals de fruits et légumes tropicaux",
+    "Kiosques de cuisine de rue : samoussas, dholl puri, alouda",
+    "Artisanat local au premier étage",
+    "Proche de Chinatown et du Caudan Waterfront, à combiner à pied"
+  ],
+  "watchouts": [
+    "Marché animé : les marchands interpellent les passants et annoncent leurs prix à la criée",
+    "En 2023, une association de marchands dénonçait l'état de propreté des lieux, ce que la mairie contestait",
+    "Les toilettes du rez-de-chaussée sont payantes (propos d'un adjoint au maire, 2023)"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=mu&q=Central%20Market%2C%20Port%20Louis",
+      "title": "OpenStreetMap Nominatim — Central Market, Port Louis (way 159257749)",
+      "accessed_at": "2026-11-21",
+      "evidence": "way 159257749 — lat -20.1604837, lon 57.5025791 — amenity=marketplace — Central Market, Rue William Newton, William Newton, Barracks, Town of Port-Louis, Ward 3, Port Louis, 11602, Mauritius / Maurice"
+    },
+    {
+      "field": "description_md, why_go_md, likes, watchouts, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/port-louis-market/",
+      "title": "Port Louis Market: Mauritius' Colourful Heart (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Port Louis market is a shopping and street food hub in the heart of Port Louis, Mauritius’ capital city. Also referred to as Port Louis Central Market or ‘Bazaar Port Louis’ [...] This is where the locals shop. Stalls are piled high with juicy tropical fruits and vegetables and you’ll hear the sound of stallholders echoing around the hall as they shout prices and vie for your attention."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/port-louis-market/",
+      "title": "Port Louis Market: Mauritius' Colourful Heart (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "head to the street food kiosks for snacks such as samosas and dholl puri. You’ll also be rewarded with tasty sweet pastries and a thirst-quenching glass of the island’s creamy alouda drink."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/port-louis-market/",
+      "title": "Port Louis Market: Mauritius' Colourful Heart (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Just outside the market, you’ll find stalls selling clothes and bags, while the first floor is where you can pick up some locally-made crafts. The market is a short walk from Caudan Waterfront and next to Chinatown"
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://defimedia.info/port-louis-letat-du-marche-central-au-coeur-dune-polemique",
+      "title": "Port-Louis : l’état du marché central au cœur d’une polémique | Defimedia (1er juin 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Entre 3 000 et 4 000 personnes visitent le « bazar » central de Port-Louis chaque jour. Et pourtant, selon Issoop Soobadar, président de la Market Traders Association (MTA), les lieux seraient dans un « état lamentable ». Ce que récuse l’adjoint au lord-maire d’alors"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/port-louis-letat-du-marche-central-au-coeur-dune-polemique",
+      "title": "Port-Louis : l’état du marché central au cœur d’une polémique | Defimedia (1er juin 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Tout d’abord, il y a des toilettes payantes au rez-de-chaussée."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mauritius_-_Port_Louis_%28Central_Market%29_%2817118303459%29.jpg",
+      "credit": "Didier Baertschiger from Genève, Suisse",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mauritius_-_Port_Louis_(Central_Market)_(17118303459).jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Horaires d'ouverture : aucune source officielle trouvée (pas de site propre au marché ; site de la mairie non consulté, hôte non autorisé). opening_hours reste à null.",
+    "Entrée vraisemblablement libre (marché public) mais non écrite dans une source officielle : price_kind reste à null.",
+    "Histoire du bâtiment (date de construction, incendie évoqué par la presse) non sourcée : aucun article Wikipédia dédié n'a été trouvé.",
+    "Coordonnées : OpenStreetMap découpe le marché en plusieurs bâtiments (fruits et légumes, épices, viandes) ; le point retenu est le polygone « Central Market » (way 159257749).",
+    "La polémique sur la propreté date de juin 2023 : état actuel à vérifier sur place."
+  ]
+}

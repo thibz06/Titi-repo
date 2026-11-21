@@ -1,0 +1,123 @@
+{
+  "slug": "ile-d-ambre",
+  "name": "Île d'Ambre",
+  "family": "nature_parcs",
+  "tags": [],
+  "region": "nord",
+  "locality": "Poudre d'Or",
+  "lat": -20.036944,
+  "lng": 57.7,
+  "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q292021.json",
+  "google_place_id": null,
+  "pitch": "Île du lagon nord-est bordée de mangrove, classée parc national, liée au naufrage du Saint-Géran en 1744.",
+  "description_md": "L'île d'Ambre se trouve près de la côte nord-est de Maurice, face à Poudre d'Or ; c'est la plus grande des huit îles de l'Islets National Park. Elle est bordée de mangrove. Les Hollandais lui auraient donné son nom après y avoir trouvé de l'ambre gris. Les neuf survivants du naufrage du Saint-Géran (août 1744), à l'origine du roman *Paul et Virginie*, s'y sont réfugiés.",
+  "why_go_md": "Pour une balade au calme dans la mangrove, en bateau ou en kayak : la presse mauricienne la décrit comme peu fréquentée des touristes et appréciée pour sa tranquillité. Un projet de restauration des zones humides et des mangroves y est mené dans le parc national.",
+  "likes": [
+    "Mangrove formée de palétuviers, habitat d'oiseaux, d'insectes et de poissons",
+    "Histoire : refuge des survivants du Saint-Géran, épisode qui a inspiré Paul et Virginie",
+    "Cadre calme, apprécié pour sa tranquillité (presse, 2024)"
+  ],
+  "watchouts": [
+    "Entourée de mangrove et de rochers, l'île est décrite comme peu accessible au public (presse, 2017) : on y va en bateau ou en kayak",
+    "Milieu naturel décrit comme assez dégradé par Wikipédia en anglais"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "peu_connu",
+  "rarity_reason": "Décrite en 2017 par Défi Media comme « très peu fréquentée des touristes » ; à nuancer : Wikipédia en anglais la dit prisée des Mauriciens le week-end.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q292021.json",
+      "title": "Wikidata Q292021 (île d'Ambre)",
+      "accessed_at": "2026-11-21",
+      "evidence": "P625 (coordonnées géographiques) : latitude -20.036944444444, longitude 57.7"
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_d%27Ambre",
+      "title": "Île d'Ambre — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "L'île d'Ambre est une île située à proximité de la côte nord-est de l'île principale de la république de Maurice. Elle constitue un parc national du pays."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_d%27Ambre",
+      "title": "Île d'Ambre — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "L’île d’Ambre fut ainsi nommée par les premiers colons, les Hollandais, qui y trouvèrent de l’ambre gris de cachalot."
+    },
+    {
+      "field": "description_md, likes, locality",
+      "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_d%27Ambre",
+      "title": "Île d'Ambre — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Elle servit de refuge aux 9 survivants à la suite du naufrage du navire Saint-Géran dans la passe juste en face de l'île le 18 août 1744. Un drame à l’origine de la trame narrative du célèbre roman de Bernardin de Saint-Pierre, Paul et Virginie. [...] Un monument, nommé monument Paul et Virginie, est érigé le 20 août 1944 à Poudre d'Or, en face de l'île"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://fr.wikipedia.org/wiki/%C3%8Ele_d%27Ambre",
+      "title": "Île d'Ambre — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Les environs de L’île d’Ambre sont bordés de mangrove, écosystème surtout formé de mangliers [...] Cet habitat abrite oiseaux, insectes, poissons"
+    },
+    {
+      "field": "description_md, watchouts, rarity",
+      "url": "https://en.wikipedia.org/wiki/Islets_National_Park",
+      "title": "Islets National Park — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "The park is made up of eight small islands, the largest being Ile D'Ambre. [...] Île d’Ambre is located north east of Mauritius and is a popular weekend destination for Mauritians. Although the environment of the island is in fairly poor condition, some blue latan palm (Latania loddigesii) and mangrove forests remain."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://defimedia.info/lile-dambre-precieuse-beaute",
+      "title": "L’île d’Ambre : précieuse beauté | Defimedia (14 janvier 2024)",
+      "accessed_at": "2026-11-21",
+      "evidence": "De nos jours, le projet Mauritius From Ridge to Reef (R2R) mené dans le Parc national de l’île d’Ambre a pour objectif de conserver et restaurer les écosystèmes naturels des zones humides et des forêts de mangroves. [...] Les bateaux et les kayaks continuent à aborder l’île d’Ambre. Beaucoup l’apprécient pour sa tranquillité et la beauté du paysage."
+    },
+    {
+      "field": "watchouts, rarity, why_go_md",
+      "url": "https://defimedia.info/iles-et-ilots-ces-petits-bouts-de-paradis-qui-nous-entourent",
+      "title": "Îles et îlots : ces petits bouts de paradis qui nous entourent | Defimedia (4 février 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Située sur la côte nord-est, l’île d’Ambre s’entoure de mangrove et de rochers, ne la rendant pas très accessible au public. Elle est toutefois idéale pour les curieux en quête de tranquillité. Très peu fréquentée des touristes"
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ile_dAmbre_%283044724201%29.jpg",
+      "credit": "mwanasimba from La Réunion",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ile_dAmbre_(3044724201).jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Date du naufrage du Saint-Géran : 18 août 1744 selon Wikipédia (fr et en), 17 août 1744 selon Défi Media. La fiche écrit seulement « août 1744 ».",
+    "Wikipédia (fr) rapporte au conditionnel que le dernier dodo y aurait été aperçu en 1662 : non repris dans la fiche (règle « pas de légende »), à trancher.",
+    "Accès : point d'embarquement, prestataires, prix et durée non sourcés de façon fiable. Un reportage de 2024 part de Saint-Antoine (Goodlands), à Bain-de-Rosnay, pour une balade d'environ deux heures ; un article de 2017 cite une excursion à Rs 1 700 par personne (prix ancien, non repris).",
+    "Règles du parc national (débarquement, feux, pique-nique) à vérifier auprès du National Parks and Conservation Service (site non accessible pendant la rédaction).",
+    "Superficie : 140 hectares selon Défi Media (2017), non recoupée ; non reprise dans la fiche.",
+    "locality « Poudre d'Or » = village situé en face de l'île selon Wikipédia ; à ajuster si le point d'embarquement retenu est Goodlands."
+  ]
+}
