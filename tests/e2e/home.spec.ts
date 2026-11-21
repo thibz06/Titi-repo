@@ -9,6 +9,35 @@ test("l'accueil s'affiche sur mobile sans défilement horizontal", async ({ page
   expect(overflow).toBeLessThanOrEqual(0);
 });
 
+test("la météo est présentée comme une estimation, avec sa source", async ({ page }) => {
+  await page.route("https://api.open-meteo.com/**", (route) =>
+    route.fulfill({
+      status: 200,
+      contentType: "application/json",
+      body: JSON.stringify({
+        daily: {
+          time: ["2026-12-22", "2026-12-23", "2026-12-24"],
+          temperature_2m_max: [30.2, 29.1, null],
+          precipitation_sum: [12.4, 0, null],
+          precipitation_probability_max: [80, 10, null],
+          wind_speed_10m_max: [22, 18, null],
+        },
+      }),
+    }),
+  );
+  await page.goto("/");
+  await expect(page.getByText("30 °C max · pluie 80 % (12 mm) · vent 22 km/h")).toBeVisible();
+  await expect(page.getByText(/Prévision, donc estimation\. Source : Open-Meteo, calculée le/)).toBeVisible();
+  // Une valeur absente n'est pas inventée.
+  await expect(page.getByText(/Non renseigné °C max/)).toBeVisible();
+});
+
+test("si la météo ne répond pas, l'app le dit", async ({ page }) => {
+  await page.route("https://api.open-meteo.com/**", (route) => route.abort());
+  await page.goto("/");
+  await expect(page.getByText("La météo est indisponible pour le moment.")).toBeVisible();
+});
+
 test("le manifeste PWA est servi avec ses icônes", async ({ page, request }) => {
   await page.goto("/");
   const href = await page.locator('link[rel="manifest"]').getAttribute("href");
