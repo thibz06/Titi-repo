@@ -6,6 +6,7 @@ import { useState, type ReactNode } from "react";
 import { fill, getMessages } from "@/i18n";
 import { coverPhoto, directionsUrl, formatDateFr, formatDuration, formatPriceMur } from "@/lib/places/format";
 import { useFavorites } from "@/lib/favorites";
+import { formatEur, useRate } from "@/lib/useRate";
 import { CheckIn } from "./CheckIn";
 import { Photo } from "./Photo";
 import type { PlaceDetail } from "@/lib/places/types";
@@ -111,6 +112,7 @@ function FavoriteButton({ slug }: { slug: string }) {
 function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs: string[] }) {
   const t = getMessages();
   const price = formatPriceMur(place);
+  const rate = useRate();
   const priceText =
     price.kind === "free" ? t.place.free : price.kind === "amount" ? price.text : price.kind === "variable" ? t.place.variablePrice : null;
 
@@ -151,6 +153,11 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
             value={place.difficulty != null ? fill(t.place.difficultyValue, { value: place.difficulty }) : null}
           />
         </dl>
+        {rate && place.price_visitor_mur_min != null && place.price_visitor_mur_min > 0 ? (
+          <p className="mt-2 text-sm">
+            {fill(t.place.priceEur, { eur: formatEur(place.price_visitor_mur_min, rate), date: formatDateFr(rate.date) })} ({rate.source})
+          </p>
+        ) : null}
         {place.price_resident_mur != null ? (
           <p className="mt-2 text-sm">{fill(t.place.residentPrice, { price: `${place.price_resident_mur} Rs` })}</p>
         ) : null}

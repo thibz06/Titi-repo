@@ -39,7 +39,8 @@ Transitions de 200 à 300 ms ; récompense de 1,2 s maximum et passable ; confet
 - `pnpm test` : Vitest (`tests/unit`, et `tests/rls` qui rejoue la migration dans un Postgres en mémoire)
 - `pnpm test:e2e` : build puis Playwright, viewport mobile 390 px (`tests/e2e`), avec les fiches fictives de `tests/fixtures/places` et un fond de carte simulé
 - `pnpm icons` : régénère les PNG du manifeste depuis `public/icons/icon.svg`
-- À venir (phase 2) : `pnpm content:lint`, `pnpm content:push`, `pnpm matrix:build`
+- `pnpm content:lint` : contrôle des fiches (schéma, sources, coordonnées)
+- `pnpm matrix:build` : recalcule `content/travel-times.json` avec OSRM ; à relancer après tout ajout de fiche
 
 ## Structure
 - `src/app` : routes Next.js (App Router) ; `src/components` : écrans et composants
@@ -53,8 +54,11 @@ Transitions de 200 à 300 ms ; récompense de 1,2 s maximum et passable ; confet
 ## Progression
 Règles dans `src/lib/progress/rules.ts` (XP par famille, multiplicateur de rareté, niveaux, rayon de check-in, trois validations manuelles par jour). Favoris et visites sont stockés sur l'appareil (`src/lib/store.ts`).
 
+## Planificateur
+Moteur pur dans `src/lib/planner` (tests de propriétés : jamais d'étape fermée, budget et conduite tenus, étapes verrouillées immobiles). Ne jamais deviner un prix, un horaire ou une durée : signaler l'inconnue.
+
 ## Onglets
-N'afficher que les onglets qui fonctionnent. Quêtes et Mon voyage s'ajoutent avec leurs phases.
+N'afficher que les onglets qui fonctionnent. Quêtes s'ajoutera avec sa phase.
 
 ## Git
 Développement sur la branche indiquée par la session ; pas de pull request sans demande explicite. La branche principale du dépôt s'appelle `Principal` ; c'est elle que la production Vercel doit suivre.

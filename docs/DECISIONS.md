@@ -91,6 +91,15 @@ Un JSON par lieu dans `content/places`, validé par un schéma zod (`src/content
 ## Progression (XP, niveaux, check-in)
 Thibault a laissé le choix du barème. XP de base par famille : 10 pour plages, villages et marchés, tables ; 20 pour culture, nature et parcs, activités en mer, sport et loisirs ; 30 pour cascades et randonnées (l'effort, pas le danger). Multiplicateur de rareté 1 / 1,25 / 1,5 / 2, région complétée 100 XP, cinq niveaux aux seuils du brief. Le check-in GPS accepte un rayon par famille (200 à 800 m) plus l'imprécision du GPS plafonnée à 150 m ; hors rayon ou sans GPS, validation à la main, même XP, trois par jour. Tout est stocké sur l'appareil, donc fonctionne hors-ligne sans file d'attente. Limite assumée : sans serveur, rien n'empêche de tricher en modifiant le stockage du navigateur ; sans conséquence pour un usage familial.
 
+## Planificateur
+Moteur en fonctions pures (`src/lib/planner`), sans modèle de langage, déterministe à graine fixe, exécuté dans le navigateur (trois programmes de 18 jours en moins d'une seconde). Le programme est gardé sur l'appareil.
+- **Temps de trajet** : matrice calculée par `pnpm matrix:build` avec le serveur public OSRM (données OpenStreetMap), gratuite et sans clé, stockée dans `content/travel-times.json` avec sa source et sa date. OSRM donne des temps sans trafic, optimistes pour Maurice : le planificateur les majore de 40 % (hypothèse de planification, affichée à l'utilisateur). À relancer quand des fiches sont ajoutées.
+- **Vérification Routes API à l'ouverture d'une journée** : abandonnée avec Google. Pas d'équivalent gratuit avec trafic en temps réel.
+- **Inconnues** : un prix, des horaires ou une durée non renseignés ne sont jamais devinés. Le lieu reste proposable, l'étape est signalée (« Prix non renseigné », « Horaires non renseignés : vérifie avant d'y aller », « Durée prévue par défaut »). Un prix inconnu ne compte pas dans le budget.
+- **Jours fériés** : `content/calendar.json` (25 décembre 2026, 1er et 2 janvier 2027), d'après timeanddate.com, source secondaire à confirmer sur govmu.org. La bibliothèque `opening_hours` ne connaît pas les fériés mauriciens : la règle « PH » est traitée par notre code.
+- **Taux roupie / euro** : `/api/rate` interroge open.er-api.com (gratuit, sans clé, couvre la roupie mauricienne, attribution demandée), cache de 12 h, gardé sur l'appareil avec sa date. Sans taux, le budget en euros n'est pas appliqué et l'app le dit.
+- **Pas encore fait** : glisser-déposer (remplacé par des boutons monter/descendre), plusieurs versions enregistrées d'une journée, carte de l'itinéraire dans l'app (un lien ouvre l'itinéraire dans Google Maps), incontournables à imposer, météo.
+
 ## Sources de contenu
 Wikipédia sert au contexte et aux coordonnées. Le contenu utile (quoi faire, prix, horaires) vient du site officiel du lieu ou du prestataire, des offices du tourisme, des organismes publics et de la presse mauricienne. GetYourGuide, Viator et consorts servent à repérer des activités ; on ne recopie ni leurs textes ni leurs notes, et ils refusent de toute façon les robots.
 

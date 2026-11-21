@@ -14,7 +14,9 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:e2e": "playwright test --trace off",
-    "icons": "node scripts/build-icons.mjs"
+    "icons": "node scripts/build-icons.mjs",
+    "matrix:build": "node scripts/build-matrix.mjs",
+    "content:lint": "vitest run tests/unit/content.test.ts"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
