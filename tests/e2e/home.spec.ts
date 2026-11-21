@@ -21,3 +21,22 @@ test("le manifeste PWA est servi avec ses icônes", async ({ page, request }) =>
     expect((await request.get(icon.src)).ok()).toBe(true);
   }
 });
+
+test.describe("hors-ligne", () => {
+  test.use({ serviceWorkers: "allow" });
+
+  test("après une première visite, une fiche et les favoris restent consultables sans réseau", async ({ page, context }) => {
+    await page.goto("/lieu/lieu-de-test-plage");
+    await page.evaluate(async () => {
+      await navigator.serviceWorker.ready;
+    });
+    await page.getByRole("button", { name: "Ajouter aux favoris" }).click();
+    await page.reload(); // la page est maintenant servie et mise en cache par le service worker
+    await expect(page.getByRole("heading", { level: 1, name: "Plage de test" })).toBeVisible();
+
+    await context.setOffline(true);
+    await page.reload();
+    await expect(page.getByRole("heading", { level: 1, name: "Plage de test" })).toBeVisible();
+    await expect(page.getByRole("button", { name: "Retirer des favoris" })).toBeVisible();
+  });
+});

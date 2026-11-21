@@ -8,5 +8,5 @@ export default defineConfig({
       "@messages": fileURLToPath(new URL("./messages", import.meta.url)),
     },
   },
-  test: { include: ["tests/unit/**/*.test.ts"] },
+  test: { include: ["tests/unit/**/*.test.ts", "tests/rls/**/*.test.ts"] },
 });

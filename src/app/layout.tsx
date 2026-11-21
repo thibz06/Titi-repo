@@ -1,6 +1,9 @@
 import type { Metadata, Viewport } from "next";
 import { Fraunces, Inter } from "next/font/google";
 import { defaultLocale, getMessages } from "@/i18n";
+import { Providers } from "@/components/Providers";
+import { ServiceWorker } from "@/components/ServiceWorker";
+import { TabBar } from "@/components/TabBar";
 import "./globals.css";
 
 const fraunces = Fraunces({ subsets: ["latin"], variable: "--font-fraunces", display: "swap" });
@@ -31,7 +34,14 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang={defaultLocale} className={`${fraunces.variable} ${inter.variable}`}>
-      <body className="antialiased">{children}</body>
+      <body className="antialiased">
+        <ServiceWorker>
+          <Providers>
+            {children}
+            <TabBar />
+          </Providers>
+        </ServiceWorker>
+      </body>
     </html>
   );
 }

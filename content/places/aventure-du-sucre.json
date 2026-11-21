@@ -1,0 +1,98 @@
+{
+  "slug": "aventure-du-sucre",
+  "name": "L'Aventure du Sucre",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "nord",
+  "locality": "Pamplemousses",
+  "lat": -20.098129,
+  "lng": 57.574163,
+  "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q18923518.json",
+  "google_place_id": null,
+  "pitch": "Musée de l'histoire du sucre installé dans l'ancienne sucrerie de Beau Plan, avec dégustation de sucres et de rhums.",
+  "description_md": "L'Aventure du Sucre est un musée aménagé dans l'ancienne usine sucrière de Beau Plan, à Pamplemousses. Il retrace l'histoire de l'industrie sucrière mauricienne, de la récolte de la canne à la fabrication du sucre, ainsi que l'histoire de l'esclavage et de l'immigration à Maurice. Le site comprend aussi une boutique et le restaurant Le Fangourin.",
+  "why_go_md": "Pour comprendre la place de la canne à sucre dans l'histoire de l'île, puis goûter des sucres et des rhums : l'office du tourisme mauricien résume la visite ainsi. Le musée se trouve dans le même village que le jardin botanique de Pamplemousses.",
+  "likes": [
+    "Musée installé dans une ancienne usine sucrière",
+    "Dégustation de sucres et de rhums",
+    "Restaurant Le Fangourin et boutique sur place"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q18923518.json",
+      "title": "Wikidata Q18923518 (L'Aventure du Sucre)",
+      "accessed_at": "2026-11-21",
+      "evidence": "P625 (coordonnées géographiques) : latitude -20.098129, longitude 57.574163"
+    },
+    {
+      "field": "description_md, likes, pitch",
+      "url": "https://defimedia.info/journee-internationale-du-patrimoine-culturel-20-lieux-historiques-accessibles-gratuitement-ce-week-end",
+      "title": "Journée internationale du patrimoine culturel : 20 lieux historiques accessibles gratuitement ce week-end | Defimedia (29 avril 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "L'Aventure du Sucre est un musée interactif situé dans l'ancienne usine sucrière de Beau-Plan. Il retrace l'histoire de l'industrie sucrière de l'île. Les visiteurs peuvent découvrir les différentes étapes de la production du sucre, depuis la récolte de la canne à sucre jusqu'à la transformation en sucre cristallisé, ainsi que l'histoire de l'esclavage et de l'immigration à Maurice. Le musée propose également des dégustations de sucre et de rhum, ainsi qu'un restaurant et une boutique de souvenirs."
+    },
+    {
+      "field": "description_md, likes, locality",
+      "url": "https://defimedia.info/laventure-du-sucre-receives-three-new-distinctions",
+      "title": "L’Aventure du Sucre receives three new distinctions | Defimedia (23 août 2016)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Located in the heart of the Domaine de Beau Plan, Pamplemouses, L’Aventure du Sucre has been attracting locals as well as international visitors [...] L’Aventure du Sucre’s museum on the history of sugar in Mauritius and its restaurant Le Fangourin serving refined local cuisine"
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusnow.com/mauritius-map/north-mauritius/",
+      "title": "Discover the stunning North of Mauritius now! (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "L’Aventure du Sucre — Learn about the history of sugar cane, before enjoying some sweet treats and rum tasting."
+    },
+    {
+      "field": "description_md, locality",
+      "url": "https://fr.wikipedia.org/wiki/L%27Aventure_du_Sucre",
+      "title": "L'Aventure du Sucre — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Située à Pamplemousses, au nord de l’île Maurice, L’Aventure du Sucre est une ancienne sucrerie du XIXᵉ siècle transformée en expérience immersive."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/L%27_Aventure_du_Sucre%2C_Pamplemousses%2C_Mauritius.JPG",
+      "credit": "(WT-shared) Shoestring, wts.wikivoyage",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:L%27_Aventure_du_Sucre,_Pamplemousses,_Mauritius.JPG",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Site officiel aventuredusucre.com inaccessible pendant la rédaction (www.aventuredusucre.com redirige vers aventuredusucre.com, hôte non autorisé dans la session) : prix, horaires et durée de visite à relever sur le site officiel.",
+    "Wikipédia (fr) mentionne des visites guidées et une expérience de coupe de canne le mercredi matin : le texte de l'article a un ton promotionnel et n'est pas recoupé, donc non repris.",
+    "Date de l'usine : « sucrerie du XIXe siècle » selon Wikipédia (fr), sans référence ; non repris dans la description.",
+    "Photo de couverture en basse définition (640 × 480) : à remplacer par une photo de Thibault si possible.",
+    "Tag pluie_ok probable (musée couvert) mais non sourcé : laissé de côté."
+  ]
+}

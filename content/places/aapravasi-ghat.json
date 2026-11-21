@@ -1,0 +1,129 @@
+{
+  "slug": "aapravasi-ghat",
+  "name": "Aapravasi Ghat",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.158611,
+  "lng": 57.503056,
+  "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q9276.json",
+  "google_place_id": null,
+  "pitch": "Vestiges du dépôt d'immigration où ont débarqué les travailleurs engagés indiens, inscrits au patrimoine mondial en 2006.",
+  "description_md": "L'Aapravasi Ghat est l'ancien dépôt d'immigration de Port-Louis, bâti dans la baie de Trou Fanfaron. De 1849 à 1923, environ un demi-million de travailleurs engagés indiens y sont passés, selon Wikipédia en anglais. Il en reste les vestiges partiels de trois bâtiments en pierre des années 1860 : le portail d'entrée, un bloc hospitalier, des restes de hangars et des quartiers de service. Monument national, le site est inscrit au patrimoine mondial de l'UNESCO depuis 2006 et géré par l'Aapravasi Ghat Trust Fund.",
+  "why_go_md": "C'est l'un des deux sites mauriciens du patrimoine mondial, avec le Morne Brabant, et un lieu clé pour comprendre l'engagisme, dont descend une grande partie de la population de l'île. La visite associe le site et le Beekrumsing Ramlallah Interpretation Centre (BRIC), ouvert en 2014, qui raconte l'arrivée et le séjour des engagés avec une maquette, des visuels et du multimédia.",
+  "likes": [
+    "Site inscrit au patrimoine mondial de l'UNESCO (2006)",
+    "Centre d'interprétation (BRIC) en six sections : maquette, visuels et multimédia sur l'arrivée des engagés",
+    "Vestiges des années 1860 : portail d'entrée, bloc hospitalier, hangars",
+    "Proche du Caudan Waterfront"
+  ],
+  "watchouts": [
+    "Il ne reste qu'une partie du complexe d'origine : les aménagements urbains du XXe siècle ont détruit le reste"
+  ],
+  "tips_md": null,
+  "duration_min": 45,
+  "duration_max": 60,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "L'un des deux sites de Maurice inscrits au patrimoine mondial de l'UNESCO, avec le Morne Brabant.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q9276.json",
+      "title": "Wikidata Q9276 (Aapravasi Ghat)",
+      "accessed_at": "2026-11-21",
+      "evidence": "P625 (coordonnées géographiques) : latitude -20.158611, longitude 57.503056"
+    },
+    {
+      "field": "description_md, pitch, likes, rarity",
+      "url": "https://en.wikipedia.org/wiki/Aapravasi_Ghat",
+      "title": "Aapravasi Ghat — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "From 1849 to 1923, half a million Indian indentured labourers passed through the Immigration Depot [...] The Immigration Depot's role in social history was recognized by UNESCO when it was declared a World Heritage Site in 2006. The site is under the management of the Aapravasi Ghat Trust Fund. [...] It is one of two World Heritage Sites in Mauritius, along with Le Morne Brabant."
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://en.wikipedia.org/wiki/Aapravasi_Ghat",
+      "title": "Aapravasi Ghat — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Unchecked infrastructural development in the mid-20th century means that only the partial remains of three stone buildings from the entire complex have survived. These are now protected as a national monument"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://en.wikipedia.org/wiki/Aapravasi_Ghat",
+      "title": "Aapravasi Ghat — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Immigration Depot was built on the east side of the sheltered bay of Trou Fanfaron in Port Louis, the Mauritian capital. The historic complex currently consists of the partial remains of three stone buildings dating back to the 1860s [...] It consists of the entrance gateway and a hospital block, remnants of immigration sheds, and vestiges of the service quarters. [...] The Caudan Waterfront, a marina developed as an economic and tourist centre, is situated beyond the site."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Aapravasi_Ghat",
+      "title": "Aapravasi Ghat — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "L’Aapravasi Ghat est un site classé patrimoine mondial par l’UNESCO le 12 juillet 2006. Il se trouve dans le district de Port-Louis, à Maurice, et précisément sur la route de Trou Fanfaron."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusnow.com/mauritius-map/port-louis-in-mauritius/",
+      "title": "Discover the stunning capital of Mauritius now! (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "To learn about the island’s history, visit Aapravasi Ghat. This UNESCO World Heritage Site is the remains of an immigration depot and is a good place to learn about the Indian indentured labourers who arrived in Mauritius after the abolition of slavery."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://defimedia.info/vacances-scolaires-ces-lieux-et-activites-decouvrir-en-hiver",
+      "title": "Vacances scolaires : ces lieux et activités à découvrir en hiver | Defimedia (25 juillet 2022)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Situé à l’Aapravasi Ghat, à Port-Louis, le Beekrumsing Ramlallah Interpretation Centre (BRIC) présente la mise en place et le développement du système de l’engagisme [...] Le BRIC a été inauguré le 2 novembre 2014 [...] Le BRIC comprend six sections."
+    },
+    {
+      "field": "duration_min, duration_max",
+      "url": "https://defimedia.info/vacances-scolaires-ces-lieux-et-activites-decouvrir-en-hiver",
+      "title": "Vacances scolaires : ces lieux et activités à découvrir en hiver | Defimedia (25 juillet 2022)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Notons que la visite du BRIC est aussi incluse dans la visite guidée de l’Aapravasi Ghat, site classé patrimoine mondial par l’Unesco en juillet 2006. Elle dure entre 45 et 60 minutes."
+    },
+    {
+      "field": "duration_min, why_go_md, likes",
+      "url": "https://defimedia.info/idees-sorties-se-distraire-avant-la-reprise",
+      "title": "Idées sorties : se distraire avant la reprise | Defimedia (6 janvier 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La visite comprend la visite du site et du Beekrumsing Ramlallah Interpretation Centre (BRIC), Port-Louis. Elle dure 45 minutes. [...] À travers une maquette, des visuels et des multimédias, l’arrivée des travailleurs engagés à Maurice et leur séjour à l’Aapravasi Ghat est racontée dans la galerie suivante."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Aapravasi_Ghat_Museum%2C_Mauritius_%2841%29.jpg",
+      "credit": "Suyash Dwivedi",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aapravasi_Ghat_Museum,_Mauritius_(41).jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Horaires et prix : aucune source officielle accessible (site de l'Aapravasi Ghat Trust Fund non autorisé dans la session ; whc.unesco.org renvoie un contrôle anti-robot). Défi Media écrivait en juillet 2022 : BRIC ouvert gratuitement de 9 h à 16 h du lundi au vendredi, le samedi de 9 h à midi sur réservation pour les groupes de 25 personnes et plus. Non repris dans opening_hours ni price_kind car non officiel et ancien.",
+    "Ouverture pendant les fêtes (25 décembre, 1er et 2 janvier) à vérifier auprès du Trust Fund.",
+    "Chiffres divergents selon les sources : Wikipédia (en) parle d'un demi-million d'engagés entre 1849 et 1923, Wikipédia (fr) de près de 400 000 entre 1834 et 1910. La fiche cite la version anglaise en l'attribuant.",
+    "Date d'inscription UNESCO : 12 juillet 2006 (Wikipédia fr), 16 juillet 2006 (Défi Media) ; la fiche ne cite que l'année. À vérifier sur whc.unesco.org.",
+    "Durée (45 à 60 minutes) tirée d'articles de presse de 2022 et 2023, pour la visite guidée site + BRIC."
+  ]
+}

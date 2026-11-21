@@ -42,3 +42,43 @@ body {
     scroll-behavior: auto !important;
   }
 }
+
+/*
+ * « Verre » : panneau translucide posé sur une photo ou sur la carte.
+ * La teinte Sable reste assez opaque (≥ 68 %) pour que le texte Encre garde un contraste AA
+ * même sur une photo très sombre ; le flou fait le reste.
+ */
+.glass {
+  background: color-mix(in srgb, var(--color-sable) 70%, transparent);
+  -webkit-backdrop-filter: blur(22px) saturate(1.7);
+  backdrop-filter: blur(22px) saturate(1.7);
+  border: 1px solid rgb(255 255 255 / 0.55);
+  box-shadow:
+    inset 0 1px 0 rgb(255 255 255 / 0.65),
+    0 10px 30px rgb(16 34 43 / 0.18);
+}
+
+.glass-strong {
+  background: color-mix(in srgb, var(--color-sable) 84%, transparent);
+}
+
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .glass {
+    background: var(--color-sable);
+  }
+}
+
+@media (prefers-reduced-transparency: reduce) {
+  .glass {
+    background: var(--color-sable);
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+}
+
+.app-backdrop {
+  background:
+    radial-gradient(120% 60% at 0% 0%, #0fb5ba 0%, transparent 60%),
+    radial-gradient(90% 50% at 100% 20%, #ffc53d 0%, transparent 55%),
+    linear-gradient(180deg, #9fd9db 0%, #f6eedf 70%);
+}

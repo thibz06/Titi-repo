@@ -1,0 +1,111 @@
+{
+  "slug": "citadelle-fort-adelaide",
+  "name": "Citadelle (Fort Adelaide)",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.163658,
+  "lng": 57.510166,
+  "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q2974395.json",
+  "google_place_id": null,
+  "pitch": "Fort britannique en basalte bâti entre 1834 et 1840 sur une colline de Port-Louis, la Petite Montagne.",
+  "description_md": "La Citadelle est le nom courant du Fort Adelaide, une fortification construite par les Britanniques entre 1834 et 1840 sur la Petite Montagne, une colline de Port-Louis. Bâtie en blocs de basalte par des engagés indiens sur des plans du colonel Thomas Cunningham, elle porte le nom de l'épouse du roi Guillaume IV. Elle pouvait loger 200 hommes et n'a jamais soutenu de siège. Restaurée, elle a rouvert au public le 1er février 2006.",
+  "why_go_md": "C'est le seul des forts britanniques de Port-Louis qui ne soit pas en ruines, selon Wikipédia. La colline était déjà un lieu d'où l'on venait observer la rade avant la construction du fort : on peut donc supposer que la vue sur le port reste l'intérêt principal, ce qui est à confirmer sur place.",
+  "likes": [
+    "Fort en basalte du XIXe siècle, seul fort britannique de Port-Louis encore debout",
+    "Site en hauteur sur la Petite Montagne, d'où l'on découvrait déjà la rade au début du XIXe siècle"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q2974395.json",
+      "title": "Wikidata Q2974395 (citadelle de Port-Louis)",
+      "accessed_at": "2026-11-21",
+      "evidence": "P625 (coordonnées géographiques) : latitude -20.163658, longitude 57.510166"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://fr.wikipedia.org/wiki/Citadelle_de_Port-Louis_(Maurice)",
+      "title": "Citadelle de Port-Louis (Maurice) — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Citadelle de Port-Louis est le nom sous lequel est plus connu le Fort Adelaïde, fortification construite entre 1834 et 1840 sur une colline de la capitale mauricienne, Port-Louis."
+    },
+    {
+      "field": "description_md, why_go_md, likes",
+      "url": "https://fr.wikipedia.org/wiki/Citadelle_de_Port-Louis_(Maurice)",
+      "title": "Citadelle de Port-Louis (Maurice) — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Les Britanniques édifient rapidement plusieurs forts : le fort George, le fort Adélaïde, le fort William, le fort Victoria et plusieurs casemates qui complètent l'ensemble. Seule la seconde construction n'est pas à l'état de ruines aujourd'hui. Elle trône toujours sur la Petite Montagne, un site qui était déjà fréquenté des habitants de la ville avant sa construction."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://fr.wikipedia.org/wiki/Citadelle_de_Port-Louis_(Maurice)",
+      "title": "Citadelle de Port-Louis (Maurice) — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "« [...] beaucoup de personnes oisives se rendent sur un lieu élevé, duquel on découvre la rade, et qu'on nomme la petite montagne. »"
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Citadelle_de_Port-Louis_(Maurice)",
+      "title": "Citadelle de Port-Louis (Maurice) — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Baptisée en l'honneur de la femme de Guillaume IV, ses plans ont été conçus par le colonel Thomas Cunningham. Ce sont des engagés indiens qui la bâtissent. [...] Le bâtiment n'aura jamais à soutenir un siège."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://fr.wikipedia.org/wiki/Citadelle_de_Port-Louis_(Maurice)",
+      "title": "Citadelle de Port-Louis (Maurice) — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Construit aves des blocs de basalte, la citadelle abritait autrefois des quartiers pour les officiers et un casernement capable d'accueillir 200 hommes [...] Le site ouvrit ses portes à nouveau au public le 1er février 2006."
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/journee-internationale-du-patrimoine-culturel-20-lieux-historiques-accessibles-gratuitement-ce-week-end",
+      "title": "Journée internationale du patrimoine culturel : 20 lieux historiques accessibles gratuitement ce week-end | Defimedia (29 avril 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La Citadelle, également connue sous le nom de Fort Adélaïde, a été construite entre 1834 et 1840 par le gouverneur William Nicolay dans le but de se protéger contre une possible révolte des habitants français au moment de l'abolition de l'esclavage ainsi que contre d'autres incursions éventuelles."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mauritius_citadelle_fort_adelaide.jpg",
+      "credit": "Arne Müseler (www.arne-mueseler.com)",
+      "license": "CC BY-SA 3.0 de",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mauritius_citadelle_fort_adelaide.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Horaires, prix (entrée libre ou payante) et conditions d'accès : aucune source officielle trouvée ni accessible (pas de site propre ; National Heritage Fund et mairie de Port-Louis non autorisés dans la session).",
+    "Accès en voiture ou à pied et stationnement : non sourcés. Des articles de L'Express et de Défi Media repérés par recherche évoquent stationnement difficile et suspension des concerts en 2025, mais lexpress.mu bloque les requêtes automatisées et ces pages n'ont pas été lues : rien n'en a été repris.",
+    "Vue panoramique sur la ville et le port : très probable mais non sourcée par une page lue (seule une citation historique de Bory de Saint-Vincent sur la colline l'appuie). Tags spot_photo et coucher_soleil non posés pour cette raison.",
+    "Graphie du nom : « Fort Adelaide » (OpenStreetMap), « Fort Adélaïde » (presse), « Fort Adelaïde » (Wikipédia). À harmoniser.",
+    "Raison de la construction : crainte d'une révolte des colons français au moment de l'abolition selon Défi Media ; renforcement général des défenses selon Wikipédia. Non tranché dans la fiche."
+  ]
+}

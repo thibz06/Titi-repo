@@ -1,0 +1,121 @@
+{
+  "slug": "caudan-waterfront",
+  "name": "Caudan Waterfront",
+  "family": "villages_marches",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.16139,
+  "lng": 57.49831,
+  "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q2943077.json",
+  "google_place_id": null,
+  "pitch": "Front de mer commerçant de Port-Louis : boutiques, marché artisanal, restaurants, marina et Blue Penny Museum.",
+  "description_md": "Le Caudan Waterfront est un ensemble commercial bâti sur le front de mer de Port-Louis et inauguré le 25 novembre 1996. Il réunit boutiques, marché artisanal (Craft Market), restaurants, cinémas, casino, marina et un hôtel. Il doit son nom à Jean Dominique Michel de Caudan, qui créa une saline près de là en 1726. La presqu'île a longtemps vécu au rythme du transit du sucre : le Blue Penny Museum occupe l'ancien bureau des docks.",
+  "why_go_md": "L'office du tourisme mauricien le conseille comme point de départ pour explorer Port-Louis : on y trouve de quoi se garer et les allées commerçantes, surmontées de parapluies colorés, sont à quelques pas. Le Caudan Arts Centre programme expositions, théâtre et concerts. Depuis les quais, on voit entrer et sortir porte-conteneurs et paquebots.",
+  "likes": [
+    "Point de départ pratique pour visiter Port-Louis, avec du stationnement",
+    "Craft Market : artisanat local, maquettes de bateaux, bijoux, peintures",
+    "Blue Penny Museum, ouvert en 2001 dans l'ancien bureau des docks",
+    "Vue sur l'activité du port depuis les quais",
+    "Caudan Arts Centre : expositions, théâtre, concerts"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Décrit par Wikipédia (fr) comme l'une des attractions touristiques majeures de Port-Louis et recommandé par l'office du tourisme comme point de départ de la visite de la ville.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q2943077.json",
+      "title": "Wikidata Q2943077 (Caudan Waterfront)",
+      "accessed_at": "2026-11-21",
+      "evidence": "P625 (coordonnées géographiques) : latitude -20.16139, longitude 57.49831"
+    },
+    {
+      "field": "description_md, rarity",
+      "url": "https://fr.wikipedia.org/wiki/Caudan_Waterfront",
+      "title": "Caudan Waterfront — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "De construction récente, il s'agit de l'une des attractions touristiques majeures de la ville. [...] et le Blue Penny Museum ouvert en 2001."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Caudan_Waterfront",
+      "title": "Caudan Waterfront — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Il a été baptisé en hommage à Jean Dominique Michel de Caudan, venu à l'ancienne Isle de France de son Languedoc natal. Saunier de métier, il créa une saline près d'une anse au sud-ouest de Port-Louis, en 1726. [...] Il fut inauguré le 25 novembre 1996."
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://en.wikipedia.org/wiki/Caudan_Waterfront",
+      "title": "Caudan Waterfront — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le Caudan Waterfront is a commercial development in Port Louis, the capital city of Mauritius. It includes shops, banking facilities, casinos, cinemas, restaurants, a marina and a five star hotel (Le Labourdonnais)."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://en.wikipedia.org/wiki/Caudan_Waterfront",
+      "title": "Caudan Waterfront — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "The daily routine of this popular harbor followed the pace of the sugar industry until the creation of the Bulk Sugar Terminal in 1980. [...] The building hosting the Blue Penny Museum was the former Docks office."
+    },
+    {
+      "field": "likes, pitch",
+      "url": "https://en.wikipedia.org/wiki/Caudan_Waterfront",
+      "title": "Caudan Waterfront — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "a popular arts and craft market, known as the Craft Market, Specialty shops selling unique local goods such as replica ships, Indian garments, locally fabricated jewelry or art paintings from local artists."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://en.wikipedia.org/wiki/Caudan_Waterfront",
+      "title": "Caudan Waterfront — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "From its premises, visitors can also admire the workings going in the port as large container and cruise ships make their way in and out."
+    },
+    {
+      "field": "why_go_md, likes, rarity",
+      "url": "https://mauritiusnow.com/mauritius-map/port-louis-in-mauritius/",
+      "title": "Discover the stunning capital of Mauritius now! (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Caudan Waterfront is a great place to start exploring Port Louis, as there is plenty of parking and it’s an easy walk to shop-lined walkways where colourful umbrellas hang overhead. [...] Caudan Arts Centre, a cultural hub that offers art exhibitions, theatre productions and music concerts."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mauritius_23.08.2009_06-07-46.jpg",
+      "credit": "Simisa (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mauritius_23.08.2009_06-07-46.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Site officiel caudan.com inaccessible pendant la rédaction (réponse « 403 Forbidden » aux requêtes automatisées) : horaires des boutiques, tarifs du parking, horaires et prix du Blue Penny Museum non relevés.",
+    "L'accès au front de mer est vraisemblablement libre, mais ce n'est écrit dans aucune source lue : price_kind reste à null.",
+    "Famille : villages_marches retenu faute de catégorie « shopping » ; à trancher par l'éditeur.",
+    "La liste des commerces (cinémas, casino, hôtel) vient de Wikipédia et peut dater : à vérifier sur le site officiel.",
+    "La photo de couverture (2009, vue de Port-Louis) est l'image principale de Wikidata ; son contenu exact n'a pas été visualisé, à contrôler avant publication."
+  ]
+}

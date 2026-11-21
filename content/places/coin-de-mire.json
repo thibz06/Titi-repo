@@ -1,0 +1,128 @@
+{
+  "slug": "coin-de-mire",
+  "name": "Coin de Mire",
+  "family": "nature_parcs",
+  "tags": [],
+  "region": "nord",
+  "locality": null,
+  "lat": -19.941111,
+  "lng": 57.620556,
+  "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q1554833.json",
+  "google_place_id": null,
+  "pitch": "Îlot au profil pentu à 8 km de la côte nord : réserve naturelle où l'on ne débarque pas, abordée en bateau pour ses fonds.",
+  "description_md": "Le Coin de Mire (Gunner's Quoin en anglais) est un îlot d'environ 65 hectares situé à 8 km au nord de Maurice, reconnaissable depuis la côte à son profil pentu. Classé réserve naturelle, il abrite des oiseaux et des reptiles endémiques et ne se visite pas à terre. Des colons hollandais y ont tenté une plantation de canne à sucre, dont il reste des traces.",
+  "why_go_md": "On s'en approche en bateau ou en catamaran depuis le nord. L'office du tourisme mauricien le cite pour la plongée avec masque et tuba ; un article de presse de 2017 décrit des fonds d'environ 6 m de profondeur moyenne au mouillage, et des oiseaux marins (pailles-en-queue, puffins) qui nichent sur l'îlot.",
+  "likes": [
+    "Plongée avec masque et tuba au pied de l'îlot, citée par l'office du tourisme mauricien",
+    "Oiseaux marins nicheurs : paille-en-queue à brins rouges, paille-en-queue à brins blancs, puffin du Pacifique (presse, 2017)",
+    "Pour les plongeurs en bouteille : épave du Djabeda par 30 m de fond, grottes et tunnels (presse, 2017)"
+  ],
+  "watchouts": [
+    "On ne débarque pas : l'îlot est une réserve naturelle protégée et son rivage offre peu de points d'ancrage",
+    "Courants parfois forts autour de l'îlot (presse, 2017)"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": "Un article de 2017 recommande la prudence face aux courants, parfois forts. Le niveau de risque n'est pas évalué ici faute de source officielle.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://www.wikidata.org/wiki/Special:EntityData/Q1554833.json",
+      "title": "Wikidata Q1554833 (Coin de Mire)",
+      "accessed_at": "2026-11-21",
+      "evidence": "P625 (coordonnées géographiques) : latitude -19.941111111111, longitude 57.620555555556"
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://fr.wikipedia.org/wiki/Coin_de_Mire",
+      "title": "Coin de Mire — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le Coin de Mire, Gunner's Quoin en anglais, est une île mauricienne située à huit kilomètres de la côte nord de l'île Maurice, d'où il est visible et aisément reconnaissable à son profil pentu. Il ne peut être visité, étant classé en réserve naturelle protégée abritant de nombreux oiseaux. En outre, son rivage possède peu de points d'ancrage."
+    },
+    {
+      "field": "description_md",
+      "url": "https://fr.wikipedia.org/wiki/Coin_de_Mire",
+      "title": "Coin de Mire — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Des oiseaux et des reptiles endémiques y vivent."
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Islets_of_Mauritius",
+      "title": "Islets of Mauritius — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Coin de Mire, also called Gunner's Quoin, measures just 65 hectares and lies 8 km north of Mauritius. There are remnants of a sugar plantation set up by Dutch settlers."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/mauritius-map/north-mauritius/",
+      "title": "Discover the stunning North of Mauritius now! (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You can also catch a boat from this region to explore the northern islands, including Ilot Gabriel – an island paradise with dazzling white sand – and Coin de Mire, known for its fantastic snorkelling."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://defimedia.info/coin-de-mire-best-snorkelling-site",
+      "title": "Coin de Mire: The best snorkelling site | Defimedia (30 mars 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Either by speed boat or catamaran, it will take you around half an hour to reach the island. [...] At an average depth of 6 meters and crystal clear water, snorkelling conditions there are nearly perfect all year round."
+    },
+    {
+      "field": "likes",
+      "url": "https://defimedia.info/coin-de-mire-best-snorkelling-site",
+      "title": "Coin de Mire: The best snorkelling site | Defimedia (30 mars 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The islet is also the nesting place of tropical birds such as Red tailed tropic, Wedged tail shearwarter and the White tailed tropic bird."
+    },
+    {
+      "field": "likes",
+      "url": "https://defimedia.info/coin-de-mire-best-snorkelling-site",
+      "title": "Coin de Mire: The best snorkelling site | Defimedia (30 mars 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "you can scuba dive to explore the wreck of the ‘Djabeda’ ship, which lies at 30 meters deep. [...] You can also explore underwater caves and tunnels."
+    },
+    {
+      "field": "watchouts, risk_note",
+      "url": "https://defimedia.info/coin-de-mire-best-snorkelling-site",
+      "title": "Coin de Mire: The best snorkelling site | Defimedia (30 mars 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "One piece of advice: Be careful of the currents which can be high at times."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/CoinDeMire01.jpg",
+      "credit": "Liné1",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:CoinDeMire01.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Statut et règles d'accès à confirmer auprès du National Parks and Conservation Service (site non accessible pendant la rédaction) : l'interdiction de débarquer vient de Wikipédia seulement.",
+    "Port de départ, durée et prix des sorties en bateau : non sourcés (dépendent des prestataires). Le « environ une demi-heure » de traversée vient d'un article de 2017 et n'a pas été repris dans les champs de durée.",
+    "risk_level laissé à null : seule une mise en garde de presse (courants) a été trouvée.",
+    "Famille : nature_parcs retenu ; mer_activites serait défendable puisque la visite se fait uniquement en mer."
+  ]
+}
