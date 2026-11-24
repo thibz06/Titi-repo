@@ -101,7 +101,26 @@
       "evidence": "The public is kindly informed that the toilet blocks at Flic en Flac public beach (opposite Manisa Hotel) will be closed as mentioned below due to some repair works [...] The public is kindly requested to make use of toilet block at Flic en Flac public beach (opposite Cemetery)."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mauritius_flic_en_flac_beach.jpg",
+      "credit": "Arne Müseler",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=149461895",
+      "is_cover": true,
+      "storage_path": "/photos/plage-de-flic-en-flac-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Spiaggia_di_Flic_en_Flac_-_Mauritius.jpg",
+      "credit": "Raffaele pagani",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=73859429",
+      "is_cover": false,
+      "storage_path": "/photos/plage-de-flic-en-flac-2.jpg"
+    }
+  ],
   "open_questions": [
     "`price_kind` laissé à null : la plage est « publique » et proclamée, mais aucune source lue n'écrit qu'elle est gratuite (accès, parking).",
     "Longueur : « environ huit kilomètres » selon l'office du tourisme ; Wikipédia en français parle de « plus d'un kilomètre et demi » de plages et Wikipédia en anglais d'un littoral d'environ 13 km pour la localité. La fiche retient le chiffre de l'office du tourisme.",

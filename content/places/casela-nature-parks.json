@@ -160,7 +160,26 @@
       "evidence": "For your convenience, all payments are to be made in Mauritian Rupees (MUR)"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zebras_in_Casela_Nature_Parks%2C_Mauritius.jpg",
+      "credit": "7oanna",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=158861381",
+      "is_cover": true,
+      "storage_path": "/photos/casela-nature-parks-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Don%27t_sit_on_turtles_sign_Casela_Nature_Parks%2C_Mauritius.jpg",
+      "credit": "7oanna",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=158859638",
+      "is_cover": false,
+      "storage_path": "/photos/casela-nature-parks-2.jpg"
+    }
+  ],
   "open_questions": [
     "Prix d'entrée visiteur (adulte, enfant) introuvable sans JavaScript : champs de prix à null. À relever sur booking.caselaparks.com avant publication, avec la liste de ce que le billet d'entrée inclut.",
     "« Probablement la plus chère de la liste » et « beaucoup d'activités se paient en plus » sont des déductions (les activités ont chacune un bouton de réservation) : à confirmer ou retirer une fois les prix connus.",

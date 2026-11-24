@@ -140,6 +140,24 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Mauritius_23.08.2009_06-07-46.jpg",
       "is_cover": true,
       "storage_path": "/photos/caudan-waterfront-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Umbrellas_at_Caudan_Waterfront_Mall.JPG",
+      "credit": "Martin Falbisoner",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=44107331",
+      "is_cover": false,
+      "storage_path": "/photos/caudan-waterfront-2.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Caudan_waterfront_%2813%29.jpg",
+      "credit": "Mip130916",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=15682043",
+      "is_cover": false,
+      "storage_path": "/photos/caudan-waterfront-3.jpg"
     }
   ],
   "open_questions": [

@@ -83,7 +83,17 @@
       "evidence": "La liste des lagons dangereux : Le Goulet, Pointe-aux-Piments, La Cuvette, Pointe d ’Azur, Bain-Bœuf"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bain_boeuf_Beach_Mauritius_2019-09-27_3.jpg",
+      "credit": "Z thomas",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=82609115",
+      "is_cover": true,
+      "storage_path": "/photos/bain-boeuf-1.jpg"
+    }
+  ],
   "open_questions": [
     "L'article du Défi n'affiche pas de date lisible ; l'état actuel de la plage (érosion, sacs de sable) est à vérifier sur place.",
     "Bain-Bœuf n'est pas dans la liste de 24 plages à panneaux citée au Parlement en 2024 : le niveau de risque actuel est incertain.",
