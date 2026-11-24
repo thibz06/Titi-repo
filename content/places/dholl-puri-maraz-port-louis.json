@@ -74,7 +74,17 @@
       "evidence": "“We would work the whole day serving ‘Dholl Puris’ at the central market of Port Louis and in the evening, we are at home together."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://taste.co.za/wp-content/uploads/2023/07/Dumpings-street-food-Mauritius-scaled.webp",
+      "credit": "taste.co.za",
+      "license": "Droits réservés",
+      "source_url": "https://taste.co.za/5-street-foods-to-try-in-port-louis-mauritius/",
+      "is_cover": true,
+      "storage_path": "/photos/dholl-puri-maraz-port-louis-s1.webp"
+    }
+  ],
   "open_questions": [
     "Emplacement : OpenStreetMap place « Ramsahye Maraz Palace » rue Bourbon, en bordure du marché ; Defimedia écrit « au marché de Port-Louis ». À confirmer sur place.",
     "Prix à revérifier : Rs 18 la paire en juillet 2023 (Defimedia) ; les prix du dholl puri ont augmenté depuis selon la presse.",

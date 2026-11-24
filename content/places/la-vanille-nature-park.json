@@ -141,7 +141,17 @@
       "evidence": "Nourrir les animaux sauf autorisation explicite Jeter des objets dans les enclos Tenter de toucher ou de perturber les animaux en dehors des expériences autorisées [...] L'utilisation de drones est interdite sans autorisation préalable. [...] Les horaires d'ouverture peuvent varier selon : La saison Les jours fériés Les contraintes opérationnelles"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://images.weserv.nl/?url=tohpvrxffuvmshkrzxsb.supabase.co/storage/v1/object/public/misc/Plan-your-visit-LVNP.webp&w=1200&h=630&fit=cover",
+      "credit": "lavanillenaturepark.com",
+      "license": "Droits réservés",
+      "source_url": "https://www.lavanillenaturepark.com/planifier-votre-visite",
+      "is_cover": true,
+      "storage_path": "/photos/la-vanille-nature-park-s1.webp"
+    }
+  ],
   "open_questions": [
     "La page d'accueil affiche aussi « Billet à partir de MUR 450 » et « Billets à partir de MUR 425 » : incohérence mineure du site ; les tarifs détaillés de la page « Planifier votre visite » ont été retenus.",
     "Tranche d'âge du tarif enfant : « Enfant (3-12ans) » ; gratuité avant 3 ans supposée mais non écrite. Tarif des 13-17 ans : a priori adulte, à confirmer.",

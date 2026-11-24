@@ -65,7 +65,17 @@
       "evidence": "You can get to Île aux Benitiers on a local fishing boat from La Gaulette or Case Noyale – keep an eye out for dolphins, as you may be lucky enough to spot them on the boat ride over. Alternatively, catch a catamaran or speedboat across to this small, uninhabited and unspoilt island on an organised day trip. Many include a barbecue lunch"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ile_aux_Benitiers_-_Mauritius.jpg",
+      "credit": "Raffaele pagani",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=73862753",
+      "is_cover": true,
+      "storage_path": "/photos/ile-aux-benitiers-1.jpg"
+    }
+  ],
   "open_questions": [
     "Prix : aucun tarif officiel lu (barque de pêcheur ou excursion) ; `price_kind` à null. Prestataires non identifiés, pas de `website_url`.",
     "Coordonnées : l'îlot lui-même (OpenStreetMap), pas l'embarcadère de La Gaulette ou de Case Noyale.",

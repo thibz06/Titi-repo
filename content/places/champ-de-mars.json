@@ -219,6 +219,24 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:The_Champ_de_Mars_Racecourse.JPG",
       "is_cover": true,
       "storage_path": "/photos/champ-de-mars-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Maiden_Cup_2006%2C_Champ_de_Mars_Racecourse%2C_Port_Louis%2C_Mauritius_-_20060910.jpg",
+      "credit": "User:Wikihamish",
+      "license": "CC BY 2.5",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=20857484",
+      "is_cover": false,
+      "storage_path": "/photos/champ-de-mars-2.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Champ_de_Mars.jpg",
+      "credit": "Ashok Prabhakaran",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=22532566",
+      "is_cover": false,
+      "storage_path": "/photos/champ-de-mars-3.jpg"
     }
   ],
   "open_questions": [

@@ -18,7 +18,9 @@
     "matrix:build": "node scripts/build-matrix.mjs",
     "content:lint": "vitest run tests/unit/content.test.ts",
     "photos:fetch": "node scripts/fetch-photos.mjs",
-    "photos:find": "node scripts/find-photos.mjs"
+    "photos:find": "node scripts/find-photos.mjs",
+    "photos:sources": "node scripts/find-photos-sources.mjs",
+    "photos:resize": "node scripts/resize-photos.mjs"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
@@ -55,6 +57,7 @@
     "eslint": "^9.39.5",
     "eslint-config-next": "16.4.6",
     "postcss": "^8.5.33",
+    "sharp": "^0.35.5",
     "tailwindcss": "^4.3.5",
     "typescript": "^6.0.3",
     "vitest": "^5.1.1"

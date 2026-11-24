@@ -104,7 +104,17 @@
       "evidence": "Les végétariens et végans sont aussi les bienvenus car une grande partie de notre menu est composée de riz, grains secs, fricassées de légumes et chatinis ! Appelez- nous pour connaître la proposition du jour !"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://escalecreole.net/wp-content/uploads/2022/02/PHOTO-PROMO-Escale-Creole.jpg",
+      "credit": "escalecreole.net",
+      "license": "Droits réservés",
+      "source_url": "https://escalecreole.net/",
+      "is_cover": true,
+      "storage_path": "/photos/escale-creole-moka-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Quel samedi du mois est ouvert, et la maison ferme-t-elle entre le 21 décembre 2026 et le 7 janvier 2027 ? Le site ne le dit pas.",
     "La page Menu n’est pas datée : prix à reconfirmer au moment de réserver. Aucun tarif enfant n’est indiqué."
