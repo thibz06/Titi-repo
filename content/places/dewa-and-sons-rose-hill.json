@@ -1,0 +1,114 @@
+{
+  "slug": "dewa-and-sons-rose-hill",
+  "name": "Dewa & Sons (dholl puri), Rose Hill",
+  "family": "manger",
+  "tags": [],
+  "region": "centre",
+  "locality": "Rose Hill",
+  "lat": -20.246414,
+  "lng": 57.475107,
+  "coords_source_url": "https://www.openstreetmap.org/node/8002167785",
+  "google_place_id": null,
+  "pitch": "Maison familiale de dholl puri à Rose Hill, citée par The Guardian : on mange sur place ou on emporte sa paire.",
+  "description_md": "Dewa & Sons est une entreprise familiale de dholl puri dont la boutique rouge et jaune, à Rose Hill, a une véranda couverte avec des tables. L’affaire remonte à Juglall Unuth, qui vendait dholl puri et gâteaux à Beau-Bassin dans les années 1950, puis à son fils Nandcoomar, dit Dewa ; elle est aujourd’hui gérée par ses cinq enfants. Le dholl puri y est servi avec cari, rougaille ou achards, une habitude que la presse attribue à Dewa lui-même.",
+  "why_go_md": "Pour un déjeuner sur le pouce : le dholl puri se vend par paire, roulé dans du papier. La journaliste du Guardian, reprise par Le Défi, y a vu des écoliers attablés devant leurs galettes ; la presse mauricienne parle du « fameux dholl puri Dewa ».",
+  "likes": [
+    "Dholl puri « pure veg », préparé chaque jour à partir de 3 h 30 d’après l’article repris par Le Défi",
+    "Garnitures : cari gros pois, rougaille, légumes confits, chatini de coriandre et piment",
+    "Véranda couverte avec tables pour manger sur place",
+    "Vendu par paire, à emporter dans du papier"
+  ],
+  "watchouts": [
+    "Les prix publiés datent de 2018 et 2020 : attends-toi à un tarif plus élevé",
+    "La garniture décrite comprend du piment : précise-le si tu n’en veux pas"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "La paire coûtait Rs 14 selon l’article du Guardian repris par Le Défi (janvier 2018). Le directeur annonçait Rs 15 à la maison mère de Rose Hill dans Le Défi du 18 septembre 2020. Prix actuel non vérifié.",
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Dewa+Rose+Hill&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Dewa Rose Hill »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Dewa and Sons, Pere de Roton Street, Rose Hill, Town of Beau-Bassin / Rose Hill, Ward 3, Beau Bassin / Rose Hill, Plaines Wilhems, 71349, Mauritius / Maurice — lat -20.2464143, lon 57.4751069 (node 8002167785)"
+    },
+    {
+      "field": "description_md, why_go_md, likes, pitch",
+      "url": "https://defimedia.info/dewa-dholl-puri-guardian",
+      "title": "‘Dewa dholl puri’ in The Guardian | Defimedia (22 janvier 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "I met Sudesh Dewa on the covered veranda of the red-and yellow-painted shop in the busy town of Rose Hill, where school children sit at tables with red vinyl tablecloths to tuck into the dribbly pancakes"
+    },
+    {
+      "field": "likes, watchouts",
+      "url": "https://defimedia.info/dewa-dholl-puri-guardian",
+      "title": "‘Dewa dholl puri’ in The Guardian | Defimedia (22 janvier 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "griddled on a tawa (flat pan) and wrapped around cari gros pois (butter bean curry) with rougaille (spicy Creole tomato sauce), pickled vegetables, coriander satini (chutney) and chilli"
+    },
+    {
+      "field": "price_kind, price_note, likes",
+      "url": "https://defimedia.info/dewa-dholl-puri-guardian",
+      "title": "‘Dewa dholl puri’ in The Guardian | Defimedia (22 janvier 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "They are always sold in pairs, wrapped fish and chips-style in paper to take away and cost 14 rupees (30p)"
+    },
+    {
+      "field": "likes",
+      "url": "https://defimedia.info/dewa-dholl-puri-guardian",
+      "title": "‘Dewa dholl puri’ in The Guardian | Defimedia (22 janvier 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "His day starts at 3.30am, when he prepares the “pure veg” dholl puri from scratch for waves of workers, kids and market traders"
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://defimedia.info/entreprises-familiales-ces-jeunes-qui-ont-suivi-les-traces-de-leurs-parents",
+      "title": "Entreprises familiales : ces jeunes qui ont suivi les traces de leurs parents | Defimedia (1er janvier 2019)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Qui ne connaît pas le fameux dholl puri Dewa ! Cette entreprise familiale est gérée par les quatre frères Unuth à savoir Sailesh, Sudesh, Sanjay, Sanjeev et leur sœur Lata"
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/entreprises-familiales-ces-jeunes-qui-ont-suivi-les-traces-de-leurs-parents",
+      "title": "Entreprises familiales : ces jeunes qui ont suivi les traces de leurs parents | Defimedia (1er janvier 2019)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Dans les années 50, Juglall Unuth, dont la famille était originaire du Bihar, vendait du dholl puri et des gâteaux à la rue Châteauneuf à Beau-Bassin. Son fils Nandcoomar, plus connu comme Dewa, se lance lui aussi dans le business une dizaine d’années plus tard [...] il agrémente ses dholl puri de curry, de rougaille ou encore d’achards"
+    },
+    {
+      "field": "price_note",
+      "url": "https://defimedia.info/consommation-le-dholl-puri-coute-plus-cher-les-marchands-sexpliquent",
+      "title": "Consommation - Le dholl puri coûte plus cher : les marchands s’expliquent… | Defimedia (18 septembre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "nous avons déjà augmenté le prix d’une paire de dholl puri qui est passée de Rs 14 à Rs 15. Cependant cette augmentation s’appliquait uniquement à la maison mère à Rose Hill"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Horaires et jours d’ouverture : aucune source officielle téléchargée (la page Facebook de la maison n’a pas été consultée).",
+    "Adresse exacte : OpenStreetMap place « Dewa and Sons » rue Père de Roton à Rose Hill (coordonnées retenues) ; la presse ne donne pas la rue. Un second point de vente figure à Bagatelle dans OpenStreetMap.",
+    "Prix 2026 de la paire à relever sur place."
+  ],
+  "website_url": null,
+  "secret": null
+}

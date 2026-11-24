@@ -1,0 +1,114 @@
+{
+  "slug": "escale-creole-moka",
+  "name": "Escale Créole",
+  "family": "manger",
+  "tags": [],
+  "region": "centre",
+  "locality": "Moka",
+  "lat": -20.220732,
+  "lng": 57.509221,
+  "coords_source_url": "https://www.openstreetmap.org/node/4313073749",
+  "google_place_id": null,
+  "pitch": "Table d’hôtes créole sous une varangue à Moka : trois menus du midi à prix affichés, uniquement sur réservation.",
+  "description_md": "Escale Créole est une table d’hôtes installée sous une varangue ouverte sur un jardin tropical, à Moka. On y sert au déjeuner la cuisine créole de la maison (« manzé lacaz ») : rougaille de saucisses, cari, vindaye ou salmi, accompagnés de riz, de grains, de légumes et de chatinis. Le service se fait uniquement le midi et sur réservation.",
+  "why_go_md": "Pour goûter un vrai repas créole mijoté avec des prix connus à l’avance : le site de la maison affiche trois menus, dessert compris. Les végétariens et végans sont accueillis, à condition d’appeler pour connaître la proposition du jour.",
+  "likes": [
+    "Menu Créole (un plat au choix : rougaille saucisses, cari poulet, cari poisson et bringelles ou salmi de poulet) avec riz, grains, légumes, chatinis et dessert",
+    "Menu Découverte « Terre & Mer » : deux saveurs en petites portions",
+    "Menu Dégustation : rougaille, cari zourite, vindaye de poisson et salmi de cerf en portions dégustation",
+    "Parking sur place"
+  ],
+  "watchouts": [
+    "Déjeuner uniquement, de 12 h à 15 h, et seulement sur réservation",
+    "Fermé le dimanche ; ouvert un seul samedi par mois",
+    "La rougaille de saucisses est à base de porc"
+  ],
+  "tips_md": "Réserve par téléphone ou WhatsApp (numéro sur le site) et demande à ce moment-là quel samedi du mois est ouvert.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 990,
+  "price_visitor_mur_max": 1460,
+  "price_resident_mur": null,
+  "price_note": "Prix par personne affichés sur la page « Menu » du site officiel (page non datée, consultée le 24 novembre 2026) : Menu Créole Rs 990, Menu Découverte Rs 1 340, Menu Dégustation Rs 1 460, chacun servi avec riz, grains, légumes, chatinis et dessert.",
+  "opening_hours": "Mo-Fr 12:00-15:00; Su off",
+  "hours_note": "Site officiel (consulté le 24 novembre 2026) : du lundi au vendredi, déjeuner uniquement, 12 h – 15 h, sur réservation ; ouvert un samedi par mois (lequel n’est pas précisé) ; fermé le dimanche.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Escale+Creole+Moka&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Escale Creole Moka »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Escale Créole, B36 Bois Cheri Road, Camp Samy, Moka, Moka VCA, East, Moka, 80813, Mauritius / Maurice — lat -20.2207320, lon 57.5092208 (node 4313073749)"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.escalecreole.net/",
+      "title": "Escale Creole – Table d'hôtes – Restaurant créole (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Escale Créole, authentique table d’hôtes à Moka [...] C’est sous une belle varangue créole ouverte au cœur d’un superbe jardin tropical que nous allons vous faire découvrir le vrai « manzé lacaz »"
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts, likes",
+      "url": "https://www.escalecreole.net/",
+      "title": "Escale Creole – Table d'hôtes – Restaurant créole (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Déjeuner uniquement Sur réservation Ouverts : 12h00 | Fermés : 15h00 Ouvert 1 Samedi par mois Fermés les Dimanches Parking disponible"
+    },
+    {
+      "field": "opening_hours, hours_note",
+      "url": "https://www.escalecreole.net/",
+      "title": "Escale Creole – Table d'hôtes – Restaurant créole (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "LUNDI AU VENDREDI 1 Samedi par mois"
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_note, likes, watchouts",
+      "url": "https://escalecreole.net/menu/",
+      "title": "Menu – Escale Creole (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "La véritable Rougaille Saucisses créoles (base tomate – porc), ( ou ) • Traditionnel Cari Poulet créole, ( ou ) • Cari Poisson et Bringels (aubergines), ( ou ) • Salmi de Poulet aux épices locales (civet- base vin rouge) Rs 990 (servi avec du riz, grains, légumes, chatinis et dessert)"
+    },
+    {
+      "field": "price_note, likes",
+      "url": "https://escalecreole.net/menu/",
+      "title": "Menu – Escale Creole (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Deux choix par personne en petites portions [...] Rs 1,340 (servi avec du riz, grains, légumes, chatinis et dessert)"
+    },
+    {
+      "field": "price_visitor_mur_max, price_note, likes",
+      "url": "https://escalecreole.net/menu/",
+      "title": "Menu – Escale Creole (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "• Salmi de Cerf (civet- base vin rouge) Rs 1,460 (servi avec du riz, grains, légumes, chatinis et dessert)"
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://escalecreole.net/menu/",
+      "title": "Menu – Escale Creole (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Les végétariens et végans sont aussi les bienvenus car une grande partie de notre menu est composée de riz, grains secs, fricassées de légumes et chatinis ! Appelez- nous pour connaître la proposition du jour !"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Quel samedi du mois est ouvert, et la maison ferme-t-elle entre le 21 décembre 2026 et le 7 janvier 2027 ? Le site ne le dit pas.",
+    "La page Menu n’est pas datée : prix à reconfirmer au moment de réserver. Aucun tarif enfant n’est indiqué."
+  ],
+  "website_url": "https://escalecreole.net/",
+  "secret": null
+}

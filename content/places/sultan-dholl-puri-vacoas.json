@@ -1,0 +1,91 @@
+{
+  "slug": "sultan-dholl-puri-vacoas",
+  "name": "Sultan, marchand de dholl puri, Vacoas",
+  "family": "manger",
+  "tags": [],
+  "region": "centre",
+  "locality": "Vacoas",
+  "lat": -20.297441,
+  "lng": 57.492724,
+  "coords_source_url": "https://www.openstreetmap.org/node/9888821468",
+  "google_place_id": null,
+  "pitch": "Étal de dholl puri et de rotis tenu depuis des décennies par Sultan Auhamed et son fils, face à la MCB de Vacoas.",
+  "description_md": "Sultan Auhamed vend des dholl puris et des rotis en face de la banque MCB de Vacoas ; Le Défi le présentait en 2020 comme marchand depuis près de 42 ans, aidé de son fils. D’après ce reportage, une longue file se forme d’ordinaire dès le matin, faite de clients qui achètent leur dholl puri ou leur roti avant d’aller travailler.",
+  "why_go_md": "Pour un dholl puri ou un roti de rue, là où les habitants font la queue avant d’aller travailler.",
+  "likes": [
+    "Dholl puris et rotis vendus à l’unité, le matin",
+    "Étal tenu en famille : le fils sert, le père tient la caisse (reportage de 2020)"
+  ],
+  "watchouts": [
+    "Reportage de mai 2020 : rien ne confirme que l’étal est toujours en activité en 2026",
+    "File d’attente habituelle vers 8 h 15 d’après le reportage"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Roti et dholl puri à Rs 12 lors du reportage du Défi, à la sortie du confinement (mercredi 27 mai, soit 2020). Prix actuel non vérifié.",
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=MCB+Vacoas&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « MCB Vacoas »",
+      "accessed_at": "2026-11-24",
+      "evidence": "MCB, John Kennedy Avenue, Solferino, Town of Vacoas-Phoenix, Ward 3, Vacoas-Phoenix, Plaines Wilhems, 73411, Mauritius / Maurice — lat -20.2974410, lon 57.4927236 (node 9888821468)"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://defimedia.info/reprise-difficile-pour-sultan-le-marchand-de-dholl-puri",
+      "title": "Reprise difficile pour Sultan, le marchand de dholl puri | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Sultan Auhamed est marchand de dholl puris depuis près de 42 ans. Il travaille en face de la banque MCB de Vacoas"
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://defimedia.info/reprise-difficile-pour-sultan-le-marchand-de-dholl-puri",
+      "title": "Reprise difficile pour Sultan, le marchand de dholl puri | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "En temps normal à la même heure, il y a une longue file d’attente, composée de personnes qui achètent leurs dholl puris ou rotis avant d'aller travailler"
+    },
+    {
+      "field": "price_kind, price_note, likes",
+      "url": "https://defimedia.info/reprise-difficile-pour-sultan-le-marchand-de-dholl-puri",
+      "title": "Reprise difficile pour Sultan, le marchand de dholl puri | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Son fils assure le service et il tient la caisse. À savoir, que pour l’instant, le prix du roti et du dholl puri est inchangé, c'est à dire Rs 12"
+    },
+    {
+      "field": "price_note, watchouts",
+      "url": "https://defimedia.info/reprise-difficile-pour-sultan-le-marchand-de-dholl-puri",
+      "title": "Reprise difficile pour Sultan, le marchand de dholl puri | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Après deux mois de confinement, Sultan et son fils reprennent le travail en ce mercredi 27 mai. Pour cette première journée, à 8h15, pas de clients en vue"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "L’étal existe-t-il toujours ? La seule source date de mai 2020.",
+    "Coordonnées : celles de l’agence MCB de l’avenue John Kennedy à Vacoas dans OpenStreetMap, l’étal étant décrit « en face » ; une autre agence MCB existe dans la région (Phoenix).",
+    "Horaires et jours de vente non sourcés."
+  ],
+  "website_url": null,
+  "secret": null
+}
