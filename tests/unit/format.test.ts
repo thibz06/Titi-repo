@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { fill } from "@/i18n";
-import { commonsThumb, creditedPhotos, directionsUrl, tiktokSearchUrl, formatDateFr, formatDuration, formatPriceMur } from "@/lib/places/format";
+import { commonsThumb, creditedPhotos, directionsUrl, tiktokSearchUrl, tiktokTag, tiktokTagUrl, formatDateFr, formatDuration, formatPriceMur } from "@/lib/places/format";
 
 describe("lien « Y aller »", () => {
   it("utilise le format Google Maps URLs avec les coordonnées de la fiche", () => {
@@ -56,7 +56,17 @@ describe("miniature Wikimedia Commons", () => {
 
 describe("lien TikTok et galerie", () => {
   it("ouvre une recherche sur le nom du lieu", () =>
-    expect(tiktokSearchUrl("Grand Baie")).toBe("https://www.tiktok.com/search?q=Grand%20Baie%20%C3%AEle%20Maurice"));
+    expect(tiktokSearchUrl("Grand Baie")).toBe("https://www.tiktok.com/search?q=Grand%20Baie%20Mauritius"));
+  it.each([
+    ["Grand Baie", "grandbaie"],
+    ["Cap Malheureux et la chapelle Notre-Dame Auxiliatrice", "capmalheureux"],
+    ["Plage de Trou aux Biches", "trouauxbiches"],
+    ["Île aux Cerfs", "ileauxcerfs"],
+    ["Citadelle (Fort Adelaide)", "citadelle"],
+    ["Marché central de Port-Louis", "marchecentraldeportlouis"],
+    ["Marché de Flacq", "flacq"],
+  ])("mot-dièse de « %s » → #%s", (name, tag) => expect(tiktokTag(name)).toBe(tag));
+  it("lien vers la page du mot-dièse", () => expect(tiktokTagUrl("Grand Baie")).toBe("https://www.tiktok.com/tag/grandbaie"));
   it("ne garde que les photos créditées, couverture en premier", () => {
     const base = { id: "", storage_path: null, source_url: null, kind: "photo" as const };
     const list = creditedPhotos([

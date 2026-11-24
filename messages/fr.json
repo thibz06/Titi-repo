@@ -138,9 +138,10 @@
     "priceEur": "≈ {eur} au taux du {date}",
     "photosTitle": "En images",
     "photoN": "Photo {n} sur {total}",
-    "tiktok": "Chercher ce lieu sur TikTok",
-    "tiktokNote": "Ouvre une recherche TikTok. Ces vidéos ne sont ni choisies ni vérifiées par l'app.",
-    "seeAlso": "Voir aussi"
+    "tiktok": "Voir #{tag} sur TikTok",
+    "tiktokNote": "Le premier lien ouvre la page du mot-dièse dans l'app TikTok, le second une recherche. Ces vidéos ne sont ni choisies ni vérifiées par l'app.",
+    "seeAlso": "Voir aussi",
+    "tiktokSearch": "Chercher « {name} » sur TikTok"
   },
   "profile": {
     "title": "Profil",
@@ -162,11 +163,6 @@
     "journalEmptyBody": "Sur place, touche « J'y suis » sur la fiche d'un lieu pour le tamponner.",
     "manual": "validé à la main",
     "gps": "validé par GPS"
-  },
-  "review": {
-    "badge": "À vérifier",
-    "bannerTitle": "Fiche pas encore vérifiée sur place",
-    "bannerBody": "Ces informations viennent de sources citées en bas de fiche, mais personne ne les a encore vérifiées sur place. Confirme les horaires et les prix avant d'y aller."
   },
   "levels": {
     "debutant": "Explorateur débutant",

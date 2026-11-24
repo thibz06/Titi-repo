@@ -78,7 +78,7 @@ export function WeatherCard({ lat, lng, placeName }: { lat: number; lng: number;
   const round = (v: number | null) => (v == null ? t.common.unknown : String(Math.round(v)));
   return (
     <section className="glass rounded-3xl p-5">
-      <p className="text-xs font-semibold uppercase tracking-widest text-passe">{t.weather.kicker}</p>
+      <p className="text-xs font-semibold uppercase tracking-widest text-braise">{t.weather.kicker}</p>
       <h2 className="font-display text-2xl font-semibold">{fill(t.weather.title, { place: placeName })}</h2>
       {state.status === "loading" ? (
         <div aria-busy="true" aria-label={t.common.loading} className="mt-3 h-16 animate-pulse rounded-2xl bg-encre/10" />
@@ -92,7 +92,7 @@ export function WeatherCard({ lat, lng, placeName }: { lat: number; lng: number;
               const Icon = rainy ? CloudRain : CloudSun;
               return (
                 <li key={day.date} className="flex items-center gap-3 rounded-2xl bg-brume p-3">
-                  <Icon size={28} aria-hidden className="shrink-0 text-passe" />
+                  <Icon size={28} aria-hidden className="shrink-0 text-braise" />
                   <div className="min-w-0">
                     <p className="font-semibold">{i === 0 ? t.weather.today : i === 1 ? t.weather.tomorrow : formatDateFr(day.date)}</p>
                     <p className="text-sm">

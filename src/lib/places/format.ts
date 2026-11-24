@@ -67,9 +67,28 @@ export function commonsThumb(url: string, width: number): string {
   return `${base}/thumb/${hash}/${file}/${step}px-${file}`;
 }
 
-/** Lien vers une recherche TikTok sur le lieu (une simple recherche : rien n'est sélectionné ni vérifié). */
+/**
+ * Mot-dièse TikTok d'un lieu : son nom court, sans accents ni espaces (« Grand Baie » → « grandbaie »).
+ * On coupe aux précisions (« … et la chapelle », parenthèses, virgules) pour rester sur un mot-dièse réellement utilisé.
+ */
+export function tiktokTag(name: string): string {
+  const short = name.split(/\s+(?:et|ou)\s+|[(,:–—]/)[0] ?? name;
+  return short
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/\b(?:plage|restaurant|musee|museum|marche|foire|parc national|randonnee|observation|point de vue)\s+(?:publique\s+)?(?:de la\s+|de l'|des\s+|du\s+|de\s+|d')/g, "")
+    .replace(/[^a-z0-9]/g, "");
+}
+
+/** Page du mot-dièse : c'est le lien que l'app TikTok ouvre directement sur téléphone. */
+export function tiktokTagUrl(name: string): string {
+  return `https://www.tiktok.com/tag/${tiktokTag(name)}`;
+}
+
+/** Recherche TikTok sur le lieu (une simple recherche : rien n'est sélectionné ni vérifié). */
 export function tiktokSearchUrl(name: string): string {
-  return `https://www.tiktok.com/search?q=${encodeURIComponent(`${name} île Maurice`)}`;
+  return `https://www.tiktok.com/search?q=${encodeURIComponent(`${name} Mauritius`)}`;
 }
 
 /** Toutes les photos créditées d'une fiche, la couverture en premier. */

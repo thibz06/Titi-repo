@@ -102,10 +102,10 @@ export function ExploreMap({
         source: SOURCE,
         filter: ["has", "point_count"],
         paint: {
-          "circle-color": "#0B4F6C",
+          "circle-color": "#FF8A4C",
           "circle-radius": ["step", ["get", "point_count"], 22, 10, 28, 30, 34],
           "circle-stroke-width": 3,
-          "circle-stroke-color": "#F6EEDF",
+          "circle-stroke-color": "#FFFFFF",
         },
       });
       map.addLayer({
@@ -114,7 +114,7 @@ export function ExploreMap({
         source: SOURCE,
         filter: ["has", "point_count"],
         layout: { "text-field": ["get", "point_count_abbreviated"], "text-size": 15, "text-font": ["Noto Sans Bold"] },
-        paint: { "text-color": "#FFFFFF" },
+        paint: { "text-color": "#10222B" },
       });
       map.on("click", "clusters", async (e) => {
         const feature = e.features?.[0];

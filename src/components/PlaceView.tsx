@@ -4,7 +4,7 @@ import { ArrowLeft, ExternalLink, Heart, MapPin, Navigation, Search } from "luci
 import Link from "next/link";
 import { useState, type ReactNode } from "react";
 import { fill, getMessages } from "@/i18n";
-import { coverPhoto, creditedPhotos, directionsUrl, formatDateFr, formatDuration, formatPriceMur, tiktokSearchUrl } from "@/lib/places/format";
+import { coverPhoto, creditedPhotos, directionsUrl, formatDateFr, formatDuration, formatPriceMur, tiktokSearchUrl, tiktokTag, tiktokTagUrl } from "@/lib/places/format";
 import { useFavorites } from "@/lib/favorites";
 import { FAMILY_STYLE } from "@/lib/places/families";
 import { formatEur, useRate } from "@/lib/useRate";
@@ -12,7 +12,6 @@ import { CheckIn } from "./CheckIn";
 import { Photo } from "./Photo";
 import type { PlaceDetail } from "@/lib/places/types";
 import { FamilyBadge } from "./FamilyBadge";
-import { Notice } from "./States";
 
 function Paragraphs({ text }: { text: string }) {
   return text
@@ -118,15 +117,8 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
     <>
       <Hero place={place} />
       <div className="px-4 pb-44 pt-4">
-        {place.status === "draft" ? (
-          <div className="mb-3">
-            <Notice title={t.review.bannerTitle} tone="warning">
-              {t.review.bannerBody}
-            </Notice>
-          </div>
-        ) : null}
         <div className="glass rounded-3xl p-5">
-        <p className="flex items-center gap-2 text-sm font-semibold uppercase tracking-wide text-passe">
+        <p className="flex items-center gap-2 text-sm font-semibold uppercase tracking-wide text-braise">
           <FamilyBadge family={place.family} size={28} />
           {t.families[place.family]}
         </p>
@@ -289,23 +281,32 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
         <section className="glass mt-3 rounded-3xl p-5">
           <h2 className="font-display text-2xl font-semibold">{t.place.seeAlso}</h2>
           <a
+            href={tiktokTagUrl(place.name)}
+            target="_blank"
+            rel="noreferrer"
+            className="bg-sun mt-3 flex min-h-12 items-center justify-between gap-3 rounded-full px-5 font-semibold"
+          >
+            <span className="truncate">{fill(t.place.tiktok, { tag: tiktokTag(place.name) })}</span>
+            <ExternalLink size={18} aria-hidden className="shrink-0" />
+          </a>
+          <a
             href={tiktokSearchUrl(place.name)}
             target="_blank"
             rel="noreferrer"
-            className="mt-3 flex min-h-12 items-center justify-between gap-3 rounded-full bg-brume px-5 font-semibold"
+            className="mt-2 flex min-h-12 items-center justify-between gap-3 rounded-full bg-brume px-5 font-semibold"
           >
-            <span className="flex items-center gap-2">
-              <Search size={20} aria-hidden />
-              {t.place.tiktok}
+            <span className="flex min-w-0 items-center gap-2">
+              <Search size={20} aria-hidden className="shrink-0" />
+              <span className="truncate">{fill(t.place.tiktokSearch, { name: place.name })}</span>
             </span>
-            <ExternalLink size={18} aria-hidden />
+            <ExternalLink size={18} aria-hidden className="shrink-0" />
           </a>
           <p className="mt-2 text-sm text-encre/85">{t.place.tiktokNote}</p>
         </section>
 
         <Section title={t.place.sources}>
           {place.verified_at ? (
-            <p className="mb-2 text-sm font-semibold text-passe">{fill(t.place.verifiedOn, { date: formatDateFr(place.verified_at) })}</p>
+            <p className="mb-2 text-sm font-semibold text-braise">{fill(t.place.verifiedOn, { date: formatDateFr(place.verified_at) })}</p>
           ) : null}
           <ul className="space-y-2 text-sm">
             {place.place_sources.map((source) => (
@@ -327,7 +328,7 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
             target="_blank"
             rel="noreferrer"
             title={t.place.goHint}
-            className="inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full bg-passe text-lg font-semibold text-white"
+            className="inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full bg-sun text-lg font-semibold"
           >
             <Navigation size={20} aria-hidden />
             {t.place.go}

@@ -14,7 +14,7 @@ Le brief complet fait foi. Choix techniques et versions : `docs/DECISIONS.md`.
 
 ## Règles non négociables
 1. Aucune donnée inventée : note, prix, horaire, vidéo, temps de trajet, légende. Un champ inconnu vaut `null` et s'affiche « Non renseigné ».
-2. Toute fiche a au moins une source (URL + date de consultation). Décision de Thibault (21 novembre 2026) : les fiches sourcées sont visibles dans l'app même non vérifiées, avec l'avertissement « Fiche pas encore vérifiée sur place ». Une fiche ne passe en `status: "published"` (sans avertissement) qu'avec `verified_at` et `verified_by`, sur demande explicite de Thibault. Claude n'écrit jamais qu'une fiche est vérifiée de son propre chef.
+2. Toute fiche a au moins une source (URL + date de consultation), affichée en bas de fiche. Décisions de Thibault : les fiches sourcées sont visibles sans vérification préalable (21 novembre 2026) et sans bandeau d'avertissement (24 novembre 2026). La mention « Fiche vérifiée le … » n'apparaît que si `status: "published"` avec `verified_at` et `verified_by`, sur demande explicite de Thibault. Claude n'écrit jamais qu'une fiche est vérifiée de son propre chef.
 3. Rien ne vient de Google : ni coordonnées, ni notes, ni avis, ni horaires, ni photos. Seul le lien « Y aller » ouvre Google Maps.
 4. Aucune clé secrète côté client. Aujourd'hui l'app n'a besoin d'aucune clé.
 5. Pas de base de données pour l'instant. Si une base revient : RLS activée et testée sur toutes les tables (la migration et ses tests sont conservés).
@@ -26,11 +26,13 @@ Le brief complet fait foi. Choix techniques et versions : `docs/DECISIONS.md`.
 11. Le programme généré est une proposition modifiable. L'app ne réserve rien.
 
 ## Design
-Direction « Lagon et basalte », identité originale (ne pas copier Duolingo ; le tampon de passeport est le motif de récompense).
-Tokens dans `src/app/globals.css` (`@theme`) : lagon, passe, sable, filao, corail, soleil, encre ; Île secrète : basalte, or.
-Texte Encre sur Lagon, jamais blanc. Titres Fraunces (`font-display`), texte Inter.
-Style « clair et photo » (référence de Thibault, 24 novembre 2026) : fond `brume`, cartes blanches très arrondies (`.glass`), grandes photos, boutons bleu passe à texte blanc, `.frost` seulement pour les commandes posées sur une photo. Texte blanc sur photo uniquement par-dessus le voile `.photo-scrim`.
-Transitions de 200 à 300 ms ; récompense de 1,2 s maximum et passable ; confettis pour badges et niveaux seulement.
+Style « été » voulu par Thibault (24 novembre 2026) : épuré, lumineux, presque futuriste, qui donne envie de soleil. Référence : grandes photos aux coins très arrondis, beaucoup de blanc, pastilles.
+- Tokens dans `src/app/globals.css` : fond `brume` (blanc chaud), `encre` pour le texte, `braise` pour les liens et sur-titres, `lagon`, `soleil`, `corail`, `filao` ; Île secrète : `basalte`, `or`.
+- Actions principales : dégradé soleil → corail (`bg-sun`), texte Encre. Sélection (onglet, filtre actif) : dégradé turquoise (`bg-lagoon`), texte Encre. Jamais de texte blanc sur ces dégradés (contraste AA).
+- Cartes blanches très arrondies sans bordure (`.glass`) ; `.frost` (blanc translucide flouté) pour ce qui flotte sur une photo ou la carte ; texte blanc sur photo uniquement par-dessus `.photo-scrim`.
+- Titres en Sora (`font-display`), texte en Inter.
+- Ne pas copier Duolingo ; le tampon de passeport reste le motif de récompense.
+- Transitions de 200 à 300 ms ; récompense de 1,2 s maximum et passable ; confettis pour badges et niveaux seulement.
 
 ## Commandes
 - `pnpm dev` : serveur de développement

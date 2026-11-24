@@ -21,7 +21,7 @@ export function ProgressCard({ places }: { places: PlaceSummary[] }) {
   const { xp, level, visitedCount } = useProgress(places);
   return (
     <section className="glass rounded-3xl p-5">
-      <p className="text-xs font-semibold uppercase tracking-widest text-passe">{t.profile.levelLabel}</p>
+      <p className="text-xs font-semibold uppercase tracking-widest text-braise">{t.profile.levelLabel}</p>
       <div className="mt-1 flex items-baseline justify-between gap-3">
         <h2 className="font-display text-2xl font-semibold">{t.levels[level.key]}</h2>
         <p className="shrink-0 font-display text-xl font-semibold">{fill(t.profile.xp, { xp })}</p>
@@ -34,7 +34,7 @@ export function ProgressCard({ places }: { places: PlaceSummary[] }) {
         aria-label={t.profile.levelLabel}
         className="mt-3 h-3 overflow-hidden rounded-full bg-encre/15"
       >
-        <div className="h-full rounded-full bg-passe" style={{ width: `${Math.max(3, level.progress * 100)}%` }} />
+        <div className="h-full rounded-full bg-sun" style={{ width: `${Math.max(3, level.progress * 100)}%` }} />
       </div>
       <p className="mt-2 text-sm">
         {level.next ? fill(t.profile.nextLevel, { remaining: level.next.remaining, level: t.levels[level.next.key] }) : t.profile.maxLevel}
