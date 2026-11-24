@@ -4,7 +4,7 @@ import { ArrowLeft, ExternalLink, Heart, MapPin, Navigation, Search } from "luci
 import Link from "next/link";
 import { useState, type ReactNode } from "react";
 import { fill, getMessages } from "@/i18n";
-import { coverPhoto, creditedPhotos, directionsUrl, formatDateFr, formatDuration, formatPriceMur, tiktokSearchUrl, tiktokTag, tiktokTagUrl } from "@/lib/places/format";
+import { coverPhoto, creditedPhotos, directionsUrl, formatDateFr, formatDuration, formatPriceMur, tiktokSearchUrl } from "@/lib/places/format";
 import { useFavorites } from "@/lib/favorites";
 import { FAMILY_STYLE } from "@/lib/places/families";
 import { formatEur, useRate } from "@/lib/useRate";
@@ -281,23 +281,14 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
         <section className="glass mt-3 rounded-3xl p-5">
           <h2 className="font-display text-2xl font-semibold">{t.place.seeAlso}</h2>
           <a
-            href={tiktokTagUrl(place.name)}
+            href={tiktokSearchUrl(place.name)}
             target="_blank"
             rel="noreferrer"
             className="bg-sun mt-3 flex min-h-12 items-center justify-between gap-3 rounded-full px-5 font-semibold"
           >
-            <span className="truncate">{fill(t.place.tiktok, { tag: tiktokTag(place.name) })}</span>
-            <ExternalLink size={18} aria-hidden className="shrink-0" />
-          </a>
-          <a
-            href={tiktokSearchUrl(place.name)}
-            target="_blank"
-            rel="noreferrer"
-            className="mt-2 flex min-h-12 items-center justify-between gap-3 rounded-full bg-brume px-5 font-semibold"
-          >
             <span className="flex min-w-0 items-center gap-2">
               <Search size={20} aria-hidden className="shrink-0" />
-              <span className="truncate">{fill(t.place.tiktokSearch, { name: place.name })}</span>
+              <span className="truncate">{t.place.tiktok}</span>
             </span>
             <ExternalLink size={18} aria-hidden className="shrink-0" />
           </a>

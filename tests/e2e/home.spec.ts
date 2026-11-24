@@ -15,6 +15,7 @@ test("la météo est présentée comme une estimation, avec sa source", async ({
       status: 200,
       contentType: "application/json",
       body: JSON.stringify({
+        current: { temperature_2m: 28.4, wind_speed_10m: 17 },
         daily: {
           time: ["2026-12-22", "2026-12-23", "2026-12-24"],
           temperature_2m_max: [30.2, 29.1, null],
@@ -27,7 +28,12 @@ test("la météo est présentée comme une estimation, avec sa source", async ({
   );
   await page.goto("/");
   await expect(page.getByText("30 °C max · pluie 80 % (12 mm) · vent 22 km/h")).toBeVisible();
-  await expect(page.getByText(/Prévision, donc estimation\. Source : Open-Meteo, calculée le/)).toBeVisible();
+  await expect(page.getByText("En ce moment : 28 °C, vent 17 km/h")).toBeVisible();
+  await expect(page.getByText(/Mise à jour à \d{2}:\d{2} · Prévision, donc estimation\. Source : Open-Meteo\./)).toBeVisible();
+  // Le bouton Actualiser relance une vraie requête.
+  const again = page.waitForRequest("https://api.open-meteo.com/**");
+  await page.getByRole("button", { name: "Actualiser" }).click();
+  await again;
   // Une valeur absente n'est pas inventée.
   await expect(page.getByText(/Non renseigné °C max/)).toBeVisible();
 });

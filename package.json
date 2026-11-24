@@ -17,7 +17,8 @@
     "icons": "node scripts/build-icons.mjs",
     "matrix:build": "node scripts/build-matrix.mjs",
     "content:lint": "vitest run tests/unit/content.test.ts",
-    "photos:fetch": "node scripts/fetch-photos.mjs"
+    "photos:fetch": "node scripts/fetch-photos.mjs",
+    "photos:find": "node scripts/find-photos.mjs"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
