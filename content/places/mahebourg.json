@@ -1,0 +1,118 @@
+{
+  "slug": "mahebourg",
+  "name": "Mahébourg et son marché",
+  "family": "villages_marches",
+  "tags": [],
+  "region": "sud_est",
+  "locality": "Mahébourg",
+  "lat": -20.4111041,
+  "lng": 57.7060616,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Mahebourg",
+  "google_place_id": null,
+  "pitch": "Ville côtière du sud-est : foire près du front de mer, deux fois plus grande le lundi, et musée d'histoire (fermé pour travaux).",
+  "description_md": "Mahébourg est une ville côtière du sud-est, créée au début du XIXe siècle : le Mauritius Museums Council date de 1806 le transfert du poste militaire de Vieux Grand Port vers la ville nouvelle. D'après Lonely Planet, sa foire centrale, près du front de mer, vendait d'abord des soieries et des tissus ; on y trouve aujourd'hui des fruits et légumes, du bric-à-brac et des stands de cuisine. Elle est ouverte tous les jours et double de taille le lundi. Le National History Museum occupe le château Gheude, une maison coloniale française construite vers 1772 dans un parc d'environ 12 arpents au bord de la rivière La Chaux ; il est fermé pour rénovation depuis le 15 décembre 2025.",
+  "why_go_md": "Pour le marché, où goûter des en-cas locaux — gâteaux piments, dholl puri, samoussas — souvent vendus depuis des caisses à l'arrière de motos, et pour flâner dans une ville liée à la bataille navale de Grand Port (1810).",
+  "likes": [
+    "Foire de Mahébourg près du front de mer : produits frais, bric-à-brac, cuisine de rue (Lonely Planet)",
+    "Le lundi, le marché double de taille (Lonely Planet)",
+    "National History Museum : entrée gratuite quand il est ouvert ; collections sur les périodes néerlandaise, française et britannique, objets d'épaves, cloche du Saint-Géran",
+    "Château Gheude : c'est dans une aile de cette maison que les commandants anglais et français blessés à la bataille de Grand Port ont été soignés côte à côte"
+  ],
+  "watchouts": [
+    "Le National History Museum est « temporairement fermé pour travaux de rénovation » depuis le 15 décembre 2025 d'après sa page officielle : vérifie sa réouverture avant de te déplacer pour lui"
+  ],
+  "tips_md": "Viens un lundi si tu veux voir le marché au plus grand. Le tour des allées se fait vite, mais Lonely Planet conseille de prendre le temps d'en explorer les recoins.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "National History Museum : « ENTRANCE FREE » (page officielle non datée). Le marché est un lieu public ; aucun prix d'accès n'est mentionné par les sources.",
+  "opening_hours": null,
+  "hours_note": "Marché : ouvert tous les jours, plus grand le lundi (Lonely Planet, sans heures). National History Museum : fermé pour rénovation depuis le 15 décembre 2025 ; horaires habituels affichés sur la page du Mauritius Museums Council (non datée, consultée le 21 novembre 2026) : lundi, mardi, jeudi, vendredi et samedi de 9 h à 16 h, mercredi de 11 h à 16 h, dimanche et jours fériés de 9 h à 12 h.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "jour": "Le lundi, quand le marché double de taille (Lonely Planet)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Mahebourg",
+      "title": "Nominatim / OpenStreetMap : Mahébourg",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":247166946,\"lat\":\"-20.4111041\",\"lon\":\"57.7060616\""
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, tips_md, hours_note, best_time",
+      "url": "https://www.lonelyplanet.com/points-of-interest/monday-market/1345676",
+      "title": "Monday Market (Mahébourg) – Lonely Planet",
+      "accessed_at": "2026-11-21",
+      "evidence": "Don't miss the central foire de Mahébourg, near the waterfront. The initial focus was silks and other textiles, but these days you'll find a busy produce section, tacky bric-a-brac and steaming food stalls. It's the perfect place to try some local snacks – gâteaux piments (chili cakes), dhal puri (lentil pancakes) and samousas (samosas) – usually dispensed from boxes on the backs of motorcycles. The market is open every day but doubles in size on Monday. It doesn't take long to navigate the snaking rows of vendors, but it's well worth taking your time to explore every last corner."
+    },
+    {
+      "field": "description_md",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Mah%C3%A9bourg%20market",
+      "title": "Nominatim / OpenStreetMap : Marché de Mahébourg",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":2027840797,\"lat\":\"-20.4069634\",\"lon\":\"57.7080379\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1823",
+      "title": "Frederik Hendrik Museum, Historical Background – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "Following the transfer of the military post to the newly created town of Mahebourg in 1806, the site was abandoned."
+    },
+    {
+      "field": "description_md, likes, why_go_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1854",
+      "title": "National History Museum, Historical Background – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The National History Museum is situated at Mahebourg, in a fine park extending to about 12 acres, on the bank of River La Chaux. It is housed in Chateau Gheude (also known as Maison Robillard), an old French colonial country house built around 1772 and presently listed as a national heritage. It was in a wing of this historic building that the two Commanders of the English and French squadrons, wounded in the Battle of Grand Port in 1810, were given medical treatment side by side."
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1843",
+      "title": "National History Museum, About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "It retraces the history of the successive colonisations of Mauritius by the Dutch, French and English, up to the end of the 19th century. [...] One interesting item is the beautiful bronze bell from the shipwreck Saint-Géran (1744)."
+    },
+    {
+      "field": "watchouts, hours_note, price_note, likes, description_md, pitch",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1875",
+      "title": "National History Museum, Contact Info & Visiting Hours – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "Address: National History Museum Royal Road, Mahebourg, Mauritius Visiting hours: Important Communiqué: The Museum is t emporarily closed for renovation works as from 15 December 2025. Monday,Tuesday, Thursday, Friday and Saturday: 09 00 to 16 00 hrs Wednesday : 11 00 to 16 00 hrs Sunday and Public Holiday: 09 00 to 12 00 hrs. ENTRANCE FREE"
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mahebourg-museum/",
+      "title": "Mahebourg Museum – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Among its collection, you can find a nearly complete skeleton of a dodo, old maps, weapons and artefacts salvaged from shipwrecks and naval battles."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Le marché n'est sourcé que par Lonely Planet (guide de voyage, page non datée) : jours, « double le lundi », produits. Aucune source officielle ou de presse mauricienne lue ; horaires d'ouverture inconnus. OSM place le « Marché de Mahébourg » rue des Flamands (-20.40696, 57.70804).",
+    "Le lundi 21 et le lundi 28 décembre 2026 ainsi que le lundi 4 janvier 2027 tombent pendant le séjour : vérifier que la foire se tient normalement pendant les fêtes.",
+    "Réouverture du National History Museum : la page officielle annonce la fermeture depuis le 15 décembre 2025 sans date de fin. À vérifier juste avant le voyage.",
+    "« 12 acres » dans la source : traduit par « environ 12 arpents » faute de mieux ; l'éditeur peut préférer « environ 5 hectares » après vérification de l'unité.",
+    "Front de mer, stationnement, restaurants, biscuiterie de manioc et autres visites de la ville : non sourcés dans cette session.",
+    "Photos : API Wikimedia Commons en limite de débit (429) ; media reste vide."
+  ],
+  "website_url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1843",
+  "secret": null
+}

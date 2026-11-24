@@ -1,0 +1,73 @@
+{
+  "slug": "pointe-d-esny",
+  "name": "Pointe d'Esny",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "sud_est",
+  "locality": "Pointe d'Esny",
+  "lat": -20.4273302,
+  "lng": 57.7279149,
+  "coords_source_url": "https://photon.komoot.io/api/?q=Blue%20Bay%20public%20beach&lat=-20.45&lon=57.6&limit=6",
+  "google_place_id": null,
+  "pitch": "Bande de plage entre Mahébourg et Blue Bay, avec accès publics entre les villas et une petite mangrove classée site Ramsar.",
+  "description_md": "Pointe d'Esny est un hameau côtier du district de Grand Port, entre Mahébourg et Blue Bay. OpenStreetMap y recense une plage publique (« Pointe d’Esny Public Beach ») et deux sentiers nommés « Public Access to beach ». En retrait, la zone humide de Pointe d'Esny (22 hectares) est inscrite comme site Ramsar depuis 2011 : une mangrove subtropicale à *Rhizophora mucronata*, des vasières et une eau saumâtre dont le niveau varie avec la pluie et la marée.",
+  "why_go_md": null,
+  "likes": [
+    "Accès publics à la plage repérés dans OpenStreetMap",
+    "Zone humide de mangrove classée site Ramsar, habitat de plantes menacées et de papillons indigènes"
+  ],
+  "watchouts": [
+    "La zone humide est fragile : la fiche Ramsar cite la pression de l'urbanisation, des routes côtières et du tourisme parmi ses menaces"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords, description_md, likes, pitch",
+      "url": "https://photon.komoot.io/api/?q=Blue%20Bay%20public%20beach&lat=-20.45&lon=57.6&limit=6",
+      "title": "Photon (données OpenStreetMap) : Blue Bay Public Beach, Pointe d’Esny Public Beach",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_id\":10148601401 [...] \"name\":\"Pointe d’Esny Public Beach\" [...] \"name\":\"Public Access to beach\",\"locality\":\"Pointe d’Esny\" [...] \"name\":\"Public Access to Beach\",\"locality\":\"Pointe d’Esny\""
+    },
+    {
+      "field": "description_md, pitch, likes, watchouts",
+      "url": "https://rsis.ramsar.org/ris/1988",
+      "title": "Pointe d'Esny Wetland – Ramsar Sites Information Service (site n° 1988)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Pointe d'Esny Wetland Country: Mauritius Site number: 1988 Area: 22.0 ha Designation date: 06-09-2011 [...] A rare example of a wetland characterized by a subtropical mangrove forest containing Rhizophora mucronata and, reportedly, the rarer Bruguiera gymnorhiza, mud flats, and a sub-mangrove belt of pan-tropical coastal plants. The site provides habitat for some threatened plants and the native butterflies [...] Its water is brackish, being a mixture of tidal sea water and freshwater overflow from inland. The main threats within the site include intense pressures to convert the wetland for various ecologically unsustainable economic purposes; a growing tourist industry, coastal roads, agricultural uses, and growing human settlements affect the site adversely."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "FICHE VOLONTAIREMENT COURTE : aucune page de l'office du tourisme, d'un organisme public ou de la presse mauricienne décrivant la plage elle-même (sable, baignade, snorkeling, fréquentation) n'a été trouvée. why_go_md reste à null.",
+    "Les accès publics viennent d'OpenStreetMap (données contributives), pas de la Beach Authority, injoignable pendant la session. À vérifier sur place : les coordonnées sont celles du point OSM « Pointe d’Esny Public Beach » ; les deux sentiers d'accès sont vers -20.4318, 57.7268 et -20.4264, 57.7267.",
+    "Stationnement, équipements, baignade, gratuité : non sourcés.",
+    "La zone humide Ramsar se visite-t-elle ? Aucune source ne le dit. Ses coordonnées Ramsar sont 20°25'36\"S 57°43'10\"E.",
+    "Naufrage du Wakashio (2020) au large de Pointe d'Esny et état actuel du lagon : aucune source lue dans cette session ; rien n'en est dit dans la fiche.",
+    "Date de désignation Ramsar : 06-09-2011 dans l'en-tête de la fiche, 16/09/11 dans le texte ; seule l'année est citée.",
+    "Photos : API Wikimedia Commons en limite de débit (429) ; media reste vide."
+  ],
+  "website_url": null,
+  "secret": null
+}

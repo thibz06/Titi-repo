@@ -1,0 +1,170 @@
+{
+  "slug": "sept-cascades-tamarind-falls",
+  "name": "Sept Cascades (Tamarind Falls)",
+  "family": "cascades_rivieres",
+  "tags": [],
+  "region": "centre",
+  "locality": "Henrietta",
+  "lat": -20.34444,
+  "lng": 57.46639,
+  "coords_source_url": "https://fr.wikipedia.org/wiki/Chutes_de_Tamarin",
+  "google_place_id": null,
+  "pitch": "Sept chutes en enfilade dans une vallée boisée à Henrietta : randonnée raide et glissante, à faire par temps sec, avec un guide.",
+  "description_md": "Les Sept Cascades, ou Tamarind Falls, sont une série de sept chutes de la rivière Tamarin, au creux d'une vallée boisée près du village d'Henrietta, à deux kilomètres au nord-ouest du réservoir de Mare aux Vacoas. La plus haute chute mesure 45 mètres selon l'office du tourisme. Le Défi les range parmi les deux sorties nature les plus vendues par les opérateurs de l'île, avec Le Morne : une centaine de visiteurs par jour en moyenne, parfois 300.",
+  "why_go_md": "Pour une vraie randonnée en forêt, avec vue plongeante depuis le haut de la première chute, bassins où se baigner et douche naturelle sous les cascades. Tu peux n'en voir que quelques-unes selon ton temps et ta forme : d'après un habitué cité par Le Défi, les visiteurs s'arrêtent le plus souvent à la troisième ou la quatrième. Du canyoning encadré est aussi proposé.",
+  "likes": [
+    "Sept cascades successives, dont une de 45 mètres, dans une vallée de forêt",
+    "Baignade dans les bassins, dont celui de la deuxième cascade, surnommé « piscine émeraude »",
+    "Parcours modulable : on peut ne faire que les trois ou quatre premières cascades",
+    "Accessible en bus : ligne Rose-Hill - Henrietta, bus directs depuis Port-Louis et Curepipe"
+  ],
+  "watchouts": [
+    "Accidents mortels récents : chute d'environ trente mètres d'un adolescent qui prenait des photos sur un rocher (octobre 2021), noyades en septembre 2021 et en juillet 2025.",
+    "Sentier très raide : par endroits on se tient aux branches et aux racines. Chemins glissants après la pluie.",
+    "À éviter par mauvais temps : la rivière peut entrer en crue et déborder.",
+    "Bassins profonds : n'y saute et n'y nage que si tu es bon nageur. Déconseillé si tu as le vertige.",
+    "Guide recommandé si tu ne connais pas les lieux, pour ne pas te perdre ou rester coincé dans la vallée (Le Défi, 2017 et 2023 ; habitants d'Henrietta, 2021).",
+    "L'enceinte de la centrale Tamarind Falls Power Station, sur le parcours, est interdite d'accès."
+  ],
+  "tips_md": "En bus, la gare d'Henrietta se trouve à environ 1,2 km du départ : compte une vingtaine de minutes de marche jusqu'au temple Maratha Mandir, près duquel part le sentier et où des guides locaux donnent rendez-vous. Emporte de bonnes chaussures de marche, de l'eau, un chapeau et un vêtement de pluie. Compte environ une heure de route depuis Port-Louis ou les stations balnéaires.",
+  "duration_min": 120,
+  "duration_max": 360,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "meteo": "Par temps sec uniquement : randonnée déconseillée en cas de mauvais temps (Le Défi, 2023)"
+  },
+  "rain_ok": false,
+  "risk_level": "high",
+  "risk_note": "Trois morts rapportées par Le Défi entre 2021 et 2025 (une chute d'environ 30 mètres, deux noyades). Sentier raide, rochers et bassins profonds, crues par mauvais temps. À faire accompagné d'un guide, par temps sec, sans s'approcher du bord des chutes.",
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Selon Le Défi (2023), Le Morne et les 7 Cascades sont deux des destinations les plus vendues par les opérateurs touristiques de l'île.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://fr.wikipedia.org/wiki/Chutes_de_Tamarin",
+      "title": "Chutes de Tamarin — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "20° 20′ 40″ S, 57° 27′ 59″ E"
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Tamarind_Falls",
+      "title": "Tamarind Falls — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "They are a series of seven cataracts located on the Rivière Tamarin, two kilometers northwest of the large lake Mare aux Vacoas."
+    },
+    {
+      "field": "description_md, rarity, pitch",
+      "url": "https://defimedia.info/henrietta-dans-lantre-des-7-cascades",
+      "title": "À Henrietta : dans l’antre des 7 Cascades — Defimedia (29 janvier 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le Morne et les 7 Cascades sont deux des destinations les plus vendues par nos opérateurs touristiques. [...] Les 7 Cascades, plus connus comme The Tamarind Falls, sont situées au milieu d’une vallée luxuriante dans le village d’Henrietta. [...] une moyenne de 100 touristes font la randonnée aux 7 Cascades. Quelques fois, ce nombre peut s’élever à 300"
+    },
+    {
+      "field": "description_md, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/waterfalls-in-mauritius/",
+      "title": "Waterfalls in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "you can see as few or as many of the waterfalls as you like depending on time and fitness levels. Start from Henrietta and gaze down from the highest waterfall at 45 metres, or take on all of the waterfalls for shady hiking and opportunities to take a refreshing dip under the natural shower. If you can brave heights, you can get close enough to walk down parts of the waterfall while canyoning."
+    },
+    {
+      "field": "duration_min",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-hikes-in-mauritius/",
+      "title": "Best Hikes in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The hike takes two to three hours to complete and, at the end, you can jump into a stunning pool underneath a 45-metre waterfall. If you’re feeling daring, get closer to the waterfalls with a guided canyoning expedition. [...] 5.5km 2 hours"
+    },
+    {
+      "field": "duration_max, why_go_md, likes",
+      "url": "https://defimedia.info/henrietta-dans-lantre-des-7-cascades",
+      "title": "À Henrietta : dans l’antre des 7 Cascades — Defimedia (29 janvier 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "« Ils n’en font que trois ou quatre. Le plus souvent, ce sont les locaux qui les font toutes », dit-il. La randonnée complète des 7 Cascades se fait en trois heures sans arrêt de pause photos ainsi que baignades. Au cas contraire, cela peut prendre entre quatre et six heures."
+    },
+    {
+      "field": "watchouts, risk_level, risk_note, best_time, rain_ok",
+      "url": "https://defimedia.info/henrietta-dans-lantre-des-7-cascades",
+      "title": "À Henrietta : dans l’antre des 7 Cascades — Defimedia (29 janvier 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "la difficulté est de niveau 3 lorsque le temps est sec mais peut être 4 ou 6 sur une échelle de 10 lorsqu’il y a de la pluie. Compte tenu des débordements et la rivière en crue, il déconseille la randonnée aux 7 Cascades en cas de mauvais temps. [...] il conseille de s’y rendre accompagné d’un guide professionnel qui connaît les lieux. Ce, afin d’éviter d’y rester coincé ou de se perdre dans la vallée"
+    },
+    {
+      "field": "watchouts, likes, risk_note",
+      "url": "https://defimedia.info/henrietta-dans-lantre-des-7-cascades",
+      "title": "À Henrietta : dans l’antre des 7 Cascades — Defimedia (29 janvier 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "L’on a également la possibilité de sauter dans le bassin de la deuxième cascade, souvent dite « piscine émeraude », par sa couleur liée au reflet du ciel dans l’eau. Il faut toutefois être un bon nageur en raison de la profondeur des eaux. Et si vous avez peur des hauteurs, son conseil : ne vous aventurez pas dans les 7 Cascades."
+    },
+    {
+      "field": "watchouts, risk_note",
+      "url": "https://defimedia.info/henrietta-dans-lantre-des-7-cascades",
+      "title": "À Henrietta : dans l’antre des 7 Cascades — Defimedia (29 janvier 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "nous arrivons aux barrières de la Tamarind Falls Power Station, dont l’enceinte est interdite d’accès. [...] Comme le sentier est très raide, nous nous assurons de nous tenir aux branches et aux racines des arbres pour nous stabiliser."
+    },
+    {
+      "field": "tips_md, likes",
+      "url": "https://defimedia.info/henrietta-dans-lantre-des-7-cascades",
+      "title": "À Henrietta : dans l’antre des 7 Cascades — Defimedia (29 janvier 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Comptez environ une heure de route de Port-Louis ou d’autres villages balnéaires. [...] l’autobus desservant la ligne Rose-Hill - Henrietta pour nous rendre aux 7 Cascades. À noter que des bus directs sont aussi disponibles de Port-Louis et de Curepipe. [...] la gare d’autobus à Henrietta qui se trouve à environ 1,2 kilomètre du point de départ [...] Après une marche d’environ 20 minutes vers le temple Maratha Mandir [...] en empruntant un sentier à gauche, à environ 10 mètres du temple."
+    },
+    {
+      "field": "risk_level, risk_note, watchouts",
+      "url": "https://defimedia.info/parti-en-randonnee-le-collegien-altaf-hosenboccus-fait-une-chute-mortelle-sept-cascades",
+      "title": "Parti en randonnée : le collégien Altaf Hosenboccus fait une chute mortelle à Sept-Cascades — Defimedia (7 octobre 2021)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Alors qu’il se trouvait sur un rocher, Altaf Hosenboccus est tombé d’une distance approximative de trente mètres. Une chute qui s’est avérée fatale pour lui. [...] « San ed bann gid li bien difisil. Li konseye zot pran enn gid sinon ena ale san retourne », clame Ram. Il rappelle que le mois dernier, un autre décès y avait été recensé. En effet, c’est un homme âgé de 29 ans, Asif Balgobin, qui avait péri noyé sur place."
+    },
+    {
+      "field": "risk_level, risk_note, watchouts",
+      "url": "https://defimedia.info/noyade-du-constable-doorsen-pillay-sapermah-26-ans-aux-sept-cascades-sa-famille-et-ses-collegues-li-ti-enn-lakrem",
+      "title": "Noyade du constable Doorsen Pillay Sapermah, 26 ans, aux Sept Cascades — Defimedia (19 juillet 2025)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Doorsen Pillay Sapermah, un constable de 26 ans, s’est noyé lors d’une sortie aux Sept Cascades mercredi. [...] Alors qu’il s’était mis à l’eau, le jeune constable a été entraîné sous la surface et n’est pas remonté."
+    },
+    {
+      "field": "watchouts, tips_md",
+      "url": "https://defimedia.info/best-trekking-and-hiking-mauritius-discover-mauritius-through-unbeaten-tracks",
+      "title": "Best trekking and hiking in Mauritius : discover Mauritius through the unbeaten tracks — Defimedia (11 août 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "So grab your jacket, hats, sun screen, water bottle, good hiking shoes [...] if it has been raining on the eve of your activity, take precautions while hiking. Paths may be slippery and you need to watch your steps. Bring also rain coats and jackets along. [...] If you have never gone trekking at Tamarind Falls, it is recommended not to go on your own. Better go with someone who is experienced or a guide."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Tamarind_Wasserfall_unterer_Bereich_2019-09-30_12.jpg",
+      "credit": "Z thomas (Wikimedia Commons)",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tamarind_Wasserfall_unterer_Bereich_2019-09-30_12.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Difficulté : la seule cotation trouvée est celle d'un randonneur cité par Le Défi (3 sur 10 par temps sec, 4 à 6 sur 10 sous la pluie). Elle n'a pas été convertie sur l'échelle 1-5 de l'app : difficulty reste à null, à fixer par l'éditeur.",
+    "Durée : 2 à 3 heures selon l'office du tourisme (5,5 km), 3 heures sans pause à 4-6 heures avec baignades selon Le Défi ; une boucle guidée complète de 11 km a pris environ 5 h 30 aux journalistes. duration_min = 120 et duration_max = 360 couvrent le parcours complet, pas une visite partielle.",
+    "Guide : obligatoire ou seulement recommandé ? Aucune source officielle ; aucun tarif de guide publié n'a été trouvé (price_kind reste à null).",
+    "Statut du site (terrain privé, forêt d'État, parc national ?) et autorisation d'accès : l'office du tourisme le place dans le parc national des Gorges de Rivière Noire, ce qui n'a pas été recoupé ; non repris.",
+    "Hauteur totale : 293 mètres selon Le Défi (2017), 250 mètres selon Wikipédia en français ; non reprise dans la fiche.",
+    "Coordonnées : celles des chutes dans Wikipédia en français, pas celles du départ du sentier (temple Maratha Mandir, Henrietta), introuvable dans Nominatim. À replacer sur le point de départ.",
+    "Région : Henrietta dépend de Vacoas-Phoenix (Plaines Wilhems) ; classée « centre » comme demandé.",
+    "risk_level « high » est une lecture du rédacteur à partir de trois décès rapportés (2021, 2025) : à confirmer par l'éditeur. Un article d'allafrica.com sur ces dangers (juillet 2025) a répondu 403 et n'a pas été lu.",
+    "Le Défi rapporte une légende (apparition de la Vierge près d'une grotte sur le parcours) : non reprise."
+  ],
+  "website_url": null,
+  "secret": null
+}

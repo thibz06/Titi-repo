@@ -1,0 +1,98 @@
+{
+  "slug": "rochester-falls",
+  "name": "Rochester Falls",
+  "family": "cascades_rivieres",
+  "tags": [],
+  "region": "sud",
+  "locality": "Souillac",
+  "lat": -20.5025816,
+  "lng": 57.5169589,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Rochester%20Falls",
+  "google_place_id": null,
+  "pitch": "Cascade de 10 m aux roches découpées en blocs rectangulaires, à 2,5 km de Souillac, au bout d'une piste dans les cannes.",
+  "description_md": "Rochester Falls est une cascade d'une dizaine de mètres de haut, à 2,5 km de Souillac selon l'office du tourisme (MTPA), connue pour les roches rectangulaires et dentelées de sa paroi. Elle a servi de décor à de nombreux films de Bollywood. D'après Lonely Planet, on y arrive en suivant des panneaux artisanaux depuis la route principale de Souillac, par une piste caillouteuse, puis cinq minutes de marche depuis la voiture au milieu des champs de canne.",
+  "why_go_md": "Pour la forme inhabituelle de la paroi et pour une pause fraîche : l'office du tourisme la présente comme un endroit où se baigner un jour de chaleur et pique-niquer.",
+  "likes": [
+    "Paroi en blocs de roche rectangulaires",
+    "Baignade et pique-nique mis en avant par l'office du tourisme",
+    "Cinq minutes de marche seulement depuis la voiture (Lonely Planet)"
+  ],
+  "watchouts": [
+    "À éviter pendant et après de fortes pluies : le site devient glissant et le niveau de l'eau peut monter (office du tourisme)",
+    "Piste d'accès caillouteuse et itinéraire détourné depuis Souillac (Lonely Planet)",
+    "Des personnes sur place peuvent demander un pourboire pour t'indiquer où te garer (Lonely Planet)"
+  ],
+  "tips_md": "Prévois maillot, serviette et chaussures qui tiennent sur la roche mouillée. Regarde la météo des jours précédents : après de fortes pluies, l'office du tourisme recommande de ne pas y aller.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "meteo": "Éviter pendant et après de fortes pluies (Mauritius Now)"
+  },
+  "rain_ok": null,
+  "risk_level": "medium",
+  "risk_note": "Mauritius Now (MTPA) recommande d'éviter la cascade pendant ou après de fortes pluies : « the area can become slippery and the water levels can rise ». Aucune source consultée ne traite des sauts depuis le haut de la paroi ni de la profondeur du bassin : ne saute pas.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Rochester%20Falls",
+      "title": "Nominatim / OpenStreetMap : Rochester Falls",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":1890598240,\"lat\":\"-20.5025816\",\"lon\":\"57.5169589\""
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/chutes-de-rochester/",
+      "title": "Rochester Falls – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Famous for the jagged rectangular rocks that make up its cliff face, as well as featuring as a backdrop in numerous Bollywood movies, you’ll find this 10-metre-high waterfall in the south of Mauritius, just 2.5km away from Souillac."
+    },
+    {
+      "field": "why_go_md, likes, tips_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/chutes-de-rochester/",
+      "title": "Rochester Falls – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You’ll want your swimwear, towel and a camera for a visit to Rochester Falls. [...] This awe-inspiring waterfall provides a fantastic spot for a swim on a hot Mauritian day, as well as providing a dreamy backdrop for a picnic."
+    },
+    {
+      "field": "risk_level, risk_note, watchouts, best_time, tips_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/chutes-de-rochester/",
+      "title": "Rochester Falls – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "However, we recommend avoiding a visit during or after heavy rain, as the area can become slippery and the water levels can rise."
+    },
+    {
+      "field": "description_md, watchouts, likes",
+      "url": "https://www.lonelyplanet.com/points-of-interest/rochester-falls/1345368",
+      "title": "Rochester Falls – Lonely Planet",
+      "accessed_at": "2026-11-21",
+      "evidence": "Follow the makeshift signs from the main road through Souillac – the route is rather circuitous but is reliable nonetheless, although it's a rough ride along the stone-strewn track. Prepare yourself for hawkers who'll want a tip for telling you where to park. The gushing cascade emerges from the cane fields after a five-minute walk from your car."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "risk_level « medium » est une lecture du rédacteur à partir de l'avertissement de l'office du tourisme (glissant, montée des eaux). Aucun article de presse sur un accident ou une noyade à Rochester Falls n'a été trouvé ; lexpress.mu répond 403 et la recherche de defimedia.info n'est pas lisible sans navigateur.",
+    "Sauts depuis la paroi : pratique évoquée par des plateformes de voyage dans les résultats de recherche, mais aucune source fiable lue ; la fiche n'en parle que pour dire de ne pas sauter.",
+    "Statut du terrain et du chemin (les champs de canne sont-ils privés ?) : non sourcé.",
+    "Gratuité : non sourcée ; price_kind reste à null. Durée de visite : non sourcée.",
+    "L'office du tourisme écrit que le nom vient du roman Jane Eyre (1847) ; non recoupé, laissé hors de la fiche. Le Routard la dit « cascade la plus large de l'île » ; non recoupé non plus.",
+    "Photos : API Wikimedia Commons en limite de débit (429) ; media reste vide."
+  ],
+  "website_url": null,
+  "secret": null
+}

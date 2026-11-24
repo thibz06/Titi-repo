@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { fill } from "@/i18n";
-import { commonsThumb, directionsUrl, formatDateFr, formatDuration, formatPriceMur } from "@/lib/places/format";
+import { commonsThumb, creditedPhotos, directionsUrl, tiktokSearchUrl, formatDateFr, formatDuration, formatPriceMur } from "@/lib/places/format";
 
 describe("lien « Y aller »", () => {
   it("utilise le format Google Maps URLs avec les coordonnées de la fiche", () => {
@@ -52,4 +52,18 @@ describe("miniature Wikimedia Commons", () => {
   it("prend la plus petite largeur standard suffisante", () => expect(commonsThumb(original, 200)).toContain("/250px-"));
   it("laisse intacte une URL qui n'est pas un fichier Commons", () =>
     expect(commonsThumb("https://example.org/photo.jpg", 500)).toBe("https://example.org/photo.jpg"));
+});
+
+describe("lien TikTok et galerie", () => {
+  it("ouvre une recherche sur le nom du lieu", () =>
+    expect(tiktokSearchUrl("Grand Baie")).toBe("https://www.tiktok.com/search?q=Grand%20Baie%20%C3%AEle%20Maurice"));
+  it("ne garde que les photos créditées, couverture en premier", () => {
+    const base = { id: "", storage_path: null, source_url: null, kind: "photo" as const };
+    const list = creditedPhotos([
+      { ...base, id: "a", external_url: "https://x/a.jpg", credit: "A", license: "CC0", is_cover: false },
+      { ...base, id: "b", external_url: "https://x/b.jpg", credit: "", license: "CC0", is_cover: false },
+      { ...base, id: "c", external_url: "https://x/c.jpg", credit: "C", license: "CC BY", is_cover: true },
+    ]);
+    expect(list.map((p) => p.id)).toEqual(["c", "a"]);
+  });
 });

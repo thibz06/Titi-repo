@@ -1,0 +1,107 @@
+{
+  "slug": "pont-naturel",
+  "name": "Pont Naturel",
+  "family": "nature_parcs",
+  "tags": [
+    "spot_photo"
+  ],
+  "region": "sud",
+  "locality": "Trois Boutiques",
+  "lat": -20.4804089,
+  "lng": 57.6691827,
+  "coords_source_url": "https://photon.komoot.io/api/?limit=8&lat=-20.45&lon=57.6&q=Pont%20Naturel%20Mauritius",
+  "google_place_id": null,
+  "pitch": "Arche de roche volcanique au-dessus des vagues de la côte sud, au bout de pistes cahoteuses. À regarder de loin du bord.",
+  "description_md": "Le Pont Naturel est une formation de roche volcanique qui enjambe l'eau sur environ deux mètres, sur la côte sud, entre Le Souffleur et Le Bouchon. L'office du tourisme (MTPA) précise qu'il est entièrement naturel, même s'il a l'air construit, et que l'eau qui passe par de petits trous de la roche produit un sifflement. La mer y est forte, les vagues se fracassent contre les falaises : le lieu ne convient pas à la baignade.",
+  "why_go_md": "Pour un paysage brut, hors des circuits : l'office du tourisme le classe parmi les paysages « hors des sentiers battus » de l'île et le recommande pour la photo.",
+  "likes": [
+    "Arche naturelle au-dessus des vagues",
+    "Sifflement de l'eau dans les trous de la roche",
+    "Bon endroit pour la photo, selon l'office du tourisme"
+  ],
+  "watchouts": [
+    "Ne t'approche pas du bord : l'office du tourisme le demande explicitement",
+    "Pas de baignade : mer forte, vagues contre les falaises",
+    "Accès par des routes cahoteuses (office du tourisme)",
+    "Décembre 2025 : un homme a été repéré flottant en mer à environ 200 m au sud de la falaise du Pont Naturel et son décès a été constaté à l'hôpital (L'Express) ; les circonstances n'étaient pas établies"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": "high",
+  "risk_note": "Mauritius Now (MTPA) : « The sea here is strong and fierce, with waves smashing against the cliffs. For this reason, it’s not suitable for swimming » et « make sure you don’t veer too close to the edge ». L'Express du 18 décembre 2025 (repris par allAfrica) rapporte qu'un homme en difficulté en mer a été hélitreuillé à environ 200 mètres au sud de la falaise de Pont-Naturel et que son décès a été constaté ; une enquête a été ouverte, les circonstances ne sont pas connues. Reste loin du bord, surtout par forte houle ou sur roche mouillée.",
+  "interest": null,
+  "rarity": "peu_connu",
+  "rarity_reason": "Présenté par l'office du tourisme (Mauritius Now) parmi les paysages « off-the-beaten track » de l'île, accessible par des routes cahoteuses.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://photon.komoot.io/api/?limit=8&lat=-20.45&lon=57.6&q=Pont%20Naturel%20Mauritius",
+      "title": "Photon (données OpenStreetMap) : Pont Natural",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_id\":1324575247 [...] \"name\":\"Pont Natural\" [...] \"district\":\"Trois Boutiques\" [...] \"coordinates\":[57.6691827,-20.4804089]"
+    },
+    {
+      "field": "description_md, pitch, likes, watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/pont-naturel/",
+      "title": "Pont Naturel – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The bumpy roads you’ll traverse to reach this dramatic natural landscape are well worth the journey. Pont Naturel (or natural bridge) is a volcanic rock formation stretching two metres across swirling glacier blue and white waves on the south coast of Mauritius. It might look like a man-made construction, but it’s entirely formed by natural processes. Water pours through tiny holes in the rock, making eerie whistling sounds"
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/pont-naturel/",
+      "title": "Pont Naturel – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Pont Naturel can be found between Le Souffleur and Le Bouchon."
+    },
+    {
+      "field": "risk_level, risk_note, watchouts, tags, likes, why_go_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/pont-naturel/",
+      "title": "Pont Naturel – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The sea here is strong and fierce, with waves smashing against the cliffs. For this reason, it’s not suitable for swimming, but it’s a magical spot to contemplate the power and beauty of nature. It’s also a great spot for photographs."
+    },
+    {
+      "field": "risk_level, risk_note, watchouts, rarity, why_go_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mauritius-wild-side/",
+      "title": "Mauritius Wild Side – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Mauritius' off-the-beaten track landscapes [...] It’s also a great spot for photographs – just make sure you don’t veer too close to the edge"
+    },
+    {
+      "field": "risk_level, risk_note, watchouts",
+      "url": "https://fr.allafrica.com/stories/202512180460.html",
+      "title": "Ile Maurice: Découverte d'un corps en mer, une enquête ouverte – L'Express (Port Louis) via allAfrica, 18 décembre 2025",
+      "accessed_at": "2026-11-21",
+      "evidence": "Un drame s'est produit, mardi, à Pont-Naturel, dans le sud de l'île. Aux alentours de 18 h 30, la National Coast Guard a été alertée de la présence d'un homme en difficulté en mer. Dépêchée sur les lieux, l'unité héliportée de la police, MPH 03, a repéré un homme flottant en mer, à environ 200 mètres au sud de la falaise de Pont-Naturel. [...] son décès a été officiellement constaté par le personnel médical. [...] Une enquête a été ouverte afin d'établir les circonstances exactes de ce drame."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "risk_level « high » est une lecture du rédacteur à partir des mises en garde de l'office du tourisme et de l'article de L'Express ; aucune source ne donne de niveau.",
+    "L'article de L'Express (18 décembre 2025) a été lu sur allAfrica, qui le republie ; lexpress.mu répond 403. Un second article repris par allAfrica (11 août 2025, « Faut-il sanctionner les imprudents malgré les alertes ? »), qui évoquerait un sauvetage sur une falaise, n'a pas pu être lu (403) et n'est pas utilisé.",
+    "Accès : itinéraire exact, état de la piste, statut des chemins (chemins de canne privés ?) et stationnement non sourcés. OSM place le point « Pont Natural » sur Mon Desert Road, secteur de Trois Boutiques (district de Grand Port).",
+    "La mission range ce lieu en région « sud » ; administrativement OSM le situe dans le district de Grand Port. À l'éditeur de trancher.",
+    "Peut-on marcher sur l'arche ? Aucune source officielle ne le dit ; la fiche ne le recommande pas.",
+    "L'office du tourisme écrit « le souffler » pour le sifflement ; le lieu voisin s'appelle Le Souffleur. Formulation laissée générale.",
+    "Gratuité et durée de visite non sourcées. Photos : API Wikimedia Commons en limite de débit (429)."
+  ],
+  "website_url": null,
+  "secret": null
+}

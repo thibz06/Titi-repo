@@ -1,0 +1,121 @@
+{
+  "slug": "vieux-grand-port",
+  "name": "Vieux Grand Port (vestiges et musée Frederik Hendrik)",
+  "family": "culture_patrimoine",
+  "tags": [
+    "gratuit"
+  ],
+  "region": "sud_est",
+  "locality": "Vieux Grand Port",
+  "lat": -20.3749966,
+  "lng": 57.7218506,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Frederik%20Hendrik%20Museum",
+  "google_place_id": null,
+  "pitch": "Le premier établissement humain de Maurice : vestiges français bâtis sur le fort néerlandais de 1638 et petit musée gratuit.",
+  "description_md": "Le site historique de Vieux Grand Port, sur la côte sud-est, est présenté par le Mauritius Museums Council comme le berceau de l'histoire mauricienne : c'est là que les Néerlandais, arrivés en 1598, se sont installés en 1638 en construisant le fort Frederik Hendrik, avant de quitter l'île en 1710. Les Français y ont établi leur gouvernement en 1722, puis un poste militaire, abandonné après 1806. Les structures visibles sont toutes d'origine française, bâties après 1753 sur les ruines du fort néerlandais : une loge, une prison, une boulangerie, un bancassal et une forge. Les restes du fort, fouillés en 2000, se trouvent à une cinquantaine de centimètres sous le sol. Le site est classé au patrimoine national.",
+  "why_go_md": "Pour comprendre en une courte halte où l'histoire habitée de l'île a commencé. Le musée Frederik Hendrik sert de centre d'interprétation : maquette du site, objets de fouilles (boulets, pipes en terre, monnaies, céramiques, restes de repas dont des os de dugong et de tortue), cartes du XVIIe siècle et maquette d'un navire de la Compagnie néerlandaise des Indes orientales.",
+  "likes": [
+    "Entrée gratuite",
+    "Vestiges français du XVIIIe siècle, avec des graffitis de navires des XVIIIe et XIXe siècles sur les murs de la loge",
+    "Musée d'une salle permanente, maquette du site et documentaires projetés",
+    "À proximité, d'après l'office du tourisme : le mémorial du premier débarquement néerlandais à Ferney, au pied de la montagne du Lion",
+    "Tour des Hollandais et ancien cimetière de Vieux Grand Port inscrits sur la liste du patrimoine national (National Heritage Fund)"
+  ],
+  "watchouts": [
+    "Fermé les jours fériés ; le dimanche, ouvert le matin seulement (9 h à 12 h) ; le mercredi, ouverture à 11 h",
+    "Le fort néerlandais lui-même n'est pas visible : ses restes sont sous le sol"
+  ],
+  "tips_md": "Le site s'étend au-delà de l'église Notre-Dame du Grand Pouvoir, voisine des ruines principales, et comprend les ruines de la première église catholique (1737) et une poudrière de la période française.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "free",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "« ENTRANCE FREE » sur la page du Mauritius Museums Council (page non datée, consultée le 21 novembre 2026).",
+  "opening_hours": "Mo,Tu,Th-Sa 09:00-16:00; We 11:00-16:00; Su 09:00-12:00; PH off",
+  "hours_note": "« Monday,Tuesday,Thursday,Friday and Saturday: 0900 to 1600 hrs — Wednesday: 11 00 to 16 00 hrs — Sunday: 0900 to 12 00 hrs. — Public Holiday: Closed » (Mauritius Museums Council, page non datée, consultée le 21 novembre 2026). Pendant le séjour, les jours fériés mauriciens (25 décembre, 1er et 2 janvier) sont donc fermés.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "peu_connu",
+  "rarity_reason": "Petit musée d'une seule salle permanente, hors des grands circuits, alors que le site est décrit par le Mauritius Museums Council comme le lieu du premier établissement humain de l'île.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Frederik%20Hendrik%20Museum",
+      "title": "Nominatim / OpenStreetMap : Frederik Hendrik Museum",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":761291072,\"lat\":\"-20.3749966\",\"lon\":\"57.7218506\""
+    },
+    {
+      "field": "description_md, pitch, rarity",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1823",
+      "title": "Frederik Hendrik Museum, Historical Background – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "It is situated at the Vieux Grand Port Historic Site, the cradle of Mauritian History. This is the site of the first human settlement in Mauritius. The Dutch discovered Mauritius in 1598. However, they settled here only in 1638, when the Fort Frederik Hendrik was constructed. The Dutch abandoned the island for good in 1710. The French claimed Mauritius in 1715 and established their government on the same site in 1722."
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1823",
+      "title": "Frederik Hendrik Museum, Historical Background – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "Following the transfer of the military post to the newly created town of Mahebourg in 1806, the site was abandoned. [...] The Frederik Hendrik Museum serves as an interpretation centre for the Vieux Grand Port Historic Site."
+    },
+    {
+      "field": "description_md, likes, watchouts, tips_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1822",
+      "title": "Frederik Hendrik Museum, About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Vieux Grand Port Historic Site is a National Heritage. The structures visible above the ground are all of French origin, built on the very ruins of the Dutch Fort Frederik Hendrik after 1753. They consist of a lodge, a prison, a bakery, a bancassal and a blacksmith’s workshop. On the walls of the lodge there are graffiti depicting 18th /19th century ships. In the year 2000, the remains of the Dutch Fort Frederik Hendrik were excavated. They lie some 50cm deep into the ground. The historic site extends beyond the Notre Dame de Grand Pouvoir Church which is located adjacent to the main ruins. It also contains the ruins of the first Catholic Church, established by Mahé de Labourdonnais in 1737 and a powder house built during the French period"
+    },
+    {
+      "field": "why_go_md, likes, rarity",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1822",
+      "title": "Frederik Hendrik Museum, About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Frederik Hendrik Museum has one permanent display room in which panels and artefacts are exhibited. A “maquette “of the site, found in the Reception room, helps in the orientation of visitors. [...] military objects like musket balls, canon balls, flint stones; everyday life artefacts and implements- sickle, hoe, beads, coins, clay pipes, ceramics and potteries, cooking utensils; and food remains- bones of fish, cattle, deer, pigs, dugong, tortoise, shells etc. [...] 17th century maps [...] A reduced model of a Dutch East Indiaman is on show. Documentaries are also projected at the museum for the visitors."
+    },
+    {
+      "field": "opening_hours, hours_note, price_kind, price_note, tags, likes, watchouts",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1824",
+      "title": "Frederik Hendrik Museum, Contact Info & Visiting Hours – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "Address: Frederik Hendrik Museum Royal Road, Old Grand Port, Mauritius Tel No.: (230)634 4319 Fax No. : 6313531 Visiting hours: Monday,Tuesday,Thursday,Friday and Saturday: 0900 to 1600 hrs Wednesday: :11 00 to 16 00 hrs Sunday: 0900 to 12 00 hrs. Public Holiday: Closed ENTRANCE FREE"
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/vieux-grand-port/",
+      "title": "Vieux Grand Port – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Today, you’ll see artefacts and ruins from the Dutch period at the Frederik Hendrik Museum and you can take time to visit the Dutch First Landing memorial in Ferney. This National Heritage Site sits at the base of Lion Mountain and overlooks a large bay, which saw a historic battle between the British and the French in 1810."
+    },
+    {
+      "field": "likes, description_md",
+      "url": "https://nhf.govmu.org/nhf/?page_id=714",
+      "title": "Grand Port – National Heritage Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "2. Dutch Monument (Ferney) Fort Frederik Hendrik Historical Site [...] 9. Old Cemetery (Old Grand Port) [...] 16. Tour Hollandais (Old Grand Port)"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Date du fort : 1638 selon le Mauritius Museums Council (retenu) ; la page de l'office du tourisme sur le musée écrit « built by the Dutch in 1698 », ce qui semble être une coquille.",
+    "Horaires tirés d'une page officielle non datée : à revérifier. Le musée de Mahébourg, géré par le même organisme, est fermé pour travaux depuis décembre 2025 ; rien de tel n'est annoncé pour celui-ci.",
+    "Durée de visite : non sourcée. Stationnement et accessibilité : non sourcés.",
+    "Les ruines extérieures sont-elles accessibles en dehors des heures du musée ? Non précisé par les sources.",
+    "La page du musée mentionne deux mois de fouilles archéologiques chaque année avec des chercheurs néerlandais, sans dates : non repris.",
+    "Coordonnées : bâtiment « Frederik Hendrik Museum » dans OSM.",
+    "Photos : API Wikimedia Commons en limite de débit (429) ; media reste vide."
+  ],
+  "website_url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1822",
+  "secret": null
+}

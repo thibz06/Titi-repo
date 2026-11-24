@@ -10,7 +10,7 @@
   "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q1554833.json",
   "google_place_id": null,
   "pitch": "Îlot au profil pentu à 8 km de la côte nord : réserve naturelle où l'on ne débarque pas, abordée en bateau pour ses fonds.",
-  "description_md": "Le Coin de Mire (Gunner's Quoin en anglais) est un îlot d'environ 65 hectares situé à 8 km au nord de Maurice, reconnaissable depuis la côte à son profil pentu. Classé réserve naturelle, il abrite des oiseaux et des reptiles endémiques et ne se visite pas à terre. Des colons hollandais y ont tenté une plantation de canne à sucre, dont il reste des traces.",
+  "description_md": "Le Coin de Mire (Gunner's Quoin en anglais) est un îlot situé à 8 km au nord de Maurice, reconnaissable depuis la côte à son profil pentu. Le National Parks and Conservation Service (NPCS) le classe parmi les sept îlots réserves naturelles et lui donne 76 hectares (environ 65 selon Wikipédia). Sa forêt de palmiers est très dégradée mais il abrite encore des plantes indigènes rares, des reptiles endémiques et des oiseaux de mer qui y nichent ; il ne se visite pas à terre. Des colons hollandais y ont tenté une plantation de canne à sucre, dont il reste des traces.",
   "why_go_md": "On s'en approche en bateau ou en catamaran depuis le nord. L'office du tourisme mauricien le cite pour la plongée avec masque et tuba ; un article de presse de 2017 décrit des fonds d'environ 6 m de profondeur moyenne au mouillage, et des oiseaux marins (pailles-en-queue, puffins) qui nichent sur l'îlot.",
   "likes": [
     "Plongée avec masque et tuba au pied de l'îlot, citée par l'office du tourisme mauricien",
@@ -107,6 +107,20 @@
       "title": "Coin de Mire: The best snorkelling site | Defimedia (30 mars 2017)",
       "accessed_at": "2026-11-21",
       "evidence": "One piece of advice: Be careful of the currents which can be high at times."
+    },
+    {
+      "field": "description_md",
+      "url": "https://npcs.govmu.org/Documents/NPCS%20Units/Islet%20and%20Offshore%20Unit.pdf",
+      "title": "Islet and Offshore Unit (National Parks and Conservation Service, PDF)",
+      "accessed_at": "2026-11-21",
+      "evidence": "There are 49 islets surrounding Mauritius out of which, 7 has been proclaimed as Nature Reserves and 8 as National Parks. [...] Gunners Quoin 76"
+    },
+    {
+      "field": "description_md",
+      "url": "https://npcs.govmu.org/Documents/NPCS%20Units/Islet%20and%20Offshore%20Unit.pdf",
+      "title": "Islet and Offshore Unit (National Parks and Conservation Service, PDF)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The palm-rich forest is very degraded by prune malgache (Flacourtia indica), but it is important for several native species [...] The island is also used by seabirds for breeding."
     }
   ],
   "media": [
@@ -120,9 +134,11 @@
     }
   ],
   "open_questions": [
-    "Statut et règles d'accès à confirmer auprès du National Parks and Conservation Service (site non accessible pendant la rédaction) : l'interdiction de débarquer vient de Wikipédia seulement.",
     "Port de départ, durée et prix des sorties en bateau : non sourcés (dépendent des prestataires). Le « environ une demi-heure » de traversée vient d'un article de 2017 et n'a pas été repris dans les champs de durée.",
     "risk_level laissé à null : seule une mise en garde de presse (courants) a été trouvée.",
-    "Famille : nature_parcs retenu ; mer_activites serait défendable puisque la visite se fait uniquement en mer."
-  ]
+    "Famille : nature_parcs retenu ; mer_activites serait défendable puisque la visite se fait uniquement en mer.",
+    "Statut de réserve naturelle confirmé par un document du National Parks and Conservation Service (PDF « Islet and Offshore Unit », sans date). L'interdiction de débarquer, elle, ne vient toujours que de Wikipédia : le site npcs.govmu.org (pages dynamiques illisibles sans navigateur) n'a livré aucune règle d'accès ni procédure de permis.",
+    "Superficie : 76 ha selon le NPCS, environ 65 ha selon Wikipédia."
+  ],
+  "website_url": null
 }

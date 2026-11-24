@@ -1,0 +1,109 @@
+{
+  "slug": "la-roche-qui-pleure",
+  "name": "La Roche qui Pleure",
+  "family": "nature_parcs",
+  "tags": [],
+  "region": "sud",
+  "locality": "Souillac",
+  "lat": -20.5238983,
+  "lng": 57.536635,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=La%20Roche%20qui%20Pleure",
+  "google_place_id": null,
+  "pitch": "Promontoire de basalte battu par la houle, à quelques minutes à pied de Gris Gris : l'eau ruisselle sur la roche comme des larmes.",
+  "description_md": "La Roche qui Pleure est un promontoire rocheux de la côte de Souillac, que l'on rejoint à pied depuis la plage de Gris Gris. D'après le Routard, un sentier part vers l'est depuis la plage principale ; le nom vient de l'eau des vagues qui s'engouffre dans les fissures puis ruisselle sur les parois, comme si la roche pleurait. L'office du tourisme en fait un lieu connu pour regarder les vagues se briser sur les rochers.",
+  "why_go_md": "Pour voir de près la force de la houle sur une côte sans lagon, au bout d'une courte marche en haut des falaises depuis Gris Gris.",
+  "likes": [
+    "Accessible à pied depuis la plage de Gris Gris (office du tourisme, Routard)",
+    "Point de vue sur les vagues qui se brisent sur les rochers"
+  ],
+  "watchouts": [
+    "Même côte que Gris Gris : falaises et océan dangereux, vigilance constante avec des enfants (Routard)",
+    "Ne compte pas te baigner dans le secteur : le Routard y décrit la baignade comme strictement interdite"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": "high",
+  "risk_note": "Les mises en garde lues portent sur l'ensemble du site de Gris Gris, dont La Roche qui Pleure fait partie selon le Routard : falaises proches, océan dangereux, baignade strictement interdite. Aucune source ne décrit précisément l'état du sentier ni les risques propres au promontoire (vagues qui submergent les rochers, sol glissant) : tiens-toi à distance du bord.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=La%20Roche%20qui%20Pleure",
+      "title": "Nominatim / OpenStreetMap : La Roche qui Pleure",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":828423013,\"lat\":\"-20.5238983\",\"lon\":\"57.5366350\""
+    },
+    {
+      "field": "description_md, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/gris-gris-beach/",
+      "title": "Gris Gris beach – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "From the beach, you can access La Roche Qui Pleure – this well-known spot is the perfect place to watch as the waves crash against the rocks."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.routard.com/fr/guide/afrique/ile-maurice-rodrigues/mahebourg-et-le-sud/gris-gris",
+      "title": "Gris-Gris – Routard.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "À une courte distance de marche vers l’est depuis la plage principale, un sentier mène à la « Roche qui Pleure ». Ce promontoire rocheux doit son nom à l’illusion créée par l’eau des vagues qui, en s’engouffrant dans ses fissures, ruisselle sur ses parois, donnant l’impression que la roche verse des larmes."
+    },
+    {
+      "field": "risk_level, risk_note, watchouts",
+      "url": "https://www.routard.com/fr/guide/afrique/ile-maurice-rodrigues/mahebourg-et-le-sud/gris-gris",
+      "title": "Gris-Gris – Routard.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "Les falaises de basalte, les vagues déferlantes et surtout la formation rocheuse appelée la « Roche qui Pleure » sont les découvertes à ne pas manquer. [...] une vigilance constante est requise avec les enfants en raison de la proximité des falaises et de la dangerosité de l’océan"
+    },
+    {
+      "field": "risk_level, risk_note, watchouts",
+      "url": "https://www.routard.com/fr/guide/afrique/ile-maurice-rodrigues/mahebourg-et-le-sud/gris-gris",
+      "title": "Gris-Gris – Routard.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "Non, la baignade est strictement interdite en raison de l’absence de barrière de corail, des vagues puissantes et des courants marins très dangereux."
+    },
+    {
+      "field": "media",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=8&gsrsearch=Roche%20qui%20Pleure%20Mauritius%20filetype%3Abitmap&prop=imageinfo&iiprop=url|extmetadata|size&iiextmetadatafilter=Artist|LicenseShortName|ImageDescription",
+      "title": "Wikimedia Commons, métadonnées de File:2006-10-08 La Roche qui pleure, Mauritius 2.jpg",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"title\":\"File:2006-10-08 La Roche qui pleure, Mauritius 2.jpg\" [...] \"LicenseShortName\":{\"value\":\"CC BY-SA 3.0\""
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/2006-10-08_La_Roche_qui_pleure%2C_Mauritius_2.jpg",
+      "credit": "Hansueli Krapf (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2006-10-08_La_Roche_qui_pleure,_Mauritius_2.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Aucune mise en garde officielle ou article de presse propre à La Roche qui Pleure n'a été trouvé (recherches « emporté par une vague », « noyade » sans résultat ; lexpress.mu répond 403). risk_level « high » reprend les avertissements du Routard pour tout le site de Gris Gris : à confirmer par l'éditeur.",
+    "Distance et durée de marche depuis Gris Gris : non chiffrées par les sources.",
+    "Gratuité et stationnement propres au lieu : non sourcés.",
+    "Le Routard est un guide de voyage, pas une source officielle ; l'explication du nom est la sienne.",
+    "La photo (2006) n'a pas été visualisée, seulement ses métadonnées : à vérifier avant publication."
+  ],
+  "website_url": null,
+  "secret": null
+}

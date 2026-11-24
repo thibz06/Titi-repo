@@ -2,7 +2,10 @@
   "slug": "citadelle-fort-adelaide",
   "name": "Citadelle (Fort Adelaide)",
   "family": "culture_patrimoine",
-  "tags": [],
+  "tags": [
+    "spot_photo",
+    "coucher_soleil"
+  ],
   "region": "nord_ouest",
   "locality": "Port-Louis",
   "lat": -20.163658,
@@ -10,13 +13,19 @@
   "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q2974395.json",
   "google_place_id": null,
   "pitch": "Fort britannique en basalte bâti entre 1834 et 1840 sur une colline de Port-Louis, la Petite Montagne.",
-  "description_md": "La Citadelle est le nom courant du Fort Adelaide, une fortification construite par les Britanniques entre 1834 et 1840 sur la Petite Montagne, une colline de Port-Louis. Bâtie en blocs de basalte par des engagés indiens sur des plans du colonel Thomas Cunningham, elle porte le nom de l'épouse du roi Guillaume IV. Elle pouvait loger 200 hommes et n'a jamais soutenu de siège. Restaurée, elle a rouvert au public le 1er février 2006.",
-  "why_go_md": "C'est le seul des forts britanniques de Port-Louis qui ne soit pas en ruines, selon Wikipédia. La colline était déjà un lieu d'où l'on venait observer la rade avant la construction du fort : on peut donc supposer que la vue sur le port reste l'intérêt principal, ce qui est à confirmer sur place.",
+  "description_md": "La Citadelle est le nom courant du Fort Adelaide, une fortification construite par les Britanniques entre 1834 et 1840 sur la Petite Montagne, une colline de Port-Louis. Bâtie en blocs de basalte par des engagés indiens sur des plans du colonel Thomas Cunningham, elle porte le nom de l'épouse du roi Guillaume IV. Longue de 150 mètres et large de 100, elle pouvait loger 200 hommes et n'a jamais soutenu de siège. Inscrite sur la liste du patrimoine national, elle relève du ministère du Tourisme ; restaurée, elle a rouvert au public le 1er février 2006.",
+  "why_go_md": "Pour la vue : l'office du tourisme mauricien parle d'un panorama à 360 degrés sur Port-Louis, d'un endroit apprécié pour le coucher du soleil et les photos, avec de vieux canons qui plaisent aux enfants. C'est aussi le seul des forts britanniques de Port-Louis qui ne soit pas en ruines, selon Wikipédia.",
   "likes": [
     "Fort en basalte du XIXe siècle, seul fort britannique de Port-Louis encore debout",
-    "Site en hauteur sur la Petite Montagne, d'où l'on découvrait déjà la rade au début du XIXe siècle"
+    "Site en hauteur sur la Petite Montagne, d'où l'on découvrait déjà la rade au début du XIXe siècle",
+    "Vue à 360 degrés sur Port-Louis, appréciée au coucher du soleil (office du tourisme)",
+    "Vieux canons autour desquels les enfants aiment jouer (office du tourisme)"
   ],
-  "watchouts": [],
+  "watchouts": [
+    "Horaires et conditions d'entrée non trouvés sur un site officiel : vérifie sur place que le fort est ouvert avant de monter",
+    "En 2023, Le Mauricien décrivait un site peu entretenu et peu visité ; en 2024, l'Economic Development Board a lancé un appel à projets pour le réaménager. État actuel non vérifié",
+    "Depuis octobre 2023, la mairie de Port-Louis n'y autorise plus de concerts ni de spectacles jusqu'à nouvel ordre (presse, 2023)"
+  ],
   "tips_md": null,
   "duration_min": null,
   "duration_max": null,
@@ -89,6 +98,55 @@
       "title": "Journée internationale du patrimoine culturel : 20 lieux historiques accessibles gratuitement ce week-end | Defimedia (29 avril 2023)",
       "accessed_at": "2026-11-21",
       "evidence": "La Citadelle, également connue sous le nom de Fort Adélaïde, a été construite entre 1834 et 1840 par le gouverneur William Nicolay dans le but de se protéger contre une possible révolte des habitants français au moment de l'abolition de l'esclavage ainsi que contre d'autres incursions éventuelles."
+    },
+    {
+      "field": "why_go_md, likes, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-citadel/",
+      "title": "Discover La Citadel: A Mauritian Heritage Site | Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Boasting 360-degree views of Port Louis, it’s now a popular spot to watch the sunset or take pictures (and kids will love playing around the old cannons)!"
+    },
+    {
+      "field": "description_md",
+      "url": "https://nhf.govmu.org/nhf/?page_id=709",
+      "title": "National Heritage Sites – Port Louis | National Heritage Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "20. Fort Adelaide (CitadelIe)"
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://edbmauritius.org/wp-content/uploads/2024/05/EOI-Document-Fort-Adelaide.pdf",
+      "title": "Call for Expression of Interest – Regeneration of Fort Adelaide - The Citadel (Economic Development Board, mai 2024, PDF)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Fort Adelaide (the Citadel), is a National Heritage site under the National Heritage Act 2003. [...] The Ministry of Tourism is also responsible for the management of the building."
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/la-citadelle-temoin-de-lhistoire-mouvementee-de-lile-maurice",
+      "title": "La Citadelle, témoin de l’histoire mouvementée de l’île Maurice | Defimedia (29 octobre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "un imposant édifice de pierre basaltique qui s’étend sur 150 mètres de long et 100 mètres de large"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/la-citadelle-temoin-de-lhistoire-mouvementee-de-lile-maurice",
+      "title": "La Citadelle, témoin de l’histoire mouvementée de l’île Maurice | Defimedia (29 octobre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "« Pour le moment, aucun permis ne sera accordé pour des événements culturels ou musicaux à la Citadelle », déclare Issoop Nujurally."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.lemauricien.com/actualites/societe/la-citadelle-inaccessible-pour-les-concerts-et-spectacles/609884/",
+      "title": "La Citadelle inaccessible pour les concerts et spectacles | Le Mauricien (27 octobre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ni la police ni la mairie de Port-Louis n’accéderont aux demandes pour la tenue de concerts ou de spectacles à La-Citadelle, et ce, jusqu’à nouvel ordre."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.lemauricien.com/actualites/magazine/histoire-et-patrimoine-la-citadellela-belle-adelaide-sest-tue/610699/",
+      "title": "Histoire et patrimoine : La Citadelle, la belle Adélaïde s’est tue | Le Mauricien (31 octobre 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La Citadelle déchue est devenue l’ombre d’elle-même, accueillant de temps à autre quelques touristes ayant eu vent de l’existence d’une ancienne forteresse dans la capitale."
     }
   ],
   "media": [
@@ -102,10 +160,11 @@
     }
   ],
   "open_questions": [
-    "Horaires, prix (entrée libre ou payante) et conditions d'accès : aucune source officielle trouvée ni accessible (pas de site propre ; National Heritage Fund et mairie de Port-Louis non autorisés dans la session).",
-    "Accès en voiture ou à pied et stationnement : non sourcés. Des articles de L'Express et de Défi Media repérés par recherche évoquent stationnement difficile et suspension des concerts en 2025, mais lexpress.mu bloque les requêtes automatisées et ces pages n'ont pas été lues : rien n'en a été repris.",
-    "Vue panoramique sur la ville et le port : très probable mais non sourcée par une page lue (seule une citation historique de Bory de Saint-Vincent sur la colline l'appuie). Tags spot_photo et coucher_soleil non posés pour cette raison.",
     "Graphie du nom : « Fort Adelaide » (OpenStreetMap), « Fort Adélaïde » (presse), « Fort Adelaïde » (Wikipédia). À harmoniser.",
-    "Raison de la construction : crainte d'une révolte des colons français au moment de l'abolition selon Défi Media ; renforcement général des défenses selon Wikipédia. Non tranché dans la fiche."
-  ]
+    "Raison de la construction : crainte d'une révolte des colons français au moment de l'abolition selon Défi Media ; renforcement général des défenses selon Wikipédia. Non tranché dans la fiche.",
+    "Horaires et prix (entrée libre ou payante) : toujours aucune source officielle le 21 novembre 2026. Le National Heritage Fund ne publie que la liste des sites classés, la mairie de Port-Louis (mccpl.mu) une simple galerie photo ; le ministère du Tourisme, gestionnaire du bâtiment selon l'EDB (2024), n'a pas de page dédiée trouvée. Des sites de voyage non officiels se contredisent (entrée gratuite ou Rs 50) : rien n'en a été repris.",
+    "Accès en voiture ou à pied et stationnement : non sourcés. lexpress.mu répond toujours 403. L'office du tourisme écrit aussi que le fort « abrite des boutiques » : non recoupé, non repris.",
+    "Suite de l'appel à projets de l'Economic Development Board (mai 2024) pour « régénérer » le fort : inconnue ; d'éventuels travaux pourraient limiter l'accès."
+  ],
+  "website_url": null
 }

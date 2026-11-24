@@ -1,0 +1,144 @@
+{
+  "slug": "vallee-de-ferney",
+  "name": "La Vallée de Ferney",
+  "family": "nature_parcs",
+  "tags": [],
+  "region": "sud_est",
+  "locality": "Vieux Grand Port",
+  "lat": -20.3648477,
+  "lng": 57.7048401,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Vall%C3%A9e%20de%20Ferney",
+  "google_place_id": null,
+  "pitch": "Réserve de forêt indigène au nord de Mahébourg : sentiers balisés de 5 à 18 km, crécerelles de Maurice et visites guidées.",
+  "description_md": "La Vallée de Ferney est une réserve de forêt et de faune dans la chaîne des montagnes Bambou, au nord de Mahébourg ; l'office du tourisme (MTPA) lui attribue 200 hectares de forêt indigène. Le site propose quatre parcours en accès libre payant — 5 km (facile, 1 h à 1 h 30), 8 km (facile, 2 h 45), 13 km (moyen, 3 h 30 à 4 h) et 18 km (difficile, 5 à 6 h) — et des visites guidées de deux heures. La réserve est connue pour la crécerelle de Maurice : selon le site, il n'en restait que quatre en 1974 et elles sont près de 600 aujourd'hui.",
+  "why_go_md": "Pour marcher dans l'une des rares forêts indigènes qui subsistent, avec une chance de voir la crécerelle de Maurice, le pigeon rose ou la grosse cateau verte, et des arbres comme l'ébène, le bois clou et le takamaka. En chemin : pépinière de plantes endémiques, enclos de tortues, cerfs.",
+  "likes": [
+    "Quatre sentiers de 5 à 18 km, du facile au technique, dans un espace entretenu et sécurisé",
+    "Tarif visiteur du sentier libre : Rs 500 par adulte, Rs 250 par enfant de 5 à 12 ans",
+    "Visite guidée de 2 heures (environ 3 km) à 9 h et 13 h 30 pour voir oiseaux et arbres indigènes",
+    "Vers midi, au Wildlife Sanctuary, on peut voir la crécerelle venir se nourrir (site officiel)",
+    "Restaurant sur place, avec vue sur la vallée"
+  ],
+  "watchouts": [
+    "Heure limite de départ selon le parcours : 14 h pour le 5 km, 12 h 30 pour le 8 km, 11 h 30 pour le 13 km, 10 h 30 pour le 18 km",
+    "Le parcours de 5 km est exposé au soleil : protection solaire nécessaire",
+    "Accès limité certains jours entre juin et septembre et lors d'événements privés ; réservation recommandée",
+    "Visite guidée : réservation obligatoire, deux participants au minimum",
+    "Animaux domestiques interdits ; les cyclistes viennent avec leur propre vélo",
+    "Si tu demandes à être récupéré en cours de parcours, le site se réserve le droit de facturer par personne (hors urgence ou accident)"
+  ],
+  "tips_md": "À emporter d'après le site : crème solaire, anti-moustiques, eau, chaussures de sport, chapeau, pull ou veste, vêtements de rechange. Pour un budget serré, le sentier libre de 5 ou 8 km coûte moins de la moitié de la visite guidée (Rs 1 150 par adulte, Rs 575 par enfant de 5 à 12 ans ; niveau annoncé 3/5). Numéro d'urgence affiché par le site : 660 1937.",
+  "duration_min": 60,
+  "duration_max": 360,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 500,
+  "price_visitor_mur_max": 1150,
+  "price_resident_mur": 250,
+  "price_note": "Tarifs du site officiel ferney.mu (pages « Hiking Trail », modifiée le 24 septembre 2026, et « Guided Tour », modifiée le 16 juillet 2026 ; pied de page « Copyright Ferney 2026 »). Sentier libre : touristes Rs 500 par adulte, Rs 250 par enfant de 5 à 12 ans ; Mauriciens et résidents Rs 250 par adulte, Rs 100 par enfant. Visite guidée : touristes Rs 1 150 par adulte, Rs 575 par enfant ; résidents Rs 550 et Rs 350. Le minimum (500) est le sentier libre, le maximum (1 150) la visite guidée ; le 4x4 et le safari au crépuscule ne sont pas inclus.",
+  "opening_hours": "Mo-Su 08:30-17:00",
+  "hours_note": "« The reserve is open 7 days a week, from 8:30a.m. to 2p.m for activities and 8:30a.m. to 5p.m. for the reception » (page Hiking Trail, modifiée le 24 septembre 2026). Les départs sur les sentiers s'arrêtent donc à 14 h au plus tard. La page Contact (modifiée en janvier 2023) indique 9 h 30 à 17 h.",
+  "difficulty": null,
+  "accessibility": {
+    "animaux": "Animaux domestiques non autorisés (site officiel)",
+    "velo": "Sentiers praticables à vélo, vélo non fourni (site officiel)"
+  },
+  "best_time": {
+    "moment": "Départ le matin : heures limites de départ entre 10 h 30 et 14 h selon le parcours (site officiel)",
+    "saison": "Accès limité certains jours entre juin et septembre (site officiel)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Vall%C3%A9e%20de%20Ferney",
+      "title": "Nominatim / OpenStreetMap : La Vallée de Ferney",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":2132114198,\"lat\":\"-20.3648477\",\"lon\":\"57.7048401\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-vallee-de-ferney/",
+      "title": "La Vallée de Ferney – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "a forest and wildlife reserve situated in the Bambou Mountain range north of Mahébourg. A must-see site for Mauritian conservation, it comprises 200 hectares of native Mauritian forest and is home is both endemic plants and birds, including the kestrel bird."
+    },
+    {
+      "field": "duration_min, duration_max, description_md, watchouts, likes, best_time",
+      "url": "https://ferney.mu/activities/hiking-trail/",
+      "title": "Hiking Trail – La Vallée de Ferney (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Route 01 5 KM Easy 1 – 1.5 hrs 75m ascent Start by 2:00 pm Sun-exposed path — bring protection. 5 Route 02 8 KM Easy 2 hrs 45 min 178m ascent Start by 12:30 pm Gentle inclines & a viewpoint en route. 8 Route 03 13 KM Medium 3.5 – 4 hrs 530m ascent Start by 11:30 am Stunning landscape views throughout. 13 Route 04 18 KM Difficult 5 – 6 hrs 970m ascent Start by 10:30 am Technical course."
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts, best_time, accessibility",
+      "url": "https://ferney.mu/activities/hiking-trail/",
+      "title": "Hiking Trail – La Vallée de Ferney (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The reserve is open 7 days a week, from 8:30a.m. to 2p.m for activities and 8:30a.m. to 5p.m. for the reception. Access to the valley is limited on certain dates between June and September and in case of private events. We recommend you to book in advance! Should you call for assistance to be picked up, La Vallée de Ferney reserves the right to charge a fee per person This does not apply in case of emergency and/or accident. Domesticated pets are not authorised in the valley."
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_resident_mur, price_note, likes",
+      "url": "https://ferney.mu/activities/hiking-trail/",
+      "title": "Hiking Trail – La Vallée de Ferney (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "PRICE FOR RESIDENTS AND NON- RESIDENTS: Price for Mauritius and local residents: Rs 250 per adult Rs 100 per children (5 to 12 years old) Price for tourists: Rs 500 per adult Rs 250 per children (5 to 12 years old) Cyclists are required to bring their own bicycles. Emergency contact: 660 1937"
+    },
+    {
+      "field": "tips_md, why_go_md, likes, accessibility",
+      "url": "https://ferney.mu/activities/hiking-trail/",
+      "title": "Hiking Trail – La Vallée de Ferney (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Our tours and paths are contained within a secure and well-maintained environment and are best explored by foot or bike*. The plant nursery with its endemic plants, tortoise reserve, deers, pigs and famous kestrel birds are just some of the unusual discoveries you could make along your way! [...] Carry essentials: sunblock lotion, mosquito repellent, water, sneakers/sport shoes, a hat or cap, a sweater or jacket, and a change of clothes."
+    },
+    {
+      "field": "likes",
+      "url": "https://ferney.mu/activities/hiking-trail/",
+      "title": "Hiking Trail – La Vallée de Ferney (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Located only a few minutes away from our trail tracks with a majestic view of the Valley, we offers an authentic local cuisine"
+    },
+    {
+      "field": "price_visitor_mur_max, price_note, likes, watchouts, tips_md",
+      "url": "https://ferney.mu/activities/guided-nature-tours-in-mauritius/",
+      "title": "Guided Tour – La Vallée de Ferney (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Several sessions are available daily (booking is mandatory, minimum of 2 participants): 9.00 a.m | 1.30 p.m Price for Mauritius and local residents: Rs 550 per adult Rs 350 per children (5 to 12 years old) Price for tourists: Rs 1150 per adult Rs 575 per children (5 to 12 years old) Duration: 2 hours (around 3 kms) Difficulty level: 3/5"
+    },
+    {
+      "field": "description_md, why_go_md, likes",
+      "url": "https://ferney.mu/activities/guided-nature-tours-in-mauritius/",
+      "title": "Guided Tour – La Vallée de Ferney (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Our expert and passionate guides will lead you to discover the kestrel bird, the emblematic pink pigeon and even the Mauritian echo parakeet. You will also stumble upon ebony wood, the bois clou, takamaka trees and many other indigenous species. [...] In 1974, only four birds of this species had been identified… Today, there are almost 600 that can be admired every day from within the valley. [...] Look out for when the clock strikes noon and meet us at the Wildlife Sanctuary: you might come across the Mauritian kestrel bird out for a feed."
+    },
+    {
+      "field": "hours_note",
+      "url": "https://ferney.mu/contact/",
+      "title": "Contact – La Vallée de Ferney (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La Vallée de Ferney Open from 9.30 a.m. to 5.00 p.m. B28, Vieux Grand Port Mahébourg, Mauritius 660 1937"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Horaires : la page Hiking Trail (septembre 2026) donne 8 h 30 – 17 h pour l'accueil et 8 h 30 – 14 h pour les activités ; la page Contact (janvier 2023) donne 9 h 30 – 17 h. La plus récente a été retenue pour opening_hours.",
+    "Durées : la page Guided Tour donne d'autres fourchettes pour les mêmes sentiers (5 km : 1 h 30 à 2 h 30 ; 13 km : 2 h 30 à 4 h ; 18 km : 3 h 30 à 5 h). Les durées de la page Hiking Trail, plus récente, ont été retenues.",
+    "« Près de 600 crécerelles » : la phrase du site est ambiguë (population totale de l'espèce ou oiseaux visibles dans la vallée ?). Chiffre attribué au site, à vérifier.",
+    "difficulty laissé à null : elle va de « facile » à « difficile » selon le parcours ; seule la visite guidée est notée 3/5 par le site.",
+    "Ouverture et accès pendant les fêtes (25 décembre, 1er et 2 janvier) et événements privés éventuels : à vérifier par téléphone (660 1937).",
+    "Tarifs du 4x4, du safari au crépuscule et du restaurant : non relevés.",
+    "Nom français « grosse cateau verte » pour le Mauritian echo parakeet : traduction usuelle du rédacteur, à valider.",
+    "Photos : une seule image Commons trouvée (vente de plantes à Ferney), peu représentative et non retenue ; media reste vide."
+  ],
+  "website_url": "https://ferney.mu/",
+  "secret": null
+}

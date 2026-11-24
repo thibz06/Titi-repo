@@ -1,0 +1,96 @@
+{
+  "slug": "blue-bay",
+  "name": "Blue Bay (plage et parc marin)",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "sud_est",
+  "locality": "Blue Bay",
+  "lat": -20.4430412,
+  "lng": 57.7163465,
+  "coords_source_url": "https://photon.komoot.io/api/?q=Blue%20Bay%20public%20beach&lat=-20.45&lon=57.6&limit=6",
+  "google_place_id": null,
+  "pitch": "Plage de sable blanc sous les filaos, collée à un parc marin protégé : coraux et poissons se voient à quelques mètres du bord.",
+  "description_md": "Blue Bay est une plage publique du sud-est, à l'eau très bleue et au sable blanc, ombragée par des filaos. Elle jouxte le Blue Bay Marine Park, zone marine protégée inscrite comme site Ramsar : la fiche Ramsar y recense 38 espèces de coraux, environ 72 espèces de poissons et la tortue verte, et précise que le parc touche la plage, à 5 mètres. L'office du tourisme (MTPA) décrit un jardin de coraux-cerveaux et des eaux calmes, peu profondes et claires, adaptées au snorkeling.",
+  "why_go_md": "Pour nager et observer les fonds sans aller loin : selon l'office du tourisme, il suffit d'entrer dans l'eau depuis la plage pour voir labres, poissons-clowns, poissons-anges, coraux et herbiers. Les bateaux à fond de verre montrent le parc sans se mouiller.",
+  "likes": [
+    "Snorkeling depuis la plage, dans des eaux calmes et peu profondes (office du tourisme)",
+    "Sorties en bateau à fond de verre au-dessus du jardin de corail",
+    "Ombre des filaos ; vendeurs de cuisine de rue sur la plage",
+    "Calme en semaine ; le week-end, les familles mauriciennes viennent pique-niquer en musique"
+  ],
+  "watchouts": [
+    "Le week-end, la plage est animée et fréquentée : viens en semaine pour le calme (office du tourisme)",
+    "Zone protégée : le parc est régi par un règlement spécifique (Fisheries and Marine Regulations de 2001) et patrouillé chaque jour ; la plongée n'y est ouverte qu'aux plongeurs certifiés (fiche Ramsar)"
+  ],
+  "tips_md": "Apporte masque et tuba. Les règles détaillées du parc marin (zones de baignade, ancrage, pêche, nourrissage) n'ont pas pu être lues à la source : regarde les panneaux sur place et ne touche pas le corail.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "L'office du tourisme (Mauritius Now) la présente comme l'une des meilleures portions de rivage de l'île et l'un des meilleurs endroits pour une sortie en bateau à fond de verre ; le parc marin voisin est un site Ramsar.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://photon.komoot.io/api/?q=Blue%20Bay%20public%20beach&lat=-20.45&lon=57.6&limit=6",
+      "title": "Photon (données OpenStreetMap) : Blue Bay Public Beach, Pointe d’Esny Public Beach",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_id\":10148601402 [...] \"name\":\"Blue Bay Public Beach\" [...] \"district\":\"Blue Bay\""
+    },
+    {
+      "field": "description_md, pitch, likes, watchouts, rarity",
+      "url": "https://mauritiusnow.com/blog/things-to-do/blue-bay-beach/",
+      "title": "Blue Bay Beach – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Dazzling blue water and soft white sand, Blue Bay Beach is one of the best stretches of shoreline in Mauritius. You can admire all the hues of blues in the lagoon and deeper ocean from under shady casuarina trees, heading there on a weekday for some quiet time with a good book or at the weekends to join the locals for lively music and a picnic."
+    },
+    {
+      "field": "likes, rarity, why_go_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/blue-bay-beach/",
+      "title": "Blue Bay Beach – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "It’s also one of the best places to go on a glass-bottomed boat tour, as this is where you will find Blue Bay Marine Park. [...] Simply wade out from Blue Bay Beach and see wrasse, clownfish, angelfish, coral, seagrasses and more. When you get peckish, visit one of Blue Bay Beach’s food vendors for some local street food."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/blue-bay-marine-park/",
+      "title": "Blue Bay Marine Park – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Located off the southeast coast of Mauritius, this protected marine reserve is the perfect place for snorkelling due to its calm, shallow waters and clear visibility. Enter the water and spot a brain coral garden teeming with butterfly fish and damselfish or admire it all from the comfort of a glass-bottom boat."
+    },
+    {
+      "field": "description_md, pitch, watchouts, rarity",
+      "url": "https://rsis.ramsar.org/ris/1744",
+      "title": "Blue Bay Marine Park – Ramsar Sites Information Service (site n° 1744)",
+      "accessed_at": "2026-11-21",
+      "evidence": "especially its coral diversity (38 coral species representing 28 genera and 15 families). [...] make it a habitat for about 72 fish species and the endangered green turtle [...] This site adjoins the popular Blue Bay Beach, 5 metres away [...] Threats posed to the coral ecosystem by diving activities are controlled by allowing only certified divers to operate in the area. Management of Marine Protected Areas is ensured by the Fisheries and Marine Regulations of 2001, which makes special provisions for this site. [...] daily patrols are conducted to enforce the regulations."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Gratuité de la plage publique et du stationnement : non sourcée ; price_kind reste à null. Prix des bateaux à fond de verre : non sourcés (prestataires privés).",
+    "Règlement du parc marin (permis, zones, interdictions) : non lu à la source officielle. La fiche Ramsar date de 2008.",
+    "État actuel des coraux : non vérifié (blanchissement, suites de la marée noire du Wakashio en 2020 : aucune source lue).",
+    "Coordonnées : nœud OSM « Blue Bay Public Beach » ; OSM place aussi un point « Blue Bay Marine Park » vers -20.4451, 57.7100.",
+    "Baignade surveillée ou non, équipements (toilettes, douches) : non sourcés ; la Beach Authority n'a pas pu être consultée.",
+    "Photos : API Wikimedia Commons en limite de débit (429) ; media reste vide."
+  ],
+  "website_url": null,
+  "secret": null
+}

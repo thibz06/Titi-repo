@@ -1,0 +1,254 @@
+{
+  "slug": "slave-route-monument-le-morne",
+  "name": "Monument international de la Route de l'esclave (Le Morne)",
+  "family": "culture_patrimoine",
+  "tags": [
+    "insolite"
+  ],
+  "region": "sud_ouest",
+  "locality": "Le Morne",
+  "lat": -20.4523482,
+  "lng": 57.314412,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Slave%20Route%20Monument&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Dix pierres sculptées par des artistes de dix pays, disposées en boussole au pied du Morne, en mémoire des esclaves et des marrons.",
+  "description_md": "Le Monument international de la Route de l'esclave (International Slave Route Monument) a été dévoilé le 1er février 2009 au pied du Morne Brabant, en face de la plage publique du Morne. Il se compose d'une roche centrale entourée de pierres sculptées plus petites, qui rappellent les lieux d'où des esclaves ont été capturés et envoyés vers Maurice ou d'autres destinations. Les pierres ont été taillées par des sculpteurs de plusieurs pays et l'ensemble dessine une boussole, tournée vers Madagascar et l'Afrique.",
+  "why_go_md": "Pour comprendre pourquoi le Morne est classé au patrimoine mondial : la montagne a servi de refuge aux esclaves en fuite, les marrons, aux XVIIIe et XIXe siècles, et le monument en est le lieu de mémoire. La visite se combine facilement avec la plage publique, juste en face, ou avec le sentier du Morne.",
+  "likes": [
+    "Dix sculptures signées d'artistes de Maurice, La Réunion, Madagascar, Mozambique, Haïti, Sénégal, France, Inde, Chine et Malaisie",
+    "Plan en forme de boussole, orienté vers Madagascar et l'Afrique",
+    "Le « Phénix Rouge », fait de pièces mauriciennes de 5 sous",
+    "Au pied du Morne Brabant, bien inscrit au patrimoine mondial de l'UNESCO depuis 2008"
+  ],
+  "watchouts": [
+    "Lieu de mémoire où se tiennent des cérémonies officielles, notamment autour du 1er février (commémoration de l'abolition de l'esclavage, jour férié)",
+    "Le dépliant 2019 du Trust Fund indique que le monument est fermé les jours fériés (à confirmer)"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": "Le dépliant « Discovering Le Morne Cultural Landscape » (Le Morne Heritage Trust Fund, 2019) donne des horaires dont la mise en page est ambiguë : « Monday to Saturday: 09.30 hrs – 15.45 hrs », « Saturday: 09.30 hrs – 14.45 hrs », « Sunday: 09.00 hrs – 11.45 hrs », et « The International Slave Route Monument is closed on Public Holidays ». Non confirmé pour 2026 : opening_hours laissé vide.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "insolite",
+  "rarity_reason": "Ensemble de dix sculptures taillées par des artistes de plusieurs pays et disposées en boussole, d'après le dépliant du Le Morne Heritage Trust Fund.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Slave%20Route%20Monument&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap — recherche « Slave Route Monument »",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":1004715010,\"lat\":\"-20.4523482\",\"lon\":\"57.3144120\",\"category\":\"leisure\",\"type\":\"park\""
+    },
+    {
+      "field": "description_md, pitch, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "On the 1st February 2009, the International Slave Route Monument (ISRM) was formally [...] unveiled at the foot of Le Morne Brabant Mountain. It is a tangible symbol of the history"
+    },
+    {
+      "field": "description_md, pitch, likes, rarity, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "central monument, surrounded by smaller stone sculptures which recall the different places [...] from where slaves were captured and shipped to Mauritius, and onward to other destinations. [...] The main stone and the surrounding stones were carved by sculptors from various countries."
+    },
+    {
+      "field": "description_md, likes, rarity, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "The ISRM design is an abstract one, denoting a ‘compass’ that conveys directions to the points"
+    },
+    {
+      "field": "description_md, likes, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "area of the landscape because of the linear connection between the sea, the beach, a historical [...] monument was designed facing Madagascar and Africa beyond."
+    },
+    {
+      "field": "secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "and legendary place called Belle Vue (“Valley of Bones”) and the West Cliff face towards the"
+    },
+    {
+      "field": "likes, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Mr. Ndary Lo (Senegal) Mr Lionel Sabatté (France) Professor Pandeya Rajivanayan (Rep. of India)"
+    },
+    {
+      "field": "likes, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Mr. Jorge Jose Munguambe (Mozambique) Mr. Jean Michel Hotentote (Mauritius) Mrs. Dolaine Fuma Courtis (Réunion Island)"
+    },
+    {
+      "field": "likes, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Mr. J.Rabemananjara [...] Professor Nanpeng Zhuang (Republic of China) [...] Mr. Zul Bin Idris (Malaysia) [...] Mr. Fritz Laratte"
+    },
+    {
+      "field": "secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "The central rock shows a slave emerging from the stone trying [...] origin, Madagascar."
+    },
+    {
+      "field": "likes, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "The design of the sculpture, made of 5 cent coins of [...] earth of Mauritius."
+    },
+    {
+      "field": "secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "The sculpture shows three caves and inside each one [...] The sculpture symbolizes liberation"
+    },
+    {
+      "field": "secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "The practice of slavery was enforced in Mauritius from 1638 to 1835, covering the Dutch, French and early British occupations."
+    },
+    {
+      "field": "secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "that around 12% of the slaves’ population were permanently on the run. [...] By the end of the French occupation, there were 80,000 slaves in Isle de France."
+    },
+    {
+      "field": "secret, watchouts",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "in Mauritius, Rodrigues and Seychelles on the 1st of February 1835."
+    },
+    {
+      "field": "secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Le-Morne-Slave-Route-2018.pdf",
+      "title": "The International Slave Route Monument (dépliant PDF, 2018) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "The project was launched officially in September 1994 in Ouidah, Benin [...] In 2004, UNESCO launched an initiative to illustrate the links between the Mascarenes, the"
+    },
+    {
+      "field": "why_go_md, likes, secret",
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D1259&limit=1",
+      "title": "UNESCO World Heritage List, bien 1259 « Le Morne Cultural Landscape » (portail de données ouvertes de l’UNESCO)",
+      "accessed_at": "2026-11-21",
+      "evidence": "was used as a shelter by runaway slaves, maroons, through the 18th and early years of the 19th centuries. Protected by the mountain’s isolated, wooded and almost inaccessible cliffs, the escaped slaves formed small settlements in the caves and on the summit of Le Morne."
+    },
+    {
+      "field": "secret",
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D1259&limit=1",
+      "title": "UNESCO World Heritage List, bien 1259 « Le Morne Cultural Landscape » (portail de données ouvertes de l’UNESCO)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Mauritius, an important stopover in the eastern slave trade, also came to be known as the “Maroon republic” because of the large number of escaped slaves who lived on Le Morne Mountain."
+    },
+    {
+      "field": "secret",
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D1259&limit=1",
+      "title": "UNESCO World Heritage List, bien 1259 « Le Morne Cultural Landscape » (portail de données ouvertes de l’UNESCO)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The mountain is an exceptional testimony to maroonage or resistance to slavery in terms of it being used as a fortress for the shelter of escaped slaves, with evidence to support that use."
+    },
+    {
+      "field": "likes, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/?page_id=1269",
+      "title": "Le Morne — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Following its inscription on the United Nations Educational, Scientific and Cultural Organisation (UNESCO) World Heritage List on 10th July 2008,"
+    },
+    {
+      "field": "secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2024/06/General-practical-information.pdf",
+      "title": "General practical information for visitors (PDF, mai 2024) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Valley of the Bones also known as Belle Vue was the cliff at the foot of the mountain where maroons would have landed after having jumped off from the summit of Le Morne Brabant Mountain instead of being recaptured."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.expat.com/en/expat-mag/8869-the-morne-brabant-reopening-of-a-hiking-route-and-15th-anniversary-of-being-a-world-heritage-site.html",
+      "title": "The Morne Brabant: Reopening of a hiking route and 15th anniversary of being a World Heritage Site — Expat.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "While this story is considered a legend without concrete evidence, it is essential to remember that the Maroons were indeed persecuted, often with bounties on their heads."
+    },
+    {
+      "field": "description_md, why_go_md, secret",
+      "url": "https://www.expat.com/en/expat-mag/8869-the-morne-brabant-reopening-of-a-hiking-route-and-15th-anniversary-of-being-a-world-heritage-site.html",
+      "title": "The Morne Brabant: Reopening of a hiking route and 15th anniversary of being a World Heritage Site — Expat.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "a wreath-laying ceremony took place on July 10 at the International Slave Route Monument, situated opposite Le Morne public beach."
+    },
+    {
+      "field": "secret",
+      "url": "https://thecommonwealth.org/news/commonwealth-secretary-general-pays-tribute-slaves-who-sought-freedom-le-morne",
+      "title": "Commonwealth Secretary-General pays tribute to slaves who sought freedom in Le Morne — Commonwealth (26 juillet 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "who attended a special ceremony held on 25 July 2023 to commemorate the 15th anniversary of Le Morne’s designation as a UNESCO World Heritage Site. [...] Standing at the International Slave Route Monument, she said"
+    },
+    {
+      "field": "watchouts, secret",
+      "url": "https://mauritiusnow.com/things-to-do/festivals-in-mauritius/",
+      "title": "Festivals in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Commemoration of the Abolition of Slavery is a public holiday observed on 1 February. [...] You can find the Slave Route Monument at the foot of Le Morne, which is the symbol of the suffering and fight for freedom that enslaved people went through."
+    },
+    {
+      "field": "watchouts, hours_note",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2023/06/Discovering-Le-Morne-Cultural-Landscape-2019.pdf",
+      "title": "Discovering Le Morne Cultural Landscape (dépliant PDF, 2019) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "is closed on Public Holidays. The International Slave Route Monument"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Atlas Obscura a une page sur ce monument (atlasobscura.com/places/le-morne-slave-route-monument), mais le site a répondu 403 (blocage Cloudflare) : non lue, non utilisée. Le site whc.unesco.org a lui aussi répondu 403 ; les textes UNESCO viennent du portail de données ouvertes data.unesco.org.",
+    "L'ancien site lemorneheritage.org renvoie une page vide (protection anti-robots) ; les informations viennent du site officiel hébergé par le gouvernement, lemorneheritage.govmu.org.",
+    "Horaires : seule source, un dépliant de 2019 dont la mise en page mélange les lignes (deux mentions du samedi). opening_hours laissé à null ; à confirmer auprès du Le Morne Heritage Trust Fund (tél. 451 5759).",
+    "Prix d'entrée : aucune source consultée ne mentionne de tarif ni de gratuité ; price_kind reste à null.",
+    "Durée de visite : aucune source.",
+    "Le dépliant est un PDF en colonnes : les extraits cités dans « evidence » sont des fragments contigus du texte extrait, parfois coupés en fin de ligne.",
+    "The National (2025) et le dépliant comptent dix sculptures ; d'autres sites parlent d'une pierre centrale et de neuf pierres, ce qui revient au même.",
+    "Aucune photo sous licence libre trouvée sur Wikimedia Commons pendant la session (recherche sans résultat pertinent) : media vide.",
+    "legal_access_checked reste false : l'accès public au jardin du monument n'a pas été confirmé par une source datée de 2026."
+  ],
+  "website_url": "https://lemorneheritage.govmu.org/lmh/",
+  "secret": {
+    "story_md": "Au pied de la falaise ouest du Morne, en face de la plage publique, dix pierres sculptées sont disposées dans un jardin. Le Monument international de la Route de l'esclave a été dévoilé le 1er février 2009, un an après l'inscription du Paysage culturel du Morne au patrimoine mondial. La date n'a rien d'un hasard : l'esclavage a été formellement aboli à Maurice, à Rodrigues et aux Seychelles le 1er février 1835, et le 1er février est aujourd'hui un jour férié de commémoration.\n\nLe lieu non plus n'a pas été choisi au hasard. D'après l'UNESCO, cette montagne qui s'avance dans l'océan a servi de refuge aux esclaves en fuite, les marrons, pendant tout le XVIIIe siècle et les premières années du XIXe. Protégés par des falaises boisées presque inaccessibles, ils ont formé de petits établissements dans les grottes et au sommet. Maurice, escale importante de la traite orientale, a même été surnommée la « République des marrons ». Le Le Morne Heritage Trust Fund, qui gère le site, précise que le monument a été placé là à cause de la ligne qui relie la mer, la plage, le lieu-dit Belle Vue, appelé « Vallée des ossements », la falaise ouest et les passes du récif par lesquelles des esclaves tentaient de gagner le large et Madagascar. L'ensemble a été orienté face à Madagascar, et à l'Afrique au-delà.\n\nLe dessin est abstrait : une boussole. Une roche centrale est entourée de pierres plus petites qui indiquent les lieux où des esclaves ont été capturés, puis embarqués vers Maurice ou vers d'autres destinations. Les pierres ont été taillées par des sculpteurs de plusieurs pays. La roche centrale, « Escape », est l'œuvre du Mauricien Jean Michel Hotentote : un esclave émerge de la pierre et tente de s'échapper en direction de Madagascar, son pays d'origine. Autour, on trouve la « Porte de la Liberté » de Dolaine Fuma Courtis (La Réunion), « Résistance » de J. Rabemananjara (Madagascar), « Down with Slavery » de Jorge Jose Munguambe (Mozambique), « L'Homme a prié pour que la chaîne soit brisée » de Fritz Laratte (Haïti), la « Voile de la Liberté » de Ndary Lo (Sénégal), le « Phénix Rouge » de Lionel Sabatté (France), « Flight for Freedom » du professeur Pandeya Rajivanayan (Inde), « New Born » du professeur Nanpeng Zhuang (Chine) et « The caves (Al-Kafi) » de Zul Bin Idris (Malaisie).\n\nCertains détails demandent de s'approcher. Le Phénix Rouge est fait de pièces mauriciennes de 5 sous : l'oiseau s'envole du rocher vers la liberté, et son rouge renvoie à la terre de l'île. La sculpture malaisienne creuse trois grottes où se tiennent des silhouettes humaines. Celle de Fritz Laratte symbolise la libération de l'esclavage.\n\nLe dépliant du Trust Fund rappelle ce que le monument commémore. L'esclavage a été pratiqué à Maurice de 1638 à 1835, sous les Hollandais, les Français puis les premiers temps de l'occupation britannique. À la fin de la période française, l'Isle de France comptait 80 000 esclaves, et l'on estime qu'environ 12 % de la population servile vivait en fuite permanente.\n\nReste le récit le plus connu du Morne. La tradition veut que des marrons se soient jetés du haut de la montagne plutôt que d'être repris ; le Trust Fund présente la Vallée des ossements comme le pied de falaise où ils « auraient » atterri, au conditionnel. Une version fixe la scène au 1er février 1835, à l'arrivée d'une expédition venue annoncer l'émancipation : le magazine Expat.com la présente comme une légende sans preuve concrète, tout en rappelant que les marrons ont bel et bien été pourchassés. Ce qui est établi, selon l'UNESCO, c'est l'usage de la montagne comme forteresse des fugitifs, attesté par des traces matérielles et par la tradition orale.\n\nLe monument s'inscrit dans un programme plus large : le projet « La Route de l'esclave » de l'UNESCO, lancé officiellement en septembre 1994 à Ouidah, au Bénin, puis décliné à partir de 2004 pour l'océan Indien. Le lieu sert aux cérémonies officielles : gerbes déposées le 10 juillet 2023 pour les quinze ans de l'inscription, hommage de la secrétaire générale du Commonwealth le 25 juillet 2023.",
+    "why_unknown_md": null,
+    "access_md": "Le monument se trouve au pied du Morne Brabant, en face de la plage publique du Morne (source : Expat.com, 2023 ; dépliant du Le Morne Heritage Trust Fund). Aucune source consultée ne décrit le stationnement ni le cheminement.",
+    "precautions_md": null,
+    "legal_access_checked": false
+  }
+}

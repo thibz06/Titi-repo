@@ -19,17 +19,19 @@
     "Vue sur l'activité du port depuis les quais",
     "Caudan Arts Centre : expositions, théâtre, concerts"
   ],
-  "watchouts": [],
-  "tips_md": null,
+  "watchouts": [
+    "Blue Penny Museum fermé le dimanche, les jours fériés et du 1er au 3 janvier ; fermeture à 13 h les 24 et 31 décembre (site du musée)"
+  ],
+  "tips_md": "Blue Penny Museum (site officiel du musée, consulté le 21 novembre 2026) : ouvert du lundi au samedi de 9 h 30 à 16 h, fermé les dimanches et jours fériés ; fermeture à 13 h les 24 et 31 décembre, fermé du 1er au 3 janvier. Les timbres « Post Office » ne sont éclairés que dix minutes par heure, au quart de chaque heure : cale ton arrivée dessus. Photos autorisées sauf dans la salle des timbres.",
   "duration_min": null,
   "duration_max": null,
   "price_kind": null,
   "price_visitor_mur_min": null,
   "price_visitor_mur_max": null,
   "price_resident_mur": null,
-  "price_note": null,
+  "price_note": "Accès au front de mer : aucune source lue ne dit s'il est libre. Blue Penny Museum (tarifs du site officiel du musée, sans date, consulté le 21 novembre 2026) : non-résidents, adulte Rs 325, enfant ou étudiant Rs 200, famille (2 adultes + 2 enfants) Rs 820 ; résidents, adulte Rs 50.",
   "opening_hours": null,
-  "hours_note": null,
+  "hours_note": "Horaires des boutiques non relevés (caudan.com refuse les requêtes automatisées). Blue Penny Museum : lundi au samedi 9 h 30-16 h, fermé dimanches et jours fériés, fermeture à 13 h les 24 et 31 décembre, fermé du 1er au 3 janvier (site du musée, consulté le 21 novembre 2026).",
   "difficulty": null,
   "accessibility": null,
   "best_time": null,
@@ -99,6 +101,34 @@
       "title": "Discover the stunning capital of Mauritius now! (MTPA)",
       "accessed_at": "2026-11-21",
       "evidence": "The Caudan Waterfront is a great place to start exploring Port Louis, as there is plenty of parking and it’s an easy walk to shop-lined walkways where colourful umbrellas hang overhead. [...] Caudan Arts Centre, a cultural hub that offers art exhibitions, theatre productions and music concerts."
+    },
+    {
+      "field": "tips_md, hours_note, watchouts",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Opening Hours 9.30 a.m. to 4:00 p.m., Monday through Saturday Closed on Sundays and Public Holidays The museum closes exceptionally at 1 p.m. on 24th and 31st December. The museum remains closed on 1st to 3rd January."
+    },
+    {
+      "field": "tips_md",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Photography is allowed inside the museum except in the Stamps room. The Post Office stamps are only visible for 10 minutes on the quarter past the hour of every opening hour."
+    },
+    {
+      "field": "price_note",
+      "url": "https://bluepenny.museum/",
+      "title": "Blue Penny Museum | Art & History of Mauritius (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Entry Fees Non-Residents Adult: Rs. 325 Children/Student: Rs. 200 Family (2 adults + 2 children): Rs. 820 Residents Adult: Rs. 50"
+    },
+    {
+      "field": "likes",
+      "url": "https://aapravasi.govmu.org/aapravasi/?page_id=816",
+      "title": "Plan Your Visit | Aapravasi Ghat Trust Fund (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Aapravasi Ghat World Heritage Site visitors can park their vehicles at the Granary or at Le Caudan Waterfront."
     }
   ],
   "media": [
@@ -112,10 +142,12 @@
     }
   ],
   "open_questions": [
-    "Site officiel caudan.com inaccessible pendant la rédaction (réponse « 403 Forbidden » aux requêtes automatisées) : horaires des boutiques, tarifs du parking, horaires et prix du Blue Penny Museum non relevés.",
     "L'accès au front de mer est vraisemblablement libre, mais ce n'est écrit dans aucune source lue : price_kind reste à null.",
     "Famille : villages_marches retenu faute de catégorie « shopping » ; à trancher par l'éditeur.",
     "La liste des commerces (cinémas, casino, hôtel) vient de Wikipédia et peut dater : à vérifier sur le site officiel.",
-    "La photo de couverture (2009, vue de Port-Louis) est l'image principale de Wikidata ; son contenu exact n'a pas été visualisé, à contrôler avant publication."
-  ]
+    "La photo de couverture (2009, vue de Port-Louis) est l'image principale de Wikidata ; son contenu exact n'a pas été visualisé, à contrôler avant publication.",
+    "caudan.com répond toujours « 403 Forbidden » aux requêtes automatisées (21 novembre 2026) : horaires des boutiques et tarifs du parking non relevés. Les horaires et prix du Blue Penny Museum viennent du site du musée (bluepenny.museum), dont la page affiche aussi une fermeture datée du 13 décembre 2025 : les fermetures de fin d'année sont donc peut-être celles de 2025-2026, à reconfirmer.",
+    "website_url renseigné avec https://www.caudan.com/ : l'hôte existe mais son contenu n'a pas pu être lu (403)."
+  ],
+  "website_url": "https://www.caudan.com/"
 }

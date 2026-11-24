@@ -10,13 +10,14 @@
   "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=mu&q=Central%20Market%2C%20Port%20Louis",
   "google_place_id": null,
   "pitch": "Le « bazar » de Port-Louis : fruits, légumes, épices, cuisine de rue et artisanat à l'étage, à deux pas du Caudan.",
-  "description_md": "Le marché central de Port-Louis, aussi appelé « Bazar Port-Louis », est le marché où les habitants de la capitale font leurs courses : fruits et légumes au rez-de-chaussée, artisanat local au premier étage, vêtements et sacs sur les étals à l'extérieur. Il se trouve à côté de Chinatown et à courte distance à pied du Caudan Waterfront. Selon la presse, 3 000 à 4 000 personnes le fréquentent chaque jour.",
+  "description_md": "Le marché central de Port-Louis, aussi appelé « Bazar Port-Louis », est le marché où les habitants de la capitale font leurs courses : fruits et légumes au rez-de-chaussée, artisanat local au premier étage, vêtements et sacs sur les étals à l'extérieur. Il se trouve à côté de Chinatown et à courte distance à pied du Caudan Waterfront. Selon la presse, 3 000 à 4 000 personnes le fréquentent chaque jour. Le marché et ses ouvrages de pierre et de fer figurent sur la liste des sites du patrimoine national.",
   "why_go_md": "Pour voir un marché fréquenté par les Port-Louisiens et goûter la cuisine de rue : samoussas, dholl puri, pâtisseries et alouda, la boisson lactée de l'île, sont cités par l'office du tourisme mauricien.",
   "likes": [
     "Étals de fruits et légumes tropicaux",
     "Kiosques de cuisine de rue : samoussas, dholl puri, alouda",
     "Artisanat local au premier étage",
-    "Proche de Chinatown et du Caudan Waterfront, à combiner à pied"
+    "Proche de Chinatown et du Caudan Waterfront, à combiner à pied",
+    "Bâtiment classé : le marché et ses ouvrages de pierre et de fer sont inscrits au patrimoine national (National Heritage Fund)"
   ],
   "watchouts": [
     "Marché animé : les marchands interpellent les passants et annoncent leurs prix à la criée",
@@ -88,6 +89,13 @@
       "title": "Port-Louis : l’état du marché central au cœur d’une polémique | Defimedia (1er juin 2023)",
       "accessed_at": "2026-11-21",
       "evidence": "Tout d’abord, il y a des toilettes payantes au rez-de-chaussée."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://nhf.govmu.org/nhf/?page_id=709",
+      "title": "National Heritage Sites – Port Louis | National Heritage Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "7. Central Market [...] 80. The Stone and Iron Works of Port Louis Market (Marché Central)"
     }
   ],
   "media": [
@@ -101,10 +109,11 @@
     }
   ],
   "open_questions": [
-    "Horaires d'ouverture : aucune source officielle trouvée (pas de site propre au marché ; site de la mairie non consulté, hôte non autorisé). opening_hours reste à null.",
     "Entrée vraisemblablement libre (marché public) mais non écrite dans une source officielle : price_kind reste à null.",
-    "Histoire du bâtiment (date de construction, incendie évoqué par la presse) non sourcée : aucun article Wikipédia dédié n'a été trouvé.",
     "Coordonnées : OpenStreetMap découpe le marché en plusieurs bâtiments (fruits et légumes, épices, viandes) ; le point retenu est le polygone « Central Market » (way 159257749).",
-    "La polémique sur la propreté date de juin 2023 : état actuel à vérifier sur place."
-  ]
+    "La polémique sur la propreté date de juin 2023 : état actuel à vérifier sur place.",
+    "Horaires d'ouverture : toujours aucune source officielle le 21 novembre 2026. Le site de la mairie de Port-Louis (mccpl.mu) a été consulté : il ne présente le marché que dans une galerie photo « Heritage Sites », sans horaires. opening_hours reste à null.",
+    "Histoire du bâtiment (date de construction, incendie évoqué par la presse) : non sourcée. Seul le classement au patrimoine national est confirmé (liste du National Heritage Fund)."
+  ],
+  "website_url": null
 }
