@@ -1,0 +1,99 @@
+{
+  "slug": "world-of-seashells",
+  "name": "World of Seashells",
+  "family": "culture_patrimoine",
+  "tags": [
+    "famille"
+  ],
+  "region": "sud",
+  "locality": "Bel Ombre",
+  "lat": -20.5047007,
+  "lng": 57.4117423,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Place+du+Moulin%2C+Bel+Ombre&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Musée de coquillages de Bel Ombre : 8 000 spécimens de 1 500 espèces, et un mini-laboratoire pour les enfants.",
+  "description_md": "World of Seashells est un musée installé à la Place du Moulin, à Bel Ombre. Il présente environ 8 000 spécimens appartenant à 1 500 espèces et 150 familles, venus du monde entier ; l'office du tourisme et l'exploitant parlent de la plus grande collection de coquillages d'Afrique. C'est l'œuvre d'un collectionneur mauricien qui l'a héritée de ses parents.",
+  "why_go_md": "Pour une visite à l'abri, variée et adaptée aux enfants : démonstrations numériques et à la loupe, explications sur le nombre d'or dans la forme des coquilles, usages des coquillages dans l'histoire, mythes et légendes. Un mini-laboratoire propose des activités aux plus jeunes, et une boutique vend bijoux et objets décoratifs.",
+  "likes": [
+    "8 000 spécimens de 1 500 espèces, de toutes formes, couleurs et tailles",
+    "Mini-laboratoire avec activités pour les enfants",
+    "Démonstrations numériques et à la loupe",
+    "Boutique du musée"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Page Heritage Resorts (sans date, consultée le 24 novembre 2026) : « as from €7 » par adulte, « as from €3.50 » par enfant de 5 à 11 ans, gratuit pour les moins de 5 ans. Prix en roupies non trouvés.",
+  "opening_hours": "Mo-Sa 09:00-17:00; Su,PH 09:00-16:00",
+  "hours_note": "Selon la page Heritage Resorts (sans date, consultée le 24 novembre 2026) : dernière entrée à 16 h du lundi au samedi, à 15 h le dimanche et les jours fériés.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Place+du+Moulin%2C+Bel+Ombre&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Place du Moulin, Bel Ombre »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 11780774569 (tourism=attraction) « Place du Moulin » : lat -20.5047007, lon 57.4117423"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://heritageresorts.mu/things-to-do-mauritius/world-of-seashells",
+      "title": "World of Seashells: The Largest Seashell Museum in Mauritius (Heritage Resorts)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Located at Place du Moulin, Bel Ombre, the World of Seashells houses the largest seashell collection in Africa. [...] World of Seashells in Bel Ombre, Mauritius houses 8,000 specimens pertaining to 1500 species and 150 families from across the globe."
+    },
+    {
+      "field": "description_md, why_go_md, likes, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/world-of-seashells-museum/",
+      "title": "World of Seashells Museum (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The collection has 8000 specimens from 1500 species across the planet. It’s the life’s work of a passionate Mauritian conchophile who inherited it from his parents. [...] Little explorers can design their own shells at the mini children’s laboratory, too."
+    },
+    {
+      "field": "why_go_md, likes, tags",
+      "url": "https://heritageresorts.mu/plan-stay-mauritius/once-upon-time-wonderful-world-shells",
+      "title": "World of Seashells Museum | Unique Experience in Mauritius (Heritage Resorts)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Discover the perfect proportions of the golden ratio in the fragile forms of shells, as mathematicians explain their mysteries. With digital and magnifying glass demonstrations, curious minds can explore the miraculous structures of shells. A mini laboratory also offers fun activities for all ages. Take a souvenir of your visit home with you from the museum shop [...] An educational and entertaining experience for young and old alike."
+    },
+    {
+      "field": "opening_hours, hours_note",
+      "url": "https://heritageresorts.mu/plan-stay-mauritius/once-upon-time-wonderful-world-shells",
+      "title": "World of Seashells Museum | Unique Experience in Mauritius (Heritage Resorts)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Monday to Saturday: 9:00 a.m. - 5:00 p.m. Sunday and Public Holiday: 9:00 a.m. - 4:00 p.m. [...] Mon - Sat: 9 a.m. - 5 p.m. (last entrance 4pm) Sun & Public Holidays: 9 a.m. - 4 p.m.(last entrance 3 p.m.)"
+    },
+    {
+      "field": "price_kind, price_note",
+      "url": "https://heritageresorts.mu/plan-stay-mauritius/once-upon-time-wonderful-world-shells",
+      "title": "World of Seashells Museum | Unique Experience in Mauritius (Heritage Resorts)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Adult Price: as from €7 / per adult Child Price: as from €3.50 / per child (5-11 years old) & Child under 5: Free"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix en roupies : non trouvés (la billetterie en ligne rezdy.com bloque les robots, erreur 403). La page Heritage Resorts donne seulement des prix « à partir de » en euros, sans date.",
+    "Horaires : page Heritage Resorts sans date affichée ; à confirmer pour les jours fériés de fin d'année.",
+    "Pas de site propre au musée trouvé ; `website_url` pointe vers la page de l'exploitant (Heritage Resorts)."
+  ],
+  "website_url": "https://heritageresorts.mu/things-to-do-mauritius/world-of-seashells",
+  "secret": null
+}

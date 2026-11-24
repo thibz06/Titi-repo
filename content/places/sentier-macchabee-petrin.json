@@ -1,0 +1,73 @@
+{
+  "slug": "sentier-macchabee-petrin",
+  "name": "Sentier Macchabée depuis Pétrin",
+  "family": "randos_sommets",
+  "tags": [
+    "famille"
+  ],
+  "region": "sud_ouest",
+  "locality": null,
+  "lat": -20.394044,
+  "lng": 57.4387122,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Machab%C3%A9e+Trail&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Boucle forestière presque plate dans le parc national, au départ du centre d'accueil de Pétrin : 9 km, deux à trois heures.",
+  "description_md": "Le sentier Macchabée part du centre d'accueil des visiteurs de Pétrin, dans le parc national des Gorges de Rivière Noire. D'après l'office du tourisme, il est presque plat sur tout le parcours : 9 kilomètres, deux à trois heures. Il passe sous des arbres enchevêtrés et longe des buissons de goyaves de Chine, avant un belvédère sur les montagnes vertes et, au loin, la mer.",
+  "why_go_md": "Pour une vraie marche en forêt sans dénivelé marqué, accessible en famille, avec une vue en récompense.",
+  "likes": [
+    "Presque plat sur tout le parcours",
+    "Forêt du parc national, goyaves de Chine en bord de sentier",
+    "Belvédère sur les montagnes et la mer",
+    "Départ d'un centre d'accueil des visiteurs"
+  ],
+  "watchouts": [
+    "9 kilomètres tout de même : compte deux à trois heures"
+  ],
+  "tips_md": null,
+  "duration_min": 120,
+  "duration_max": 180,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Machab%C3%A9e+Trail&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Machabée Trail »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap way 552381424 (highway=path) « Machabée Trail » : lat -20.3940440, lon 57.4387122 — point situé sur le sentier, pas son départ à Pétrin"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, watchouts, duration_min, duration_max, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-family-hikes-in-mauritius/",
+      "title": "Best Family Hikes in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Starting from the Pétrin visitor’s centre, this trail in Black Gorges National Park is mostly flat all the way around! This stunning forest walk takes you under tangly trees and past strawberry guava bushes, then finally to a lookout with rich green mountains and the sea in the distance. 9km 2-3 hours"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Coordonnées : un tronçon du « Machabée Trail » (OpenStreetMap) ; le centre d'accueil de Pétrin n'a pas été trouvé dans Nominatim. À recaler sur le départ.",
+    "Horaires du centre de Pétrin, plan des sentiers et prix d'accès : aucune source officielle lisible.",
+    "Recoupement possible avec une fiche générale sur les Gorges de Rivière Noire rédigée par un autre agent."
+  ],
+  "website_url": null,
+  "secret": null
+}

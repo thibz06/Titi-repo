@@ -1,0 +1,76 @@
+{
+  "slug": "plage-de-palmar",
+  "name": "Plage publique de Palmar",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "est",
+  "locality": "Palmar",
+  "lat": -20.2014677,
+  "lng": 57.7845194,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Palmar%20Public%20Beach",
+  "google_place_id": null,
+  "pitch": "Grande plage publique de la côte est, entre Belle Mare et Trou d'Eau Douce : 1,4 km de rivage sous les filaos.",
+  "description_md": "Palmar compte trois plages publiques proclamées sur la côte est. La principale (« Main Beach ») couvre environ 18,5 hectares pour 1 400 m de front de mer, ce qui en fait la plus étendue de la région Est sur la liste de la Beach Authority ; les deux autres, plus petites, se trouvent près d'hôtels. La plage est plantée de filaos.",
+  "why_go_md": null,
+  "likes": [
+    "Plage publique proclamée : environ 1 400 m de front de mer pour la plage principale (Beach Authority, 2025)",
+    "Aire de stationnement en cours d'aménagement, avec neuf zones délimitées (Beach Authority, septembre 2026)"
+  ],
+  "watchouts": [
+    "Travaux annoncés en septembre 2026 : nivellement de quatre zones de stationnement et abattage de quarante arbres, surtout des filaos. L'état du chantier fin décembre n'est pas connu."
+  ],
+  "tips_md": "Gare-toi dans les zones délimitées par la Beach Authority plutôt que sous les arbres : le communiqué justifie les travaux par le risque de chute de branches sur les véhicules.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Palmar%20Public%20Beach",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.2014677\",\"lon\":\"57.7845194\" [...] \"type\":\"attraction\" [...] \"display_name\":\"Palmar Beach Public, Belle Mare Palmar Trou d'Eau Douce Road, Mare du Puits, Belle Mare, Quatre Cocos VCA, Flacq, 41601, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius — Beach Authority (liste datée du 18 juillet 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Palmar (near Ambre Hotel) 1.1438 150 180/1991 [...] Palmar (near Surcouf Hotel) 0.6458 230 180/1991 [...] Palmar (Main Beach) 18.4874 1400 180/1991"
+    },
+    {
+      "field": "description_md, watchouts, tips_md, pitch",
+      "url": "https://beachauthority.mu/pdf/communique/CommuniquefellingoftreesatPalmar.pdf",
+      "title": "Communiqué — Beach Authority (21 septembre 2026)",
+      "accessed_at": "2026-11-24",
+      "evidence": "des travaux sont en cours pour l'aménagement d'une aire de stationnement sur la plage publique de Palmar, afin d'améliorer la sécurité des usagers. La clôture de cette aire a déjà été installée, et neuf zones de stationnement y ont été délimitées. [...] Ils nécessiteront l’abattage de quarante arbres, en majorité des filaos. [...] 21 septembre 2026"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Fiche courte : aucune source officielle ou de presse lue ne décrit la baignade, le lagon ou les équipements (toilettes, maîtres-nageurs). Palmar n'apparaît pas dans les listes de baignade dangereuse consultées, ce qui ne prouve pas que la baignade y soit sûre.",
+    "Coordonnées : point OSM « Palmar Beach Public » ; à vérifier qu'il s'agit bien de la plage principale (un second point OSM existe plus au sud).",
+    "Gratuité non écrite par une source : price_kind reste à null."
+  ],
+  "website_url": "https://www.beachauthority.mu/public-beaches",
+  "secret": null
+}

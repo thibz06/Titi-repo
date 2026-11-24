@@ -1,0 +1,71 @@
+{
+  "slug": "piton-savanne",
+  "name": "Piton Savanne",
+  "family": "randos_sommets",
+  "tags": [
+    "famille"
+  ],
+  "region": "sud",
+  "locality": null,
+  "lat": -20.4510832,
+  "lng": 57.4979299,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Piton+Savanne&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Randonnée presque plate dans une vallée verte du sud, entre arbres fruitiers : 6 km, deux à trois heures, en famille.",
+  "description_md": "Piton Savanne se trouve dans le sud de l'île. L'office du tourisme en fait l'une de ses randonnées en famille : un sentier encaissé, presque plat, qui suit une vallée luxuriante et frôle des arbres fruitiers. Il annonce 6 kilomètres et deux à trois heures de marche.",
+  "why_go_md": "Pour de beaux paysages sans avoir à grimper. La journée peut se prolonger au parc de La Vallée des Couleurs, tout proche, qui propose tyroliennes et pont suspendu.",
+  "likes": [
+    "Sentier presque plat",
+    "Vallée verte, arbres fruitiers le long du chemin",
+    "Adaptée aux familles selon l'office du tourisme",
+    "La Vallée des Couleurs à proximité"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": 120,
+  "duration_max": 180,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Piton+Savanne&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Piton Savanne »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 1012216403 (natural=peak) « Piton Savanne » : lat -20.4510832, lon 57.4979299"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, duration_min, duration_max, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-family-hikes-in-mauritius/",
+      "title": "Best Family Hikes in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Because this hike serves up amazing scenery on an almost flat trail. Piton Savanne is in the south of Mauritius and, like Will Tevs, you might almost believe that you’re in Hawaii or Bali when you see it. Follow the deep trail in the lush valley and brush past fruit trees on this beautiful walk. Extend your day in La Valéee Des Couleurs Nature Park for thrilling activities such as zip-lining and a daring bridge walk. 6km 2-3 hours"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Point de départ, balisage et statut du terrain (public ou privé) : non précisés par la source.",
+    "Coordonnées : sommet « Piton Savanne » (OpenStreetMap) ; le sentier décrit suit la vallée et ne monte pas forcément au sommet.",
+    "Difficulté laissée à null : « almost flat » n'est pas une cotation."
+  ],
+  "website_url": null,
+  "secret": null
+}

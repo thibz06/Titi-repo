@@ -7,8 +7,21 @@ import { commonsThumb } from "@/lib/places/format";
  * Photo d'un lieu. Charge une miniature Wikimedia à la bonne taille plutôt que l'original
  * (souvent plusieurs Mo) ; si elle échoue, tente l'original, puis s'efface pour laisser le fond.
  */
-export function Photo({ src, width, className, eager = false }: { src: string; width: number; className?: string; eager?: boolean }) {
-  const candidates = [...new Set([commonsThumb(src, width), src])];
+export function Photo({
+  src,
+  local,
+  width,
+  className,
+  eager = false,
+}: {
+  src: string;
+  /** Copie hébergée dans l'app : essayée en premier. */
+  local?: string | null;
+  width: number;
+  className?: string;
+  eager?: boolean;
+}) {
+  const candidates = [...new Set([...(local ? [local] : []), commonsThumb(src, width), src])];
   const [index, setIndex] = useState(0);
   const current = candidates[index];
   if (!current) return null;

@@ -1,0 +1,82 @@
+{
+  "slug": "riviere-des-galets",
+  "name": "Plage de Rivière des Galets",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "sud",
+  "locality": "Rivière des Galets",
+  "lat": -20.5054229,
+  "lng": 57.4565722,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Rivi%C3%A8re+des+Galets+village&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Plage de galets de la côte sud, à l'opposé des plages de sable : un arrêt pour regarder les vagues sur la route B9.",
+  "description_md": "À Rivière des Galets, la plage n'est pas faite de sable mais de milliers de petits galets. La Beach Authority y recense une plage publique proclamée d'environ 1,5 kilomètre de front de mer. Le village est traversé par la route côtière B9, dite route de Macondé, qui relie Souillac à Grande Rivière Noire sur environ 25 miles selon l'office du tourisme.",
+  "why_go_md": "Pour un arrêt devant les vagues sur une plage qui ne ressemble pas aux autres, et surtout pour la route elle-même : l'office du tourisme la présente comme l'une des plus belles routes côtières, entre mer turquoise et montagnes.",
+  "likes": [
+    "Plage de galets, rare à Maurice",
+    "Étape sur la route côtière B9 entre Souillac et Baie du Cap",
+    "Plages de Riambel et de Pomponette à environ trois miles"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Rivi%C3%A8re+des+Galets+village&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Rivière des Galets village »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 5938167075 (place=village) « Rivière des Galets » : lat -20.5054229, lon 57.4565722"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mauritius-wild-side/",
+      "title": "Mauritius Wild Side (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "In sharp contrast to the soft sand that covers much of the Mauritian coastline, the beach at Riviere Des Galets is covered with thousands of small pebbles. While it’s a nice place to stop and watch the waves crash, the real draw is the Maconde Road (B9) that hugs the coastline. At around 25 miles long, this sensational drive runs from Souillac towards Grande Riviere Noire."
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mauritius-wild-side/",
+      "title": "Mauritius Wild Side (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "These two beautiful, quiet beaches sit cheek-by-jowl off the picturesque B9 road just three miles down the coast from Riviere Des Galets."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius (Beach Authority, fichier List2025.pdf)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Rivière des Gallets 11.6074 1530 493/1991"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Baignade : aucune source lue ne dit si elle est possible ou sûre ici ; l'office du tourisme parle seulement de regarder les vagues.",
+    "`price_kind` à null : aucune source lue n'écrit que l'accès est gratuit.",
+    "Coordonnées : nœud du village (OpenStreetMap), pas de la plage elle-même."
+  ],
+  "website_url": null,
+  "secret": null
+}

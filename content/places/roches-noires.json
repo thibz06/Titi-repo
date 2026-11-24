@@ -120,7 +120,8 @@
       "credit": "Mr Arvind Toolooa (Wikimedia Commons, via Panoramio)",
       "license": "CC BY 3.0",
       "source_url": "https://commons.wikimedia.org/wiki/File:Roches_Noires_Lagoon_-_panoramio.jpg",
-      "is_cover": true
+      "is_cover": true,
+      "storage_path": "/photos/roches-noires-1.jpg"
     }
   ],
   "open_questions": [

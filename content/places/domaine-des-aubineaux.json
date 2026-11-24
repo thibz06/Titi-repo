@@ -1,0 +1,118 @@
+{
+  "slug": "domaine-des-aubineaux",
+  "name": "Domaine des Aubineaux",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "centre",
+  "locality": "Forest Side (Curepipe)",
+  "lat": -20.3278804,
+  "lng": 57.5320737,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Domaine%20des%20Aubineaux",
+  "google_place_id": null,
+  "pitch": "Maison créole de 1872 à Forest Side, première étape de la Route du Thé : musée, distillerie d'essences, salon de thé.",
+  "description_md": "Le Domaine des Aubineaux est une grande maison créole de Forest Side, aux portes de Curepipe, construite en 1872 et aujourd'hui transformée en musée. C'est la première des trois étapes de la Route du Thé, avant Bois Chéri et Saint Aubin. D'après le guide consulté, la demeure compte vingt-huit pièces sur près de 750 m² et est classée au patrimoine national.",
+  "why_go_md": "Pour visiter une maison coloniale meublée, avec ses photographies de demeures aujourd'hui disparues, puis les anciennes écuries devenues distillerie d'huiles essentielles. Une bonne étape de plateau si tu fais ensuite Bois Chéri.",
+  "likes": [
+    "Maison de 1872 avec son mobilier d'origine",
+    "Maison des Essences : distillerie d'huiles essentielles dans les anciennes écuries",
+    "Dégustation de thé ou de rhum en fin de visite",
+    "Parc avec camphriers et étang ; salon de thé dans le jardin d'hiver"
+  ],
+  "watchouts": [],
+  "tips_md": "Compte environ une heure pour la visite guidée, dégustation comprise. La réservation est recommandée pour le salon de thé, qui a peu de places. Vérifie horaires et tarifs avant de venir : la source lue n'est pas le site officiel.",
+  "duration_min": 60,
+  "duration_max": 60,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": "« En général tous les jours, jours fériés compris, de 9 h à 17 h » selon un guide indépendant (saintaubin.mu, page non datée), qui invite à vérifier auprès du domaine. Non confirmé par une source officielle : opening_hours reste à null.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Domaine%20des%20Aubineaux",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.3278804\",\"lon\":\"57.5320737\" [...] \"type\":\"museum\" [...] \"display_name\":\"Domaine Des Aubineaux - Tea Museum, Royal Road Forest Side, Morcellement Antelme, La Vigie, Town of Curepipe, Ward 4, West, Curepipe, Plaines Wilhems, 74513, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.saintaubin.mu/larouteduthe/fr/domaine_des_aubineaux.aspx",
+      "title": "Domaine des Aubineaux : la maison coloniale de Curepipe — saintaubin.mu (« Sans Récif », guide indépendant)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le Domaine des Aubineaux est le point de départ de la Route du Thé : une demeure de 1872 devenue musée, avec sa distillerie d’huiles essentielles et son salon de thé dans le jardin d’hiver."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://www.saintaubin.mu/larouteduthe/fr/domaine_des_aubineaux.aspx",
+      "title": "Domaine des Aubineaux : la maison coloniale de Curepipe — saintaubin.mu (« Sans Récif », guide indépendant)",
+      "accessed_at": "2026-11-24",
+      "evidence": "La maison est construite en 1872 sur le site d’un ancien hôtel, détruit par un cyclone. [...] la maison est classée au patrimoine national mauricien. [...] La demeure compte près de 750 m² et vingt-huit pièces."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://www.saintaubin.mu/larouteduthe/fr/domaine_des_aubineaux.aspx",
+      "title": "Domaine des Aubineaux : la maison coloniale de Curepipe — saintaubin.mu (« Sans Récif », guide indépendant)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le musée est consacré à l’histoire du thé mauricien et conserve le mobilier d’origine ainsi que des photographies de maisons coloniales aujourd’hui disparues. [...] Les anciennes écuries abritent aujourd’hui la Maison des Essences, une distillerie d’huiles essentielles où l’on découvre le principe de la distillation."
+    },
+    {
+      "field": "duration_min, duration_max, tips_md, likes",
+      "url": "https://www.saintaubin.mu/larouteduthe/fr/domaine_des_aubineaux.aspx",
+      "title": "Domaine des Aubineaux : la maison coloniale de Curepipe — saintaubin.mu (« Sans Récif », guide indépendant)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Environ une heure, avec une dégustation de thé ou de rhum à la fin."
+    },
+    {
+      "field": "hours_note, tips_md",
+      "url": "https://www.saintaubin.mu/larouteduthe/fr/domaine_des_aubineaux.aspx",
+      "title": "Domaine des Aubineaux : la maison coloniale de Curepipe — saintaubin.mu (« Sans Récif », guide indépendant)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le domaine ouvre en général tous les jours, jours fériés compris, de 9 h à 17 h. [...] Horaires et tarifs peuvent changer : vérifiez-les sur le site officiel avant de venir."
+    },
+    {
+      "field": "likes",
+      "url": "https://www.saintaubin.mu/larouteduthe/fr/domaine_des_aubineaux.aspx",
+      "title": "Domaine des Aubineaux : la maison coloniale de Curepipe — saintaubin.mu (« Sans Récif », guide indépendant)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le parc réunit des camphriers, des plantes exotiques, des arbres endémiques et un étang."
+    },
+    {
+      "field": "tips_md",
+      "url": "https://www.saintaubin.mu/larouteduthe/fr/domaine_des_aubineaux.aspx",
+      "title": "Domaine des Aubineaux : la maison coloniale de Curepipe — saintaubin.mu (« Sans Récif », guide indépendant)",
+      "accessed_at": "2026-11-24",
+      "evidence": "C’est recommandé : le salon de thé ne peut accueillir qu’un nombre limité de personnes."
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/the-tea-route/",
+      "title": "Mauritius Tea Route: A Taste of Tradition — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "It passes through three estates: Domaine des Aubineaux, Bois Chéri and Saint Aubin and is a fantastic way to see tea plantations, visit a tea museum and stroll through spice gardens."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Le domaine saintaubin.mu, ancien site de la Route du Thé, héberge aujourd'hui un « guide indépendant » (Sans Récif) qui cite Lonely Planet, Michelin, etc. : source secondaire. Aucun site officiel du domaine n'a été trouvé.",
+    "Prix d'entrée : non donné par une source officielle (un guide repéré par recherche cite Rs 330 par adulte, non lu). price_kind à null.",
+    "La durée d'une heure vient du même guide indépendant."
+  ],
+  "website_url": null,
+  "secret": null
+}

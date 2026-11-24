@@ -76,7 +76,7 @@ function toDetail(d: PlaceDraft): PlaceDetail {
       title: s.title,
       accessed_at: s.accessed_at,
     })),
-    place_media: d.media.map((m, i) => ({ id: `${d.slug}-m${i}`, storage_path: null, ...m })),
+    place_media: d.media.map((m, i) => ({ id: `${d.slug}-m${i}`, ...m, storage_path: m.storage_path ?? null })),
   };
 }
 

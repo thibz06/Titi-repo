@@ -101,7 +101,8 @@
       "credit": "dronepicr",
       "license": "CC BY 2.0",
       "source_url": "https://commons.wikimedia.org/wiki/File:Sunset_at_Mont_Choisy_Beach,_Mauritius_(53696897517).jpg",
-      "is_cover": true
+      "is_cover": true,
+      "storage_path": "/photos/mont-choisy-1.jpg"
     }
   ],
   "open_questions": [

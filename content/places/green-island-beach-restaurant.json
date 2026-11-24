@@ -1,0 +1,83 @@
+{
+  "slug": "green-island-beach-restaurant",
+  "name": "Green Island Beach Restaurant",
+  "family": "manger",
+  "tags": [],
+  "region": "est",
+  "locality": "Trou d’Eau Douce",
+  "lat": -20.23844,
+  "lng": 57.792784,
+  "coords_source_url": "https://www.openstreetmap.org/node/6479025874",
+  "google_place_id": null,
+  "pitch": "Petit restaurant sans prétention face au lagon de Trou d’Eau Douce, sur la route côtière : cuisine mauricienne traditionnelle.",
+  "description_md": "Le Green Island Beach Restaurant & Pub est un petit restaurant de la route côtière, face au lagon, au lieu-dit La Pelouse à Trou d’Eau Douce. La chronique d’ionnews (juillet 2014) y décrit un décor simple et épuré et des spécialités mauriciennes de cuisine traditionnelle, soignées dans leur présentation.",
+  "why_go_md": "Pour un repas mauricien assis face au lagon, dans une adresse que la chronique présente comme simple et sans prétention.",
+  "likes": [
+    "Spécialités mauriciennes",
+    "Face au lagon, sur la route côtière",
+    "Décor simple"
+  ],
+  "watchouts": [
+    "Fermé le lundi d’après la chronique de 2014",
+    "Chronique ancienne (2014) : carte et prix actuels non vérifiés"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": "« Ouvert tous les jours sauf le lundi » selon ionnews (17 juillet 2014). Heures non précisées ; non reconfirmé depuis.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Green+Island+Beach+Restaurant+Trou+d%27Eau+Douce&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Green Island Beach Restaurant Trou d'Eau Douce »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Green Island Beach, Belle Mare Palmar Trou d'Eau Douce Road, Trou d'Eau Douce, Trou d’Eau Douce VCA, Flacq, 41601, Mauritius / Maurice — lat -20.2384402, lon 57.7927837 (node 6479025874)"
+    },
+    {
+      "field": "description_md, pitch, likes, why_go_md",
+      "url": "https://ionnews.mu/saveurs-et-couleurs-de-la-gastronomie-mauricienne-a-trou-deau-douce-1707/",
+      "title": "Saveurs et couleurs de la gastronomie mauricienne à Trou-d’Eau-Douce ! | ionnews (17 juillet 2014)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Face au lagon, sur la route côtière, un petit restaurant qui n’affiche aucune prétention, c’est un décor épuré, simple et clean qui vous attend. Le Green Island Beach Restaurant & Pub nous a comblés"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://ionnews.mu/saveurs-et-couleurs-de-la-gastronomie-mauricienne-a-trou-deau-douce-1707/",
+      "title": "Saveurs et couleurs de la gastronomie mauricienne à Trou-d’Eau-Douce ! | ionnews (17 juillet 2014)",
+      "accessed_at": "2026-11-24",
+      "evidence": "les plats qui sont présentés vous offrent les saveurs et les couleurs d’une cuisine traditionnelle parfaitement maîtrisée. L’âme du restaurant, ce sont ces spécialités mauriciennes"
+    },
+    {
+      "field": "hours_note, watchouts, description_md",
+      "url": "https://ionnews.mu/saveurs-et-couleurs-de-la-gastronomie-mauricienne-a-trou-deau-douce-1707/",
+      "title": "Saveurs et couleurs de la gastronomie mauricienne à Trou-d’Eau-Douce ! | ionnews (17 juillet 2014)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Green Island Beach Restaurant. La Pelouse, Trou-d’Eau-Douce. Tél. : 480.07.35, 52.51.71.52. Ouvert tous les jours sauf le lundi"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Source de 2014 : prix et horaires actuels non sourcés ; l’établissement figure toujours dans OpenStreetMap, sans date de vérification."
+  ],
+  "website_url": null,
+  "secret": null
+}

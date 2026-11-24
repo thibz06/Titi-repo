@@ -1,0 +1,145 @@
+{
+  "slug": "parc-national-de-bras-d-eau",
+  "name": "Parc national de Bras d'Eau",
+  "family": "nature_parcs",
+  "tags": [
+    "famille"
+  ],
+  "region": "est",
+  "locality": "Bras d’Eau",
+  "lat": -20.1456854,
+  "lng": 57.726859,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Bras%20d%27Eau%20Visitor%20Centre",
+  "google_place_id": null,
+  "pitch": "Forêt du nord-est classée parc national en 2011 : sentier facile du Coq des Bois, ruines sucrières et oiseaux rares.",
+  "description_md": "Bras d'Eau est le deuxième parc national terrestre de Maurice, proclamé en 2011 dans le nord-est de l'île. Il couvre 497,2 hectares, surtout plantés d'acajous, d'araucarias, de tecomas et d'eucalyptus, où subsistent des poches de forêt d'origine. Le lac de Mare Sarcelle (89,37 hectares), bordé de mangrove, en fait partie. Derrière le centre des visiteurs se trouvent les ruines d'une sucrerie fermée en 1867.",
+  "why_go_md": "Pour une marche en forêt sans difficulté, loin de l'affluence des Gorges de Rivière Noire. Le parc abrite encore deux espèces d'ébéniers géants, du bois de fer, des fougères et orchidées très rares, et des oiseaux endémiques comme le fody de Maurice ; avec de la chance, le rare gobe-mouches paradis des Mascareignes. Mare Sarcelle accueille des oiseaux migrateurs.",
+  "likes": [
+    "Sentier du Coq des Bois, décrit comme relativement facile par le portail du gouvernement (5 km aller-retour depuis le centre des visiteurs)",
+    "Verger d'environ 2 000 manguiers et 200 litchis le long de la boucle",
+    "Centre des visiteurs avec exposition, parking, kiosques et tables de pique-nique",
+    "Ruines d'une ancienne sucrerie (fermée en 1867) derrière le centre",
+    "Mare Sarcelle : mangrove et oiseaux migrateurs"
+  ],
+  "watchouts": [
+    "Mets de bonnes chaussures de marche (conseil du Défi)",
+    "La plage publique voisine de Bras d'Eau figure sur la liste des lagons à baignade dangereuse (Beach Authority, liste relayée en 2018)"
+  ],
+  "tips_md": "Commence par le centre des visiteurs : le départ du sentier est en face, de l'autre côté de la route. Les longueurs annoncées varient selon les sources (boucle de 3 km pour Le Défi en 2016, 5 km aller-retour pour le portail du gouvernement) ; Le Défi parle d'environ deux heures de marche jusqu'à Poste Lafayette. Tu peux finir par un pique-nique aux tables du parking ou sur la plage de Poste Lafayette, à quelques minutes.",
+  "duration_min": null,
+  "duration_max": 120,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": 1,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Bras%20d%27Eau%20Visitor%20Centre",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.1456854\",\"lon\":\"57.7268590\" [...] \"type\":\"office\" [...] \"display_name\":\"Centre d'accueil des visiteurs du Parc national Bras d'Eau, Bras D’Eau Road, Bras d’Eau, Poste de Flacq, Poste de Flacq VCA, Flacq, 31202, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://govmu.org/FR/Pages/exploremtius.aspx",
+      "title": "Explore Mauritius — portail du gouvernement (govmu.org)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le parc national de Bras d'Eau a été proclamé deuxième parc national terrestre de l'île Maurice en 2011. Il est situé dans le nord-est de l'île [...] couvrant une superficie totale de 497,2 hectares. On y retrouve principalement des plantations d’acajou, d’araucaria, de tecoma et d’eucalyptus."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://govmu.org/FR/Pages/exploremtius.aspx",
+      "title": "Explore Mauritius — portail du gouvernement (govmu.org)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Mare Sarcelle fait partie du parc national de Bras d’Eau et s’étend sur une superficie de 89,37 hectares. Elle est composée d'une importante population florissante de mangroves ainsi que des plantes indigènes et abrite également quelques espèces d'oiseaux migrateurs."
+    },
+    {
+      "field": "difficulty, tips_md, likes",
+      "url": "https://govmu.org/FR/Pages/exploremtius.aspx",
+      "title": "Explore Mauritius — portail du gouvernement (govmu.org)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le parcours Coq des Bois (5 km (Retour) à partir du centre de visiteurs de Bras D’Eau) est relativement facile."
+    },
+    {
+      "field": "why_go_md, likes, difficulty, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/national-parks/",
+      "title": "Tranquil Beauty of Bras d’Eau National Park — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "original biodiversity remains, including two species of the giant Mauritian ebony trees and the Bois de Fer, as well as critically-rare ferns and orchids. [...] The gentle Coq Du Bois Loop makes Bras d’Eau a great spot for walkers of all abilities and features an orchard with around 2000 mango and 200 litchi trees."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/national-parks/",
+      "title": "Tranquil Beauty of Bras d’Eau National Park — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "if you’re lucky you might catch sight of sparrows, Mauritius Fodys, canaries, white-eyes or the rare Mascarene Paradise Flycatcher. Mare Sarcelle lake, within Bras d’Eau National Park, is also a natural sanctuary for migratory birds."
+    },
+    {
+      "field": "likes, tips_md, tags",
+      "url": "https://defimedia.info/bras-deau-national-park-natural-sanctuary-eastern-coast",
+      "title": "Bras D’Eau National Park: A natural sanctuary of the eastern coast — Defimedia (25 février 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Parking facilities and kiosks for picnickers are available at the centre opposite the trailhead. The three kilometre walking trail, named Coq Du Bois Loop, which winds past an orchard boasting some 2,000 mango trees and 200 litchi trees, is the official trail of the park."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://defimedia.info/bras-deau-national-park-natural-sanctuary-eastern-coast",
+      "title": "Bras D’Eau National Park: A natural sanctuary of the eastern coast — Defimedia (25 février 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Behind the visitors’ centre, you can admire the ruins of an old sugar mill which closed down in 1867."
+    },
+    {
+      "field": "duration_max, tips_md",
+      "url": "https://defimedia.info/bras-deau-national-park-natural-sanctuary-eastern-coast",
+      "title": "Bras D’Eau National Park: A natural sanctuary of the eastern coast — Defimedia (25 février 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "As you will walk along the two hour trail leading to Poste Lafayette"
+    },
+    {
+      "field": "tips_md, watchouts",
+      "url": "https://defimedia.info/bras-deau-national-park-natural-sanctuary-eastern-coast",
+      "title": "Bras D’Eau National Park: A natural sanctuary of the eastern coast — Defimedia (25 février 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "It is advisable to wear good walking shoes for the trail. To end your visit, you can either opt for a picnic on the wooden tables near the parking area or a lunch break at Post Lafayette beach, at a few minutes from the park’s exit."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/baignade-dangereuse-36-lagons-consideres-risque-pour-les-nageurs",
+      "title": "Baignade dangereuse : 36 lagons considérés à risque pour les nageurs — Defimedia (3 février 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "La liste des lagons dangereux : Le Goulet, Pointe-aux-Piments, La Cuvette, Pointe d ’Azur, Bain-Bœuf, Poste-Lafayette, Bras-d’Eau"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius — Beach Authority (liste datée du 18 juillet 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Bras d’Eau 2.732 650 206/1991"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Horaires et tarif d'entrée : rien sur les pages consultées ; le site du NPCS (npcs.govmu.org) ne s'affiche pas sans JavaScript. price_kind et opening_hours restent à null.",
+    "Longueur du sentier : 3 km (Le Défi, 2016) ou 5 km aller-retour (govmu.org) ; duration_max = 2 h d'après Le Défi, duration_min inconnu.",
+    "difficulty = 1 est ma lecture de « relativement facile » et « walkers of all abilities »."
+  ],
+  "website_url": "https://npcs.govmu.org/",
+  "secret": null
+}

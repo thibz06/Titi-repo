@@ -1,0 +1,92 @@
+{
+  "slug": "bel-ombre",
+  "name": "Bel Ombre",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "sud",
+  "locality": "Bel Ombre",
+  "lat": -20.5028362,
+  "lng": 57.4008845,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Bel+Ombre&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Village paisible de la côte sud, bordé de forêt : plages de sable blanc peu fréquentées, snorkeling et baignade.",
+  "description_md": "Bel Ombre est un village de la côte sud, adossé à une forêt dense. L'office du tourisme le décrit comme une destination de calme, avec des plages de sable blanc peu fréquentées et une eau turquoise propice au snorkeling et à la baignade. La Beach Authority y recense une plage publique proclamée d'environ 579 mètres de front de mer. Le village abrite aussi World of Seashells, un musée de coquillages.",
+  "why_go_md": "Pour la tranquillité, loin des stations du nord et de l'ouest, et pour combiner plage, musée de coquillages et réserve naturelle de Bel Ombre dans la même journée.",
+  "likes": [
+    "Plages de sable blanc peu fréquentées",
+    "Eau turquoise, snorkeling et baignade selon l'office du tourisme",
+    "Musée World of Seashells dans le village",
+    "Forêt en arrière-plan ; réserve naturelle de Bel Ombre à proximité"
+  ],
+  "watchouts": [
+    "Sur la côte sud en général, l'office du tourisme rappelle de tenir compte des courants forts et des récifs avant d'entrer dans l'eau"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Bel+Ombre&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Bel Ombre »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 2637987035 (place=village) « Bel Ombre » : lat -20.5028362, lon 57.4008845"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/belle-ombre/",
+      "title": "Belle Ombre (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Bel Ombre on the southern coastline of Mauritius is the perfect destination to escape to. Flanked by lush green forest, this coastline offers empty and pristine white sand beaches and turquoise waters that are perfect for snorkelling and swimming."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/belle-ombre/",
+      "title": "Belle Ombre (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The village itself is peaceful – and there’s even a museum devoted to seashells to explore."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-beaches-in-mauritius/",
+      "title": "Best beaches in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "There are wide stretches of sand to be found in the south, though strong currents and coral reefs should be considered if you are in the water."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius (Beach Authority, fichier List2025.pdf)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Bel Ombre 6.5423 579 1324/04"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Coordonnées : nœud du village (OpenStreetMap) ; l'emplacement exact de la plage publique proclamée n'a pas été trouvé.",
+    "`price_kind` à null : aucune source lue n'écrit que la plage est gratuite.",
+    "Sécurité de la baignade à Bel Ombre précisément (surveillance, courants) : aucune source lue."
+  ],
+  "website_url": null,
+  "secret": null
+}

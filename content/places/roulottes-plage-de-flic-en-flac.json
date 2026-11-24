@@ -1,0 +1,98 @@
+{
+  "slug": "roulottes-plage-de-flic-en-flac",
+  "name": "Roulottes et marchands de la plage de Flic en Flac",
+  "family": "manger",
+  "tags": [],
+  "region": "ouest",
+  "locality": "Flic en Flac",
+  "lat": -20.281073,
+  "lng": 57.364639,
+  "coords_source_url": "https://www.openstreetmap.org/node/10150945085",
+  "google_place_id": null,
+  "pitch": "Food trucks et petits étals le long de la plage publique de Flic en Flac : boulettes, rotis et restauration rapide.",
+  "description_md": "La plage publique de Flic en Flac n’a pas d’aire de restauration organisée : des baraques et des food trucks de restauration rapide sont répartis le long de la plage et de la route côtière. Les reportages y mentionnent des vendeurs de boulettes et des marchands de rotis, autour desquels les pique-niqueurs du dimanche se pressent.",
+  "why_go_md": "Pour manger sans quitter la plage. Un magazine pour expatriés (novembre 2025) cite les étals de la plage de Flic en Flac parmi les endroits connus pour les boulettes.",
+  "likes": [
+    "Boulettes (raviolis vapeur, en bouillon ou avec sauces)",
+    "Rotis préparés à la demande",
+    "Food trucks le long de la plage"
+  ],
+  "watchouts": [
+    "Affluence le dimanche : on se masse devant les food trucks",
+    "En 2017, une tribune du Défi regrettait l’absence de food court contrôlé et s’interrogeait sur le suivi de l’hygiène de ces étals"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Flic+en+Flac+public+beach&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Flic en Flac public beach »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Flic en Flac Public Beach, Coastal Road, Flic en Flac, Flic en Flac VCA, Black River, 90503, Mauritius / Maurice — lat -20.2810730, lon 57.3646394 (node 10150945085)"
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://defimedia.info/flic-en-flac-leldorado-de-louest",
+      "title": "Flic-en-Flac, l’Eldorado de l’ouest | Defimedia (3 décembre 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Il n’y a pas de food-court, où tout aurait été contrôlé par les autorités pour assurer une bonne hygiène. Des bicoques de restauration rapide de toutes les formes et de toutes les couleurs sont disséminées tout le long de la plage"
+    },
+    {
+      "field": "description_md, likes, watchouts, pitch",
+      "url": "https://www.lemauricien.com/actualites/societe/a-flic-en-flac-lappel-de-la-plage-plus-fort-que-la-peur-du-virus/451246/",
+      "title": "À Flic-en-Flac : L’appel de la plage plus fort que la peur du virus | Le Mauricien (11 octobre 2021)",
+      "accessed_at": "2026-11-24",
+      "evidence": "les piqueniqueurs n’hésiteront pas à se masser devant les foodtrucks"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://www.lemauricien.com/actualites/societe/a-flic-en-flac-lappel-de-la-plage-plus-fort-que-la-peur-du-virus/451246/",
+      "title": "À Flic-en-Flac : L’appel de la plage plus fort que la peur du virus | Le Mauricien (11 octobre 2021)",
+      "accessed_at": "2026-11-24",
+      "evidence": "autour des vendeurs de boulettes"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://www.lemauricien.com/actualites/societe/a-flic-en-flac-lappel-de-la-plage-plus-fort-que-la-peur-du-virus/451246/",
+      "title": "À Flic-en-Flac : L’appel de la plage plus fort que la peur du virus | Le Mauricien (11 octobre 2021)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Sur le muret qui longe la route côtière, Fabrice, un jeune de 17 ans, fume une clope en attendant que son roti acheté chez un marchand, soit prêt"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://www.expat.com/en/expat-mag/12148-discover-mauritius-through-its-street-food-roti-dholl-puri-boulettes-and-more.html",
+      "title": "Discover Mauritius through its street food: Roti, dholl puri, boulettes and more | Expat.com (14 novembre 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Mauritian boulettes are delicate steamed dumplings made of fish, meat, or vegetables, served in broth or topped with homemade sauces [...] Iconic spot: Ti Kouloir in Grand-Baie, plus the stalls on Flic-en-Flac beach and near the Albion bus station"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucun étal n’est nommé par les sources, et aucun prix n’est publié : fiche générale, à préciser sur place.",
+    "Les sources datent de 2017, 2021 et 2025 ; l’organisation des étals (emplacements, permis) a pu changer."
+  ],
+  "website_url": null,
+  "secret": null
+}

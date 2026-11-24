@@ -1,11 +1,12 @@
 "use client";
 
-import { ArrowLeft, ExternalLink, Heart, Navigation, Search } from "lucide-react";
+import { ArrowLeft, ExternalLink, Heart, MapPin, Navigation, Search } from "lucide-react";
 import Link from "next/link";
 import { useState, type ReactNode } from "react";
 import { fill, getMessages } from "@/i18n";
 import { coverPhoto, creditedPhotos, directionsUrl, formatDateFr, formatDuration, formatPriceMur, tiktokSearchUrl } from "@/lib/places/format";
 import { useFavorites } from "@/lib/favorites";
+import { FAMILY_STYLE } from "@/lib/places/families";
 import { formatEur, useRate } from "@/lib/useRate";
 import { CheckIn } from "./CheckIn";
 import { Photo } from "./Photo";
@@ -35,52 +36,48 @@ function Section({ title, children }: { title: string; children: ReactNode }) {
 function Stat({ label, value }: { label: string; value: string | null }) {
   const t = getMessages();
   return (
-    <div className="rounded-2xl bg-white/55 p-3 shadow-[inset_0_1px_0_rgb(255_255_255/0.7)]">
+    <div className="rounded-2xl bg-brume p-3">
       <dt className="text-xs font-semibold uppercase tracking-wide text-encre/80">{label}</dt>
       <dd className={`mt-0.5 font-semibold ${value ? "text-lg" : "text-base text-encre/80"}`}>{value ?? t.common.unknown}</dd>
     </div>
   );
 }
 
-/** Fond plein écran : la photo créditée du lieu, sinon un dégradé aux couleurs du projet. */
-function Backdrop({ place }: { place: PlaceDetail }) {
-  const cover = coverPhoto(place.place_media);
-  return (
-    <div aria-hidden className="app-backdrop fixed inset-0 -z-10">
-      {cover ? <Photo src={cover.external_url} width={960} eager className="h-full w-full object-cover" /> : null}
-    </div>
-  );
-}
-
+/** En-tête photo : la photo créditée du lieu, coins bas arrondis, nom en surimpression. */
 function Hero({ place }: { place: PlaceDetail }) {
   const t = getMessages();
   const cover = coverPhoto(place.place_media);
   const credit = cover ? fill(t.place.photoCredit, { credit: cover.credit, license: cover.license }) : null;
   return (
-    <div className="relative flex h-[42dvh] min-h-64 items-end justify-end px-4 pb-3">
+    <header
+      className="relative flex h-[46dvh] min-h-72 flex-col justify-end overflow-hidden rounded-b-[2.5rem] shadow-[0_12px_32px_rgb(16_34_43/0.2)]"
+      style={{ backgroundColor: FAMILY_STYLE[place.family].color }}
+    >
+      {cover ? (
+        <Photo src={cover.external_url} local={cover.storage_path} width={960} eager className="absolute inset-0 h-full w-full object-cover" />
+      ) : (
+        <div role="img" aria-label={fill(t.place.illustration, { family: t.families[place.family] })} className="absolute inset-0 grid place-items-center pb-24">
+          <FamilyBadge family={place.family} size={96} />
+        </div>
+      )}
+      <div className="photo-scrim absolute inset-x-0 bottom-0 h-2/3" />
+      <div className="relative px-5 pb-6 text-white">
+        <p className="flex items-center gap-1.5 text-sm font-medium">
+          <MapPin size={16} aria-hidden />
+          {[place.locality, place.regions?.name].filter(Boolean).join(" · ")}
+        </p>
+        <h1 className="mt-1 font-display text-4xl font-semibold leading-tight">{place.name}</h1>
+      </div>
       {cover && credit ? (
         cover.source_url ? (
-          <a
-            href={cover.source_url}
-            target="_blank"
-            rel="noreferrer"
-            className="glass glass-strong inline-flex min-h-11 max-w-full items-center rounded-full px-3 text-xs underline"
-          >
+          <a href={cover.source_url} target="_blank" rel="noreferrer" className="frost absolute right-3 top-[max(0.75rem,env(safe-area-inset-top))] inline-flex min-h-11 max-w-[70%] items-center rounded-full px-3 text-xs text-encre underline">
             <span className="truncate">{credit}</span>
           </a>
         ) : (
-          <p className="glass glass-strong max-w-full truncate rounded-full px-3 py-1.5 text-xs">{credit}</p>
+          <p className="frost absolute right-3 top-[max(0.75rem,env(safe-area-inset-top))] max-w-[70%] truncate rounded-full px-3 py-2 text-xs text-encre">{credit}</p>
         )
-      ) : !cover ? (
-        <div
-          role="img"
-          aria-label={fill(t.place.illustration, { family: t.families[place.family] })}
-          className="absolute inset-0 grid place-items-center"
-        >
-          <FamilyBadge family={place.family} size={88} />
-        </div>
       ) : null}
-    </div>
+    </header>
   );
 }
 
@@ -96,7 +93,7 @@ function FavoriteButton({ slug }: { slug: string }) {
         aria-pressed={on}
         aria-label={on ? t.favoriteRemove : t.favoriteAdd}
         onClick={() => setFailed(!toggle(slug))}
-        className="grid h-12 w-12 shrink-0 place-items-center rounded-full bg-white/80"
+        className="grid h-12 w-12 shrink-0 place-items-center rounded-full bg-brume"
       >
         <Heart size={24} aria-hidden className={on ? "fill-corail text-encre" : "text-encre"} />
       </button>
@@ -120,7 +117,7 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
   return (
     <>
       <Hero place={place} />
-      <div className="px-3 pb-44">
+      <div className="px-4 pb-44 pt-4">
         {place.status === "draft" ? (
           <div className="mb-3">
             <Notice title={t.review.bannerTitle} tone="warning">
@@ -129,16 +126,16 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
           </div>
         ) : null}
         <div className="glass rounded-3xl p-5">
-        <p className="text-sm font-semibold uppercase tracking-wide text-passe">
-          {[t.families[place.family], place.locality, place.regions?.name].filter(Boolean).join(" · ")}
+        <p className="flex items-center gap-2 text-sm font-semibold uppercase tracking-wide text-passe">
+          <FamilyBadge family={place.family} size={28} />
+          {t.families[place.family]}
         </p>
-        <h1 className="mt-1 font-display text-4xl font-semibold leading-tight">{place.name}</h1>
         {place.pitch ? <p className="mt-2 text-lg leading-snug">{place.pitch}</p> : null}
 
         {place.tags.length > 0 ? (
           <ul className="mt-3 flex flex-wrap gap-2">
             {place.tags.map((tag) => (
-              <li key={tag} className="rounded-full bg-white/60 px-3 py-1 text-sm font-medium">
+              <li key={tag} className="rounded-full bg-brume px-3 py-1 text-sm font-medium">
                 {(t.tags as Record<string, string>)[tag] ?? tag}
               </li>
             ))}
@@ -179,7 +176,7 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
                 <li key={photo.id} className="w-[78%] shrink-0 snap-center">
                   <figure>
                     <div className="relative aspect-[4/3] overflow-hidden rounded-2xl bg-lagon/40" role="img" aria-label={fill(t.place.photoN, { n: i + 1, total: photos.length })}>
-                      <Photo src={photo.external_url} width={500} className="absolute inset-0 h-full w-full object-cover" />
+                      <Photo src={photo.external_url} local={photo.storage_path} width={500} className="absolute inset-0 h-full w-full object-cover" />
                     </div>
                     <figcaption className="mt-1.5 text-xs text-encre/85">
                       {photo.source_url ? (
@@ -295,7 +292,7 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
             href={tiktokSearchUrl(place.name)}
             target="_blank"
             rel="noreferrer"
-            className="mt-3 flex min-h-12 items-center justify-between gap-3 rounded-full bg-white/70 px-5 font-semibold"
+            className="mt-3 flex min-h-12 items-center justify-between gap-3 rounded-full bg-brume px-5 font-semibold"
           >
             <span className="flex items-center gap-2">
               <Search size={20} aria-hidden />
@@ -330,7 +327,7 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
             target="_blank"
             rel="noreferrer"
             title={t.place.goHint}
-            className="inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full bg-lagon text-lg font-semibold text-encre shadow-[inset_0_1px_0_rgb(255_255_255/0.6)]"
+            className="inline-flex h-12 flex-1 items-center justify-center gap-2 rounded-full bg-passe text-lg font-semibold text-white"
           >
             <Navigation size={20} aria-hidden />
             {t.place.go}
@@ -347,11 +344,10 @@ export function PlaceView({ place, regionSlugs }: { place: PlaceDetail; regionSl
   const t = getMessages();
   return (
     <main className="mx-auto min-h-dvh max-w-md">
-      <Backdrop place={place} />
       <Link
         href="/explorer"
         aria-label={t.place.backToMap}
-        className="glass glass-strong fixed left-3 top-[max(0.75rem,env(safe-area-inset-top))] z-30 grid h-11 w-11 place-items-center rounded-full"
+        className="frost fixed left-3 top-[max(0.75rem,env(safe-area-inset-top))] z-30 grid h-11 w-11 place-items-center rounded-full text-encre"
       >
         <ArrowLeft size={22} aria-hidden />
       </Link>

@@ -1,0 +1,69 @@
+{
+  "slug": "chez-tante-athalie-pamplemousses",
+  "name": "Chez Tante Athalie",
+  "family": "manger",
+  "tags": [],
+  "region": "nord",
+  "locality": "Pamplemousses",
+  "lat": -20.1130752,
+  "lng": 57.5966429,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Chez+Tante+Athalie&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Table d'hôte créole près du jardin de Pamplemousses, servie le midi dans un jardin où sont exposées des voitures anciennes.",
+  "description_md": "Chez Tante Athalie est une table d'hôte de cuisine créole, à courte distance en voiture du jardin botanique de Pamplemousses. La salle ouverte donne sur un jardin où sont exposées des voitures anciennes, avec une terrasse en pierre. On choisit entre un menu à prix fixe et une courte carte.",
+  "why_go_md": "Pour un déjeuner créole traditionnel avant ou après la visite du jardin de Pamplemousses.",
+  "likes": [
+    "Cuisine créole traditionnelle, menu à prix fixe ou courte carte",
+    "Jardin avec voitures anciennes et terrasse en pierre"
+  ],
+  "watchouts": [
+    "Déjeuner uniquement, du lundi au samedi d'après AFAR : fermé le soir et le dimanche"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": "D'après AFAR (page modifiée en décembre 2023) : déjeuner seulement, du lundi au samedi de midi à 15 h. Non confirmé par une source officielle.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Chez+Tante+Athalie&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Chez Tante Athalie »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":7254833685,\"lat\":\"-20.1130752\",\"lon\":\"57.5966429\" [...] \"name\":\"Chez Tante Athalie - Table d'hôte\""
+    },
+    {
+      "field": "description_md, pitch, likes, watchouts, hours_note, why_go_md",
+      "url": "https://www.afar.com/places/chez-tante-athalie-table-dhote-pamplemousses",
+      "title": "Review of Chez Tante Athalie - Table d'hôte | Pamplemousses, Mauritius, Africa -  AFAR",
+      "accessed_at": "2026-11-24",
+      "evidence": "A quick drive from the Sir Seewoosagur Ramgoolam Botanical Gardens, Chez Tante Athalie prepares memorable Creole cuisine in an idyllic setting. The restaurant only offers lunch, served Monday through Saturday from noon to 3 p.m. Whether you order from the prix-fixe or limited à la carte menus, you’ll get a traditional taste of Mauritian cooking. The airy dining space opens onto a garden that displays vintage cars and features a quaint stone patio"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucun prix trouvé : rien n'établit que la table soit bon marché. À vérifier avant de la proposer à un petit budget.",
+    "Source unique (magazine AFAR, page publiée en 2021 et modifiée en décembre 2023, qui prévient que les informations ont pu changer) ; pas de site officiel trouvé.",
+    "Lonely Planet n'a pas pu être lu (page vide sans JavaScript)."
+  ],
+  "website_url": null,
+  "secret": null
+}

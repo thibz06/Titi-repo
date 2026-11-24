@@ -1,0 +1,97 @@
+{
+  "slug": "tour-martello-la-preneuse",
+  "name": "Tour Martello de La Preneuse",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "ouest",
+  "locality": "La Preneuse",
+  "lat": -20.3546521,
+  "lng": 57.3618344,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Martello%2C+Black+River&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Tour de défense côtière britannique des années 1830, la seule restée intacte à Maurice, devenue musée sur la plage.",
+  "description_md": "La tour Martello de La Preneuse est une tour de défense côtière en basalte, légèrement conique, d'environ 10 mètres de haut pour 12 mètres de diamètre à la base. D'après Le Mauricien, les Britanniques en ont bâti cinq sur les côtes de l'île entre 1832 et 1835, par crainte d'une invasion française au moment de l'abolition de l'esclavage. Celle de La Preneuse est la seule restée intacte : classée au patrimoine national, restaurée à partir de 1992 par l'ONG Friends of the Environment, elle a ouvert comme musée en 1999. Aucune des tours n'a jamais servi au combat.",
+  "why_go_md": "Pour voir de près un ouvrage militaire rare, posé sur la plage, et comprendre comment vivait une garnison : logement de l'officier, chambrée, magasin à vivres, poudrière, citerne d'eau de pluie au sous-sol et toit plat où un ou deux canons pivotaient à 360°.",
+  "likes": [
+    "Seule tour Martello restée intacte à Maurice",
+    "Intérieur restauré : boiseries refaites, canons et répliques d'équipement remis en place",
+    "Un escalier relie le rez-de-chaussée au premier étage (à l'origine on entrait par une échelle, à l'étage)",
+    "Sur la plage de La Preneuse : la visite se combine avec une promenade"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Martello%2C+Black+River&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Martello, Black River »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap way 1004715011 (historic=martello_tower) « La Tour Martello » : lat -20.3546521, lon 57.3618344"
+    },
+    {
+      "field": "description_md, pitch, why_go_md",
+      "url": "https://www.lemauricien.com/?p=122799",
+      "title": "The Martello Tower | Le Mauricien",
+      "accessed_at": "2026-11-24",
+      "evidence": "The tower is slightly conical in shape and is mainly built with basalt rocks. It is about 10 metres high and has a 12 metre-diameter at the base. [...] The roof is flat and carries one or two canons which could be rotated through 360°."
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.lemauricien.com/?p=122799",
+      "title": "The Martello Tower | Le Mauricien",
+      "accessed_at": "2026-11-24",
+      "evidence": "Originally five towers were built along our coast by the British (from 1832-1835). They were built as a coastal defense structure in case of invasion by the French who at that time were unhappy with the British plan to abolish slavery."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.lemauricien.com/?p=122799",
+      "title": "The Martello Tower | Le Mauricien",
+      "accessed_at": "2026-11-24",
+      "evidence": "The tower at La Preneuse is the only one which has remained intact. It was declared as a National Heritage site and converted into a museum. [...] The Martello Towers were never involved in any military action."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://www.lemauricien.com/?p=122799",
+      "title": "The Martello Tower | Le Mauricien",
+      "accessed_at": "2026-11-24",
+      "evidence": "In 1992 the NGO “Friends of the Environment” applied for and was granted permission by the National Monuments Board to restore the La Preneuse Tower of which only the stonework remained. [...] To facilitate visitor access a door on the ground floor was opened and a staircase was built linking the ground floor to the first floor. [...] The museum was opened to the public in 1999."
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-preneuse-beach/",
+      "title": "La Preneuse Beach: Mauritius' Hidden Gem (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The beach is best known for being home to a well-preserved Martello Tower (a small defensive fort)"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Horaires et prix d'entrée du musée : aucune source officielle trouvée (pas de site du musée ; des guides tiers donnent des horaires contradictoires). À demander sur place.",
+    "L'article du Mauricien n'affiche pas de date lisible ; vérifier que le musée est toujours ouvert aux visiteurs.",
+    "Site du National Heritage Fund (nhf.govmu.org) injoignable pendant la session."
+  ],
+  "website_url": null,
+  "secret": null
+}

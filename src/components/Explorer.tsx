@@ -3,6 +3,7 @@
 import { LocateFixed, Search, X } from "lucide-react";
 import dynamic from "next/dynamic";
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 import { useMemo, useState } from "react";
 import { fill, getMessages } from "@/i18n";
 import { FAMILIES, type Family, type PlaceSummary } from "@/lib/places/types";
@@ -32,7 +33,7 @@ function Chip({ active, onClick, children, dark = false }: { active: boolean; on
       aria-pressed={active}
       onClick={onClick}
       className={`inline-flex min-h-11 shrink-0 items-center gap-1.5 rounded-full px-4 text-sm font-semibold ${
-        active ? (dark ? "bg-basalte text-or" : "bg-passe text-white") : "bg-white/70 text-encre"
+        active ? (dark ? "bg-basalte text-or" : "bg-passe text-white") : "bg-brume text-encre"
       }`}
     >
       {children}
@@ -49,7 +50,8 @@ export function Explorer({ places }: { places: PlaceSummary[] }) {
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [mapFailed, setMapFailed] = useState(false);
   const [query, setQuery] = useState("");
-  const [filter, setFilter] = useState<Filter>("all");
+  const initialFamily = useSearchParams().get("famille");
+  const [filter, setFilter] = useState<Filter>(FAMILIES.includes(initialFamily as Family) ? (initialFamily as Family) : "all");
   const [position, setPosition] = useState<Position | null>(null);
   const [geo, setGeo] = useState<"idle" | "locating" | GeoError>("idle");
 
@@ -89,7 +91,7 @@ export function Explorer({ places }: { places: PlaceSummary[] }) {
   }
 
   return (
-    <div className={`relative h-full overflow-hidden ${secretMode ? "bg-basalte" : "app-backdrop"}`}>
+    <div className={`relative h-full overflow-hidden ${secretMode ? "bg-basalte" : "bg-brume"}`}>
       <h1 className="sr-only">{t.explore.title}</h1>
 
       {mapUsable ? (
@@ -113,7 +115,7 @@ export function Explorer({ places }: { places: PlaceSummary[] }) {
       )}
 
       <div className="pointer-events-none absolute inset-x-0 top-0 z-30 mx-auto flex max-w-md gap-2 px-3 pt-[max(0.75rem,env(safe-area-inset-top))]">
-        <label className="glass glass-strong pointer-events-auto flex h-12 min-w-0 flex-1 items-center gap-2 rounded-full px-4">
+        <label className="glass pointer-events-auto flex h-12 min-w-0 flex-1 items-center gap-2 rounded-full px-4">
           <Search size={20} aria-hidden className="shrink-0" />
           <span className="sr-only">{t.explore.searchLabel}</span>
           <input
@@ -133,7 +135,7 @@ export function Explorer({ places }: { places: PlaceSummary[] }) {
           aria-pressed={!!position}
           aria-label={t.explore.nearMe}
           onClick={nearMe}
-          className={`glass glass-strong pointer-events-auto grid h-12 w-12 shrink-0 place-items-center rounded-full ${position ? "!bg-passe text-white" : ""}`}
+          className={`glass pointer-events-auto grid h-12 w-12 shrink-0 place-items-center rounded-full ${position ? "!bg-passe text-white" : ""}`}
         >
           <LocateFixed size={22} aria-hidden className={geo === "locating" ? "animate-pulse" : ""} />
         </button>
@@ -155,7 +157,7 @@ export function Explorer({ places }: { places: PlaceSummary[] }) {
               </div>
               <Link
                 href={`/lieu/${selected.slug}`}
-                className="inline-flex min-h-11 shrink-0 items-center rounded-full bg-lagon px-4 font-semibold text-encre"
+                className="inline-flex min-h-11 shrink-0 items-center rounded-full bg-passe px-4 font-semibold text-white"
               >
                 {t.explore.seePlace}
               </Link>
@@ -219,7 +221,7 @@ export function Explorer({ places }: { places: PlaceSummary[] }) {
                   setQuery("");
                   setFilter("all");
                 }}
-                className="inline-flex min-h-11 items-center rounded-full bg-lagon px-5 font-semibold text-encre"
+                className="inline-flex min-h-11 items-center rounded-full bg-passe px-5 font-semibold text-white"
               >
                 {t.explore.clearFilters}
               </button>

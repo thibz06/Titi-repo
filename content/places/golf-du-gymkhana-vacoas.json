@@ -1,0 +1,105 @@
+{
+  "slug": "golf-du-gymkhana-vacoas",
+  "name": "Golf du Mauritius Gymkhana Club",
+  "family": "sport_loisirs",
+  "tags": [],
+  "region": "centre",
+  "locality": "Vacoas",
+  "lat": -20.2887021,
+  "lng": 57.4992998,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Mauritius%20Gymkhana%20Club",
+  "google_place_id": null,
+  "pitch": "À Vacoas, le plus ancien golf de l'hémisphère sud (1844) : 18 trous, par 68, dans un club privé. Tarifs en roupies.",
+  "description_md": "Le Mauritius Gymkhana Club, à Vacoas, se présente comme le plus ancien parcours de golf de l'hémisphère sud : le golf y est joué depuis 1844, Maurice étant selon le club le quatrième pays où des officiers britanniques ont introduit ce sport. D'abord terrain de polo et de golf, le site a été converti en 1976 en parcours moderne de 18 trous (par 68). C'est aujourd'hui un club privé.",
+  "why_go_md": "Pour jouer un parcours historique, aux tarifs affichés en roupies. L'office du tourisme décrit un tracé court et étroit, qui demande de la précision.",
+  "likes": [
+    "Parcours de 18 trous, par 68, dont six par 3",
+    "Practice ouvert en soirée (night driving range)",
+    "Club-house traditionnel"
+  ],
+  "watchouts": [
+    "Club privé : les conditions d'accès des non-membres ne sont pas lisibles sur la page (onglet « Non-members » non affiché sans JavaScript). Contacte le caddy master avant de venir."
+  ],
+  "tips_md": "Pour réserver, le club demande les dates, le nombre de joueurs et l'heure de départ souhaitée ; le caddy master (+230 698 6302, Suffolk Road, Vacoas) confirme sous 24 heures.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Site officiel, « Rates as of the 2026 season ». Seul l'onglet « Members » est lisible : 18 trous Rs 600, 9 trous Rs 400, « Guest fee » Rs 1 200, location de chariot Rs 200. Le tarif des non-membres n'a pas pu être lu : les champs de prix restent à null.",
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "peu_connu",
+  "rarity_reason": "Présenté par le club et l'office du tourisme comme le plus ancien parcours de golf de l'hémisphère sud (1844).",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Mauritius%20Gymkhana%20Club",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.2887021\",\"lon\":\"57.4992998\" [...] \"type\":\"sport\" [...] \"display_name\":\"Gymkhana Golf Club, Willoughby Road, Town of Vacoas-Phoenix, Ward 4, Vacoas-Phoenix, Plaines Wilhems, 73411, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch, rarity",
+      "url": "https://www.mgc.mu/sports/golf",
+      "title": "Golf at MGC - Green fees, coaching & the 1844 course — Mauritius Gymkhana Club (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Since 1844 · 18 holes · Par 68 [...] The oldest golf course of the Southern Hemisphere [...] Mauritius is the fourth country where golf was introduced by British Military officers, after Scotland, England and India."
+    },
+    {
+      "field": "price_kind, price_note",
+      "url": "https://www.mgc.mu/sports/golf",
+      "title": "Golf at MGC - Green fees, coaching & the 1844 course — Mauritius Gymkhana Club (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Rates as of the 2026 season. Green fees for members and non-members, plus lessons with the club professional. [...] 18 holes Rs 600 [...] Guest fee Rs 1,200 [...] Trolley rental Rs 200"
+    },
+    {
+      "field": "tips_md, description_md",
+      "url": "https://www.mgc.mu/sports/golf",
+      "title": "Golf at MGC - Green fees, coaching & the 1844 course — Mauritius Gymkhana Club (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "+230 698 6302 [...] Suffolk Road, Vacoas [...] Tell us the dates, party size and preferred tee-off time. Our caddy master will confirm availability within 24 hours."
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://www.mgc.mu/the-club/history",
+      "title": "History & Milestones — Mauritius Gymkhana Club (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "A timeline of the Mauritius Gymkhana Club, from a polo ground under the British Military to a living private club today. [...] The layout is converted from a mixed polo/golf ground into the modern 18-hole course."
+    },
+    {
+      "field": "likes, description_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/gymkhana-club-golf-course/",
+      "title": "Gymkhana Club Golf Course: A Historic Course in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "This par-68 course is relatively short and narrow, but requires precision and a fearless attitude. Comprising 18 holes, six of which are par-3, the Gymkhana Club is also home to a night driving range for those who wish to hone their stroke after hours."
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/gymkhana-club-golf-course/",
+      "title": "Gymkhana Club Golf Course: A Historic Course in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "and still retains a traditional clubhouse"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Tarif et conditions d'accès des non-membres : onglet non lisible ; à demander au club.",
+    "Horaires du parcours et du practice : non trouvés.",
+    "rarity = peu_connu est une appréciation : à trancher."
+  ],
+  "website_url": "https://www.mgc.mu/sports/golf",
+  "secret": null
+}

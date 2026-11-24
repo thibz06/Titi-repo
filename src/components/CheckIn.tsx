@@ -88,7 +88,7 @@ export function CheckIn({ place, regionSlugs }: { place: PlaceSummary; regionSlu
         onClick={onCheckIn}
         aria-label={done ? t.checkinDone : t.checkin}
         className={`inline-flex h-12 shrink-0 items-center justify-center gap-1.5 rounded-full px-4 font-semibold ${
-          done ? "bg-passe text-white" : "bg-soleil text-encre"
+          done ? "bg-filao text-white" : "bg-soleil text-encre"
         }`}
       >
         {done ? <Check size={20} strokeWidth={3} aria-hidden /> : <MapPinCheck size={20} aria-hidden className={busy ? "animate-pulse" : ""} />}
@@ -122,7 +122,7 @@ export function CheckIn({ place, regionSlugs }: { place: PlaceSummary; regionSlu
               <button
                 type="button"
                 onClick={() => record("manual", null)}
-                className="inline-flex min-h-11 items-center rounded-full bg-lagon px-5 font-semibold text-encre"
+                className="inline-flex min-h-11 items-center rounded-full bg-passe px-5 font-semibold text-white"
               >
                 {t.checkinManual}
               </button>
@@ -130,7 +130,7 @@ export function CheckIn({ place, regionSlugs }: { place: PlaceSummary; regionSlu
             <button
               type="button"
               onClick={() => setProblem(null)}
-              className="inline-flex min-h-11 items-center rounded-full bg-white/70 px-5 font-semibold text-encre"
+              className="inline-flex min-h-11 items-center rounded-full bg-brume px-5 font-semibold text-encre"
             >
               {t.checkinCancel}
             </button>

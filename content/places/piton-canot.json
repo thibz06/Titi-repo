@@ -1,0 +1,83 @@
+{
+  "slug": "piton-canot",
+  "name": "Piton Canot",
+  "family": "randos_sommets",
+  "tags": [
+    "famille"
+  ],
+  "region": "sud_ouest",
+  "locality": "Chamarel",
+  "lat": -20.4301404,
+  "lng": 57.378863,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Piton+Canot&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Petite ascension au-dessus de Chamarel, une à deux heures, avec vue sur l'île aux Bénitiers ; pour enfants déjà grands.",
+  "description_md": "Le Piton Canot (Piton du Canot sur OpenStreetMap) domine Chamarel. L'office du tourisme le classe parmi les meilleures randonnées en famille : en partant du haut de Chamarel, la montée fait 2,5 kilomètres et dure une à deux heures. Elle se fait par temps sec et ensoleillé.",
+  "why_go_md": "Pour une randonnée courte avec un vrai sommet et une vue à 360 degrés, et un pique-nique à un point de vue sur l'île aux Bénitiers. Chamarel et ses autres visites sont à côté.",
+  "likes": [
+    "Courte : 2,5 km, une à deux heures",
+    "Point de vue sur l'île aux Bénitiers en chemin",
+    "Vue à 360 degrés au sommet",
+    "Convient aux enfants déjà grands qui aiment un petit défi"
+  ],
+  "watchouts": [
+    "À faire par temps sec et ensoleillé",
+    "Un peu sportive : l'office du tourisme la destine aux enfants plus âgés"
+  ],
+  "tips_md": null,
+  "duration_min": 60,
+  "duration_max": 120,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "meteo": "Par temps sec et ensoleillé (Mauritius Now)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Piton+Canot&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Piton Canot »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 990152933 (natural=peak) « Piton du Canot » : lat -20.4301404, lon 57.3788630"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, watchouts, duration_min, duration_max, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-family-hikes-in-mauritius/",
+      "title": "Best Family Hikes in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "In sunny and dry weather, the ascent to the top of Piton Canot is a great choice for a short and sweet hike. By starting from the top of Chamarel, this hike is just an hour long and is great for older children who like a little challenge. Along the way, you can stop for a little picnic at a viewpoint overlooking the iconic Île aux Benitiers. [...] 2.5km 1-2 hours"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/waterfalls-in-mauritius/",
+      "title": "Waterfalls in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "You can climb to the top of Piton Canot for 360-degree views if you’re feeling adventurous"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Point de départ exact, stationnement et statut du terrain (public ou privé) : non précisés par les sources lues.",
+    "Durée : « just an hour long » dans le texte, « 1-2 hours » en légende ; la fiche retient 1 à 2 heures.",
+    "Coordonnées : sommet (OpenStreetMap). Tag « famille » appuyé sur la liste « Best Family Hikes » de l'office du tourisme."
+  ],
+  "website_url": null,
+  "secret": null
+}

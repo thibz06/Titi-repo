@@ -10,7 +10,7 @@ export default function NotFound() {
       <Notice
         title={t.place.notFoundTitle}
         action={
-          <Link href="/explorer" className="inline-flex min-h-11 items-center rounded-full bg-lagon px-5 font-semibold text-encre">
+          <Link href="/explorer" className="inline-flex min-h-11 items-center rounded-full bg-passe px-5 font-semibold text-white">
             {t.place.backToMap}
           </Link>
         }

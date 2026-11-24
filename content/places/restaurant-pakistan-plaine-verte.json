@@ -1,0 +1,65 @@
+{
+  "slug": "restaurant-pakistan-plaine-verte",
+  "name": "Restaurant Pakistan (fritures)",
+  "family": "manger",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.15901,
+  "lng": 57.5097088,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Pakistan+Hotel+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Adresse de Plaine-Verte connue pour ses fritures : gâteaux piments et pain frit vendus à la pièce pour quelques roupies.",
+  "description_md": "Le restaurant Pakistan, à Plaine-Verte, est connu pour ses fritures d'après Defimedia : gâteaux piments et « dipin frir » (pain frit), vendus à la pièce.",
+  "why_go_md": "Pour grignoter des gâteaux piments tout juste frits à un prix très bas, dans le quartier de Plaine-Verte.",
+  "likes": [
+    "Gâteaux piments et pain frit vendus à la pièce"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Rs 5 le gâteau piment et Rs 6 le pain frit d'après Defimedia (5 juillet 2022), avec une hausse d'une roupie alors annoncée. Prix plus récent non trouvé.",
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Pakistan+Hotel+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Pakistan Hotel Port Louis »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":737290690,\"lat\":\"-20.1590100\",\"lon\":\"57.5097088\" [...] \"name\":\"Pakistan Hotel\""
+    },
+    {
+      "field": "price_kind, price_note, description_md, pitch, likes",
+      "url": "https://defimedia.info/fritures-pakistan-re-1-de-plus-pour-un-gateau-piment",
+      "title": "Fritures - Pakistan : Re 1 de plus pour un gâteau piment | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Au restaurant Pakistan à Plaine-Verte, reconnu pour ses fritures [...] il faut compter Rs 5 pour un gâteau piment et Rs 6 pour un « dipin frir ». « Nous ne pourrons pas augmenter les prix par plus d’une roupie."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Coordonnées : celles du « Pakistan Hotel » d'OpenStreetMap (rue Sir Seewoosagur Ramgoolam, ex-rue Desforges) ; rien ne prouve qu'il s'agit du même établissement que le « restaurant Pakistan » de l'article.",
+    "Source unique de juillet 2022 : prix, horaires et reste de la carte à vérifier."
+  ],
+  "website_url": null,
+  "secret": null
+}

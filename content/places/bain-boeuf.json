@@ -1,0 +1,94 @@
+{
+  "slug": "bain-boeuf",
+  "name": "Plage de Bain Bœuf",
+  "family": "plages_lagon",
+  "tags": [
+    "spot_photo"
+  ],
+  "region": "nord",
+  "locality": "Cap Malheureux",
+  "lat": -19.9856855,
+  "lng": 57.6068639,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Bain%20Boeuf%20Public%20Beach",
+  "google_place_id": null,
+  "pitch": "Petite baie calme du nord avec vue sur le Coin de Mire : pour le bain de soleil plus que pour nager.",
+  "description_md": "Bain Bœuf est une plage publique du nord, près de Cap Malheureux, proclamée en 1991 (2,2 hectares, environ 730 m de front de mer). Le Défi la décrit comme une petite baie très calme, face à l'île du Coin de Mire. Des sacs de sable y ont été posés pour freiner l'érosion.",
+  "why_go_md": "Pour la vue sur le Coin de Mire et le calme : un endroit où s'installer au soleil ou se retrouver entre amis, selon Le Défi, plutôt qu'une plage de baignade.",
+  "likes": [
+    "Vue dégagée sur le Coin de Mire",
+    "Endroit très calme, avec quelques bancs"
+  ],
+  "watchouts": [
+    "Pas vraiment adaptée à la nage (Le Défi)",
+    "Bain-Bœuf figure sur la liste des 36 lagons à baignade dangereuse de la Beach Authority (2018)",
+    "Plage touchée par l'érosion : barrière de sacs de sable"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": "medium",
+  "risk_note": "Lagon inscrit sur la liste des zones de baignade dangereuse (Beach Authority, 2018). Respecte les panneaux.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Bain%20Boeuf%20Public%20Beach",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-19.9856855\",\"lon\":\"57.6068639\" [...] \"type\":\"beach\" [...] \"display_name\":\"Bain Boeuf Public Beach, Camp Pavé, Cap Malheureux, Cap Malheureux VCA, Riviere du Rempart, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, why_go_md, likes, watchouts, pitch",
+      "url": "https://defimedia.info/les-belles-du-nord-la-plage-bain-boeuf",
+      "title": "Les belles du Nord : la plage Bain-Bœuf — Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Cette plage est une merveilleuse petite baie avec vue sur l’île du Coin-de-Mire qui se trouve au large. L’endroit est très calme, idéal pour prendre un bain de soleil ou de se retrouver entre amis, mais pas vraiment approprié pour y nager. Des sacs de sable ont été placés pour faire une barrière, afin de protéger la plage contre l’érosion."
+    },
+    {
+      "field": "likes",
+      "url": "https://defimedia.info/les-belles-du-nord-la-plage-bain-boeuf",
+      "title": "Les belles du Nord : la plage Bain-Bœuf — Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Des petits bancs disposés çà et là pour se détendre."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius — Beach Authority (liste datée du 18 juillet 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Bain Boeuf 2.2 727 494/1991"
+    },
+    {
+      "field": "risk_level, risk_note, watchouts",
+      "url": "https://defimedia.info/baignade-dangereuse-36-lagons-consideres-risque-pour-les-nageurs",
+      "title": "Baignade dangereuse : 36 lagons considérés à risque pour les nageurs — Defimedia (3 février 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "La liste des lagons dangereux : Le Goulet, Pointe-aux-Piments, La Cuvette, Pointe d ’Azur, Bain-Bœuf"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "L'article du Défi n'affiche pas de date lisible ; l'état actuel de la plage (érosion, sacs de sable) est à vérifier sur place.",
+    "Bain-Bœuf n'est pas dans la liste de 24 plages à panneaux citée au Parlement en 2024 : le niveau de risque actuel est incertain.",
+    "Gratuité non écrite par une source : price_kind à null."
+  ],
+  "website_url": "https://www.beachauthority.mu/public-beaches",
+  "secret": null
+}

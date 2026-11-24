@@ -217,7 +217,8 @@
       "credit": "Martin Falbisoner",
       "license": "CC BY-SA 4.0",
       "source_url": "https://commons.wikimedia.org/wiki/File:The_Champ_de_Mars_Racecourse.JPG",
-      "is_cover": true
+      "is_cover": true,
+      "storage_path": "/photos/champ-de-mars-1.jpg"
     }
   ],
   "open_questions": [

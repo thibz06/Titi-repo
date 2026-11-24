@@ -1,0 +1,77 @@
+{
+  "slug": "plage-de-riambel",
+  "name": "Plages de Riambel et de Pomponette",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "sud",
+  "locality": "Riambel",
+  "lat": -20.5218517,
+  "lng": 57.5094552,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Riambel+Public+Beach&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Deux plages voisines et calmes du sud, le long de la route B9. On se baigne à Riambel, pas à Pomponette.",
+  "description_md": "Riambel et Pomponette sont deux plages voisines de la côte sud, au bord de la route B9, dans l'une des régions les moins construites de l'île. La Beach Authority recense une plage publique proclamée à Riambel (environ 145 mètres de front de mer) et une à Pomponette (environ 477 mètres). L'office du tourisme prévient que la mer peut être très dangereuse à Pomponette, avec des courants extrêmement forts, et conseille de se baigner plutôt à Riambel.",
+  "why_go_md": "Pour deux plages de sable blanc tranquilles, à l'écart des zones touristiques. L'office du tourisme mentionne aussi des balades à cheval sur le sable.",
+  "likes": [
+    "Plages calmes, région peu construite",
+    "Sable blanc",
+    "Balades à cheval sur la plage (prestataire non identifié)"
+  ],
+  "watchouts": [
+    "Pomponette : mer très dangereuse, courants extrêmement forts selon l'office du tourisme ; baigne-toi plutôt à Riambel"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": "Pomponette : courants extrêmement forts, mer décrite comme très dangereuse par l'office du tourisme (Mauritius Now). Baignade conseillée à Riambel.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Riambel+Public+Beach&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Riambel Public Beach »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 10170422851 (tourism=attraction) « Riambel Public Beach » : lat -20.5218517, lon 57.5094552"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, watchouts, risk_note",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mauritius-wild-side/",
+      "title": "Mauritius Wild Side (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "As one of the least developed regions of Mauritius, these are great secret spots for soaking up the rays on the white sandy beaches but be warned that the sea at Pomponette can be very dangerous, with extremely strong currents, so it is safer to take a dip at Riambel. If you’re not one for sun-worshipping, there’s also the option to horse ride along the sands."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius (Beach Authority, fichier List2025.pdf)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Riambel 0.8094 145 221/2017 [...] Pomponette 4.3858 477 222/2017"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "`price_kind` à null : aucune source lue n'écrit que ces plages sont gratuites.",
+    "`risk_level` à null : danger signalé par l'office du tourisme pour Pomponette, sans classement officiel ; aucune source sur la surveillance à Riambel.",
+    "Coordonnées : plage publique de Riambel ; Pomponette n'a pas été trouvée dans Nominatim. Centre équestre : non identifié."
+  ],
+  "website_url": null,
+  "secret": null
+}

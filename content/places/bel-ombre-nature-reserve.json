@@ -1,0 +1,141 @@
+{
+  "slug": "bel-ombre-nature-reserve",
+  "name": "Réserve naturelle de Bel Ombre",
+  "family": "nature_parcs",
+  "tags": [
+    "famille"
+  ],
+  "region": "sud",
+  "locality": "Bel Ombre",
+  "lat": -20.5011338,
+  "lng": 57.4403455,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Bel+Ombre+Nature+Reserve&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Domaine privé de 1 300 hectares dans le sud : marche guidée, safari 4x4, quad ou buggy jusqu'à une cascade.",
+  "description_md": "La Bel Ombre Nature Reserve (ex-Heritage Nature Reserve) est un domaine privé d'environ 1 300 hectares de végétation préservée, au-dessus de Bel Ombre. On ne la visite qu'avec un guide, à pied ou en véhicule. Les activités ont lieu en deux sessions par jour, à 9 h 30 et 13 h 30, d'environ deux heures chacune : marche guidée en forêt, safari en 4x4, ou circuit de 15 kilomètres en quad ou en buggy. La plupart passent par une cascade, où la baignade est possible si la météo le permet.",
+  "why_go_md": "Pour approcher la forêt du sud avec un guide qui raconte la faune, la flore et l'histoire du domaine. On peut croiser cerfs de Java, singes, chauves-souris et sangliers, et parfois la crécerelle ou le pigeon rose. Le safari en 4x4 est ouvert dès 3 ans, ce qui en fait l'option la plus simple en famille.",
+  "likes": [
+    "Marche guidée de 2 heures en forêt, avec arrêt à une cascade",
+    "Safari 4x4 de 2 heures, accessible dès 3 ans",
+    "Quad et buggy : 15 km, environ 1 h 30 de piste",
+    "Guide présent sur toutes les activités ; eau en bouteille fournie",
+    "Ouvert toute l'année"
+  ],
+  "watchouts": [
+    "Réservation fortement recommandée ; arrive 15 minutes avant la session",
+    "Baignade à la cascade selon la météo, à la discrétion du guide, sans compensation si elle est refusée",
+    "Quad : conducteur de 18 ans au moins ; passager dès 12 ans en quad, dès 5 ans en buggy",
+    "Les sorties peuvent être annulées par mauvais temps",
+    "En espèces, paiement en roupies uniquement"
+  ],
+  "tips_md": null,
+  "duration_min": 120,
+  "duration_max": 120,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Activités payantes, tarifs distincts résidents / non-résidents sur la boutique de réservation du site (consultée le 24 novembre 2026) ; montants non relevés. Quad et buggy facturés par véhicule, safari 4x4 et marche par personne (2 personnes minimum).",
+  "opening_hours": "Mo-Su 08:30-16:30",
+  "hours_note": "FAQ du site officiel (consultée le 24 novembre 2026, sans date affichée) : sessions à 9 h 30 et 13 h 30.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Bel+Ombre+Nature+Reserve&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Bel Ombre Nature Reserve »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap way 1262546703 (leisure=nature_reserve) « Bel Ombre Nature Reserve » : lat -20.5011338, lon 57.4403455"
+    },
+    {
+      "field": "description_md, pitch, why_go_md",
+      "url": "https://www.belombrenaturereserve.com/faq",
+      "title": "Frequently asked Questions | Bel Ombre Nature Reserve",
+      "accessed_at": "2026-11-24",
+      "evidence": "Bel Ombre Nature Reserve lies in some 1,300 hectares of pristine vegetation and breathtaking views."
+    },
+    {
+      "field": "description_md, duration_min, duration_max, watchouts",
+      "url": "https://www.belombrenaturereserve.com/faq",
+      "title": "Frequently asked Questions | Bel Ombre Nature Reserve",
+      "accessed_at": "2026-11-24",
+      "evidence": "Activities take place in two daily sessions, at 9:30 AM and 1:30 PM, each lasting approximately 2 hours. We kindly ask you to arrive at least 15 minutes early to complete check-in and registration procedures."
+    },
+    {
+      "field": "opening_hours",
+      "url": "https://www.belombrenaturereserve.com/faq",
+      "title": "Frequently asked Questions | Bel Ombre Nature Reserve",
+      "accessed_at": "2026-11-24",
+      "evidence": "We are open every day, from Monday to Sunday, between 8:30 AM and 4:30 PM."
+    },
+    {
+      "field": "description_md, likes, watchouts",
+      "url": "https://www.belombrenaturereserve.com/faq",
+      "title": "Frequently asked Questions | Bel Ombre Nature Reserve",
+      "accessed_at": "2026-11-24",
+      "evidence": "Guided Trek (2 hours) - A walk through private forestland (outside the UNESCO biosphere) with insights into local flora and fauna. Includes a waterfall stop, with swimming possible depending on weather. 4x4 Safari (2 hours) - A scenic ride through valleys and waterfalls, with a swim stop when conditions allow. Quad & Buggy Tour (15 km round trip) - A 1.5-hour ride through the reserve along the historic trails of Frédérica [...] Important: Swimming at the waterfall depends on recent weather and is at the discretion of the guide. No compensation will be offered if swimming is not permitted."
+    },
+    {
+      "field": "watchouts, likes",
+      "url": "https://www.belombrenaturereserve.com/faq",
+      "title": "Frequently asked Questions | Bel Ombre Nature Reserve",
+      "accessed_at": "2026-11-24",
+      "evidence": "Double Quad: Driver must be 18+, passenger from 12 years Buggy: Driver must be 18+, passenger from 5 years [...] Bottled water is provided during treks, safaris, and quad/buggy outings. [...] Yes, advance booking is highly recommended for all activities."
+    },
+    {
+      "field": "watchouts, likes",
+      "url": "https://www.belombrenaturereserve.com/faq",
+      "title": "Frequently asked Questions | Bel Ombre Nature Reserve",
+      "accessed_at": "2026-11-24",
+      "evidence": "Cash payments must be made in Mauritian Rupees only. [...] Come hail or shine, we operate all year round. Tours may be cancelled during bad weather."
+    },
+    {
+      "field": "why_go_md, likes, tags",
+      "url": "https://www.belombrenaturereserve.com/activities/4x4-safari-in-mauritius",
+      "title": "Safari adventures & activities in the south | Bel Ombre Nature Reserve",
+      "accessed_at": "2026-11-24",
+      "evidence": "Designed for guests aged three and above, this guided adventure combines comfort and safety, making it a memorable experience to enjoy with family or friends."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://www.belombrenaturereserve.com/activities/trekking-and-hiking-in-mauritius",
+      "title": "Trekking, Trailing & Hiking in Mauritius | Bel Ombre Nature Reserve",
+      "accessed_at": "2026-11-24",
+      "evidence": "You may spot monkeys, kestrels or the rare pink pigeon resting among the impressive century-old trees that shape the landscape of the reserve."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://www.belombrenaturereserve.com/activities/best-quad-biking-in-mauritius",
+      "title": "Best quad biking adventures in Mauritius | Bel Ombre Nature Reserve",
+      "accessed_at": "2026-11-24",
+      "evidence": "Along the way, you may witness bats, monkeys, wild boars and Java deer roaming freely among rare native trees in their natural habitat."
+    },
+    {
+      "field": "price_kind, price_note",
+      "url": "https://reservations.belombrenaturereserve.com/product-category/non-resident/",
+      "title": "Non-Resident Archives - Bel Ombre Nature Reserve (boutique de réservation)",
+      "accessed_at": "2026-11-24",
+      "evidence": "You are browsing Non-Resident prices. [...] Non-Resident – Quad – Discovery Trail (per vehicle) [...] Non-Resident – Safari 4×4 – Discovery Trail (per pax, minimum 2 pax) [...] Non-Resident – Two Waterfalls Walking Trail (per pax, minimum 2 pax)"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix : la boutique en ligne distingue résidents et non-résidents (par véhicule pour quad et buggy, par personne pour 4x4 et marche, 2 personnes minimum), mais les montants n'apparaissent pas dans la page téléchargée. À relever sur le site.",
+    "Le nom « ex-Heritage Nature Reserve » vient de la redirection de heritagenaturereserve.com vers belombrenaturereserve.com constatée pendant la session.",
+    "Coordonnées : emprise « Bel Ombre Nature Reserve » (OpenStreetMap), pas forcément l'accueil des visiteurs."
+  ],
+  "website_url": "https://www.belombrenaturereserve.com/",
+  "secret": null
+}

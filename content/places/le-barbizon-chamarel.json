@@ -1,0 +1,91 @@
+{
+  "slug": "le-barbizon-chamarel",
+  "name": "Le Barbizon (Palais de Barbizon)",
+  "family": "manger",
+  "tags": [],
+  "region": "sud_ouest",
+  "locality": "Chamarel",
+  "lat": -20.425307,
+  "lng": 57.391271,
+  "coords_source_url": "https://www.openstreetmap.org/node/828423332",
+  "google_place_id": null,
+  "pitch": "Table d’hôte familiale de Chamarel où Marie-Ange L’intelligent remet à l’honneur les recettes créoles d’antan.",
+  "description_md": "Le Barbizon est le restaurant ouvert en 2003 à Chamarel par Marie-Ange L’intelligent avec son mari Rico ; elle a ensuite transformé sa maison en table d’hôte. Le Défi (février 2020) le présente comme une référence pour les plats d’antan que mangeaient autrefois les habitants de Chamarel, appris de sa grand-mère.",
+  "why_go_md": "Pour déjeuner à Chamarel de plats devenus rares sur les tables mauriciennes, dans une maison familiale dont les enfants prennent la relève.",
+  "likes": [
+    "Salade d’arouille, haricots et brède « malbar », gratin de bananes",
+    "Bringelles et angives frites, poulet frit à la créole, sauté de poisson salé",
+    "Punchs maison"
+  ],
+  "watchouts": [
+    "Source de février 2020 : prix, horaires et besoin de réserver non vérifiés"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Chamarel+village&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Chamarel village »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Chamarel, Chamarel VCA, West, Black River, 91102, Mauritius / Maurice — lat -20.4253074, lon 57.3912706 (node 828423332)"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://defimedia.info/pour-le-plaisir-des-papilles-les-recettes-dantan",
+      "title": "Pour le plaisir des papilles : les recettes d’antan | Defimedia (6 février 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Marie-Ange L’intelligent, mère de trois enfants, a remis au goût du jour les recettes d’antan que les habitants de Chamarel consommaient auparavant"
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://defimedia.info/pour-le-plaisir-des-papilles-les-recettes-dantan",
+      "title": "Pour le plaisir des papilles : les recettes d’antan | Defimedia (6 février 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "La belle aventure a commencé en 2003. Avec le soutien de son mari, Rico L’intelligent, Marie Ange réalisera son rêve : ouvrir son restaurant. Aujourd’hui, Le restaurant le Barbizon, situé à Chamarel, est une référence [...] Ainsi, elle transforme sa maison en table d’hôte"
+    },
+    {
+      "field": "likes, why_go_md, description_md",
+      "url": "https://defimedia.info/pour-le-plaisir-des-papilles-les-recettes-dantan",
+      "title": "Pour le plaisir des papilles : les recettes d’antan | Defimedia (6 février 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le Barbizon offre un menu varié, sans parler de ses punchs fait maison qui ont la cote surtout auprès des touristes. Marie Ange a tout appris de sa grand-mère [...] Elle fait revivre certains plats qui ont disparu des tables à Maurice"
+    },
+    {
+      "field": "likes, why_go_md",
+      "url": "https://defimedia.info/pour-le-plaisir-des-papilles-les-recettes-dantan",
+      "title": "Pour le plaisir des papilles : les recettes d’antan | Defimedia (6 février 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "la salade d’arouille, les haricots et brède ‘malbar’, gratin de bananes, bringelle et angive frites, du poulet frit à la créole et le fameux sauté poisson salé [...] Marie Ange est fière de sa cuisine mais aussi de ses enfants qui vont assurer la relève"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix, horaires, réservation : aucune source accessible (l’article de lexpress.mu sur le « Palais de Barbizon » répond 403 aux robots).",
+    "Coordonnées approximatives : centre du village de Chamarel dans OpenStreetMap ; l’établissement n’y a pas été trouvé par son nom.",
+    "Nom : « Le Barbizon » dans Le Défi, « Palais de Barbizon » dans le titre de L’Express ; à confirmer sur place."
+  ],
+  "website_url": null,
+  "secret": null
+}

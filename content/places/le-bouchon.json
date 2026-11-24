@@ -1,0 +1,90 @@
+{
+  "slug": "le-bouchon",
+  "name": "Plage du Bouchon",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "sud_est",
+  "locality": "Le Bouchon",
+  "lat": -20.4702112,
+  "lng": 57.6812635,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Le%20Bouchon%20Public%20Beach",
+  "google_place_id": null,
+  "pitch": "Longue plage publique du sud-est, près de l'aéroport, reliée à La Cambuse par un sentier côtier. Baignade à risque.",
+  "description_md": "Le Bouchon est une plage publique du sud-est, proclamée en 1984. Avec près de 11 hectares et environ 1 475 m de front de mer, c'est l'une des plus longues de la région Sud sur la liste de la Beach Authority. Elle se trouve sur le sentier côtier qui va de La Cambuse au Pont Naturel et au Souffleur.",
+  "why_go_md": null,
+  "likes": [
+    "Environ 1,5 km de front de mer (Beach Authority, 2025)",
+    "Étape du sentier côtier La Cambuse – Le Bouchon – Pont Naturel – Le Souffleur"
+  ],
+  "watchouts": [
+    "Baignade dangereuse : panneaux d'avertissement installés (liste citée au Parlement en avril 2024)",
+    "Le Bouchon était cité en 2018 parmi les lagons « les plus meurtriers » par une source policière du Défi"
+  ],
+  "tips_md": "Viens surtout pour marcher ou pique-niquer. Pour le sentier vers La Cambuse ou le Pont Naturel, l'office du tourisme conseille des chaussures de randonnée (terrain rocheux).",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": "medium",
+  "risk_note": "Plage munie de panneaux « Baignade dangereuse » (2024) et citée parmi les lagons les plus meurtriers (2018). Ne te baigne pas hors des zones calmes et respecte les panneaux.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Le%20Bouchon%20Public%20Beach",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.4702112\",\"lon\":\"57.6812635\" [...] \"type\":\"attraction\" [...] \"display_name\":\"Le Bouchon Public Beach, Mon Desert Road, Camp Acacia, Camp Carol, Camp Carol VCA, Grand Port, 51520, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius — Beach Authority (liste datée du 18 juillet 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le Bouchon 10.9743 1475 747/1984"
+    },
+    {
+      "field": "likes, tips_md, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-cambuse-beach/",
+      "title": "La Cambuse Beach — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "take your hiking shoes and cross rocky terrain to discover a trail leading to Le Bouchon and onwards towards Pont Naturel’s bridge-like cliff or Le Souffleur’s rugged and unique landscape."
+    },
+    {
+      "field": "risk_level, risk_note, watchouts",
+      "url": "https://defimedia.info/baignade-dangereuse-36-lagons-consideres-risque-pour-les-nageurs",
+      "title": "Baignade dangereuse : 36 lagons considérés à risque pour les nageurs — Defimedia (3 février 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "les lagons les plus meurtriers sont : Albion, La Prairie, Le Goulet, Flic-en-Flac, Belle-Mare, Blue-Bay, Gris-Gris, le chenal de Grande-Rivière-Sud-Est, Poste-Lafayette, Pomponette, Le Bouchon et Tamarin"
+    },
+    {
+      "field": "risk_level, watchouts",
+      "url": "https://ionnews.mu/baignade-dangereuse-voici-les-plages-a-risques/",
+      "title": "Baignade dangereuse : Voici les plages à risques — ionnews.mu (27 avril 2024)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Région Sud : Telfair, Le Bouchon, Blue Bay, Gris Gris, La Prairie, Riambel, Rivière des Galets, Pomponette et Le Souffleur."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Fiche courte : pas de description officielle du site (paysage, équipements, accès) dans les sources lues.",
+    "Gratuité non écrite par une source : price_kind à null."
+  ],
+  "website_url": "https://www.beachauthority.mu/public-beaches",
+  "secret": null
+}

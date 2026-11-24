@@ -1,0 +1,71 @@
+{
+  "slug": "plateau-remousse",
+  "name": "Plateau Remousse",
+  "family": "randos_sommets",
+  "tags": [
+    "famille"
+  ],
+  "region": "sud_ouest",
+  "locality": null,
+  "lat": -20.3971976,
+  "lng": 57.4303997,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Plateau+Remousse&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Balade facile dans les Gorges de Rivière Noire : une heure jusqu'au belvédère, ruisseaux où se rafraîchir en chemin.",
+  "description_md": "Le Plateau Remousse est un point de vue du parc national des Gorges de Rivière Noire, sur le sentier Macchabée. L'office du tourisme le place en tête de ses randonnées en famille : une marche facile d'accès, 3 kilomètres, où l'on atteint le belvédère en une heure environ (1 h 30 à 2 h 30 au total).",
+  "why_go_md": "Pour une première randonnée avec des enfants : vue depuis le belvédère, ruisseaux où l'on peut se baigner, et la chance d'apercevoir des singes et le pigeon rose, un oiseau indigène de Maurice.",
+  "likes": [
+    "Marche facile d'accès, adaptée aux familles",
+    "Belvédère atteint en une heure environ",
+    "Ruisseaux où se rafraîchir",
+    "Singes et pigeon rose à guetter en chemin"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": 90,
+  "duration_max": 150,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Plateau+Remousse&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Plateau Remousse »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 3833126243 (tourism=viewpoint) « Plateau Remousse » : lat -20.3971976, lon 57.4303997"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, duration_min, duration_max, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-family-hikes-in-mauritius/",
+      "title": "Best Family Hikes in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Who says hiking has to be hard? This easily accessible walk in the Black River Gorges National Park is a win for families. It only takes an hour to get to glorious views from Plateau Remousse viewpoint and there’s the chance to swim in some cooling creeks, too. You can also keep the kids entertained on this laidback hike by trying to spot Mauritius’ monkeys and the island’s native pink pigeon. 3km 1:30-2:30 hours"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Point de départ (entrée du parc à utiliser) et stationnement : non précisés par la source ; site du National Parks and Conservation Service sans contenu exploitable.",
+    "Coordonnées : nœud « Plateau Remousse » (point de vue, OpenStreetMap), rattaché au Machabée Trail.",
+    "Difficulté laissée à null : « easily accessible » et « laidback » ne sont pas une cotation."
+  ],
+  "website_url": null,
+  "secret": null
+}

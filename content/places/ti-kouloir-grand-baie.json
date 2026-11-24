@@ -1,0 +1,74 @@
+{
+  "slug": "ti-kouloir-grand-baie",
+  "name": "Ti Kouloir",
+  "family": "manger",
+  "tags": [],
+  "region": "nord",
+  "locality": "Grand Baie",
+  "lat": -20.0146118,
+  "lng": 57.5840544,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Ti+Kouloir+Grand+Baie&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Petit snack de Grand Baie connu pour ses boulettes et sa mine bouillie (« minn bwi »).",
+  "description_md": "Ti Kouloir (« petit couloir » en créole) est un snack de Grand Baie. Le magazine d'Expat.com le cite en novembre 2025 comme une adresse emblématique pour les boulettes, ces bouchées vapeur de poisson, de viande ou de légumes servies dans un bouillon ou avec des sauces maison, et un autre de ses articles signale sa mine bouillie, bien classée dans un vote d'amateurs sur Facebook.",
+  "why_go_md": "Pour un repas de rue sino-mauricien à Grand Baie : les boulettes se commandent à la pièce, ce qui permet à chacun de composer son bol.",
+  "likes": [
+    "Boulettes vapeur commandées à la pièce, en bouillon ou avec sauces",
+    "Mine bouillie (« minn bwi »)"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Ti+Kouloir+Grand+Baie&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Ti Kouloir Grand Baie »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":5457128522,\"lat\":\"-20.0146118\",\"lon\":\"57.5840544\" [...] \"name\":\"Ti Kouloir\""
+    },
+    {
+      "field": "description_md, pitch, likes, why_go_md",
+      "url": "https://www.expat.com/en/expat-mag/12148-discover-mauritius-through-its-street-food-roti-dholl-puri-boulettes-and-more.html",
+      "title": "Discover Mauritius through its street food: Roti, dholl puri, boulettes and more",
+      "accessed_at": "2026-11-24",
+      "evidence": "Mauritian boulettes are delicate steamed dumplings made of fish, meat, or vegetables, served in broth or topped with homemade sauces (soy, chili, garlic…). You order them individually, like candy. [...] Iconic spot: Ti Kouloir in Grand-Baie"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://www.expat.com/en/expat-mag/4928-the-best-places-to-try-the-minn-bwi.html",
+      "title": "The best places to try the “minn bwi”",
+      "accessed_at": "2026-11-24",
+      "evidence": "Ti Kouloir's “minn bwi” is a hit! “Ti kouloir” literally means “small corridor” and its “minn bwi” performed incredibly well in the vote organized by the administrators of the Facebook group"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucun prix ni horaire trouvé dans une source citable.",
+    "Sources : deux articles du magazine d'Expat.com (guide pour expatriés), pas de presse mauricienne ni de page officielle trouvée.",
+    "Adresse d'après OpenStreetMap : School Street, Grand Baie ; à confirmer sur place."
+  ],
+  "website_url": null,
+  "secret": null
+}

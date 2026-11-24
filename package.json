@@ -16,7 +16,8 @@
     "test:e2e": "playwright test --trace off",
     "icons": "node scripts/build-icons.mjs",
     "matrix:build": "node scripts/build-matrix.mjs",
-    "content:lint": "vitest run tests/unit/content.test.ts"
+    "content:lint": "vitest run tests/unit/content.test.ts",
+    "photos:fetch": "node scripts/fetch-photos.mjs"
   },
   "pnpm": {
     "onlyBuiltDependencies": [

@@ -1,0 +1,99 @@
+{
+  "slug": "coin-casse-croute-mahebourg",
+  "name": "Coin Casse-Croûte",
+  "family": "manger",
+  "tags": [],
+  "region": "sud_est",
+  "locality": "Mahébourg",
+  "lat": -20.406409,
+  "lng": 57.707235,
+  "coords_source_url": "https://www.openstreetmap.org/node/6953916382",
+  "google_place_id": null,
+  "pitch": "Petit restaurant familial de Mahébourg : mines bouillies ou frites, bol renversé et spécialités locales de coquillages.",
+  "description_md": "Coin Casse-Croûte est le petit restaurant de la famille Morinière, rue La Passe à Mahébourg, non loin de l’église anglicane. Le Mauricien (octobre 2020) le compte parmi les deux snacks réputés de Mahébourg pour les fruits de mer et lui donne alors 23 ans d’existence. On y sert des classiques de snack mauricien et des spécialités de la région, comme le civet de mangouak (un coquillage d’embouchure) et le sauté de palourdes.",
+  "why_go_md": "Pour goûter une cuisine propre à Mahébourg dans un cadre de snack : les coquillages s’y mangent avec du riz ou, selon la tradition, avec des mines bouillies.",
+  "likes": [
+    "Mines bouillies et frites, bols renversés",
+    "Calamar croustillant, sauté d’agneau ou de bœuf",
+    "Civet de mangouak et sauté de palourdes, avec riz ou mine bouilli",
+    "Cité par le Guide du Routard d’après Le Mauricien"
+  ],
+  "watchouts": [
+    "Rarement vide à midi : il arrive qu’on fasse la queue pour une place",
+    "En 2020, après le naufrage du Wakashio, les coquillages locaux étaient devenus rares : demande ce qui est disponible"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Coin+Casse-Cro%C3%BBte+Mah%C3%A9bourg&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Coin Casse-Croûte Mahébourg »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Coin Casse Croute, Rue de la Colonie, Mahébourg, Mahébourg VCA, Grand Port, 50810, Mauritius / Maurice — lat -20.4064093, lon 57.7072351 (node 6953916382)"
+    },
+    {
+      "field": "description_md, pitch, likes, watchouts",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "À la Rue La Passe, à Mahébourg, non loin de l’église anglicane, le petit restaurant de la famille Morinière est rarement vide. Il n’est pas rare de voir les gens faire la queue pour avoir une place à l’heure du déjeuner. Ici, on vend des mines bouillis et frits, des bols renversés, du calamar croustillant, du sauté d’agneau et de bœuf"
+    },
+    {
+      "field": "description_md, likes, why_go_md",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Voilà 23 ans que Coin Casse-Croûte entretient le patrimoine culinaire de Mahébourg. Le civet de mangouak et le sauté de palourde font des heureux. Ils s’accompagnent de riz, ou pour rester dans la pure tradition mauricienne, de mine bouilli"
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Avec la pêche interdite dans le Sud-Est, ces fruits de mer sont devenus rares. Il n’empêche que les deux snacks réputés dans ce domaine à Mahébourg, à savoir Coin Casse-Croûte et Chez François"
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Ce fruit de mer, explique François Hosenbocus, se trouve dans les embouchures"
+    },
+    {
+      "field": "likes",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "A noter que le Coin Casse-Croûte est recommandé par le célèbre Guide du Routard"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Source unique d’octobre 2020 : prix, horaires et jours d’ouverture non sourcés.",
+    "Adresse : « rue La Passe » selon Le Mauricien, « rue de la Colonie » pour le point « Coin Casse Croute » d’OpenStreetMap (coordonnées retenues). À vérifier sur place."
+  ],
+  "website_url": null,
+  "secret": null
+}

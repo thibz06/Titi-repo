@@ -1,0 +1,94 @@
+{
+  "slug": "cascade-eau-bleue",
+  "name": "Cascade Eau Bleue",
+  "family": "cascades_rivieres",
+  "tags": [
+    "spot_photo"
+  ],
+  "region": "sud_est",
+  "locality": "Cluny",
+  "lat": -20.3722415,
+  "lng": 57.6253079,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Eau%20Bleue",
+  "google_place_id": null,
+  "pitch": "Cascade et bassin d'un bleu vif cachés entre champs de canne et forêt, près de Cluny. Baignade possible, sentier glissant.",
+  "description_md": "Eau Bleue est une cascade du sud-est de l'île, près du village de Cluny, au milieu des champs de canne. La chute principale est cachée derrière une forêt dense et des racines enchevêtrées ; son bassin doit son nom à la couleur de l'eau. Plusieurs cascades se suivent dans le même secteur.",
+  "why_go_md": "Pour se baigner dans un bassin d'eau douce d'un bleu soutenu, à l'écart des plages. L'office du tourisme la classe parmi ses cinq cascades préférées de l'île.",
+  "likes": [
+    "Bassin d'un bleu vif où l'on peut se baigner",
+    "Une balançoire au-dessus de l'eau, signalée par l'office du tourisme",
+    "Plusieurs cascades reliées ; rappel et randonnée aquatique possibles avec des guides locaux, sur réservation"
+  ],
+  "watchouts": [
+    "Le sentier qui descend à la cascade est glissant : avance prudemment",
+    "Site caché dans la végétation, sans aménagement décrit par les sources"
+  ],
+  "tips_md": "Prends ton maillot. La plupart des visiteurs vont directement à la chute principale et à son bassin ; les autres cascades demandent plus de temps.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Eau%20Bleue",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.3722415\",\"lon\":\"57.6253079\" [...] \"type\":\"waterfall\" [...] \"display_name\":\"Eau Bleue, New Grove VCA, Grand Port, 51802, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, why_go_md, likes, watchouts, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/eau-bleue-waterfall/",
+      "title": "Eau Bleue Waterfall: A Picturesque Escape — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Eau Bleue waterfall is a hidden paradise surrounded by sugar cane fields. It’s found in the southeast of Mauritius, close to the village of Cluny. The main waterfall is nestled behind thick forest and tangled tree roots [...] Bring your swimwear and you can cool off in the jewel-blue water, treading carefully on the slippery path down to the waterfall."
+    },
+    {
+      "field": "likes, tips_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/eau-bleue-waterfall/",
+      "title": "Eau Bleue Waterfall: A Picturesque Escape — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "There are a few connected waterfalls in this area and experienced local guides offer abseiling and river trekking adventures, which can be pre-booked. However, many visitors head straight for the waterfall and pool known as Eau Bleue for a relaxing dip."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/waterfalls-in-mauritius/",
+      "title": "Gorgeous Waterfalls in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "It’s found in southeast Mauritius in a village called Cluny, 45 minutes from the capital Port Louis. [...] There’s even a swing if you want to make a splash on your way in!"
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/waterfalls-in-mauritius/",
+      "title": "Gorgeous Waterfalls in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Top 5 waterfalls in Mauritius"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Accès exact (parking, terrain privé ou non, durée de marche) : non décrit par les sources officielles lues. La page « Waterfalls » de Mauritius Now affiche « 30 metres 5 mins » sans préciser à quoi cela se rapporte.",
+    "Aucune information sur le débit après fortes pluies (saison cyclonique en décembre-janvier) ; risk_level à null.",
+    "Gratuité non écrite par une source : price_kind à null."
+  ],
+  "website_url": "https://mauritiusnow.com/blog/things-to-do/eau-bleue-waterfall/",
+  "secret": null
+}

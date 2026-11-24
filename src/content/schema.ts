@@ -25,6 +25,8 @@ export const mediaSchema = z.strictObject({
   license: z.string().min(1),
   source_url: url,
   is_cover: z.boolean(),
+  /** Copie réduite hébergée dans l'app (public/photos), créée par `pnpm photos:fetch`. */
+  storage_path: z.string().regex(/^\/photos\/[a-z0-9-]+\.(jpg|png)$/).nullable().optional(),
 });
 
 export const placeDraftSchema = z.strictObject({

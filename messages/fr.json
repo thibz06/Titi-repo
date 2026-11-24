@@ -19,8 +19,8 @@
   },
   "home": {
     "kicker": "Île Maurice",
-    "title": "Mauritius Quest",
-    "pitch": "Un guide vérifié de l'île, posé sur une carte. Pour voir un maximum de choses en dépensant le moins possible.",
+    "title": "Où allons-nous ?",
+    "pitch": "Un guide vérifié de l'île, pour voir un maximum en dépensant le moins possible.",
     "openMap": "Ouvrir la carte",
     "principlesTitle": "Ce que tu trouveras ici",
     "principles": {
@@ -28,7 +28,11 @@
       "budget": "Les prix en roupies, tels qu'annoncés par les lieux.",
       "noPressure": "Une progression pour le plaisir : pas de série à tenir, pas de compte à rebours.",
       "offline": "Une app à installer, qui garde tes fiches ouvertes même sans réseau."
-    }
+    },
+    "search": "Chercher un lieu",
+    "featuredTitle": "À découvrir",
+    "seeAll": "Tout voir",
+    "nearTitle": "Par envie"
   },
   "explore": {
     "title": "Explorer",

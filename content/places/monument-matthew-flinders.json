@@ -1,0 +1,81 @@
+{
+  "slug": "monument-matthew-flinders",
+  "name": "Monument Matthew Flinders",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "sud_ouest",
+  "locality": "Baie du Cap",
+  "lat": -20.4885887,
+  "lng": 57.365309,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Matthew+Flinders&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Mémorial de bord de route à l'explorateur britannique Matthew Flinders, retenu à Maurice de 1803 à 1810.",
+  "description_md": "Ce mémorial de la route côtière, près de Baie du Cap, rappelle le passage de Matthew Flinders. En 1803, l'explorateur et cartographe britannique rentre d'Australie vers l'Angleterre et doit faire escale à Maurice pour réparer son navire. La France et la Grande-Bretagne sont en guerre : le gouverneur français, le général Decaen, le prend pour un espion et le retient sur l'île jusqu'en 1810. Le mémorial a été inauguré en 2003.",
+  "why_go_md": "Pour un court arrêt d'histoire sur la route côtière du sud-ouest, entre Le Morne et Baie du Cap, à combiner avec le rocher de Macondé et la plage de La Prairie, tout proches.",
+  "likes": [
+    "Arrêt bref, au bord de la route côtière",
+    "Un épisode peu connu : près de sept ans de captivité d'un grand cartographe"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Matthew+Flinders&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Matthew Flinders »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 10241355557 (historic=monument) « Captain Matthew Flinders Monument » : lat -20.4885887, lon 57.3653090"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://mautourco.com/fascinating-facts-in-history-of-mauritius-mathew-flinders/",
+      "title": "Fascinating facts in history of Mauritius: Mathew Flinders - Mautourco (13 juillet 2021)",
+      "accessed_at": "2026-11-24",
+      "evidence": "In 1803, Mathew Flinders, British explorer, famous cartographer, was on his way from Australia back to England when he was compelled to make a stop at Mauritius to have his ship repaired. It was during the Franco-British war, and the then French governor, General Decaen, convinced that Flinders was a spy"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://mautourco.com/fascinating-facts-in-history-of-mauritius-mathew-flinders/",
+      "title": "Fascinating facts in history of Mauritius: Mathew Flinders - Mautourco (13 juillet 2021)",
+      "accessed_at": "2026-11-24",
+      "evidence": "held him captive in Mauritius until 1810"
+    },
+    {
+      "field": "description_md",
+      "url": "https://mautourco.com/fascinating-facts-in-history-of-mauritius-mathew-flinders/",
+      "title": "Fascinating facts in history of Mauritius: Mathew Flinders - Mautourco (13 juillet 2021)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Many years later, in 2003, Mathew Flinders will also be entitled to a memorial at Baie du Cap inaugurated by His Majesty Prince Edward, Earl of Wessex."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Source unique : un billet du voyagiste Mautourco (2021) qui cite la Société de l'histoire de l'île Maurice ; lexpress.mu et la page de la Société étaient injoignables. À recouper.",
+    "Qui a inauguré le monument en 2003 : les sources repérées divergent (prince Edward ou président de la Société de l'histoire) ; non repris dans la fiche.",
+    "OpenStreetMap place le monument sur la route côtière du Morne, à l'ouest de Baie du Cap ; description du monument et stationnement non sourcés."
+  ],
+  "website_url": null,
+  "secret": null
+}

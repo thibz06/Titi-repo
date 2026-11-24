@@ -38,6 +38,7 @@ export function ExploreMap({
   const mapRef = useRef<MlMap | null>(null);
   const [pins, setPins] = useState<Pin[]>([]);
   const [ready, setReady] = useState(false);
+  const fitted = useRef(false);
   const callbacks = useRef({ onSelect, onError });
   useEffect(() => {
     callbacks.current = { onSelect, onError };
@@ -147,6 +148,19 @@ export function ExploreMap({
         properties: { id: p.id },
       })),
       });
+    // Première fois : cadrer sur l'ensemble des lieux (la feuille basse couvre le bas de l'écran).
+    if (!fitted.current && places.length > 1) {
+      fitted.current = true;
+      const lngs = places.map((p) => p.lng);
+      const lats = places.map((p) => p.lat);
+      map.fitBounds(
+        [
+          [Math.min(...lngs), Math.min(...lats)],
+          [Math.max(...lngs), Math.max(...lats)],
+        ],
+        { padding: { top: 90, bottom: Math.round(map.getContainer().clientHeight * 0.5), left: 30, right: 30 }, animate: false },
+      );
+    }
   }, [places, ready]);
 
   // Position de l'utilisateur : un point bleu, et la carte s'y recentre.

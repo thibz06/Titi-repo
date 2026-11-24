@@ -1,0 +1,99 @@
+{
+  "slug": "la-cambuse",
+  "name": "Plage de La Cambuse",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "sud_est",
+  "locality": null,
+  "lat": -20.4555809,
+  "lng": 57.6961811,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=La%20Cambuse",
+  "google_place_id": null,
+  "pitch": "Large plage sauvage à dix minutes de l'aéroport, ombragée, avec tables de pique-nique. Courants forts.",
+  "description_md": "La Cambuse est une plage publique de la côte sud-est, à une dizaine de minutes en voiture de l'aéroport. Proclamée en 2014, elle couvre près de 5 hectares pour environ 690 m de front de mer. L'office du tourisme la décrit comme une large étendue de sable restée très naturelle, ombragée par les arbres.",
+  "why_go_md": "Pour une plage peu aménagée, avec de l'ombre et des tables de pique-nique face aux vagues. Pratique le jour de l'arrivée ou du départ, vu la proximité de l'aéroport.",
+  "likes": [
+    "Large plage de sable d'aspect sauvage",
+    "Ombre naturelle des arbres et tables de pique-nique",
+    "Départ d'un sentier côtier vers Le Bouchon, puis le Pont Naturel et Le Souffleur"
+  ],
+  "watchouts": [
+    "Courants parfois forts : l'office du tourisme le signale à qui veut se baigner",
+    "La Cambuse figure sur la liste des 36 lagons à baignade dangereuse de la Beach Authority (relayée par Le Défi en 2018)"
+  ],
+  "tips_md": "Si tu veux marcher, prends des chaussures de randonnée : le sentier vers Le Bouchon traverse un terrain rocheux.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": "medium",
+  "risk_note": "Courants forts selon l'office du tourisme ; lagon inscrit sur la liste des zones de baignade dangereuse (2018). Reste près du bord et respecte les panneaux.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=La%20Cambuse",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.4555809\",\"lon\":\"57.6961811\" [...] \"type\":\"locality\" [...] \"display_name\":\"La Cambuse, Camp Carol, Camp Carol VCA, Grand Port, 51520, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, why_go_md, likes, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-cambuse-beach/",
+      "title": "La Cambuse Beach — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "You’ll find La Cambuse Beach on the southeast coast of the island, around a 10-minute drive from the international airport. This is a beautiful, wide stretch of sand that feels very unspoilt, with trees providing natural shade and picnic benches available to enjoy lunch with a view."
+    },
+    {
+      "field": "risk_level, risk_note, watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-cambuse-beach/",
+      "title": "La Cambuse Beach — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The currents in the water can be strong here, so worth noting if you are going for a swim."
+    },
+    {
+      "field": "tips_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-cambuse-beach/",
+      "title": "La Cambuse Beach — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "take your hiking shoes and cross rocky terrain to discover a trail leading to Le Bouchon and onwards towards Pont Naturel’s bridge-like cliff or Le Souffleur’s rugged and unique landscape."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius — Beach Authority (liste datée du 18 juillet 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "La Cambuse 4.829 692 1227/2014"
+    },
+    {
+      "field": "risk_level, watchouts",
+      "url": "https://defimedia.info/baignade-dangereuse-36-lagons-consideres-risque-pour-les-nageurs",
+      "title": "Baignade dangereuse : 36 lagons considérés à risque pour les nageurs — Defimedia (3 février 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Bras-d’Eau, Belle-Mare, le chenal de Grande-Rivière-Sud-Est, Deux-Frères, Blue-Bay, La Cambuse, Carrière de Sable, Camaron Hatchery, Le Bouchon"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Coordonnées : lieu-dit « La Cambuse » dans OSM, pas le parking de la plage.",
+    "Gratuité, toilettes et surveillance : aucune source lue ; price_kind à null.",
+    "lexpress.mu a refusé la connexion (erreur de certificat) : article de 2016 sur un projet hôtelier voisin non lu."
+  ],
+  "website_url": "https://mauritiusnow.com/blog/things-to-do/la-cambuse-beach/",
+  "secret": null
+}

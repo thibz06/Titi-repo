@@ -1,0 +1,90 @@
+{
+  "slug": "jummah-masjid-port-louis",
+  "name": "Jummah Masjid (mosquée de Port-Louis)",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1596252,
+  "lng": 57.5050338,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Jummah%20Mosque%20Port%20Louis",
+  "google_place_id": null,
+  "pitch": "Mosquée historique du centre de Port-Louis, des années 1850 : arches, lustres de verre et cour à l'amandier.",
+  "description_md": "La Jummah Masjid, autrefois appelée Mosquée des Arabes, est la mosquée historique du centre de Port-Louis. Elle date des années 1850 et mêle, selon son site officiel, les architectures indienne, créole et islamique. Le mausolée de marbre de Syed Jamal Shah, un saint homme originaire du Kutch (Inde), jouxte la mosquée.",
+  "why_go_md": "Pour son architecture : arches d'inspiration moghole et mauresque, lustres de verre, et une cour paisible où pousse un amandier, tradition antérieure à 1852 d'après la mosquée.",
+  "likes": [
+    "Édifice des années 1850 au cœur de la capitale",
+    "Cour intérieure avec son amandier",
+    "Mausolée de marbre de Syed Jamal Shah à côté de la mosquée"
+  ],
+  "watchouts": [
+    "Lieu de culte en activité, avec cinq prières par jour : le site officiel ne dit pas quand ni comment les visiteurs non musulmans sont admis. Demande à l'entrée ou au bureau de la mosquée (+230 242 1129)."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Jummah%20Mosque%20Port%20Louis",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.1596252\",\"lon\":\"57.5050338\" [...] \"type\":\"place_of_worship\" [...] \"display_name\":\"Jummah Mosque, Rue de la Reine, Renganaden Seeneevassen, Chinatown, Mer Rouge, Town of Port-Louis, Ward 6, Port Louis, 11613, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.jummahmasjid.org/",
+      "title": "Jummah Masjid · Port-Louis, Maurice — site officiel",
+      "accessed_at": "2026-11-24",
+      "evidence": "La Jummah Masjid (anciennement connue sous le nom de Mosquée des Arabes) est une mosquée de Port Louis, Maurice, datant des années 1850. L'édifice allie l'architecture indienne, créole et islamique. La Jummah Masjid abrite Syed Jamal Shah (r.a.) (un saint homme du Kutch, Inde), dont le mazaar se trouve à côté de la masjid."
+    },
+    {
+      "field": "likes, why_go_md, pitch",
+      "url": "https://www.jummahmasjid.org/",
+      "title": "Jummah Masjid · Port-Louis, Maurice — site officiel",
+      "accessed_at": "2026-11-24",
+      "evidence": "Une tradition séculaire d'accueillir un amandier dans la cour, depuis avant 1852. [...] Le Mazaar de Syed Jamal Shah (r.a.), peer du Kutch, dans un mausolée de marbre. [...] Chandeliers de verre, arches moghol-mauresques et cour sereine."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.jummahmasjid.org/",
+      "title": "Jummah Masjid · Port-Louis, Maurice — site officiel",
+      "accessed_at": "2026-11-24",
+      "evidence": "La mosquée historique du cœur de la capitale, qui est un pilier de la communauté musulmane mauricienne"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.jummahmasjid.org/contact-us",
+      "title": "Contact Us · Jummah Masjid — site officiel",
+      "accessed_at": "2026-11-24",
+      "evidence": "rendez-vous au bureau de la mosquée à Port-Louis. [...] +230 242 1129"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Conditions de visite pour les non-musulmans (horaires, tenue, espaces accessibles) : absentes du site officiel ; opening_hours à null.",
+    "Le numéro de téléphone vient de la page Contact du site officiel."
+  ],
+  "website_url": "https://www.jummahmasjid.org/",
+  "secret": null
+}

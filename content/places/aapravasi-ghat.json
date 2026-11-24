@@ -167,7 +167,35 @@
       "credit": "Suyash Dwivedi",
       "license": "CC BY-SA 4.0",
       "source_url": "https://commons.wikimedia.org/wiki/File:Aapravasi_Ghat_Museum,_Mauritius_(41).jpg",
-      "is_cover": true
+      "is_cover": true,
+      "storage_path": "/photos/aapravasi-ghat-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Apravasi_Ghat_Mauritius_02.jpg",
+      "credit": "Suyash Dwivedi",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Apravasi_Ghat_Mauritius_02.jpg",
+      "is_cover": false,
+      "storage_path": "/photos/aapravasi-ghat-2.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Aapravasi_Ghat_2019-09-27_%284%29.jpg",
+      "credit": "Z thomas",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aapravasi_Ghat_2019-09-27_(4).jpg",
+      "is_cover": false,
+      "storage_path": "/photos/aapravasi-ghat-3.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Old_monument_at_Aapravasi_ghat_museum%2C_Port_Louis%2C_Mauritius.jpg",
+      "credit": "आशीष भटनागर",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Old_monument_at_Aapravasi_ghat_museum,_Port_Louis,_Mauritius.jpg",
+      "is_cover": false,
+      "storage_path": "/photos/aapravasi-ghat-4.jpg"
     }
   ],
   "open_questions": [

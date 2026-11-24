@@ -1,0 +1,75 @@
+{
+  "slug": "la-cuvette",
+  "name": "Plage de La Cuvette",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "nord",
+  "locality": "Grand Baie",
+  "lat": -20.0071425,
+  "lng": 57.5780697,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=La%20Cuvette%20Public%20Beach",
+  "google_place_id": null,
+  "pitch": "Petite plage publique de Grand Baie, 310 m de rivage. Lagon classé à risque pour la baignade en 2018.",
+  "description_md": "La Cuvette est une plage publique de Grand Baie, proclamée en 1991 : un peu moins de 1,8 hectare pour environ 310 m de front de mer d'après la Beach Authority. Les sources lues n'en disent pas plus sur le site ; cette fiche reste volontairement courte.",
+  "why_go_md": null,
+  "likes": [
+    "Plage publique proclamée, environ 310 m de front de mer (Beach Authority, 2025)"
+  ],
+  "watchouts": [
+    "La Cuvette figure sur la liste des 36 lagons à baignade dangereuse de la Beach Authority, relayée par Le Défi en 2018 (houle, chenaux, courants ou fond qui se dérobe selon les sites)"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": "medium",
+  "risk_note": "Lagon inscrit en 2018 sur la liste des zones de baignade dangereuse. Repère les panneaux avant d'entrer dans l'eau.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=La%20Cuvette%20Public%20Beach",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.0071425\",\"lon\":\"57.5780697\" [...] \"type\":\"beach\" [...] \"display_name\":\"La Cuvette Public Beach, Morcellement Swan, Grand Baie, Grand Baie VCA, East, Riviere du Rempart, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius — Beach Authority (liste datée du 18 juillet 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "La Cuvette 1.7775 310 149/1991"
+    },
+    {
+      "field": "risk_level, risk_note, watchouts, pitch",
+      "url": "https://defimedia.info/baignade-dangereuse-36-lagons-consideres-risque-pour-les-nageurs",
+      "title": "Baignade dangereuse : 36 lagons considérés à risque pour les nageurs — Defimedia (3 février 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "sur les 121 plages publiques, 36 lagons figurent sur la liste des zones de baignade dangereuse. La BA y a placé 87 panneaux. Ces lagons sont connus pour leurs houles, leurs chenaux, le dénivellement subit du plancher et les courants, entre autres. [...] La liste des lagons dangereux : Le Goulet, Pointe-aux-Piments, La Cuvette"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Fiche très courte : ni description, ni équipements, ni accès dans les sources officielles ou de presse lues.",
+    "La Cuvette n'est pas dans la liste de 24 plages à panneaux citée au Parlement en 2024 : risque actuel à vérifier sur place.",
+    "Gratuité non écrite par une source : price_kind à null."
+  ],
+  "website_url": "https://www.beachauthority.mu/public-beaches",
+  "secret": null
+}

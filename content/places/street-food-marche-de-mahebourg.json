@@ -1,0 +1,122 @@
+{
+  "slug": "street-food-marche-de-mahebourg",
+  "name": "Marchands de rue du marché de Mahébourg",
+  "family": "manger",
+  "tags": [],
+  "region": "sud_est",
+  "locality": "Mahébourg",
+  "lat": -20.406963,
+  "lng": 57.708038,
+  "coords_source_url": "https://www.openstreetmap.org/node/2027840797",
+  "google_place_id": null,
+  "pitch": "Dholl puris, rotis, fritures, pains fourrés et alouda aux étals du marché de Mahébourg, plus animé le lundi, jour de foire.",
+  "description_md": "Le marché de Mahébourg abrite des marchands de nourriture (« food hawkers ») : dholl puris et rotis, fritures, pains fourrés, alouda. Le lundi, jour de foire, le village est d’ordinaire très animé. Le Mauricien, en juillet 2022, y citait plusieurs étals par leur nom : Shyam Bhugoo et Deven Anthony (dholl puris), Gros Maraz (dholl puris, avec une file d’attente), Bismillah Snack (pains fourrés, thé), Super Cool Alouda, et le Spider Snack à l’étage, connu pour ses « sept caris ».",
+  "why_go_md": "Pour déjeuner debout pour quelques dizaines de roupies en comparant les étals : en 2022 la paire de dholl puris valait Rs 20 à Rs 25 et une friture Rs 5.",
+  "likes": [
+    "Dholl puris et rotis vendus par paire",
+    "Fritures (« gâteaux ») à la pièce",
+    "Pains fourrés au vindaye de poisson ou au sauté de poulet (Bismillah Snack)",
+    "« Sept caris » du Spider Snack, à l’étage du marché",
+    "Alouda (Super Cool Alouda)"
+  ],
+  "watchouts": [
+    "Hors jour de foire, un marchand dit fermer vers 13 h ou 14 h : viens le matin",
+    "Certains étals ont tout vendu peu après la mi-journée, même le lundi",
+    "Prix relevés en juillet 2022, en pleine hausse : ils ont probablement augmenté"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Relevé du Mauricien du 6 juillet 2022 : paire de dholl puris ou de rotis Rs 20 (Shyam Bhugoo, Deven Anthony), Rs 25 chez Gros Maraz ; friture Rs 5 ; pain fourré Rs 55 et tasse de thé Rs 20 au Bismillah Snack. Prix actuels non vérifiés.",
+  "opening_hours": null,
+  "hours_note": "Foire le lundi. Aucun horaire officiel trouvé ; d’après un marchand cité en 2022, l’activité retombe vers 13 h – 14 h les autres jours.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Mahebourg+market&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Mahebourg market »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Marché de Mahébourg, Rue des Flamands, Mahébourg, Mahébourg VCA, Grand Port, 50810, Mauritius / Maurice — lat -20.4069634, lon 57.7080379 (node 2027840797)"
+    },
+    {
+      "field": "description_md, pitch, hours_note",
+      "url": "https://www.lemauricien.com/actualites/societe/mahebourg-jour-de-foire-les-food-hawkers-sinterrogent-sur-leur-business-avec-la-hausse-des-prix/500705/",
+      "title": "Jour de foire : Les Food Hawkers s’interrogent sur leur business avec la hausse des prix | Le Mauricien (6 juillet 2022)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le lundi, jour de foire, Mahébourg est habituellement un village très animé [...] Chez les Food Hawkers, certains attendaient désespérément les clients tandis que d’autres avaient déjà écoulé leurs stocks peu après la mi-journée"
+    },
+    {
+      "field": "price_kind, price_note, likes, why_go_md",
+      "url": "https://www.lemauricien.com/actualites/societe/mahebourg-jour-de-foire-les-food-hawkers-sinterrogent-sur-leur-business-avec-la-hausse-des-prix/500705/",
+      "title": "Jour de foire : Les Food Hawkers s’interrogent sur leur business avec la hausse des prix | Le Mauricien (6 juillet 2022)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Auparavant, je vendais le roti et le dholl puri à Rs 15 et Rs 18. J’ai été obligé de passer à Rs 20. Toutefois, j’ai conservé le prix des fritures à Rs 5"
+    },
+    {
+      "field": "price_note, description_md",
+      "url": "https://www.lemauricien.com/actualites/societe/mahebourg-jour-de-foire-les-food-hawkers-sinterrogent-sur-leur-business-avec-la-hausse-des-prix/500705/",
+      "title": "Jour de foire : Les Food Hawkers s’interrogent sur leur business avec la hausse des prix | Le Mauricien (6 juillet 2022)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Deven Anthony, attend lui aussi la clientèle pour ses dholl puris. « J’ai été contraint de passer à Rs 20 la paire depuis ce matin"
+    },
+    {
+      "field": "price_note, likes, description_md",
+      "url": "https://www.lemauricien.com/actualites/societe/mahebourg-jour-de-foire-les-food-hawkers-sinterrogent-sur-leur-business-avec-la-hausse-des-prix/500705/",
+      "title": "Jour de foire : Les Food Hawkers s’interrogent sur leur business avec la hausse des prix | Le Mauricien (6 juillet 2022)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Au Bismillah Snack, les pains attendent aussi preneurs [...] Le pain fourré au vindaye de poisson ou au sauté de poulet est ainsi passé de Rs 50 à Rs 55. Idem pour la tasse de thé, vendue à Rs 20 contre Rs 15 auparavant"
+    },
+    {
+      "field": "watchouts, hours_note",
+      "url": "https://www.lemauricien.com/actualites/societe/mahebourg-jour-de-foire-les-food-hawkers-sinterrogent-sur-leur-business-avec-la-hausse-des-prix/500705/",
+      "title": "Jour de foire : Les Food Hawkers s’interrogent sur leur business avec la hausse des prix | Le Mauricien (6 juillet 2022)",
+      "accessed_at": "2026-11-24",
+      "evidence": "S’il est encore au marché dans l’après-midi, c’est parce que c’est jour de foire. Autrement, il est contraint de fermer vers 13h ou 14h"
+    },
+    {
+      "field": "likes, description_md",
+      "url": "https://www.lemauricien.com/actualites/societe/mahebourg-jour-de-foire-les-food-hawkers-sinterrogent-sur-leur-business-avec-la-hausse-des-prix/500705/",
+      "title": "Jour de foire : Les Food Hawkers s’interrogent sur leur business avec la hausse des prix | Le Mauricien (6 juillet 2022)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Au Spider Snack, à l’étage du marché, Sita Chukravanen est bien esseulée [...] Si les « sept caris » de Sita Chukravanen ont toujours été un plat incontournable du marché"
+    },
+    {
+      "field": "likes, description_md",
+      "url": "https://www.lemauricien.com/actualites/societe/mahebourg-jour-de-foire-les-food-hawkers-sinterrogent-sur-leur-business-avec-la-hausse-des-prix/500705/",
+      "title": "Jour de foire : Les Food Hawkers s’interrogent sur leur business avec la hausse des prix | Le Mauricien (6 juillet 2022)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Au stand Super Cool Alouda, Soobiraj Sankar n’a pas encore appliqué ses nouveaux prix"
+    },
+    {
+      "field": "price_note, description_md, why_go_md",
+      "url": "https://www.lemauricien.com/actualites/societe/mahebourg-jour-de-foire-les-food-hawkers-sinterrogent-sur-leur-business-avec-la-hausse-des-prix/500705/",
+      "title": "Jour de foire : Les Food Hawkers s’interrogent sur leur business avec la hausse des prix | Le Mauricien (6 juillet 2022)",
+      "accessed_at": "2026-11-24",
+      "evidence": "C’est notamment le cas chez Gros Maraz, dont le dholl puri est très prisé au marché. Les gens y font toujours la queue. Corinne vient de patienter pour une paire de dholl puris à Rs 25"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Les étals nommés (Gros Maraz, Bismillah Snack, Spider Snack, Super Cool Alouda) sont-ils toujours là en 2026 ? Source unique de 2022.",
+    "Horaires officiels du marché non trouvés. Un Night Market est annoncé à la Pointe des Régates à partir du 14 décembre 2026 (Défi Media, 20 novembre 2026) : la présence de stands de nourriture n’y est pas confirmée."
+  ],
+  "website_url": null,
+  "secret": null
+}

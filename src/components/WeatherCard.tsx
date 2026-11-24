@@ -91,7 +91,7 @@ export function WeatherCard({ lat, lng, placeName }: { lat: number; lng: number;
               const rainy = (day.rainProbability ?? 0) >= 50 || (day.rainMm ?? 0) >= 5;
               const Icon = rainy ? CloudRain : CloudSun;
               return (
-                <li key={day.date} className="flex items-center gap-3 rounded-2xl bg-white/55 p-3">
+                <li key={day.date} className="flex items-center gap-3 rounded-2xl bg-brume p-3">
                   <Icon size={28} aria-hidden className="shrink-0 text-passe" />
                   <div className="min-w-0">
                     <p className="font-semibold">{i === 0 ? t.weather.today : i === 1 ? t.weather.tomorrow : formatDateFr(day.date)}</p>

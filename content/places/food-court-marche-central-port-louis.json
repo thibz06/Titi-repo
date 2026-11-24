@@ -1,0 +1,104 @@
+{
+  "slug": "food-court-marche-central-port-louis",
+  "name": "Food court du marché central",
+  "family": "manger",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1604837,
+  "lng": 57.5025791,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Central+Market+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Échoppes du marché de Port-Louis : pains fourrés, samoussas, dholl puri, jus frais et thé au lait à petits prix.",
+  "description_md": "Le marché central de Port-Louis a un food court, installé après la rénovation du marché, où des échoppes vendent samoussas, dholl puri, faratas, jus et alouda. Defimedia y a décrit en 2023 l'échoppe de jus de Hassen (melon d'eau, citron, tamarin, orange-fruit de la passion…), le thé au lait « dite avyon » de Nullah et les pains fourrés de Raffick (tikka, salade et gâteaux piments, achards de légumes, sardine, beurre de cacahuète).",
+  "why_go_md": "Pour manger et boire local en restant dans le marché, à des prix affichés en dizaines de roupies en 2023. L'office du tourisme recommande lui aussi les kiosques du marché pour les samoussas, le dholl puri, les pâtisseries et l'alouda.",
+  "likes": [
+    "Jus frais au verre chez Hassen : melon d'eau, kiwi-pomme, orange-fruit de la passion, citron, tamarin",
+    "Thé au lait « dite avyon » chez Nullah",
+    "Pains fourrés, sandwichs et paninis chez Raffick",
+    "Noix de coco fraîches vendues dans la section artisanat"
+  ],
+  "watchouts": [],
+  "tips_md": "L'échoppe de pains fourrés de Raffick travaille jusqu'à 17 h 30 d'après Defimedia (2023).",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Relevés de Defimedia (2 juillet 2023) : jus Rs 15 à Rs 25 le verre, thé Rs 20, noix de coco Rs 50, pains fourrés Rs 30 à Rs 45. Prix plus récents non trouvés.",
+  "opening_hours": null,
+  "hours_note": "Horaires du food court non publiés. Une échoppe de pains fourrés dit travailler jusqu'à 17 h 30 (Defimedia, juillet 2023).",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Central+Market+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Central Market Port Louis »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":159257749,\"lat\":\"-20.1604837\",\"lon\":\"57.5025791\" [...] \"name\":\"Central Market\""
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://www.routard.com/fr/mag/reportage/a/ile-maurice-la-cote-nord-de-port-louis-a-cap-malheureux",
+      "title": "Île Maurice : la côte Nord, de Port-Louis à Cap Malheureux",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le food court du marché de Port-Louis vend des samoussas, dholl puri, farata … Idéal pour grignoter un morceau ou pour siroter un jus."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusnow.com/?p=4799",
+      "title": "Port Louis Market: Mauritius' Colourful Heart",
+      "accessed_at": "2026-11-24",
+      "evidence": "If you’re feeling peckish, head to the street food kiosks for snacks such as samosas and dholl puri. You’ll also be rewarded with tasty sweet pastries and a thirst-quenching glass of the island’s creamy alouda drink."
+    },
+    {
+      "field": "price_kind, price_note, description_md, likes",
+      "url": "https://defimedia.info/les-mille-et-une-saveurs-du-bazar-porlwi",
+      "title": "Les mille et une saveurs du «bazar Porlwi»  | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "nous trouvons toute une panoplie de saveurs : melon d’eau, kiwi-pomme, orange-fruit de la passion, citron, tamarin ainsi que de l’alouda et de « lamouss nwar ». Les prix varient de Rs 15 à Rs 25 le verre. [...] son père a ouvert ce commerce lorsque le food court a été installé après la rénovation du marché de Port-Louis."
+    },
+    {
+      "field": "price_note, likes, description_md",
+      "url": "https://defimedia.info/les-mille-et-une-saveurs-du-bazar-porlwi",
+      "title": "Les mille et une saveurs du «bazar Porlwi»  | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Qu’est-ce que ce thé a de si spécial ? Déjà, il ne coûte que Rs 20. [...] Nous achetons une noix de coco pour Rs 50."
+    },
+    {
+      "field": "price_note, description_md, likes",
+      "url": "https://defimedia.info/raffick-marchand-de-pains-fourres-vann-dipin-inn-permet-mwa-asir-ledikasyon-mo-bann-zanfan",
+      "title": "Raffick, marchand de pains fourrés : «Vann dipin inn permet mwa asir ledikasyon mo bann zanfan» | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Au menu du jour : panini (beurre fromage), pain « tikka », pain « salad gato pima », pain « Zasar legim », pain « salad sardine », pain « beurre pistache » [...] « Dipin diber pitas li a Rs 30. Dipin sardinne ek pima konfi Rs 30. Dipin Tikka li Rs 45."
+    },
+    {
+      "field": "tips_md, hours_note",
+      "url": "https://defimedia.info/raffick-marchand-de-pains-fourres-vann-dipin-inn-permet-mwa-asir-ledikasyon-mo-bann-zanfan",
+      "title": "Raffick, marchand de pains fourrés : «Vann dipin inn permet mwa asir ledikasyon mo bann zanfan» | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "avant d’ouvrir son commerce où il travaille jusqu’à 17 h 30."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Les échoppes ne sont pas cartographiées dans OpenStreetMap : coordonnées du marché central.",
+    "Prix relevés en juillet 2023 ; Defimedia signale en avril 2026 une hausse générale des pains fourrés dans l'île. À revérifier.",
+    "Horaires du food court non trouvés (seuls ceux d'une échoppe sont cités)."
+  ],
+  "website_url": null,
+  "secret": null
+}

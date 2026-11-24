@@ -1,0 +1,66 @@
+{
+  "slug": "dholl-puri-rues-newton-remy-ollier",
+  "name": "Dholl puri de l'angle Newton / Rémy Ollier",
+  "family": "manger",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1627719,
+  "lng": 57.5041411,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Sir+William+Newton+Street+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Marchand de dholl puri du centre de Port-Louis, cité par CNN en 2016 dans un article sur la street food.",
+  "description_md": "À l'angle des rues Sir William Newton et Rémy Ollier, un marchand prénommé Iqbal vend des dholl puri ; il parlait en 2016 d'un savoir-faire transmis de père en fils depuis cinquante ans. Un article de CNN sur les villes de street food, repris par Defimedia, citait ses dholl puri parmi les meilleurs de l'île selon son auteur.",
+  "why_go_md": "Pour un dholl puri de rue dans le centre, à deux pas du marché, si le marchand est toujours à son poste.",
+  "likes": [
+    "Dholl puri de rue, affaire familiale"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Sir+William+Newton+Street+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Sir William Newton Street Port Louis »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":219411186,\"lat\":\"-20.1627719\",\"lon\":\"57.5041411\" [...] \"name\":\"Rue William Newton\""
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://defimedia.info/selon-cnn-port-louis-lune-des-23-meilleures-villes-au-monde-pour-la-street-food",
+      "title": "Selon CNN: Port-Louis l’une des 23 meilleures villes au monde pour la «street food» | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "le journaliste estime que l’un des meilleurs « dholl puri » de l’île est vendu à l’angle des rues Sir William Newton et Rémy Ollier à Port-Louis. Radio Plus est allée à la rencontre d’Iqbal, qui commercialise ces « dholl puris ». Un savoir-faire qui se transmet de père en fils depuis 50 ans, dit-il."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Source de 2016 : rien ne confirme que le marchand travaille encore à cet angle en 2026. À vérifier sur place avant publication.",
+    "Coordonnées : tronçon de la rue William Newton dans OpenStreetMap, pas le point exact du stand.",
+    "Prix et horaires non trouvés."
+  ],
+  "website_url": null,
+  "secret": null
+}

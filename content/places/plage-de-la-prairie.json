@@ -1,0 +1,92 @@
+{
+  "slug": "plage-de-la-prairie",
+  "name": "Plage de La Prairie",
+  "family": "plages_lagon",
+  "tags": [
+    "spot_photo"
+  ],
+  "region": "sud_ouest",
+  "locality": "Le Morne",
+  "lat": -20.483979,
+  "lng": 57.3534049,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=La+Prairie&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Longue plage de sable et d'herbe entre Baie du Cap et Le Morne, eaux peu profondes et montagne du Morne en toile de fond.",
+  "description_md": "La Prairie s'étire entre Baie du Cap et la montagne du Morne Brabant, dans le sud-ouest. C'est une longue plage où le sable se mêle à l'herbe, avec des eaux peu profondes. La Beach Authority y recense trois portions de plage publique proclamée, dont une de 300 mètres de front de mer et deux autres d'environ 450 et 510 mètres.",
+  "why_go_md": "Pour passer un moment tranquille face au Morne, que l'office du tourisme décrit comme un arrière-plan très photogénique, et pour explorer les petits fonds avec un masque et un tuba. Des vols en hydravion partent aussi de la plage pour survoler les lagons et l'illusion de la « cascade sous-marine ».",
+  "likes": [
+    "Vue sur Le Morne Brabant",
+    "Eaux peu profondes, propices au snorkeling selon l'office du tourisme",
+    "Plage longue, mélange de sable et d'herbe",
+    "Départ de vols en hydravion (activité payante, non décrite ici)"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=La+Prairie&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « La Prairie »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap way 409547767 (natural=beach) « La Prairie Beach » : lat -20.4839790, lon 57.3534049"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-prairie-beach/",
+      "title": "La Prairie beach (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "La Prairie Beach is situated between Baie-du-Cap and Le Morne Brabant Mountain in the south of Mauritius. This creates an incredibly photogenic background for lazy days on the beach and it’s also a hotspot for snorkelling, with shallow waters to discover marine life."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-prairie-beach/",
+      "title": "La Prairie beach (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Book a thrilling seaplane flight from La Prairie beach and you can enjoy fabulous views of the beautiful lagoons below, as well as the famous ‘underwater waterfall’"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mauritius-wild-side/",
+      "title": "Mauritius Wild Side (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Head further north to the picturesque and long La Prarie beach, which is covered in a mix of sand and grass."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius (Beach Authority, fichier List2025.pdf)",
+      "accessed_at": "2026-11-24",
+      "evidence": "P.G La Prairie 6.3454 509.87 372/2013 [...] La Prairie 2.216 300 348/1991 [...] P.G La Prairie 3.1618 451.39 371/2013"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "`price_kind` à null : plage publique proclamée, mais aucune source lue n'écrit qu'elle est gratuite.",
+    "Sécurité de la baignade (courants, surveillance) et équipements (toilettes, parking) : aucune source lue.",
+    "Hydravion : prestataire, prix et conditions non recherchés."
+  ],
+  "website_url": null,
+  "secret": null
+}

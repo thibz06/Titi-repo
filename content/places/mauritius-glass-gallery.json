@@ -1,0 +1,74 @@
+{
+  "slug": "mauritius-glass-gallery",
+  "name": "Mauritius Glass Gallery",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "centre",
+  "locality": "Phoenix",
+  "lat": -20.2741647,
+  "lng": 57.4997593,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Mauritius%20Glass%20Gallery",
+  "google_place_id": null,
+  "pitch": "Atelier de Phoenix où des artisans soufflent du verre 100 % recyclé sous tes yeux ; moulage de ta main possible.",
+  "description_md": "La Mauritius Glass Gallery est un atelier-galerie de Vacoas-Phoenix, au centre de l'île, qui travaille uniquement du verre recyclé. Des artisans y transforment devant les visiteurs ce verre de récupération en verres, objets de décoration et pièces d'art.",
+  "why_go_md": "Pour regarder le soufflage du verre de près, et pour le souvenir proposé sur place : un moulage en verre de l'empreinte de ta main.",
+  "likes": [
+    "Démonstration de soufflage par des artisans locaux",
+    "Verre 100 % recyclé",
+    "Moulage en verre de l'empreinte de ta main, à emporter"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Mauritius%20Glass%20Gallery",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.2741647\",\"lon\":\"57.4997593\" [...] \"type\":\"commercial\" [...] \"display_name\":\"Mauritius Glass Gallery Ltd, Petit Camp Branch Road, Pont Fer, Phoenix, Vacoas-Phoenix, Plaines Wilhems, 72238, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, why_go_md, likes, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/the-mauritius-glass-gallery/",
+      "title": "The Mauritius Glass Gallery: Where Art Meets Craft — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Utilising 100% recycled glass, a trip to The Mauritius Glass Gallery is a lesson in art and sustainability. Watch as skilled local craftspeople turn material that would have otherwise gone to waste into incredible artisan pieces, creating everything from glassware to home decor to artwork."
+    },
+    {
+      "field": "description_md, likes, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/the-mauritius-glass-gallery/",
+      "title": "The Mauritius Glass Gallery: Where Art Meets Craft — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Located in Vacoas-Phoenix in the central part of the island, the gallery also gives visitors the opportunity to leave their own imprint on a piece of glassware. Get a glass model made from an imprint of your hand and you’ll be able to take home a unique memento to remember your trip by."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Horaires, prix d'entrée et tarif du moulage : le site officiel (mauritiusglassgallery.com) renvoie une page vide sans JavaScript ; price_kind et opening_hours à null.",
+    "rain_ok laissé à null : aucune source ne dit si la visite se fait entièrement à l'abri."
+  ],
+  "website_url": "https://www.mauritiusglassgallery.com/",
+  "secret": null
+}
