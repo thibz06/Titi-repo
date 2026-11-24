@@ -1,0 +1,198 @@
+{
+  "slug": "cascade-de-chamarel",
+  "name": "Cascade de Chamarel",
+  "family": "cascades_rivieres",
+  "tags": [
+    "spot_photo"
+  ],
+  "region": "sud_ouest",
+  "locality": "Chamarel",
+  "lat": -20.4432367,
+  "lng": 57.3837266,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Chamarel%20Waterfall&format=jsonv2&limit=5&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "La plus haute chute d'un seul jet de l'île, près de 100 m, vue depuis deux belvédères du géoparc de Chamarel.",
+  "description_md": "La cascade de Chamarel tombe d'une falaise de basalte sur près de 100 mètres : le géoparc qui la gère la présente comme la plus haute chute d'un seul jet de Maurice. Elle est alimentée par trois cours d'eau qui rejoignent la rivière Saint-Denis. On l'observe depuis deux belvédères situés dans le Chamarel 7 Coloured Earth Geopark, à 1,5 km de l'entrée, sur la route des Terres des sept couleurs ; le billet du géoparc est donc nécessaire.",
+  "why_go_md": "C'est le premier arrêt de la visite du géoparc, sans effort : un parking, puis deux points de vue sur la chute et la forêt. La falaise raconte aussi la géologie de l'île, avec deux couches de lave superposées, l'une vieille de 8 à 10 millions d'années, l'autre de 1,7 à 3,5 millions d'années.",
+  "likes": [
+    "Deux belvédères sur une chute de près de 100 m, entourée de forêt dense",
+    "Parking près du belvédère, à 1,5 km de l’entrée du géoparc",
+    "Même billet que les Terres des sept couleurs et le parc des tortues",
+    "Deux coulées de lave visibles dans la falaise"
+  ],
+  "watchouts": [
+    "Descendre seul au pied de la cascade est strictement interdit ; la randonnée jusqu’au bassin se fait avec un guide professionnel et n’est pas comprise dans le billet",
+    "Pas d’accès aux belvédères sans billet du géoparc",
+    "Site fermé pendant les cyclones et les fortes pluies",
+    "Pique-niques et animaux de compagnie interdits dans le géoparc"
+  ],
+  "tips_md": "L'office du tourisme indique que la cascade a le plus de débit entre décembre et avril. Pour aller au pied de la chute, il parle d'une randonnée guidée d'environ trois heures avec baignade dans le bassin ; le géoparc renvoie vers un prestataire spécialisé.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 400,
+  "price_visitor_mur_max": 800,
+  "price_resident_mur": 400,
+  "price_note": "Tarifs du site officiel (pied de page « © Copyright 2026 », consulté le 24 novembre 2026). Non-résident : adulte Rs 800, enfant de 5 à 11 ans Rs 400. Résident : adulte Rs 400, enfant de 5 à 11 ans Rs 200 (carte d'identité ou permis de résidence demandé). Gratuit avant 5 ans. Un seul billet couvre les deux belvédères de la cascade de Chamarel, les dunes colorées et le parc des tortues. Paiement en roupies uniquement (espèces, carte ou paiement mobile mauricien), en une seule transaction.",
+  "opening_hours": "Oct-May Mo-Su,PH 08:30-17:30; Jun-Sep Mo-Su,PH 08:30-17:00",
+  "hours_note": "Site officiel (consulté le 24 novembre 2026) : d'octobre à mai, 8 h 30 – 17 h 30 (dernier billet vendu à 17 h) ; de juin à septembre, 8 h 30 – 17 h. Ouvert dimanches et jours fériés. Fermé pendant les cyclones et les fortes pluies.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "saison": "Entre décembre et avril, quand la cascade a le plus d'eau (office du tourisme)",
+    "heure": "Le matin ou en fin d'après-midi : air plus frais et meilleure lumière (site officiel)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Le géoparc la range parmi les sites les plus visités de l'île et la présente comme la plus haute chute d'un seul jet de Maurice.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Chamarel%20Waterfall&format=jsonv2&limit=5&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap — recherche « Chamarel Waterfall »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":10150946026,\"lat\":\"-20.4432367\",\"lon\":\"57.3837266\",\"category\":\"tourism\",\"type\":\"attraction\""
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_resident_mur, price_note",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Resident rates: Adult: Rs 400 Child (5-11 years old): Rs 200 Please note that an ID card or residence permit will need to be presented at the gate for residents who purchase their tickets online. Non-resident rates: Adult: Rs 800 Child (5-11 years): Rs 400 Free of charge for children under 5 years old."
+    },
+    {
+      "field": "price_note",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Access to the two viewpoints of Chamarel Waterfall, visit of Chamarel 7 Coloured Earth Geopark and the tortoise park."
+    },
+    {
+      "field": "price_note, watchouts",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "No foreign currencies in cash are accepted. No split payment is accepted for entry ticket sales."
+    },
+    {
+      "field": "opening_hours, hours_note",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "October to May: 8.30 a.m. to 5.30 p.m. (Last ticket purchase at 5 p.m., Geopark closes at 5.30 p.m.) June to September: 8.30 a.m. to 5 p.m Are you open during Sundays and public holidays? + Yes, we are open during Sundays and public holidays"
+    },
+    {
+      "field": "hours_note, watchouts",
+      "url": "https://www.chamarel7colouredearth.com/experiences/geopark/",
+      "title": "Geopark — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The site is self-guided, accessible and open all year except during cyclones and heavy rainfall."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.chamarel7colouredearth.com/experiences/chamarel-waterfall/",
+      "title": "Chamarel Waterfall — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Undoubtedly the tallest single-drop waterfall in Mauritius, the Chamarel Waterfall is a striking piece of nature standing amid dense vegetation. Fed by the waters of three distinct streams flowing into the Saint Denis River"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.chamarel7colouredearth.com/experiences/chamarel-waterfall/",
+      "title": "Chamarel Waterfall — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Towering at nearly 100 meters, Chamarel Waterfall is the highest in Mauritius"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://www.chamarel7colouredearth.com/experiences/chamarel-waterfall/",
+      "title": "Chamarel Waterfall — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Chamarel Waterfall flows over two distinct lava layers: brecciated basalt from 10-8 million years ago and a younger layer formed between 3.5 and 1.7 million years ago."
+    },
+    {
+      "field": "rarity",
+      "url": "https://www.chamarel7colouredearth.com/experiences/chamarel-waterfall/",
+      "title": "Chamarel Waterfall — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Chamarel Waterfall is among the island’s most visited sites"
+    },
+    {
+      "field": "tags",
+      "url": "https://www.chamarel7colouredearth.com/experiences/chamarel-waterfall/",
+      "title": "Chamarel Waterfall — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "this is one of the island’s most rewarding spots for nature photography."
+    },
+    {
+      "field": "best_time",
+      "url": "https://www.chamarel7colouredearth.com/experiences/chamarel-waterfall/",
+      "title": "Chamarel Waterfall — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Mornings or late afternoons offer cooler air, better light and safer hiking conditions."
+    },
+    {
+      "field": "description_md, likes, why_go_md",
+      "url": "https://www.chamarel7colouredearth.com/experiences/chamarel-waterfall/",
+      "title": "Chamarel Waterfall — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "It's a 1.5 km drive to the waterfall and 3 km to the dunes, with parking available at both locations."
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://www.chamarel7colouredearth.com/",
+      "title": "Chamarel 7 Coloured Earth (site officiel, accueil)",
+      "accessed_at": "2026-11-24",
+      "evidence": "First stop: the majestic Chamarel waterfall. Take in breathtaking views from two incredible viewpoints."
+    },
+    {
+      "field": "watchouts, tips_md",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The entrance ticket does not include waterfall hiking. It is strictly prohibited to go down the waterfall on your own. We recommend that you contact Eco Explorers should you wish to go hiking down the waterfall."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Picnics Visits with domestic pets Removal of plants"
+    },
+    {
+      "field": "best_time, tips_md, description_md",
+      "url": "https://mauritiusnow.com/things-to-do/chamarel/",
+      "title": "Chamarel Waterfall — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Chamarel Waterfall is fed by three streams that filter into Saint Denis River and it looks – and flows – at its best between December and April. Our tip? Pull on your hiking boots and make the three-hour trek to the base for a rewarding swim in the pool"
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusnow.com/things-to-do/chamarel/",
+      "title": "Chamarel Waterfall — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "tumble over the basalt cliff and drop around 100 metres into the oval pool below."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://mauritiusnow.com/things-to-do/waterfalls-in-mauritius/",
+      "title": "Waterfalls in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "You need special access if you want to get up close to the majestic ribbons of water or, alternatively, there are great viewing points to see the 100-metre beauty in the Chamarel 7 Coloured Earth Geopark."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Durée de l'arrêt aux belvédères non sourcée (le géoparc donne 45 minutes à 2 heures pour la visite complète) : duration_min et duration_max restent à null.",
+    "Coordonnées : nœud OpenStreetMap « Viewpoint Chamarel Waterfall » (10150946026). Le site officiel affiche un débit de pointe de 40 000 m³ par minute, chiffre non recoupé et non repris.",
+    "Tarifs et conditions de la randonnée guidée jusqu'au pied de la cascade non relevés (prestataire non consulté)."
+  ],
+  "website_url": "https://www.chamarel7colouredearth.com/experiences/chamarel-waterfall/",
+  "secret": null
+}

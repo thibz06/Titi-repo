@@ -1,0 +1,140 @@
+{
+  "slug": "alexandra-falls-point-de-vue",
+  "name": "Alexandra Falls (point de vue)",
+  "family": "cascades_rivieres",
+  "tags": [
+    "famille",
+    "spot_photo"
+  ],
+  "region": "sud_ouest",
+  "locality": "Plaine Champagne",
+  "lat": -20.4341083,
+  "lng": 57.4573271,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Alexandra%20Falls%20Viewpoint&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Belvédère à cinq minutes à pied du parking, dans le parc des gorges de Rivière Noire : cascade, vallée boisée et océan au loin.",
+  "description_md": "Le point de vue d'Alexandra Falls se trouve dans le parc national des gorges de Rivière Noire, à environ 700 mètres d'altitude selon Defimedia. On y accède par la route de Plaine Champagne, en direction de Grand Bassin, en suivant le panneau « Alexandra Falls Viewpoint ». Du parking, un petit chemin ombragé, un pont au-dessus d'une rivière puis quelques marches mènent en cinq minutes à une plateforme en bois. La cascade apparaît sur la droite ; en face, la vue plonge sur une vallée boisée et porte jusqu'à l'océan.",
+  "why_go_md": "Un arrêt court et facile sur la route des hauts plateaux, que l'office du tourisme recommande pour sa vue sur la cascade et sur le parc. C'est aussi un point de départ de sentiers : le Paille en Queue Trail vers Plaine Champagne et le sentier de la Cascade des Galets, d'après le NPCS, ainsi que la marche vers la cascade des 500 Pieds, d'après l'office du tourisme.",
+  "likes": [
+    "Belvédère à environ cinq minutes à pied du parking",
+    "Plateforme en bois avec vue sur la cascade, la vallée et l’océan",
+    "Tables de pique-nique sous les arbres",
+    "Grand parking avec vendeurs de rafraîchissements (décrit en 2016)",
+    "Singes souvent visibles aux abords"
+  ],
+  "watchouts": [
+    "La cascade se voit de loin : depuis la plateforme, c’est un filet blanc sur la roche",
+    "Près de la petite rivière, au-delà du pont, sois prudent avec des enfants",
+    "Le sentier de la Cascade des Galets au départ d’Alexandra Falls est classé difficile (« strenuous ») par le NPCS"
+  ],
+  "tips_md": "Au départ du belvédère : Paille en Queue Trail (Alexandra – Plaine Champagne, 3 km, niveau modéré) et Cascade des Galets (3 km aller-retour, niveau difficile) selon le NPCS ; l'office du tourisme décrit aussi la marche vers la cascade des 500 Pieds (2,8 km, 1 à 2 heures). En saison, on trouve des goyaves de Chine le long du chemin.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Présenté par Defimedia (2016) comme l'un des sites naturels les plus populaires de l'île ; belvédère recommandé par l'office du tourisme.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Alexandra%20Falls%20Viewpoint&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap — recherche « Alexandra Falls Viewpoint »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":380459850,\"lat\":\"-20.4341083\",\"lon\":\"57.4573271\",\"category\":\"tourism\",\"type\":\"viewpoint\""
+    },
+    {
+      "field": "description_md, rarity",
+      "url": "https://defimedia.info/alexandra-falls-beauty-all-its-splendour",
+      "title": "Alexandra Falls: Beauty in all its splendour — Defimedia / News on Sunday (4 octobre 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Situated some 700m above sea level, the Alexandra Falls is one of the most popular nature sites in Mauritius."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://defimedia.info/alexandra-falls-beauty-all-its-splendour",
+      "title": "Alexandra Falls: Beauty in all its splendour — Defimedia / News on Sunday (4 octobre 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "the Alexandra Falls is accessible when you are going to Plaine Champagne and heading towards Grand Bassin. Just look out for the sign post of the Alexandra Falls Viewpoint. Once you are there, you will find a large parking area with refreshment sellers."
+    },
+    {
+      "field": "description_md, likes, pitch, tags",
+      "url": "https://defimedia.info/alexandra-falls-beauty-all-its-splendour",
+      "title": "Alexandra Falls: Beauty in all its splendour — Defimedia / News on Sunday (4 octobre 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "You will find picnic tables where you can enjoy lunch or snack break with you family and friends. If you are lucky enough, you might also get welcome greetings from monkeys. Along the way, you will cross a bridge where a calm little river flows. Then just a couple of stairs and you will get to the viewpoint. Overall, the whole process to the panorama will take you just five minutes."
+    },
+    {
+      "field": "description_md, likes, watchouts, tags",
+      "url": "https://defimedia.info/alexandra-falls-beauty-all-its-splendour",
+      "title": "Alexandra Falls: Beauty in all its splendour — Defimedia / News on Sunday (4 octobre 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "If you want to take in the full view, you can climb up a wooden platform. On your right is the Alexandra Falls. From where you are, the waterfall looks like a silent white stream cascading over the rocky outcrops."
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://defimedia.info/alexandra-falls-beauty-all-its-splendour",
+      "title": "Alexandra Falls: Beauty in all its splendour — Defimedia / News on Sunday (4 octobre 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "the panoramic view of the South-East Coast with its turquoise ocean."
+    },
+    {
+      "field": "watchouts, tips_md",
+      "url": "https://defimedia.info/alexandra-falls-beauty-all-its-splendour",
+      "title": "Alexandra Falls: Beauty in all its splendour — Defimedia / News on Sunday (4 octobre 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "you might be able to find delicious ripe ‘goyave de chine’ if it’s the season. [...] However, be careful if you have children."
+    },
+    {
+      "field": "why_go_md, rarity, pitch",
+      "url": "https://mauritiusnow.com/things-to-do/national-parks-in-mauritius/",
+      "title": "National Parks in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "the well-signposted Alexandra Falls viewpoint, where you’ll be able to take in epic views of both the waterfall and the park."
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusnow.com/things-to-do/black-river-gorges-national-park/",
+      "title": "Black River Gorges National Park — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "You can also visit Alexandra Falls within the park, reaching it by following the signs to the viewpoint."
+    },
+    {
+      "field": "why_go_md, tips_md, watchouts",
+      "url": "https://npcs.govmu.org/Pages/National%20Parks/Black-River-Gorges-National-Parks.aspx",
+      "title": "Black River Gorges National Parks — National Parks and Conservation Service",
+      "accessed_at": "2026-11-24",
+      "evidence": "TRAIL Alexandra – Plaine Champagne 3 km Moderate [...] CASCADE des GALLETS TRAIL Alexandra Falls – Cascade des Gallets – Alexandra Falls 3 km Return Strenuous"
+    },
+    {
+      "field": "why_go_md, tips_md",
+      "url": "https://mauritiusnow.com/things-to-do/best-hikes-in-mauritius/",
+      "title": "Best Hikes in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "This hike begins at the viewpoint for Alexandra Falls in the Black River Gorges National Park [...] 2.8km 1-2 hours"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "La description du site (parking, vendeurs, tables, plateforme) vient d'un article de Defimedia d'octobre 2016 : état actuel à vérifier. Gratuité et horaires non sourcés ; price_kind reste à null.",
+    "Defimedia parle d'une vue sur la « South-East Coast » ; le belvédère étant dans le sud-ouest, la fiche dit seulement « l'océan ». Hauteur de la cascade non sourcée.",
+    "Localité « Plaine Champagne » déduite du nom de la route dans OpenStreetMap (Plaine Champagne Road) et du NPCS ; durée de l'arrêt non sourcée."
+  ],
+  "website_url": null,
+  "secret": null
+}

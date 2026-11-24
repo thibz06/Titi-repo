@@ -1,0 +1,180 @@
+{
+  "slug": "parc-national-gorges-de-riviere-noire",
+  "name": "Parc national des gorges de Rivière Noire",
+  "family": "nature_parcs",
+  "tags": [
+    "famille"
+  ],
+  "region": "sud_ouest",
+  "locality": null,
+  "lat": -20.4083528,
+  "lng": 57.4262009,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Black%20River%20Gorges%20National%20Park&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Le plus grand parc national de l'île : 6 574 ha de forêt, une soixantaine de kilomètres de sentiers et le point culminant, 828 m.",
+  "description_md": "Proclamé le 15 juin 1994, le parc national des gorges de Rivière Noire (Black River Gorges National Park) couvre 6 574 hectares de forêts dans le sud-ouest de l'île, dont le point culminant de Maurice, le Piton de la Rivière Noire (828 m). Il est géré par le National Parks and Conservation Service (NPCS) pour la conservation de la flore et de la faune endémiques, l'éducation et les loisirs. Le NPCS y entretient une soixantaine de kilomètres de sentiers. D'est en ouest, on passe d'une forêt d'altitude humide à une forêt de basse altitude plus sèche : les pluies varient de 1 000 à 4 000 mm par an selon les secteurs.",
+  "why_go_md": "Pour marcher dans ce qui reste de la forêt tropicale de l'île et pour ses points de vue. L'office du tourisme annonce plus de 300 espèces de plantes à fleurs et neuf espèces d'oiseaux que l'on ne trouve qu'à Maurice, ainsi que des roussettes, des macaques, des cerfs et des sangliers. Les sentiers vont de la balade presque plate au parcours exigeant.",
+  "likes": [
+    "Machabée Forest Loop : Pétrin – Machabée – Pétrin, 14 km aller-retour, niveau modéré (NPCS)",
+    "Mare Longue Loop : Pétrin – Mare Longue – Pétrin, 12 km aller-retour, niveau modéré (NPCS)",
+    "Black River Peak Trail : Gorette – sommet – Gorette, 9 km aller-retour, niveau modéré (NPCS)",
+    "Paille en Queue Trail : Alexandra – Plaine Champagne, 3 km, niveau modéré (NPCS)",
+    "Savanne Trail : Plaine Paul – Piton Savanne – Plaine Paul, 6 km aller-retour, niveau facile (NPCS)",
+    "Belvédère d'Alexandra Falls, bien fléché, avec vue sur la cascade et le parc",
+    "Aires de pique-nique autorisées dans le parc"
+  ],
+  "watchouts": [
+    "Sentiers classés « strenuous » (difficiles) par le NPCS : Machabee Trail (Pétrin – basses gorges, 10 km), Parakeet Trail (Plaine Champagne – basses gorges, 8 km) et Cascade des Galets (3 km aller-retour depuis Alexandra Falls)",
+    "Plusieurs sentiers ne sont pas des boucles : Machabee Trail et Parakeet Trail descendent des hauts plateaux jusqu'aux basses gorges",
+    "Sur les hauteurs, climat humide et pluvieux, crêtes souvent dans les nuages ; il y fait plus frais qu'en bas (21 °C en moyenne l'été contre 27 °C)",
+    "Reste sur les sentiers ; animaux de compagnie, feux, cigarettes, musique forte et cueillette interdits (sauf goyaves, framboises et prunes)",
+    "Remporte tes déchets ; visite de jour uniquement"
+  ],
+  "tips_md": "Points de départ cités par le NPCS : Pétrin (côté est, en altitude), Plaine Champagne, Alexandra Falls, Gorette, Plaine Paul et les basses gorges de Rivière Noire (côté ouest). Pour une sortie en famille, l'office du tourisme recommande le Macchabée Trail au départ du centre d'accueil de Pétrin, presque plat (9 km, 2 à 3 heures selon lui), et la marche du Plateau Remousse (3 km).",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": {
+    "familles": "L'office du tourisme classe le Macchabée Trail (Pétrin) et le Plateau Remousse parmi ses randonnées familiales"
+  },
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Plus grand parc national de Maurice selon l'office du tourisme, qui le qualifie de célèbre ; il abrite le point culminant de l'île.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Black%20River%20Gorges%20National%20Park&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap — recherche « Black River Gorges National Park »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"relation\",\"osm_id\":7419511,\"lat\":\"-20.4083528\",\"lon\":\"57.4262009\",\"category\":\"boundary\",\"type\":\"national_park\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://npcs.govmu.org/Pages/National%20Parks/Black-River-Gorges-National-Parks.aspx",
+      "title": "Black River Gorges National Parks — National Parks and Conservation Service",
+      "accessed_at": "2026-11-24",
+      "evidence": "was proclaimed on the 15th of June 1994 by the President of the Republic of Mauritius. It is found in the South West of the island, and covers an area of 6,574 hectares of forests including the highest point at Piton de la Rivière Noire (828 m). The Park is managed mainly for the conservation of endemic flora and fauna, dissemination of and creation of public awareness, education and the provision of leisure to both local and foreign visitors."
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://npcs.govmu.org/Pages/National%20Parks/Black-River-Gorges-National-Parks.aspx",
+      "title": "Black River Gorges National Parks — National Parks and Conservation Service",
+      "accessed_at": "2026-11-24",
+      "evidence": "Hiking from the eastern side of the park to the west, you will be moving from a damp rainy upland forest to a drier lowland forest. The annual rainfall varying from 1000 mm in drier areas to 4000 mm on the uplands"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://npcs.govmu.org/Pages/National%20Parks/Black-River-Gorges-National-Parks.aspx",
+      "title": "Black River Gorges National Parks — National Parks and Conservation Service",
+      "accessed_at": "2026-11-24",
+      "evidence": "The mean temperature varies from 21 °C (upland) to 27 °C (lowland) during summer months"
+    },
+    {
+      "field": "description_md, pitch, watchouts",
+      "url": "https://npcs.govmu.org/Pages/National%20Parks/Black-River-Gorges-National-Parks.aspx",
+      "title": "Black River Gorges National Parks — National Parks and Conservation Service",
+      "accessed_at": "2026-11-24",
+      "evidence": "to the often cloud-shrouded ridge walk to the Black River Peak. Some 60 km of trails are there for you to enjoy the panorama"
+    },
+    {
+      "field": "likes, watchouts, tips_md",
+      "url": "https://npcs.govmu.org/Pages/National%20Parks/Black-River-Gorges-National-Parks.aspx",
+      "title": "Black River Gorges National Parks — National Parks and Conservation Service",
+      "accessed_at": "2026-11-24",
+      "evidence": "MACHABEE FOREST LOOP Pétrin-Machabée-Pétrin 14 km Return Moderate MACHABEE TRAIL Pétrin-Black River Lower Gorges 10 km Strenuous MARE LONGUE LOOP Pétrin-Mare Longue-Pétrin 12km Return Moderate PARAKEET TRAIL Plaine Champagne-Black River Lower Gorges 8 km Strenuous BLACK RIVER PEAK TRAIL Gorette-Black River Peak-Gorette 9 km Return Moderate"
+    },
+    {
+      "field": "likes, watchouts, tips_md",
+      "url": "https://npcs.govmu.org/Pages/National%20Parks/Black-River-Gorges-National-Parks.aspx",
+      "title": "Black River Gorges National Parks — National Parks and Conservation Service",
+      "accessed_at": "2026-11-24",
+      "evidence": "TRAIL Alexandra – Plaine Champagne 3 km Moderate SAVANNE TRAIL Plaine Paul – Piton Savanne – Plaine Paul 6 km Return Easy CASCADE des GALLETS TRAIL Alexandra Falls – Cascade des Gallets – Alexandra Falls 3 km Return Strenuous"
+    },
+    {
+      "field": "watchouts, likes",
+      "url": "https://npcs.govmu.org/Documents/NPCS%20Units/Park%20management%20Unit.pdf",
+      "title": "Park Management Unit (PDF) — National Parks and Conservation Service",
+      "accessed_at": "2026-11-24",
+      "evidence": "Don’t pick fruits and photos flowers except from guava, raspberries and prunes [...] Picnic spots [...] Don’t bring pets [...] Day time recreation [...] Keep along the track"
+    },
+    {
+      "field": "description_md",
+      "url": "https://npcs.govmu.org/Documents/NPCS%20Units/Park%20management%20Unit.pdf",
+      "title": "Park Management Unit (PDF) — National Parks and Conservation Service",
+      "accessed_at": "2026-11-24",
+      "evidence": "Park management unit – responsible for the day to day management of Black River Gorges National Park and Bras d’Eau National Park"
+    },
+    {
+      "field": "why_go_md, rarity",
+      "url": "https://mauritiusnow.com/things-to-do/black-river-gorges-national-park/",
+      "title": "Black River Gorges National Park — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Black River Gorges National Park is the biggest National Park in Mauritius."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusnow.com/things-to-do/black-river-gorges-national-park/",
+      "title": "Black River Gorges National Park — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "With more than 300 species of flowering plants and nine species of birds that you will only find in Mauritius [...] also includes the Mauritian flying fox, wild boar, macaque monkeys and deer"
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusnow.com/things-to-do/national-parks-in-mauritius/",
+      "title": "National Parks in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "as well as Mauritius’ remaining rainforest. With more than 50km of trails, from challenging ascents to easy forest rambles"
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusnow.com/things-to-do/national-parks-in-mauritius/",
+      "title": "National Parks in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "the well-signposted Alexandra Falls viewpoint, where you’ll be able to take in epic views of both the waterfall and the park."
+    },
+    {
+      "field": "rarity",
+      "url": "https://mauritiusnow.com/things-to-do/national-parks-in-mauritius/",
+      "title": "National Parks in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "is normally a little quieter than the famous Black River Gorges"
+    },
+    {
+      "field": "tips_md, tags, accessibility",
+      "url": "https://mauritiusnow.com/things-to-do/best-family-hikes-in-mauritius/",
+      "title": "Best Family Hikes in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Starting from the Pétrin visitor’s centre, this trail in Black Gorges National Park is mostly flat all the way around! [...] 9km 2-3 hours"
+    },
+    {
+      "field": "tips_md, tags, accessibility",
+      "url": "https://mauritiusnow.com/things-to-do/best-family-hikes-in-mauritius/",
+      "title": "Best Family Hikes in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "This easily accessible walk in the Black River Gorges National Park is a win for families."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix d'entrée, horaires des centres d'accueil (Pétrin, Rivière Noire) et état actuel des sentiers : rien sur le site du NPCS, dont la page n'est pas datée ; à vérifier (NPCS, tél. 464 4053). Le site de la Mauritian Wildlife Foundation était injoignable.",
+    "Longueur des sentiers : « some 60 km » selon le NPCS, « plus de 50 km » selon l'office du tourisme. Durées non données par le NPCS : duration et difficulty restent à null (elles varient selon le sentier).",
+    "Coordonnées : centre de la relation OpenStreetMap du parc (7419511), au milieu de la forêt ; l'éditeur voudra peut-être pointer une entrée (Pétrin ou basses gorges)."
+  ],
+  "website_url": "https://npcs.govmu.org/Pages/National%20Parks/Black-River-Gorges-National-Parks.aspx",
+  "secret": null
+}
