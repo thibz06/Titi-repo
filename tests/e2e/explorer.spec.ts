@@ -39,11 +39,9 @@ test("la fiche propose une galerie créditée et une recherche TikTok étiqueté
   await page.goto("/lieu/lieu-de-test-plage");
   await expect(page.getByRole("heading", { name: "En images" })).toBeVisible();
   await expect(page.getByRole("link", { name: "Photo : Auteur fictif 2, CC0" })).toHaveAttribute("href", "https://example.org/page2");
-  // « Plage de test » → mot-dièse « test » (le mot « plage de » est retiré), lien que l'app TikTok ouvre directement.
-  await expect(page.getByRole("link", { name: "Voir #test sur TikTok" })).toHaveAttribute("href", "https://www.tiktok.com/tag/test");
-  await expect(page.getByRole("link", { name: "Chercher « Plage de test » sur TikTok" })).toHaveAttribute(
+  await expect(page.getByRole("link", { name: "Chercher sur TikTok" })).toHaveAttribute(
     "href",
-    "https://www.tiktok.com/search?q=Plage%20de%20test%20Mauritius",
+    "https://www.tiktok.com/discover/plage-de-test-mauritius",
   );
   await expect(page.getByText(/ni choisies ni vérifiées/)).toBeVisible();
 });

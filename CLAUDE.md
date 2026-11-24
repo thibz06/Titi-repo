@@ -22,7 +22,7 @@ Le brief complet fait foi. Choix techniques et versions : `docs/DECISIONS.md`.
 7. Gamification sans pression : pas de série punitive, pas de compte à rebours, notifications désactivées par défaut, aucun bonus d'XP lié au danger.
 8. Mobile d'abord (390 px), une main, plein soleil : contraste AA, zones tactiles de 44 px minimum, `prefers-reduced-motion` respecté.
 9. Interface en français, tutoiement, textes dans `messages/*.json` (structure prête pour l'anglais). Aucun texte d'interface en dur dans les composants.
-10. Photos : uniquement des fichiers dont la licence et le crédit sont enregistrés (Wikimedia Commons, photos de Thibault). À défaut, illustration de la famille du lieu.
+10. Photos : uniquement des fichiers sous licence libre dont l'auteur, la licence et la page d'origine sont enregistrés dans la fiche et affichés (Wikimedia Commons, Flickr en Creative Commons via Openverse, photos de Thibault). Jamais d'image prise sur Google Images ou sur un site sans licence. À défaut, aplat à la couleur de la famille du lieu.
 11. Le programme généré est une proposition modifiable. L'app ne réserve rien.
 
 ## Design
@@ -42,6 +42,7 @@ Style « été » voulu par Thibault (24 novembre 2026) : épuré, lumineux, pre
 - `pnpm test:e2e` : build puis Playwright, viewport mobile 390 px (`tests/e2e`), avec les fiches fictives de `tests/fixtures/places` et un fond de carte simulé
 - `pnpm icons` : régénère les PNG du manifeste depuis `public/icons/icon.svg`
 - `pnpm content:lint` : contrôle des fiches (schéma, sources, coordonnées)
+- `pnpm photos:find` : cherche sur Openverse des photos libres pour les fiches qui en manquent et les copie dans `public/photos`
 - `pnpm photos:fetch` : copie dans `public/photos` les photos Commons citées par les fiches (lent, à relancer après ajout de photos)
 - `pnpm matrix:build` : recalcule `content/travel-times.json` avec OSRM ; à relancer après tout ajout de fiche
 

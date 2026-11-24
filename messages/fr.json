@@ -138,10 +138,9 @@
     "priceEur": "≈ {eur} au taux du {date}",
     "photosTitle": "En images",
     "photoN": "Photo {n} sur {total}",
-    "tiktok": "Voir #{tag} sur TikTok",
-    "tiktokNote": "Le premier lien ouvre la page du mot-dièse dans l'app TikTok, le second une recherche. Ces vidéos ne sont ni choisies ni vérifiées par l'app.",
-    "seeAlso": "Voir aussi",
-    "tiktokSearch": "Chercher « {name} » sur TikTok"
+    "tiktok": "Chercher sur TikTok",
+    "tiktokNote": "Ouvre une recherche TikTok sur ce lieu. Ces vidéos ne sont ni choisies ni vérifiées par l'app.",
+    "seeAlso": "Voir aussi"
   },
   "profile": {
     "title": "Profil",
@@ -280,8 +279,12 @@
     "today": "Aujourd'hui",
     "tomorrow": "Demain",
     "line": "{temp} °C max · pluie {rain} % ({mm} mm) · vent {wind} km/h",
-    "estimate": "Prévision, donc estimation. Source : {source}, calculée le {time}.",
+    "estimate": "Prévision, donc estimation. Source : {source}.",
     "error": "La météo est indisponible pour le moment.",
-    "official": "Alertes et avis de cyclone : Mauritius Meteorological Services"
+    "official": "Alertes et avis de cyclone : Mauritius Meteorological Services",
+    "now": "En ce moment : {temp} °C, vent {wind} km/h",
+    "updated": "Mise à jour à {time}",
+    "refresh": "Actualiser",
+    "refreshing": "Actualisation…"
   }
 }

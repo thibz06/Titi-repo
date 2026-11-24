@@ -5,7 +5,10 @@ import { useCallback, useEffect, useLayoutEffect, useRef, useState, type ReactNo
 
 export type SheetSnap = "peek" | "half" | "full";
 const ORDER: SheetSnap[] = ["peek", "half", "full"];
-const PEEK_HEIGHT = 156;
+// Hauteur visible au cran « aperçu » : le contenu (156 px) plus la place de la barre d'onglets flottante,
+// derrière laquelle la feuille se prolonge pour ne laisser aucune bande de carte en bas d'écran.
+const TAB_BAR_SPACE = 104;
+const PEEK_HEIGHT = 156 + TAB_BAR_SPACE;
 
 /**
  * Feuille basse à trois crans (aperçu, liste, plein écran). Elle suit le doigt quand on tire
@@ -59,7 +62,7 @@ export function BottomSheet({
   }
 
   return (
-    <div ref={containerRef} className="pointer-events-none absolute inset-x-0 top-0 bottom-[calc(5.25rem+max(0.5rem,env(safe-area-inset-bottom)))] z-20 overflow-hidden">
+    <div ref={containerRef} className="pointer-events-none absolute inset-0 z-20 overflow-hidden">
       <motion.section
         style={{ y, height: height || "100%" }}
         drag="y"
@@ -69,7 +72,7 @@ export function BottomSheet({
         dragElastic={0.05}
         onDragStart={() => (dragged.current = true)}
         onDragEnd={onDragEnd}
-        className="pointer-events-auto absolute inset-x-0 top-0 mx-auto flex max-w-md flex-col glass rounded-[2rem]"
+        className="pointer-events-auto absolute inset-x-0 top-0 mx-auto flex max-w-md flex-col glass rounded-t-[2rem]"
       >
         <div onPointerDown={(e) => controls.start(e)} className="shrink-0 touch-none">
           <button
@@ -86,7 +89,7 @@ export function BottomSheet({
           </button>
           <div className="px-4 pb-3">{header}</div>
         </div>
-        <div className={`min-h-0 flex-1 px-3 pb-4 ${snap === "peek" ? "overflow-hidden" : "overflow-y-auto"}`}>{children}</div>
+        <div className={`min-h-0 flex-1 px-3 pb-[calc(6.5rem+env(safe-area-inset-bottom))] ${snap === "peek" ? "overflow-hidden" : "overflow-y-auto"}`}>{children}</div>
       </motion.section>
     </div>
   );

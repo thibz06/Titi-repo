@@ -68,27 +68,23 @@ export function commonsThumb(url: string, width: number): string {
 }
 
 /**
- * Mot-dièse TikTok d'un lieu : son nom court, sans accents ni espaces (« Grand Baie » → « grandbaie »).
- * On coupe aux précisions (« … et la chapelle », parenthèses, virgules) pour rester sur un mot-dièse réellement utilisé.
+ * Recherche TikTok par mots-clés sur le lieu. On passe par une adresse « discover », que l'app TikTok
+ * ouvre directement sur téléphone (contrairement à « /search », qui reste dans le navigateur sans
+ * remplir la recherche). Mots-clés : le nom court du lieu, puis « mauritius ».
  */
-export function tiktokTag(name: string): string {
+export function tiktokKeywords(name: string): string {
   const short = name.split(/\s+(?:et|ou)\s+|[(,:–—]/)[0] ?? name;
-  return short
+  const words = short
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
-    .replace(/\b(?:plage|restaurant|musee|museum|marche|foire|parc national|randonnee|observation|point de vue)\s+(?:publique\s+)?(?:de la\s+|de l'|des\s+|du\s+|de\s+|d')/g, "")
-    .replace(/[^a-z0-9]/g, "");
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+  return `${words} mauritius`;
 }
 
-/** Page du mot-dièse : c'est le lien que l'app TikTok ouvre directement sur téléphone. */
-export function tiktokTagUrl(name: string): string {
-  return `https://www.tiktok.com/tag/${tiktokTag(name)}`;
-}
-
-/** Recherche TikTok sur le lieu (une simple recherche : rien n'est sélectionné ni vérifié). */
 export function tiktokSearchUrl(name: string): string {
-  return `https://www.tiktok.com/search?q=${encodeURIComponent(`${name} Mauritius`)}`;
+  return `https://www.tiktok.com/discover/${tiktokKeywords(name).replace(/ /g, "-")}`;
 }
 
 /** Toutes les photos créditées d'une fiche, la couverture en premier. */
