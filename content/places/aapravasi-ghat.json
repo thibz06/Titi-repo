@@ -2,7 +2,9 @@
   "slug": "aapravasi-ghat",
   "name": "Aapravasi Ghat",
   "family": "culture_patrimoine",
-  "tags": [],
+  "tags": [
+    "gratuit"
+  ],
   "region": "nord_ouest",
   "locality": "Port-Louis",
   "lat": -20.158611,
@@ -10,29 +12,36 @@
   "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q9276.json",
   "google_place_id": null,
   "pitch": "Vestiges du dépôt d'immigration où ont débarqué les travailleurs engagés indiens, inscrits au patrimoine mondial en 2006.",
-  "description_md": "L'Aapravasi Ghat est l'ancien dépôt d'immigration de Port-Louis, bâti dans la baie de Trou Fanfaron. De 1849 à 1923, environ un demi-million de travailleurs engagés indiens y sont passés, selon Wikipédia en anglais. Il en reste les vestiges partiels de trois bâtiments en pierre des années 1860 : le portail d'entrée, un bloc hospitalier, des restes de hangars et des quartiers de service. Monument national, le site est inscrit au patrimoine mondial de l'UNESCO depuis 2006 et géré par l'Aapravasi Ghat Trust Fund.",
+  "description_md": "L'Aapravasi Ghat est l'ancien dépôt d'immigration de Port-Louis, bâti dans la baie de Trou Fanfaron. De 1849 à 1923, environ un demi-million de travailleurs engagés y sont passés selon Wikipédia en anglais ; l'Aapravasi Ghat Trust Fund, qui gère le site, parle de plus de 462 000 engagés, venus surtout d'Inde. Il en reste les vestiges partiels de trois bâtiments en pierre des années 1860 : le portail d'entrée, un bloc hospitalier, des restes de hangars et des quartiers de service. Monument national, le site a été inscrit au patrimoine mondial de l'UNESCO le 16 juillet 2006, d'après le Trust Fund.",
   "why_go_md": "C'est l'un des deux sites mauriciens du patrimoine mondial, avec le Morne Brabant, et un lieu clé pour comprendre l'engagisme, dont descend une grande partie de la population de l'île. La visite associe le site et le Beekrumsing Ramlallah Interpretation Centre (BRIC), ouvert en 2014, qui raconte l'arrivée et le séjour des engagés avec une maquette, des visuels et du multimédia.",
   "likes": [
     "Site inscrit au patrimoine mondial de l'UNESCO (2006)",
     "Centre d'interprétation (BRIC) en six sections : maquette, visuels et multimédia sur l'arrivée des engagés",
     "Vestiges des années 1860 : portail d'entrée, bloc hospitalier, hangars",
-    "Proche du Caudan Waterfront"
+    "Proche du Caudan Waterfront",
+    "Entrée gratuite (site officiel)"
   ],
   "watchouts": [
-    "Il ne reste qu'une partie du complexe d'origine : les aménagements urbains du XXe siècle ont détruit le reste"
+    "Il ne reste qu'une partie du complexe d'origine : les aménagements urbains du XXe siècle ont détruit le reste",
+    "Fermé le dimanche et les jours fériés, et dès midi le samedi ainsi que les 24 et 31 décembre (site officiel)",
+    "Pas de parking visiteurs sur place : le site officiel conseille de se garer au Granary ou au Caudan Waterfront"
   ],
-  "tips_md": null,
-  "duration_min": 45,
+  "tips_md": "La visite commence par le centre d'interprétation (BRIC), 30 à 40 minutes, puis continue sur le site classé, une vingtaine de minutes. Les visites guidées se réservent à l'avance (tél. 217 7770), selon disponibilité ; sans guide, le Trust Fund renvoie vers sa visite virtuelle pour préparer un parcours libre. Des fermetures exceptionnelles sont annoncées sur le site officiel (par exemple le 29 juin 2026) : jette un œil avant d'y aller.",
+  "duration_min": 50,
   "duration_max": 60,
-  "price_kind": null,
+  "price_kind": "free",
   "price_visitor_mur_min": null,
   "price_visitor_mur_max": null,
   "price_resident_mur": null,
-  "price_note": null,
-  "opening_hours": null,
-  "hours_note": null,
+  "price_note": "« Entrance is free of charge » : page « Plan Your Visit » du site de l'Aapravasi Ghat Trust Fund, sans date de mise à jour (pied de page « Copyright © 2026 »), consultée le 21 novembre 2026.",
+  "opening_hours": "Mo-Fr 09:00-16:00; Sa 09:00-12:00; Su,PH off; Dec 24,31 09:00-12:00",
+  "hours_note": "Site officiel (page « Plan Your Visit », sans date, consultée le 21 novembre 2026) : lundi au vendredi 9 h-16 h, samedi 9 h-12 h, fermé les dimanches et jours fériés, fermeture à midi les 24 et 31 décembre.",
   "difficulty": null,
-  "accessibility": null,
+  "accessibility": {
+    "fauteuil_roulant": "Site classé, galeries et espace principal du centre d'interprétation accessibles en fauteuil roulant (site officiel)",
+    "toilettes": "Toilettes accessibles (site officiel)",
+    "stationnement": "Pas de parking visiteurs au centre d'interprétation ; se garer au Granary ou au Caudan Waterfront (site officiel)"
+  },
   "best_time": null,
   "rain_ok": null,
   "risk_level": null,
@@ -107,6 +116,48 @@
       "title": "Idées sorties : se distraire avant la reprise | Defimedia (6 janvier 2023)",
       "accessed_at": "2026-11-21",
       "evidence": "La visite comprend la visite du site et du Beekrumsing Ramlallah Interpretation Centre (BRIC), Port-Louis. Elle dure 45 minutes. [...] À travers une maquette, des visuels et des multimédias, l’arrivée des travailleurs engagés à Maurice et leur séjour à l’Aapravasi Ghat est racontée dans la galerie suivante."
+    },
+    {
+      "field": "price_kind, price_note, opening_hours, hours_note, tags, likes, watchouts",
+      "url": "https://aapravasi.govmu.org/aapravasi/?page_id=816",
+      "title": "Plan Your Visit | Aapravasi Ghat Trust Fund (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Opening Hours Entrance is free of charge Monday – Friday: 9:00 – 16:00 hrs Saturday: 9:00 – 12:00 hrs Closed on Sundays and Public Holidays Closes at noon on 24 th and 31 st December"
+    },
+    {
+      "field": "duration_min, duration_max, tips_md",
+      "url": "https://aapravasi.govmu.org/aapravasi/?page_id=816",
+      "title": "Plan Your Visit | Aapravasi Ghat Trust Fund (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The visit starts with a visit of the Beekrumsing Ramlallah Interpretation Centre (30 to 40 minutes) followed by a visit to the World Heritage Property (20 minutes). [...] The visit to the Aapravasi Ghat World Heritage Site lasts for approximately one hour."
+    },
+    {
+      "field": "tips_md",
+      "url": "https://aapravasi.govmu.org/aapravasi/?page_id=816",
+      "title": "Plan Your Visit | Aapravasi Ghat Trust Fund (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Guided visits are offered on prior booking and subject to availability. Visitors are invited to consult our virtual tour for detailed information and an enriched self-guided experience."
+    },
+    {
+      "field": "accessibility, watchouts",
+      "url": "https://aapravasi.govmu.org/aapravasi/?page_id=816",
+      "title": "Plan Your Visit | Aapravasi Ghat Trust Fund (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The World Heritage Site is accessible with a wheelchair. All galleries and main area of the Interpretation Centre are accessible to wheelchairs. There are accessible toilets with good facilities. [...] The Interpretation Centre does not provide parking for visitors. Aapravasi Ghat World Heritage Site visitors can park their vehicles at the Granary or at Le Caudan Waterfront."
+    },
+    {
+      "field": "description_md",
+      "url": "https://aapravasi.govmu.org/aapravasi/wp-content/uploads/2020/09/Factsheet-Aapravasi-Ghat-World-Heritage-Site.pdf",
+      "title": "Factsheet – Aapravasi Ghat World Heritage Site (Aapravasi Ghat Trust Fund, PDF)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Aapravasi Ghat was inscribed on 16 July 2006 on the World Heritage List [...] Aapravasi Ghat depicts the story of more than 462,000 indentured labourers coming mainly from India (97.5%)"
+    },
+    {
+      "field": "tips_md",
+      "url": "https://aapravasi.govmu.org/aapravasi/?p=5068",
+      "title": "Notice to closure | Aapravasi Ghat Trust Fund (25 juin 2026)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Beekrumsing Ramlallah Interpretation Centre and the Aapravasi Ghat World Heritage Site will be closed to the public on Monday 29 June 2026"
     }
   ],
   "media": [
@@ -120,10 +171,10 @@
     }
   ],
   "open_questions": [
-    "Horaires et prix : aucune source officielle accessible (site de l'Aapravasi Ghat Trust Fund non autorisé dans la session ; whc.unesco.org renvoie un contrôle anti-robot). Défi Media écrivait en juillet 2022 : BRIC ouvert gratuitement de 9 h à 16 h du lundi au vendredi, le samedi de 9 h à midi sur réservation pour les groupes de 25 personnes et plus. Non repris dans opening_hours ni price_kind car non officiel et ancien.",
-    "Ouverture pendant les fêtes (25 décembre, 1er et 2 janvier) à vérifier auprès du Trust Fund.",
-    "Chiffres divergents selon les sources : Wikipédia (en) parle d'un demi-million d'engagés entre 1849 et 1923, Wikipédia (fr) de près de 400 000 entre 1834 et 1910. La fiche cite la version anglaise en l'attribuant.",
-    "Date d'inscription UNESCO : 12 juillet 2006 (Wikipédia fr), 16 juillet 2006 (Défi Media) ; la fiche ne cite que l'année. À vérifier sur whc.unesco.org.",
-    "Durée (45 à 60 minutes) tirée d'articles de presse de 2022 et 2023, pour la visite guidée site + BRIC."
-  ]
+    "Jours fériés pendant le séjour : le site officiel dit « fermé les dimanches et jours fériés » et « fermeture à midi les 24 et 31 décembre » sans lister les dates ; à croiser avec le calendrier des jours fériés 2026-2027 (Noël, Nouvel An).",
+    "Chiffres divergents : « plus de 462 000 » engagés (factsheet du Trust Fund), « près d'un demi-million » (citation UNESCO reprise par le Trust Fund, Wikipédia en), « près de 400 000 entre 1834 et 1910 » (Wikipédia fr). La fiche cite les deux premières en les attribuant.",
+    "Date d'inscription UNESCO : 16 juillet 2006 selon le factsheet du Trust Fund et Défi Media, 12 juillet 2006 selon Wikipédia (fr). whc.unesco.org répond toujours 403 aux requêtes automatisées (21 novembre 2026).",
+    "Le domaine aapravasighat.org n'héberge plus le site du Trust Fund (contenu touristique générique sans rapport) : le site officiel est aapravasi.govmu.org."
+  ],
+  "website_url": "https://aapravasi.govmu.org/aapravasi/"
 }

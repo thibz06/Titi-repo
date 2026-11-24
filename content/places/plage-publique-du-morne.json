@@ -1,0 +1,125 @@
+{
+  "slug": "plage-publique-du-morne",
+  "name": "Plage publique du Morne",
+  "family": "plages_lagon",
+  "tags": [
+    "spot_photo",
+    "coucher_soleil"
+  ],
+  "region": "sud_ouest",
+  "locality": "Le Morne",
+  "lat": -20.4559257,
+  "lng": 57.3113676,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Le%20Morne%20Beach&format=jsonv2&limit=5&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Sable blanc et cocotiers au pied du Morne Brabant, face au lagon : farniente, kitesurf tout près et coucher de soleil.",
+  "description_md": "La plage du Morne s'étire au pied du Morne Brabant, la montagne inscrite au patrimoine mondial de l'UNESCO, à la pointe sud-ouest de l'île. L'office du tourisme la décrit comme une étendue de sable blanc bordée de cocotiers, à l'eau claire. Le Monument international de la Route de l'esclave se trouve juste en face de la plage publique.",
+  "why_go_md": "Pour le décor : la montagne se dresse directement derrière le sable, et l'office du tourisme classe Le Morne parmi ses cinq meilleures plages de l'île. C'est aussi l'endroit où te poser après la randonnée du Morne, et un secteur réputé pour le kitesurf, avec le spot One Eye à la Pointe du Morne.",
+  "likes": [
+    "Sable blanc, eau claire et cocotiers, avec le Morne Brabant en toile de fond",
+    "Coucher de soleil recommandé par l'office du tourisme",
+    "Écoles de surf et de kitesurf dans le secteur ; spot One Eye à la Pointe du Morne",
+    "Monument international de la Route de l'esclave en face de la plage publique"
+  ],
+  "watchouts": [
+    "Site un peu moins abrité que d'autres plages : c'est ce qui en fait un spot de kitesurf",
+    "Alizés forts et réguliers dans le sud, surtout d'avril à novembre"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "moment": "Fin de journée pour le coucher de soleil (office du tourisme)",
+    "vent": "Alizés forts et réguliers dans le sud surtout d'avril à novembre (office du tourisme)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Classée par l'office du tourisme (Mauritius Now) parmi les cinq meilleures plages de l'île.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Le%20Morne%20Beach&format=jsonv2&limit=5&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap — recherche « Le Morne Beach »",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":409616336,\"lat\":\"-20.4559257\",\"lon\":\"57.3113676\",\"category\":\"natural\",\"type\":\"beach\""
+    },
+    {
+      "field": "description_md, pitch, likes, tags",
+      "url": "https://mauritiusnow.com/things-to-do/le-morne-beach/",
+      "title": "Le Morne Beach — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le Morne beach on the west coast of Mauritius is situated at the foot of Le Morne Brabant Mountain, a UNESCO World Heritage Site. You couldn’t get a more dramatic backdrop for sunbathing, so take your camera and capture the beautiful stretch of sand and the mountain beyond."
+    },
+    {
+      "field": "likes, watchouts, best_time, why_go_md",
+      "url": "https://mauritiusnow.com/things-to-do/le-morne-beach/",
+      "title": "Le Morne Beach — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The south is renowned for strong and consistent tradewinds, especially between April and November, so it’s a great place to learn to kitesurf and there is a choice of surf and kite schools to teach you. One Eye at Pointe du Morne is one of the world’s most famous kitesurfing areas."
+    },
+    {
+      "field": "likes, tags, best_time, description_md",
+      "url": "https://mauritiusnow.com/things-to-do/le-morne-beach/",
+      "title": "Le Morne Beach — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "the white sand, clear water and coconut trees make this the perfect place – just make sure you stick around to catch an amazing sunset."
+    },
+    {
+      "field": "why_go_md, watchouts, rarity",
+      "url": "https://mauritiusnow.com/things-to-do/best-beaches-in-mauritius/",
+      "title": "Best beaches in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Situated at the foot of the iconic Le Morne mountain, this beach really is top class for spectacular scenery and the perfect place to rest weary feet after a hike to the summit. If you’re still in search of an adrenaline rush, its slightly less-sheltered spot makes it a popular place for kitesurfing."
+    },
+    {
+      "field": "rarity",
+      "url": "https://mauritiusnow.com/things-to-do/best-beaches-in-mauritius/",
+      "title": "Best beaches in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "We caught up with vlogger Will Tevs to reveal the top 5 best beaches in Mauritius for swimming, sunsets and nature."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://www.expat.com/en/expat-mag/8869-the-morne-brabant-reopening-of-a-hiking-route-and-15th-anniversary-of-being-a-world-heritage-site.html",
+      "title": "The Morne Brabant: Reopening of a hiking route and 15th anniversary of being a World Heritage Site — Expat.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "a wreath-laying ceremony took place on July 10 at the International Slave Route Monument, situated opposite Le Morne public beach."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sunbathing_at_Le_Morne_Beach_in_Mauritius_%2853697787846%29.jpg",
+      "credit": "dronepicr (Wikimedia Commons)",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sunbathing_at_Le_Morne_Beach_in_Mauritius_(53697787846).jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Gratuité : aucune source consultée ne dit explicitement que l'accès à la plage publique est gratuit ; price_kind reste à null.",
+    "Le site de la Beach Authority (beachauthority.govmu.org) était injoignable pendant la session (erreur 502 du proxy, deux tentatives) : équipements (toilettes, parking, douches), zone de baignade balisée et présence de sauveteurs non vérifiés.",
+    "Sécurité de la baignade et courants : aucune source officielle consultée ; à vérifier sur place.",
+    "Coordonnées : l'objet OpenStreetMap retenu est la plage nommée « Le Morne » (way 409616336), qui couvre le littoral ouest de la presqu'île ; il n'est pas certain que le point tombe exactement sur la portion publique. Le monument, donné « en face de la plage publique », est à environ 400 m au nord-est de ce point d'après OSM.",
+    "L'office du tourisme situe la plage tantôt sur la côte ouest, tantôt sur la côte sud : c'est la pointe sud-ouest.",
+    "Un article de lexpress.mu sur le classement d'une partie de la Pointe-Cassis en plage publique n'a pas pu être téléchargé (connexion refusée) ; non utilisé."
+  ],
+  "website_url": null,
+  "secret": null
+}

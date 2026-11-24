@@ -15,11 +15,12 @@
   "likes": [
     "Hippodrome inauguré en 1812, présenté comme le plus ancien de l'hémisphère sud",
     "Lieu de la cérémonie d'indépendance du 12 mars 1968",
-    "Statue d'Édouard VII et obélisque du tombeau de Malartic dans l'enceinte"
+    "Statue d'Édouard VII et obélisque du tombeau de Malartic dans l'enceinte",
+    "Tombeau de Malartic et statue d'Édouard VII inscrits sur la liste du patrimoine national (National Heritage Fund)"
   ],
   "watchouts": [
     "Très forte affluence les jours de courses : des dizaines de milliers de personnes selon Wikipédia en anglais",
-    "D'après Défi Media (19 novembre 2026), les dernières journées de la saison hippique 2026 sont programmées les 28 novembre, 5 et 13 décembre 2026 : si ce calendrier concerne bien le Champ de Mars, il n'y aurait pas de courses entre le 21 décembre 2026 et le 7 janvier 2027"
+    "Pas de courses attendues pendant le séjour : d'après Défi Media (19 novembre 2026), les dernières journées de la saison hippique 2026 sont programmées les 28 novembre, 5 et 13 décembre 2026 ; la saison 2026 s'est bien courue au Champ-de-Mars (ionnews, 31 octobre 2026). Aucune journée n'a été trouvée entre le 21 décembre 2026 et le 7 janvier 2027."
   ],
   "tips_md": null,
   "duration_min": null,
@@ -186,6 +187,27 @@
       "title": "Champ de Mars Racecourse — Wikipedia",
       "accessed_at": "2026-11-21",
       "evidence": "has become the ultimate meeting place for racing fanatics from all over the island and even from abroad"
+    },
+    {
+      "field": "watchouts, best_time",
+      "url": "https://ionnews.mu/hippisme-rainwater-ouvre-le-bal-au-champ-de-mars/",
+      "title": "Hippisme : Rainwater ouvre le bal au Champ-de-Mars | ionnews (31 octobre 2026)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La journée hippique de ce samedi 31 octobre 2026 au Champ-de-Mars a vu sept courses au programme"
+    },
+    {
+      "field": "likes",
+      "url": "https://nhf.govmu.org/nhf/?page_id=709",
+      "title": "National Heritage Sites – Port Louis | National Heritage Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "35. Malartic Tomb (Champ de Mars) [...] 64. Statue of His Majesty Kind Edward VII, Champ de Mars"
+    },
+    {
+      "field": "best_time",
+      "url": "https://mauritiusnow.com/blog/things-to-do/champ-de-mars/",
+      "title": "Champ de Mars: Mauritius' Historic Racetrack | Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The racing season kicks off from late March to early December with most events taking place at weekends."
     }
   ],
   "media": [
@@ -199,11 +221,12 @@
     }
   ],
   "open_questions": [
-    "Site officiel www.mauritiusturfclub.com injoignable pendant la rédaction (erreur 502) : prix d'entrée, horaires, accès hors jours de courses et calendrier non vérifiés.",
-    "L'article de Défi Media du 19 novembre 2026 sur la fin de saison cite le MTC Jockey Club mais ne nomme pas le Champ de Mars : vérifier que les courses 2026 s'y tiennent bien et qu'aucune journée n'est prévue pendant le séjour (21 décembre 2026 au 7 janvier 2027).",
     "L'hippodrome se visite-t-il en dehors des jours de courses (accès libre à l'enceinte, statue, tombeau de Malartic) ? Non sourcé.",
-    "« Plus ancien hippodrome de l'hémisphère sud » : affirmation de Wikipédia (fr et en) ; l'office du tourisme écrit plus prudemment « l'un des plus anciens »."
+    "« Plus ancien hippodrome de l'hémisphère sud » : affirmation de Wikipédia (fr et en) ; l'office du tourisme écrit plus prudemment « l'un des plus anciens ».",
+    "Sites officiels toujours illisibles le 21 novembre 2026 : www.mauritiusturfclub.com répond 502 et www.mtcjockeyclub.com (où se trouverait le calendrier « fixtures ») renvoie un contrôle anti-robot Cloudflare. Prix d'entrée, horaires et accès hors jours de courses non vérifiés ; website_url laissé à null.",
+    "Calendrier : la fin de saison 2026 (28 novembre, 5 et 13 décembre) vient de la presse (Défi Media citant un communiqué du MTC Jockey Club du 19 novembre 2026), pas du site du club. Le calendrier 2027 n'a pas été trouvé ; les saisons récentes ont commencé au plus tôt fin mars selon l'office du tourisme, donc rien n'est attendu début janvier 2027, à confirmer."
   ],
+  "website_url": null,
   "secret": {
     "story_md": "Avant d'être un champ de courses, le Champ de Mars a été un champ de manœuvres. D'après le site Vintage Mauritius, Mahé de La Bourdonnais avait choisi ce terrain pour l'entraînement de ses soldats : exercices chaque dimanche, grande revue chaque mois. Il arrivait aussi qu'on s'y batte en duel. Juste après la conquête britannique de décembre 1810, des soldats indiens y ont été logés sous la tente.\n\nLa piste naît d'une idée politique. En 1812, moins de deux ans après la prise de l'île, le terrain est converti en hippodrome avec un but affiché : réconcilier vainqueurs et vaincus, colons français et administration anglaise, autour d'une passion commune pour les chevaux. Le Mauritius Turf Club est fondé la même année par le colonel Edward Alured Draper, et la première course se court le 25 juin 1812. Selon Wikipédia en anglais, le gouverneur Robert Farquhar et son épouse d'origine française, Maria Lautour, soutiennent l'entreprise, et c'est elle qui offre la première coupe en or. Draper, qui fait courir ses propres pur-sang et les monte parfois lui-même pendant une vingtaine d'années, y gagne le surnom de « père » du Turf Club.\n\nLe record d'ancienneté se décline différemment selon les sources, et il vaut mieux le citer avec prudence. Wikipédia présente le Mauritius Turf Club comme le plus ancien club hippique de l'hémisphère sud et le deuxième au monde ; Vintage Mauritius précise : le deuxième après le Jockey Club anglais. L'office du tourisme, lui, parle sur une page du « deuxième plus ancien » hippodrome de l'hémisphère sud et, sur une autre, de « l'un des plus anciens ».\n\nLa piste elle-même est atypique : un ovale court de 1 298 mètres, qui se parcourt à main droite et s'achève par une ligne droite de 225 mètres en montée. Wikipédia en français la dit piégeuse, avec sa pente à l'arrivée et ses virages très serrés. Autour, les installations ont grandi lentement. Au XIXe siècle, les seules loges permanentes étaient celles du gouverneur, du maire de Port-Louis et des officiels du club ; les autres étaient montées et louées le jour même. Les tribunes permanentes datent de 1909 et ont été améliorées en 1927, 1939 et 1954. En 1958, le Turf Club a fusionné avec le Mauritius Jockey Club, fondé en 1904, qui avait organisé ses propres courses à Mangalkhan, à Floréal, de 1906 à 1943.\n\nLe lieu dépasse le sport. Des matchs de cricket s'y sont joués entre troupes britanniques au XIXe siècle. Le 12 mars 1968, c'est ici qu'a été hissé le drapeau de l'indépendance, et l'anniversaire y a été célébré pendant de nombreuses années. Le record d'affluence date de 1984 : plus de 100 000 personnes pour la Maiden Cup, la course la plus prestigieuse du calendrier mauricien, remportée ce jour-là par Nippy Regen. Un hippodrome né pour rapprocher deux camps est ainsi devenu, selon Wikipédia en anglais, le rendez-vous des passionnés de courses venus de toute l'île.",
     "why_unknown_md": null,

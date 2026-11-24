@@ -1,0 +1,173 @@
+{
+  "slug": "bois-dentelle-grand-bassin",
+  "name": "Les derniers bois dentelle (Piton Grand Bassin)",
+  "family": "nature_parcs",
+  "tags": [
+    "insolite"
+  ],
+  "region": "centre",
+  "locality": "Grand Bassin",
+  "lat": -20.4182287,
+  "lng": 57.4919515,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Grand%20Bassin",
+  "google_place_id": null,
+  "pitch": "L'un des arbres les plus rares du monde : moins de dix bois dentelle sauvages, tous sur une colline de Grand Bassin.",
+  "description_md": "Le bois dentelle (*Elaeocarpus bojeri*) est un petit arbre endémique de Maurice, classé en danger critique d'extinction et inscrit en 2012 parmi les cent espèces les plus menacées au monde. Sa population sauvage connue tient sur une seule colline, le Piton Grand Bassin, au-dessus du lac sacré de Ganga Talao : deux arbres recensés dans les années 1990, trois en 2006, « moins de dix » en 2012. L'emplacement exact des arbres n'est pas publié et aucune source ne décrit d'accès autorisé jusqu'à eux.",
+  "why_go_md": "Pas pour toucher les arbres, mais pour savoir ce que cache la colline quand tu visites Grand Bassin : l'une des toutes dernières stations d'une espèce que l'on ne trouve nulle part ailleurs. Si tu veux voir un bois dentelle de près, un sujet planté en 2017 figure dans la liste des arbres du jardin botanique de Pamplemousses.",
+  "likes": [
+    "Une espèce inscrite parmi les cent plus menacées au monde (Société zoologique de Londres et UICN, 2012)",
+    "Le Piton Grand Bassin se regarde depuis les rives du lac sacré de Ganga Talao, que tu visites de toute façon",
+    "Un bois dentelle planté en 2017 est répertorié au jardin botanique de Pamplemousses, avenue Smt I. Gandhi"
+  ],
+  "watchouts": [
+    "Emplacement exact des arbres non public ; aucun accès autorisé décrit par les sources. Ne quitte pas les chemins ouverts au public pour les chercher.",
+    "Ne cueille ni feuille, ni fleur, ni fruit : il resterait moins de dix individus sauvages.",
+    "Grand Bassin est un lieu de culte hindou très fréquenté, en particulier pendant le pèlerinage de Maha Shivaratri."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "tres_confidentiel",
+  "rarity_reason": "Population sauvage de moins de dix individus, limitée à Grand Bassin, selon la liste des cent espèces les plus menacées au monde (Société zoologique de Londres et UICN, 2012).",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Grand%20Bassin",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"lat\":\"-20.4182287\",\"lon\":\"57.4919515\" [...] \"name\":\"Grand Bassin\" [...] Grand Bassin, Bois Chérie VCA, Savanne"
+    },
+    {
+      "field": "secret, description_md, why_go_md, watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/ganga-talao/",
+      "title": "Ganga Talao — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "This sacred lake (also known as Grand Bassin) lies high in the mountains of Savanne and is an important Hindu site in Mauritius. [...] You’ll be greeted by a 33-metre-high statue of Shiva at the gateway to the crater lake. [...] admire the colourful shrines dotted around the lake’s edge. [...] visit Ganga Talao during the festival of Maha Shivaratri"
+    },
+    {
+      "field": "secret, description_md",
+      "url": "https://en.wikipedia.org/wiki/Elaeocarpus_bojeri",
+      "title": "Elaeocarpus bojeri — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Elaeocarpus bojeri, locally known as a bois dentelle ('lace wood' in French), descriptive of its delicate white flowers [...] The species was once only found close to an Indian temple on Piton Grand Bassin hill near Grand Bassin in Mauritius, where only two individuals were known to grow in the 1990s. [...] Page, W. (1998). \"Elaeocarpus bojeri\". IUCN Red List of Threatened Species."
+    },
+    {
+      "field": "secret, description_md",
+      "url": "https://en.wikipedia.org/wiki/Elaeocarpus_bojeri",
+      "title": "Elaeocarpus bojeri — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Critically Endangered (IUCN 2.3) [...] E. bojeri was termed as one of the hundred most threatened species in the world."
+    },
+    {
+      "field": "secret",
+      "url": "https://en.wikipedia.org/wiki/Elaeocarpus_bojeri",
+      "title": "Elaeocarpus bojeri — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "It is not threatened because of being exploited itself, rather because its environment is being overrun by more commercially attractive alien species such as Psidium cattleyanum and Litsea monopetala.[citation needed]"
+    },
+    {
+      "field": "secret, description_md",
+      "url": "https://fr.wikipedia.org/wiki/Elaeocarpus_bojeri",
+      "title": "Elaeocarpus bojeri — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "R.E.Vaughan (es), 1937 [...] endémique de l'île Maurice dans les Mascareignes. En voie d'extinction, elle fait partie de la liste des 100 espèces les plus menacées au monde établie par l'UICN en 2012."
+    },
+    {
+      "field": "secret",
+      "url": "https://npcs.govmu.org/Documents/NPCS%20Units/Flora.pdf",
+      "title": "Flora Unit — National Parks and Conservation Service (PDF, non daté)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Bois dentelle is a beautiful shrub tree, found in high cloud forest on the island of Mauritius. [...] The species has no commercial value. Only two populations of this plant species are left in"
+    },
+    {
+      "field": "secret, description_md, pitch, rarity, likes",
+      "url": "https://portals.iucn.org/library/efiles/documents/2012-096.pdf",
+      "title": "Baillie & Butcher (2012), Priceless or Worthless? The world’s most threatened species — Zoological Society of London / UICN (PDF)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Elaeocarpus bojeri [...] Population size: <10 individuals [...] Range: Grand Bassin, Mauritius [...] Primary threats: Habitat degradation [...] Actions required: Unknown - trees are [...] currently being closely monitored to [...] determine level of threat and how these"
+    },
+    {
+      "field": "secret, description_md",
+      "url": "https://www.darwininitiative.org.uk/documents/DAR15038/21357/15-038%20FR%20Ann5.19%20web%20articles%20-%20various.pdf",
+      "title": "Actualités de la Mauritian Wildlife Foundation archivées dans un rapport de la Darwin Initiative (projet 15-038, annexe 5.19, PDF imprimé le 30/07/2009)",
+      "accessed_at": "2026-11-21",
+      "evidence": "During vegetation survey on Piton Grand Bassin in November this year a new [...] individual of the endemic plant species Elaeocarpus bojeri (Bois dentelle) was [...] found on the summit of this peak. This find has brought the population of this [...] species to 3 individuals left in the wild. Further propagation of the Bois dentelle [...] will be carried out in our nurseries and will be planted in the field gene bank in [...] Pigeon Wood."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.darwininitiative.org.uk/documents/DAR15038/21357/15-038%20FR%20Ann5.19%20web%20articles%20-%20various.pdf",
+      "title": "Actualités de la Mauritian Wildlife Foundation archivées dans un rapport de la Darwin Initiative (projet 15-038, annexe 5.19, PDF imprimé le 30/07/2009)",
+      "accessed_at": "2026-11-21",
+      "evidence": "the 9th December 2006 by an official release of 39 Tefair skinks"
+    },
+    {
+      "field": "secret",
+      "url": "https://iucn.org/sites/default/files/2023-11/2019-mascarene-islands-plant-sg-report_publication.pdf",
+      "title": "IUCN SSC Mascarene Islands Plant Specialist Group — 2019 Report (PDF)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Miraculous recovery of Elaeocarpus bojeri, [...] bois dentelle, Critically Endangered, at Grand Bassin peak [...] Photo: Vikash Tatayah, MWF [...] (1) Mauritian Wildlife Foundation, Vacoas,"
+    },
+    {
+      "field": "secret, why_go_md, likes",
+      "url": "https://ssrbg.govmu.org/ssrbg/?page_id=1797",
+      "title": "Visits of VIPs (List of VIP plants) – Sir Seewoosagur Ramgoolam Botanic Garden",
+      "accessed_at": "2026-11-21",
+      "evidence": "List of VIP plants [...] 2017 Elaeocarpus bojeri Bois dentelle H.R.H Princess Maha Chakri Sirindhorn, Kingdom of Thailand Ave Smt I. Gandhi"
+    },
+    {
+      "field": "secret",
+      "url": "https://en.wikipedia.org/wiki/Elaeocarpus_bojeri",
+      "title": "Elaeocarpus bojeri — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Elaeocarpus bojeri seed pods, in the gardens of Monvert Nature Park"
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Elaeocarpus_bojeri_-foliage_-_Mauritius.jpg",
+      "credit": "S Molteno (Wikimedia Commons)",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Elaeocarpus_bojeri_-foliage_-_Mauritius.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "ACCÈS : l'emplacement exact des arbres n'est publié par aucune source consultée et aucune ne dit si l'on a le droit de monter au Piton Grand Bassin ou d'approcher les arbres. legal_access_checked reste à false ; à vérifier auprès du National Parks and Conservation Service et de la Mauritian Wildlife Foundation avant toute publication. La fiche recommande de ne pas chercher les arbres.",
+    "Coordonnées : faute de point publié, ce sont celles du lac de Grand Bassin (lieu-dit donné par la liste ZSL/UICN de 2012) dans OpenStreetMap, pas celles des arbres ni du piton (« Piton Grand Bassin » est introuvable dans Nominatim).",
+    "Combien d'individus aujourd'hui ? Sources discordantes : 2 dans les années 1990 (Wikipédia d'après UICN 1998), 3 fin 2006 (MWF), « moins de 10 » en 2012 (ZSL/UICN), « deux populations » (NPCS, non daté). Aucun comptage postérieur à 2012 trouvé.",
+    "Atlas Obscura a bien une page sur ces arbres (elle est citée par Wikipédia et apparaît dans les résultats de recherche), mais le site répond 403 (Cloudflare) à notre robot : elle n'a pas été lue. D'après l'extrait affiché par le moteur de recherche, non vérifié, elle rapporterait que le service des forêts aurait trouvé en décembre 2018 d'autres arbres dans des montagnes du nord : information non reprise dans le récit, à vérifier.",
+    "Le « rétablissement miraculeux » de 2019 n'est connu que par une légende de photo du rapport de l'UICN : le paragraphe qui l'interprète est écrit comme une hypothèse. À faire préciser par la Mauritian Wildlife Foundation.",
+    "La date « fin 2006 » de l'annonce de la MWF est déduite du contexte de la page archivée (événements d'octobre et décembre 2006 sur la même page, « November this year ») : à confirmer.",
+    "Menace par les plantes envahissantes : Wikipédia l'affirme avec la mention « citation needed » ; le récit le signale comme non sourcé.",
+    "Arbre de Pamplemousses : la liste du jardin recense une plantation en 2017, pas l'état actuel de l'arbre. Monvert Nature Park : seule une légende de photo de Wikipédia le mentionne ; ouverture au public non vérifiée.",
+    "Sources inaccessibles : iucnredlist.org (403 Cloudflare), mauritian-wildlife.org (connexion TLS refusée), globaltrees.org (connexion réinitialisée), lexpress.mu (403 Cloudflare, article « Le bois dentelle »), powo.science.kew.org (403).",
+    "Région : Grand Bassin est dans le district de Savanne ; la fiche est classée « centre » comme demandé. La photo de couverture montre le feuillage d'un sujet photographié à Monvert, pas les arbres du piton."
+  ],
+  "website_url": null,
+  "secret": {
+    "story_md": "**Une colline au-dessus du lac sacré.** Grand Bassin, que les hindous de Maurice appellent Ganga Talao, est un lac de cratère perché dans les hauteurs de Savanne, gardé par une statue de Shiva de 33 mètres et entouré de sanctuaires. Au-dessus de l'eau se dresse une colline, le Piton Grand Bassin. C'est là, près d'un temple, que se tenait dans les années 1990 toute la population sauvage connue d'un arbre : deux individus, d'après Wikipédia, qui s'appuie sur la fiche de la Liste rouge de l'UICN rédigée en 1998.\n\n**Un arbre nommé dentelle.** Les Mauriciens l'appellent bois dentelle, pour ses fleurs blanches et délicates. Les botanistes le nomment *Elaeocarpus bojeri* ; il a été décrit par R. E. Vaughan en 1937 et n'existe qu'à Maurice. Le National Parks and Conservation Service le présente comme un bel arbuste des forêts de nuages d'altitude, sans aucune valeur commerciale. Personne ne l'a donc abattu pour son bois : selon Wikipédia, qui ne cite pas de source sur ce point, c'est son milieu qui disparaît sous des plantes introduites, le goyavier de Chine (*Psidium cattleyanum*) et *Litsea monopetala*.\n\n**Deux, trois, moins de dix.** L'espèce est classée « en danger critique d'extinction ». En 2012, la Société zoologique de Londres et l'UICN l'ont inscrite parmi les cent espèces les plus menacées de la planète, avec ces mots secs : population inférieure à dix individus, aire de répartition « Grand Bassin, Mauritius », menace principale la dégradation de l'habitat, et, à la rubrique des actions nécessaires, « inconnues » - les arbres étant alors suivis de près pour comprendre ce qui les menace. Les chiffres publiés ne concordent pas tout à fait. Deux arbres dans les années 1990. Trois fin 2006, quand la Mauritian Wildlife Foundation annonce qu'un relevé de végétation mené en novembre a révélé un individu inconnu au sommet du piton. « Moins de dix » en 2012. Le service des parcs nationaux, dans un document non daté, parle de « deux populations » restantes à Maurice, sans dire où se trouve la seconde. Aucun comptage récent n'a été trouvé dans les sources consultées.\n\n**Ce qui est tenté.** Dans la même annonce de 2006, la Mauritian Wildlife Foundation indiquait que le bois dentelle serait multiplié dans ses pépinières, puis planté dans sa banque de gènes en plein champ de Pigeon Wood. Treize ans plus tard, le rapport 2019 du groupe de spécialistes des plantes des Mascareignes de l'UICN, coprésidé par un responsable de la fondation, publie une photographie légendée « rétablissement miraculeux » d'*Elaeocarpus bojeri* au sommet de Grand Bassin. La légende ne donne aucun chiffre et le rapport ne dit pas ce qui s'est passé : nouvelle pousse, floraison, arbre que l'on croyait perdu ? L'hypothèse la plus prudente est que l'un des arbres du piton, donné pour très mal en point, a repris ; rien dans les textes consultés ne permet d'en dire plus.\n\n**Peut-on vraiment les voir ?** Sur le piton, rien ne le garantit. Aucune des sources consultées ne publie l'emplacement exact des arbres, ne décrit un sentier ouvert au public jusqu'à eux, ni ne dit si l'on est autorisé à s'en approcher ; elles ne donnent qu'un lieu-dit, le Piton (ou pic) de Grand Bassin, au cœur d'un site de pèlerinage. Avec une poignée d'individus au monde, le moindre piétinement compte : mieux vaut regarder la colline depuis les rives du lac et ne pas chercher les arbres. En revanche, un bois dentelle se visite sans risque pour l'espèce : le jardin botanique de Pamplemousses en recense un, planté en 2017 par la princesse Maha Chakri Sirindhorn de Thaïlande, avenue Smt I. Gandhi. Et Wikipédia montre des fruits de l'espèce photographiés dans les jardins du Monvert Nature Park.",
+    "why_unknown_md": null,
+    "access_md": "Aucune source consultée ne décrit d'accès public aux arbres ni ne publie leur position : seul le lieu-dit est connu, le Piton Grand Bassin, au-dessus du lac de Ganga Talao. Contente-toi de regarder la colline depuis les rives du lac. Pour voir l'espèce de près, la liste des arbres du jardin botanique de Pamplemousses recense un bois dentelle planté en 2017 avenue Smt I. Gandhi.",
+    "precautions_md": null,
+    "legal_access_checked": false
+  }
+}

@@ -2,7 +2,9 @@
   "slug": "aventure-du-sucre",
   "name": "L'Aventure du Sucre",
   "family": "culture_patrimoine",
-  "tags": [],
+  "tags": [
+    "famille"
+  ],
   "region": "nord",
   "locality": "Pamplemousses",
   "lat": -20.098129,
@@ -15,21 +17,32 @@
   "likes": [
     "Musée installé dans une ancienne usine sucrière",
     "Dégustation de sucres et de rhums",
-    "Restaurant Le Fangourin et boutique sur place"
+    "Restaurant Le Fangourin et boutique sur place",
+    "Dégustation de plus de 30 produits de la canne (sucres, rhums, confitures, miels) comprise dans le billet",
+    "Audioguide gratuit sur application, en neuf langues dont le français",
+    "Livret-jeu gratuit pour les enfants et parcours pour les 2 à 6 ans, à demander à la billetterie"
   ],
-  "watchouts": [],
-  "tips_md": null,
-  "duration_min": null,
-  "duration_max": null,
-  "price_kind": null,
-  "price_visitor_mur_min": null,
-  "price_visitor_mur_max": null,
-  "price_resident_mur": null,
-  "price_note": null,
-  "opening_hours": null,
-  "hours_note": null,
+  "watchouts": [
+    "Fermé le dimanche",
+    "Fermetures annoncées par le site officiel : du 24 au 26 décembre inclus et du 31 décembre au 2 janvier inclus (musée, boutique et restaurant)",
+    "Dernière entrée conseillée à 15 h, la billetterie ferme à 15 h 15"
+  ],
+  "tips_md": "Télécharge l'application gratuite « L'Aventure du Sucre » avant de venir et prends des écouteurs. À la billetterie, demande le livret-jeu des enfants. Une famille avec enfant(s) a 10 % de réduction selon le site. Le musée est voisin du jardin de Pamplemousses : le site suggère de compter environ 1 heure pour le jardin et 1 h 30 pour le musée. En bus, descends à l'arrêt Beau Plan ou Mahogany Shopping Promenade, à quelques minutes à pied.",
+  "duration_min": 45,
+  "duration_max": 180,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 600,
+  "price_visitor_mur_max": 1200,
+  "price_resident_mur": 600,
+  "price_note": "Tarifs du site officiel (page « Practical information », sans date, consultée le 21 novembre 2026). Tarif général : adulte Rs 1 200 ; enfant de 6 à 13 ans, jeune de 13 à 18 ans et étudiant de 18 à 25 ans (sur carte) : Rs 600 ; gratuit avant 6 ans ; 10 % de réduction famille avec enfant(s). Mauriciens et résidents, sur pièce d'identité : adulte Rs 600, enfant, jeune et étudiant Rs 300, senior de plus de 60 ans Rs 325. Le billet comprend l'exposition temporaire et les dégustations. En supplément : visite guidée Rs 300 par personne à partir de 15 ans ; expérience de coupe de canne Rs 600 (le mercredi à 10 h 30, 10 participants minimum, sur réservation). Billets vendus sur place, non remboursables, valables le jour même.",
+  "opening_hours": "Mo-Sa 10:00-16:00; Su off; Dec 24-26 off; Dec 31-Jan 02 off",
+  "hours_note": "Site officiel (page « Practical information », sans date, consultée le 21 novembre 2026) : musée ouvert du lundi au samedi, jours fériés compris, de 10 h à 16 h ; dernière entrée conseillée à 15 h, billetterie fermée à 15 h 15 ; fermé le dimanche. Fermetures annoncées, sans année précisée : du 24 au 26 décembre inclus et du 31 décembre au 2 janvier inclus. Boutique 9 h-17 h.",
   "difficulty": null,
-  "accessibility": null,
+  "accessibility": {
+    "mobilite_reduite": "La plupart des espaces du musée sont aménagés pour les personnes à mobilité réduite ; fauteuil roulant disponible sur demande (site officiel)",
+    "stationnement": "Grand parking sécurisé et gratuit à l'entrée du musée (site officiel)",
+    "bus": "Arrêts Beau Plan ou Mahogany Shopping Promenade, puis quelques minutes à pied (site officiel)"
+  },
   "best_time": null,
   "rain_ok": null,
   "risk_level": null,
@@ -76,6 +89,90 @@
       "title": "L'Aventure du Sucre — Wikipédia",
       "accessed_at": "2026-11-21",
       "evidence": "Située à Pamplemousses, au nord de l’île Maurice, L’Aventure du Sucre est une ancienne sucrerie du XIXᵉ siècle transformée en expérience immersive."
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "L’Aventure du Sucre museum is open from Monday to Saturday (including public holidays) from 10am to 4pm. Last entry recommended: 3pm Ticket office closes at 3:15pm"
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The museum, the Village Boutik and Le Fangourin restaurant will be closed from 24th to the 26th December (included) and from 31st December to 2nd January (included)."
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "No, the museum, restaurant, and boutique are closed on Sundays."
+    },
+    {
+      "field": "duration_min, duration_max, likes",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Exploring the museum can take from 45 minutes to a full three hours for a detailed tour. As well as access to the temporary exhibition, the entrance ticket includes tastings of over 30 sugarcane products in the Village Boutik"
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_note",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "General rates: Adult: 1200 rupees Child (6 to 13): 600 rupees [...] Youth (13 to 18): 600 rupees Student (18 to 25): 600 rupees (upon presentation of a student ID) Family discount with child(ren) : 10%"
+    },
+    {
+      "field": "price_resident_mur, price_note",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Adult: 600 rupees Child (6 to 13)**: 300 rupees [...] Senior (+ 60): 325 rupees"
+    },
+    {
+      "field": "price_note",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "the guided tour costs 300 rupees per person (from 15 years old) [...] This experience costs 600 rupees (adult/child). [...] Minimum number of participants required (10 people) Wednesdays: 10:30am"
+    },
+    {
+      "field": "price_note",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "tickets can be purchased directly at the museum reception upon arrival [...] No, tickets are non-refundable. The ticket is valid only for the day of purchase."
+    },
+    {
+      "field": "tags, likes, tips_md",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Our exploration guide invites children to discover the history of Mauritius and its famous sugarcane while having fun. [...] Smaller children (2 to 6 years old) can enjoy their own experience with the specially created toddler’s tour [...] Ask for these free visitor guides at the museum’s ticket office."
+    },
+    {
+      "field": "likes, tips_md",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The audio guide is available in 9 languages: Mauritian Creole, French, English, German, Italian, Spanish, Chinese, Russian, Arabic. Is the audio guide free? Yes, the audio guide app is 100% free."
+    },
+    {
+      "field": "tips_md",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "allow about 1 hour for the garden and 1.5 hours for the museum"
+    },
+    {
+      "field": "accessibility, tips_md",
+      "url": "https://aventuredusucre.com/practical-information/",
+      "title": "Practical information - L'Aventure du Sucre (site officiel)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Most parts of the museum are equipped to accommodate people with reduced mobility. A wheelchair is also available for visitors upon request. [...] Yes, a large secure car park is available at the entrance to the museum, free of charge. [...] get off at the Beau Plan or Mahogany Shopping Promenade stop"
     }
   ],
   "media": [
@@ -89,10 +186,12 @@
     }
   ],
   "open_questions": [
-    "Site officiel aventuredusucre.com inaccessible pendant la rédaction (www.aventuredusucre.com redirige vers aventuredusucre.com, hôte non autorisé dans la session) : prix, horaires et durée de visite à relever sur le site officiel.",
-    "Wikipédia (fr) mentionne des visites guidées et une expérience de coupe de canne le mercredi matin : le texte de l'article a un ton promotionnel et n'est pas recoupé, donc non repris.",
     "Date de l'usine : « sucrerie du XIXe siècle » selon Wikipédia (fr), sans référence ; non repris dans la description.",
     "Photo de couverture en basse définition (640 × 480) : à remplacer par une photo de Thibault si possible.",
-    "Tag pluie_ok probable (musée couvert) mais non sourcé : laissé de côté."
-  ]
+    "Tag pluie_ok probable (musée couvert) mais non sourcé : laissé de côté.",
+    "Les tarifs, horaires et fermetures viennent du site officiel, qui n'affiche ni date de mise à jour ni année pour les fermetures (24-26 décembre, 31 décembre-2 janvier) : à reconfirmer pour décembre 2026 - janvier 2027 (tél. +230 243 7900).",
+    "Petites divergences sur le site officiel : séances de visite guidée « lundi, mardi, jeudi, vendredi 10 h 30 et 14 h, mercredi 14 h » (page pratique) contre « lundi à jeudi 10 h 30 et 14 h, vendredi 14 h » (page d'accueil) ; restaurant ouvert à partir de 9 h (FAQ) ou de 10 h (page d'accueil). Non repris dans la fiche.",
+    "price_resident_mur = tarif adulte « Mauriciens et résidents » (Rs 600) ; price_visitor_mur_min = tarif enfant/jeune/étudiant (Rs 600), max = adulte (Rs 1 200). Convention à valider."
+  ],
+  "website_url": "https://aventuredusucre.com/"
 }

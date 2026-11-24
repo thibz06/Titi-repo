@@ -131,7 +131,12 @@
     "rewardRegion": "Région complétée : +100 XP",
     "rewardSkip": "Continuer",
     "visitedOn": "Visité le {date}",
-    "priceEur": "≈ {eur} au taux du {date}"
+    "priceEur": "≈ {eur} au taux du {date}",
+    "photosTitle": "En images",
+    "photoN": "Photo {n} sur {total}",
+    "tiktok": "Chercher ce lieu sur TikTok",
+    "tiktokNote": "Ouvre une recherche TikTok. Ces vidéos ne sont ni choisies ni vérifiées par l'app.",
+    "seeAlso": "Voir aussi"
   },
   "profile": {
     "title": "Profil",

@@ -66,3 +66,16 @@ export function commonsThumb(url: string, width: number): string {
   const step = [250, 500, 960, 1280].find((w) => w >= width) ?? 1280;
   return `${base}/thumb/${hash}/${file}/${step}px-${file}`;
 }
+
+/** Lien vers une recherche TikTok sur le lieu (une simple recherche : rien n'est sélectionné ni vérifié). */
+export function tiktokSearchUrl(name: string): string {
+  return `https://www.tiktok.com/search?q=${encodeURIComponent(`${name} île Maurice`)}`;
+}
+
+/** Toutes les photos créditées d'une fiche, la couverture en premier. */
+export function creditedPhotos(media: PlaceMedia[] | undefined): (PlaceMedia & { external_url: string })[] {
+  const photos = (media ?? []).filter(
+    (m): m is PlaceMedia & { external_url: string } => m.kind === "photo" && !!m.external_url && !!m.credit && !!m.license,
+  );
+  return [...photos.filter((m) => m.is_cover), ...photos.filter((m) => !m.is_cover)];
+}

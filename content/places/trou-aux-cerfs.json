@@ -1,0 +1,120 @@
+{
+  "slug": "trou-aux-cerfs",
+  "name": "Trou aux Cerfs",
+  "family": "nature_parcs",
+  "tags": [],
+  "region": "centre",
+  "locality": "Curepipe",
+  "lat": -20.3179077,
+  "lng": 57.5114969,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Trou%20aux%20Cerfs",
+  "google_place_id": null,
+  "pitch": "Cratère boisé d'un volcan endormi au-dessus de Curepipe : tour à pied de 1,2 km et panorama sur l'île.",
+  "description_md": "Le Trou aux Cerfs est le cratère d'un ancien volcan, à Curepipe : environ 300 mètres de diamètre, 80 mètres de profondeur, à 605 mètres d'altitude. Au fond, un petit lac est entouré d'une végétation dense, dont de grands pins. D'après l'office du tourisme, le volcan n'aurait connu qu'une éruption, il y a environ 700 000 ans. Une route circulaire de 1,2 kilomètre en fait le tour, avec une piste pour marcheurs et joggeurs, des pistes cyclables, une zone de fitness et une pelouse pour pique-niquer.",
+  "why_go_md": "Pour le panorama depuis le bord du cratère : Curepipe, la montagne du Rempart et les Trois Mamelles à l'ouest, le Corps de Garde, la chaîne de Moka, et même la silhouette de La Réunion par temps très clair, selon Le Défi. Un kiosque est installé là où la vue est la meilleure. Des sentiers permettent de descendre dans le cratère.",
+  "likes": [
+    "Tour du cratère sur une route circulaire de 1,2 km, avec piste réservée aux marcheurs et joggeurs",
+    "Kiosque panoramique : Trois Mamelles, montagne du Rempart, Corps de Garde, chaîne de Moka",
+    "Sentiers pour descendre vers le petit lac au fond du cratère",
+    "Pelouse pour pique-niquer et zone de fitness",
+    "« Cimetière malgache », où reposent des esclaves venus de Madagascar, sur les flancs du cratère (Le Défi, 2018)"
+  ],
+  "watchouts": [
+    "La vue dépend du ciel : La Réunion ne se distingue que « par temps très clair » (Le Défi).",
+    "La descente dans le cratère se fait par des sentiers, dont l'état n'est décrit par aucune source consultée."
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Décrit par Le Défi comme l'une des attractions touristiques naturelles de l'île et par Wikipédia comme un haut lieu du tourisme mauricien.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Trou%20aux%20Cerfs",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"lat\":\"-20.3179077\",\"lon\":\"57.5114969\" [...] \"type\":\"volcano\" [...] \"name\":\"Trou-aux-Cerfs\""
+    },
+    {
+      "field": "description_md, pitch, rarity, likes",
+      "url": "https://defimedia.info/trou-aux-cerfs-ancien-cratere-dun-volcan-dormant",
+      "title": "Trou-aux-Cerfs : ancien cratère d’un volcan dormant — Defimedia (20 mai 2018)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Trou-aux-Cerfs, ancien cratère de volcan, possède un diamètre d’environ 300 mètres et une profondeur de 80 mètres. C’est l’une des attractions touristiques naturelles de l’île. Au fond du volcan, autour de son petit lac, pousse une végétation abondante et verdoyante."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://defimedia.info/trou-aux-cerfs-ancien-cratere-dun-volcan-dormant",
+      "title": "Trou-aux-Cerfs : ancien cratère d’un volcan dormant — Defimedia (20 mai 2018)",
+      "accessed_at": "2026-11-21",
+      "evidence": "La route autour du cratère permet des promenades et aussi une vue panoramique des alentours, par exemple du Bagatelle Dam, du radar de la météo, des sommets des montagnes Trois-Mamelles et Corps-de-Garde. Le « cimetière malgache », où sont enterrés des esclaves venus de la Grande île, est situé sur les flancs du Trou-aux-Cerfs."
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/trou-aux-cerfs-volcano/",
+      "title": "Trou aux Cerfs volcano — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Located near to the town of Curepipe, Trou aux Cerfs is a dormant volcano surrounded by lush green forest, including indigenous plants and pine trees. It’s believed to have erupted once, around 700,000 years ago, and has been dormant ever since. [...] The volcano’s crater sits 605 metres above sea level, with a small lake at its centre. [...] the viewpoint gives a sweeping panorama of the island – including Rempart mountain, Trois Mamelles and the Moka mountain range."
+    },
+    {
+      "field": "description_md, likes, pitch",
+      "url": "https://defimedia.info/parcours-de-sante-nature-sport-et-detente",
+      "title": "Parcours de santé : nature, sport et détente — Defimedia (13 avril 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "le volcan éteint fait environ 300 mètres de diamètre. Son pourtour, long de 1,2 kilomètre, laisse place à trois pistes. La première est réservée aux joggeurs et aux marcheurs. [...] réservées aux cyclistes et une surface recouverte de gazon, destinée aux pique-niqueurs. Une zone fitness est aussi aménagée"
+    },
+    {
+      "field": "why_go_md, likes, watchouts",
+      "url": "https://defimedia.info/parcours-de-sante-nature-sport-et-detente",
+      "title": "Parcours de santé : nature, sport et détente — Defimedia (13 avril 2017)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Il est possible de descendre dans le cratère par des sentiers. Un kiosque a été aménagé en bordure de la route, à l’endroit où la vue est meilleure : lorsque le temps est très clair, on arrive à distinguer la silhouette de l’île de la Réunion."
+    },
+    {
+      "field": "rarity",
+      "url": "https://fr.wikipedia.org/wiki/Trou_aux_Cerfs",
+      "title": "Trou-aux-Cerfs — Wikipédia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Sa situation géographique en fait un haut lieu du tourisme de l'île."
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mauritius_trou_aux_cerfs_volcano.jpg",
+      "credit": "Arne Müseler (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0 de",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mauritius_trou_aux_cerfs_volcano.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Gratuité et horaires : aucune source consultée ne dit que l'accès est libre ni à quelles heures ; price_kind et opening_hours restent à null.",
+    "Durée : le tour fait 1,2 km (Le Défi, 2017) mais aucune source ne donne de durée de visite ; duration_min et duration_max restent à null.",
+    "Dernière éruption « il y a environ 700 000 ans » : l'office du tourisme l'écrit au conditionnel (« believed ») ; Wikipédia en anglais ajoute, sans source, que le volcan pourrait se réveiller. Seule la première affirmation est reprise, comme hypothèse.",
+    "Diamètre : 300 m selon Le Défi et Wikipédia en français, 300 ou 350 m selon Wikipédia en anglais.",
+    "État des sentiers qui descendent au lac, stationnement, et accès du public au radar météo : non vérifiés.",
+    "Le cadrage de la photo de couverture (vue aérienne) est à valider par l'éditeur."
+  ],
+  "website_url": null,
+  "secret": null
+}

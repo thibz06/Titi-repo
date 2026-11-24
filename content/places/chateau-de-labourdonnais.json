@@ -2,7 +2,9 @@
   "slug": "chateau-de-labourdonnais",
   "name": "Château de Labourdonnais",
   "family": "culture_patrimoine",
-  "tags": [],
+  "tags": [
+    "famille"
+  ],
   "region": "nord",
   "locality": "Mapou",
   "lat": -20.0718,
@@ -11,10 +13,14 @@
   "google_place_id": null,
   "pitch": "Demeure du XIXe siècle à Mapou, transformée en musée et entourée de jardins et de vergers.",
   "description_md": "Le château de Labourdonnais se trouve à Mapou, dans le nord de l'île. Il a été construit au XIXe siècle par Christian William Wiehe, descendant d'un immigrant danois. L'office du tourisme mauricien le présente comme une demeure transformée en musée, entourée de jardins.",
-  "why_go_md": "Pour visiter une grande demeure du XIXe siècle et ses jardins. En 2016, la presse décrivait une visite des vergers du domaine avec dégustation de jus et de pâtes de fruits ; cette offre est à confirmer.",
+  "why_go_md": "Pour visiter une grande demeure du XIXe siècle restaurée, meublée d'époque, et ses jardins. L'office du tourisme mauricien décrit aussi un musée contemporain en sous-sol, des dégustations de rhums, de jus, de confitures et de pâtes de fruits, et un petit parc animalier qui en fait une sortie adaptée aux familles. Le domaine compte plusieurs restaurants et une boutique.",
   "likes": [
     "Demeure du XIXe siècle convertie en musée",
-    "Jardins autour du château"
+    "Jardins autour du château",
+    "Mobilier d'époque et musée contemporain en sous-sol (office du tourisme)",
+    "Dégustation de rhums, jus de fruits, confitures et pâtes de fruits du domaine",
+    "Petit parc animalier, pratique avec des enfants",
+    "Restaurants sur le domaine : La Terrasse, le Clubhouse, La Table du Château"
   ],
   "watchouts": [],
   "tips_md": null,
@@ -68,14 +74,52 @@
       "title": "Que nous réservent ces vacances ? | Defimedia (16 juillet 2016)",
       "accessed_at": "2026-11-21",
       "evidence": "Une visite guidée de 30 à 45 minutes vous est proposée à travers les vergers du domaine. Vous pourrez, par la même occasion, déguster des produits du domaine : ses jus et ses pâtes de fruits."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/domaine-de-labourdonnais/",
+      "title": "Experience the Iconic Estate Domaine de Labourdonnais | Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "a beautifully restored 19th-century mansion that reflects the charm of an era. Visitors are welcomed into a world of elegant architecture, period furnishings and captivating stories that echo through time. A contemporary underground museum adds depth to the experience"
+    },
+    {
+      "field": "why_go_md, likes, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/domaine-de-labourdonnais/",
+      "title": "Experience the Iconic Estate Domaine de Labourdonnais | Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Tastings of handcrafted rums, fruit juices, jams and fruit jellies invite guests to explore the richness of local produce. [...] Its varied wildlife and small animal park make it an ideal family outing."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/domaine-de-labourdonnais/",
+      "title": "Experience the Iconic Estate Domaine de Labourdonnais | Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "from the casual charm of La Terrasse, to the relaxed vibe of the Clubhouse, and the refined, bistronomic cuisine at La Table du Château"
+    },
+    {
+      "field": "website_url",
+      "url": "https://mauritiusnow.com/blog/things-to-do/domaine-de-labourdonnais/",
+      "title": "Experience the Iconic Estate Domaine de Labourdonnais | Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Experience the Iconic Estate Domaine de Labourdonnais"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Stairs_of_Ch%C3%A2teau_de_Labourdonnais_on_Mauritius.jpg",
+      "credit": "Jan Czeczotka",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Stairs_of_Ch%C3%A2teau_de_Labourdonnais_on_Mauritius.jpg",
+      "is_cover": true
+    }
+  ],
   "open_questions": [
-    "Site officiel domainedelabourdonnais.com inaccessible pendant la rédaction (le site répond « 403 Forbidden » aux requêtes automatisées) : prix, horaires et durée de visite à relever sur le site officiel.",
     "Dates précises de construction et de restauration non sourcées : seule la mention « XIXe siècle » (Wikipédia) a été retenue.",
-    "Offre actuelle (visite du château, vergers, dégustation, restaurant, petit train) à confirmer : la seule description lue date de 2016 (Défi Media), avec des tarifs anciens non repris (Rs 175 par adulte, Rs 100 par enfant pour le petit train).",
-    "Aucune photo retenue : la recherche sur Wikimedia Commons n'a pas abouti (limite de requêtes de l'API) et Wikidata n'indique pas d'image.",
-    "Wikidata donne comme site officiel http://unchateaudanslanature.com : non vérifié (hôte non autorisé)."
-  ]
+    "Site officiel domainedelabourdonnais.com : répond toujours « 403 Forbidden » aux requêtes automatisées (21 novembre 2026). Prix, horaires et durée de visite restent à relever à la main sur le site officiel ; website_url est l'adresse vers laquelle renvoie la page de l'office du tourisme.",
+    "Offre actuelle décrite d'après la page de l'office du tourisme (Mauritius Now, sans date) : dégustations, musée en sous-sol, parc animalier, restaurants. Le petit train et la visite des vergers cités par Défi Media en 2016 n'y figurent pas : à confirmer.",
+    "Photo : seule image du château trouvée sur Wikimedia Commons avec une légende explicite (escalier du château, 2017). Un autre fichier, « MU-Labourdonnais.jpg » (Balou46, 2018, CC BY-SA 4.0), est légendé seulement « Mauritius » : à regarder, il montre peut-être la façade.",
+    "Wikidata donne comme site officiel http://unchateaudanslanature.com : l'hôte ne répond plus (21 novembre 2026)."
+  ],
+  "website_url": "https://domainedelabourdonnais.com/"
 }

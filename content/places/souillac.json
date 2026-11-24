@@ -1,0 +1,124 @@
+{
+  "slug": "souillac",
+  "name": "Souillac",
+  "family": "villages_marches",
+  "tags": [],
+  "region": "sud",
+  "locality": "Souillac",
+  "lat": -20.5187236,
+  "lng": 57.522503,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Souillac",
+  "google_place_id": null,
+  "pitch": "Village tout au sud de l'île : jardin Telfair face à la mer, maison-musée du poète Robert Edward Hart et sentier côtier vers Gris Gris.",
+  "description_md": "Souillac est un village de la pointe sud de l'île. L'office du tourisme (MTPA) y signale le jardin Telfair, un jardin à la végétation tropicale d'où un sentier côtier mène à une plage sauvage et aux falaises, puis à Gris Gris. À quelques minutes, le Robert Edward Hart Memorial Museum occupe le bungalow en pierre de corail, surnommé La Nef, où le poète mauricien a passé les dernières années de sa vie ; le musée a ouvert en 1967 et a été rénové en 2003. Le National Heritage Fund recense plusieurs monuments du patrimoine national à Souillac, dont le monument Telfair, le pont du Bain des Négresses, le bâtiment du Batelage et le poste de police.",
+  "why_go_md": "Pour une halte à pied entre jardin, bord de mer et petit musée gratuit, avant ou après les falaises de Gris Gris. Le musée restitue l'intérieur du poète : bureau, bibliothèque personnelle, manuscrits, violon.",
+  "likes": [
+    "Jardin Telfair et sentier côtier vers une plage sauvage et les falaises (office du tourisme)",
+    "Musée Robert Edward Hart : entrée gratuite, quatre pièces reconstituées dans un bungalow en pierre de corail au bord de la mer",
+    "Documentaire « Robert Edward Hart – In Memoriam » projeté dans une salle annexe du musée",
+    "Monuments inscrits au patrimoine national : monument Telfair, pont du Bain des Négresses, bâtiment du Batelage"
+  ],
+  "watchouts": [
+    "Le musée est fermé le dimanche et les jours fériés, et ferme à midi le samedi",
+    "La côte de Souillac est exposée à la houle : voir les mises en garde de la fiche Gris Gris"
+  ],
+  "tips_md": "Le musée est petit (deux chambres, un salon-bureau, une salle de bains) : il se combine avec le jardin Telfair et la marche côtière vers Gris Gris. Des publications et des cartes postales sont en vente à l'accueil.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Musée Robert Edward Hart : « ENTRANCE FREE » sur la page du Mauritius Museums Council (non datée, consultée le 21 novembre 2026). Rien n'est sourcé pour le jardin Telfair.",
+  "opening_hours": null,
+  "hours_note": "Musée Robert Edward Hart (Autard Street) : lundi, mardi, jeudi et vendredi de 9 h à 16 h, mercredi de 11 h à 16 h, samedi de 9 h à 12 h ; fermé le dimanche et les jours fériés (page non datée du Mauritius Museums Council, consultée le 21 novembre 2026). Le village et le jardin Telfair n'ont pas d'horaires sourcés.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Souillac",
+      "title": "Nominatim / OpenStreetMap : Souillac",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":5938167146,\"lat\":\"-20.5187236\",\"lon\":\"57.5225030\""
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mauritius-wild-side/",
+      "title": "Mauritius Wild Side – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Souillac This authentic Mauritian village sits at the very bottom of this magnificent island. A secret spot worth exploring is the Jardin Telfair – a garden filled with tropical vegetation. Follow a coastal path from the garden to discover a wild sandy beach and watch the waves crash against the nearby cliffs. [...] A museum in his name is located just minutes away, where visitors can find out more about his life. And a short walk along the coast leads you to Gris Gris"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1867",
+      "title": "Robert Edward Hart Memorial Museum, Historical Background – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Robert Edward Hart Memorial Museum is located in the newly renovated coral bungalow by the seashore at Souillac. It is at this place that the Mauritian poet spent the last years of his life. [...] his friends contributed to erect a bungalow in coral stones (also known as La Nef). [...] the museum was opened to the public on 6 November 1967. The museum was renovated completely and reopened on 17 August 2003"
+    },
+    {
+      "field": "why_go_md, likes, tips_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1844",
+      "title": "Robert Edward Hart Memorial Museum, About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "The museum has four rooms: two bedrooms, a drawing room/office and a bathroom. The reception counter is located at the main entrance. Publications and postcards are on sale here. [...] It accommodates Hart’s office comprising a wooden desk, wooden chair, ink blotter, pen, ink pot, personal library and paintings. [...] his publications, poems, letters, manuscripts, violin, table lamp, typing machine"
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1844",
+      "title": "Robert Edward Hart Memorial Museum, About The Museum – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "A documentary entitled ” Robert Edward Hart – In Memoriam”, produced by the Mauritius College of the Air in 2003, is regularly shown in an annexed building, converted into an audiovisual room."
+    },
+    {
+      "field": "hours_note, price_note, watchouts, likes",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1877",
+      "title": "Robert Edward Hart Memorial Museum, Contact Info & Visiting Hours – Mauritius Museums Council",
+      "accessed_at": "2026-11-21",
+      "evidence": "Address: Autard Street, Souillac, Mauritius Tel. No:625 6101 Visiting hours: Monday, Tuesday, Thursday and Friday: 09 00 to 16 00 hrs Wednesday : 11 00 to 16 00 hrs Saturday: 09 00 to 12 00 hrs Sunday & Public Holiday: Closed ENTRANCE FREE"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://nhf.govmu.org/nhf/?page_id=715",
+      "title": "Savanne – National Heritage Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Savanne 1. Bain des Négresses Bridge (Souillac) 2. Baron d’Unienville Tomb (Souillac) 3. Le Batelage Building (Souillac) 4. Maison St. Aubin 5. Police Station (Souillac) 6. Police Station (Tyack) 7. Telfair Monument"
+    },
+    {
+      "field": "description_md",
+      "url": "https://photon.komoot.io/api/?q=Telfair%20Garden&lat=-20.45&lon=57.6&limit=6",
+      "title": "Photon (données OpenStreetMap) : Telfair Gardens",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_id\":2637960837 [...] \"name\":\"Telfair Gardens\" [...] \"district\":\"Souillac\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Robert%20Edward%20Hart%20Museum",
+      "title": "Nominatim / OpenStreetMap : Robert Edward Hart Museum",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":2637954996,\"lat\":\"-20.5230742\",\"lon\":\"57.5245676\""
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Les coordonnées sont celles du nœud « Souillac » (ville) d'OpenStreetMap. OSM situe le jardin Telfair vers -20.52145, 57.52254 et le musée Hart vers -20.52307, 57.52457 : à l'éditeur de choisir le point d'arrivée.",
+    "Jardin Telfair : histoire, horaires, gratuité et baignade au pied du jardin non sourcés. L'office du tourisme écrit seulement que le jardin « aurait été » un lieu apprécié de Robert Edward Hart (« rumoured ») ; non repris.",
+    "Les horaires du musée viennent d'une page officielle non datée : à revérifier pour la période du 21 décembre 2026 au 7 janvier 2027 (jours fériés : fermé).",
+    "La page historique du musée contient des caractères mal encodés ; seules les phrases lisibles ont été utilisées.",
+    "Aucune source lue sur un marché, des restaurants ou le stationnement à Souillac.",
+    "Photos : API Wikimedia Commons en limite de débit (429) ; media reste vide."
+  ],
+  "website_url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1844",
+  "secret": null
+}

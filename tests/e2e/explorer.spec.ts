@@ -32,6 +32,15 @@ test("une fiche non vérifiée est visible, avec un avertissement clair", async 
   await expect(page.getByRole("link", { name: "Site officiel" })).toHaveAttribute("href", "https://example.org/officiel");
 });
 
+test("la fiche propose une galerie créditée et une recherche TikTok étiquetée comme telle", async ({ page }) => {
+  await page.goto("/lieu/lieu-de-test-plage");
+  await expect(page.getByRole("heading", { name: "En images" })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Photo : Auteur fictif 2, CC0" })).toHaveAttribute("href", "https://example.org/page2");
+  const tiktok = page.getByRole("link", { name: "Chercher ce lieu sur TikTok" });
+  await expect(tiktok).toHaveAttribute("href", "https://www.tiktok.com/search?q=Plage%20de%20test%20%C3%AEle%20Maurice");
+  await expect(page.getByText(/ni choisies ni vérifiées/)).toBeVisible();
+});
+
 test("une fiche vérifiée n'affiche pas l'avertissement", async ({ page }) => {
   await page.goto("/lieu/lieu-de-test-plage");
   await expect(page.getByRole("heading", { level: 1, name: "Plage de test" })).toBeVisible();

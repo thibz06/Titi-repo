@@ -1,0 +1,116 @@
+{
+  "slug": "eureka-maison-creole",
+  "name": "Eureka, la Maison Créole",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "centre",
+  "locality": "Moka",
+  "lat": -20.2185586,
+  "lng": 57.4974708,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Eureka%2C%20Moka",
+  "google_place_id": null,
+  "pitch": "Grande demeure créole des années 1830 à Moka, devenue maison-musée, avec restaurant, jardin et petites cascades.",
+  "description_md": "Eureka est une grande demeure coloniale de Moka, datée d'environ 1836, entre la montagne Ory et une rivière en cascades. Construite en ébène et en acajou locaux, elle compte 109 portes et fenêtres. Ancien siège de la famille Le Clézio, elle est ouverte comme musée depuis 1986 : mobilier d'époque, musique, art, cartes anciennes, objets domestiques chinois et indiens, et jusqu'à une douche de l'époque coloniale.",
+  "why_go_md": "Pour une visite guidée de la maison, qui raconte l'histoire des plantations, puis un déjeuner au restaurant du domaine et une promenade dans le jardin jusqu'aux petites cascades de la rivière. Le site du domaine précise que le jardin n'est pas traité aux produits chimiques et qu'on peut se baigner dans le torrent.",
+  "likes": [
+    "Visite guidée de la maison-musée et de son mobilier d'époque",
+    "109 portes et fenêtres, construction en ébène et acajou locaux",
+    "Jardin, pelouses et petites cascades autour de la maison",
+    "Restaurant de cuisine mauricienne sur le domaine"
+  ],
+  "watchouts": [
+    "Prix d'entrée et horaires non vérifiés : le site officiel n'a pas pu être consulté et les sites tiers se contredisent. Appelle ou vérifie avant de venir."
+  ],
+  "tips_md": "Selon le ministère du Tourisme, Eureka se rejoint au mieux en combinant bus et marche.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Eureka%2C%20Moka",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"lat\":\"-20.2185586\",\"lon\":\"57.4974708\" [...] \"type\":\"house\" [...] \"name\":\"Maison Eureka\""
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/eureka-house/",
+      "title": "Eureka House — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Dating back to around 1836 and located in the village of Moka, Eureka House is a property with history. The mansion, which can be found between Mount Ory and a cascading river, was built using local ebony and mahogany wood. Now a museum, Eureka House is filled with period furniture and a myriad of curious antiques that give visitors an authentic glimpse into the island’s past. It also has a whopping 109 doors and windows!"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/eureka-house/",
+      "title": "Eureka House — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Take a guided tour of the house, also known as Maison Eureka, and learn about the island’s plantation history, before stopping for a spot of lunch at the museum’s restaurant. Spend the afternoon wandering around the acres of nature reserve that surround Eureka House, including numerous waterfalls, greenhouses, gardens and impeccably-maintained lawns"
+    },
+    {
+      "field": "description_md, tips_md, pitch",
+      "url": "https://tourism.govmu.org/Pages/Services/Tourist-Sites.aspx",
+      "title": "Tourist Sites — Ministry of Tourism (tourism.govmu.org)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Eureka House, also near Moka, was opened as a museum in 1986. Built in the 1830s, it is dedicated to music, art, antique maps, Chinese and Indian household items and old-fashioned bric-a-brac, such as a shower from colonial times. Also worth a visit are the nearby stone cottages and gardens. Le Reduit and Eureka are best reached by a combination of bus and foot."
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://www.eureka-house.com/who-are-we.html",
+      "title": "About Us – Eureka Guest House & LRT, Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Once the family-seat of the famous Le Clezio Clan, nowadays Eureka House is owned by another well known Mauritian family who lives on its premises [...] The garden is not treated by chemical products and natural fertilisers is used."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://www.eureka-house.com/services.html",
+      "title": "Services & Amenities – Eureka Guest House, Moka, Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Guided tours are available through the premises which are vast and adorned with a magnificent garden. [...] Bathing in the cool and refreshing mountain stream is a delight."
+    },
+    {
+      "field": "likes",
+      "url": "https://www.eureka-house.com/",
+      "title": "Eureka House – Historic Guesthouse in Moka, Mauritius",
+      "accessed_at": "2026-11-21",
+      "evidence": "Enjoy traditional Mauritian fare at the restaurant on the estate"
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/scrutin-du-22-novembre-moka-un-district-aux-mille-visages",
+      "title": "Scrutin du 22 novembre : Moka, un district aux mille visages — Defimedia (13 novembre 2020)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Il est le directeur de la maison créole, Eureka, la maison musée-restaurant des « Le Clézio »."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix et horaires : le site maisoneureka.com (supposé officiel, à confirmer) répond 403 avec une page de vérification Cloudflare ; il n'a pas été contourné. Tous les champs de prix, price_kind et opening_hours restent à null. Les montants et horaires vus sur des sites tiers lors de la recherche se contredisent et n'ont pas été repris.",
+    "website_url laissé à null : maisoneureka.com n'a pas pu être vérifié ; eureka-house.com, consulté, est le site des maisons d'hôtes du domaine, tenu par un voyagiste (Lolotte Rental and Tours), pas celui du musée.",
+    "Date de construction : « vers 1836 » (office du tourisme), « années 1830 » (ministère du Tourisme) ; la fiche écrit « environ 1836 ».",
+    "La baignade dans le torrent est-elle ouverte aux visiteurs du musée ou réservée aux hôtes des maisons d'hôtes ? Le site du domaine ne le précise pas.",
+    "Durée de visite, jours de fermeture, accès en fauteuil : non sourcés.",
+    "Aucun article Wikipédia trouvé sous les titres essayés ; aucune photo sous licence vérifiée n'a été retenue."
+  ],
+  "website_url": null,
+  "secret": null
+}

@@ -1,10 +1,10 @@
 "use client";
 
-import { ArrowLeft, ExternalLink, Heart, Navigation } from "lucide-react";
+import { ArrowLeft, ExternalLink, Heart, Navigation, Search } from "lucide-react";
 import Link from "next/link";
 import { useState, type ReactNode } from "react";
 import { fill, getMessages } from "@/i18n";
-import { coverPhoto, directionsUrl, formatDateFr, formatDuration, formatPriceMur } from "@/lib/places/format";
+import { coverPhoto, creditedPhotos, directionsUrl, formatDateFr, formatDuration, formatPriceMur, tiktokSearchUrl } from "@/lib/places/format";
 import { useFavorites } from "@/lib/favorites";
 import { formatEur, useRate } from "@/lib/useRate";
 import { CheckIn } from "./CheckIn";
@@ -113,6 +113,7 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
   const t = getMessages();
   const price = formatPriceMur(place);
   const rate = useRate();
+  const photos = creditedPhotos(place.place_media);
   const priceText =
     price.kind === "free" ? t.place.free : price.kind === "amount" ? price.text : price.kind === "variable" ? t.place.variablePrice : null;
 
@@ -169,6 +170,32 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
           </div>
         ) : null}
         </div>
+
+        {photos.length > 1 ? (
+          <section className="glass mt-3 rounded-3xl py-5">
+            <h2 className="px-5 font-display text-2xl font-semibold">{t.place.photosTitle}</h2>
+            <ul className="mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto px-5 pb-1">
+              {photos.map((photo, i) => (
+                <li key={photo.id} className="w-[78%] shrink-0 snap-center">
+                  <figure>
+                    <div className="relative aspect-[4/3] overflow-hidden rounded-2xl bg-lagon/40" role="img" aria-label={fill(t.place.photoN, { n: i + 1, total: photos.length })}>
+                      <Photo src={photo.external_url} width={500} className="absolute inset-0 h-full w-full object-cover" />
+                    </div>
+                    <figcaption className="mt-1.5 text-xs text-encre/85">
+                      {photo.source_url ? (
+                        <a href={photo.source_url} target="_blank" rel="noreferrer" className="inline-block min-h-11 underline">
+                          {fill(t.place.photoCredit, { credit: photo.credit, license: photo.license })}
+                        </a>
+                      ) : (
+                        fill(t.place.photoCredit, { credit: photo.credit, license: photo.license })
+                      )}
+                    </figcaption>
+                  </figure>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ) : null}
 
         {place.secret ? (
           <section className="mt-3 rounded-3xl border border-or/50 bg-basalte p-5 text-sable shadow-[0_10px_30px_rgb(16_34_43/0.3)]">
@@ -261,6 +288,23 @@ function PlaceContent({ place, regionSlugs }: { place: PlaceDetail; regionSlugs:
             <ExternalLink size={20} aria-hidden />
           </a>
         ) : null}
+
+        <section className="glass mt-3 rounded-3xl p-5">
+          <h2 className="font-display text-2xl font-semibold">{t.place.seeAlso}</h2>
+          <a
+            href={tiktokSearchUrl(place.name)}
+            target="_blank"
+            rel="noreferrer"
+            className="mt-3 flex min-h-12 items-center justify-between gap-3 rounded-full bg-white/70 px-5 font-semibold"
+          >
+            <span className="flex items-center gap-2">
+              <Search size={20} aria-hidden />
+              {t.place.tiktok}
+            </span>
+            <ExternalLink size={18} aria-hidden />
+          </a>
+          <p className="mt-2 text-sm text-encre/85">{t.place.tiktokNote}</p>
+        </section>
 
         <Section title={t.place.sources}>
           {place.verified_at ? (

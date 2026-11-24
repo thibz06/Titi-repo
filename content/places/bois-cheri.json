@@ -1,0 +1,91 @@
+{
+  "slug": "bois-cheri",
+  "name": "Bois Chéri (usine et musée du thé)",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "sud",
+  "locality": "Bois Chéri",
+  "lat": -20.4261406,
+  "lng": 57.525637,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Bois%20Ch%C3%A9ri%20Tea%20Factory",
+  "google_place_id": null,
+  "pitch": "La plus ancienne plantation de thé de l'île : visite guidée de l'usine, petit musée et dégustation. Prix et horaires à confirmer.",
+  "description_md": "Bois Chéri est l'une des trois étapes de la Route du Thé, avec le Domaine des Aubineaux et Saint Aubin. L'office du tourisme (MTPA) y situe la plus ancienne plantation de thé de l'île. Lonely Planet décrit un domaine de 250 hectares avec usine et musée, à environ 12 km au nord de Rivière des Anguilles : la visite de l'usine dure une heure et se termine par une petite exposition sur l'histoire du thé à Maurice (machines, photos), puis par une dégustation.",
+  "why_go_md": "Pour suivre la fabrication du thé de la feuille au sachet et goûter les thés du domaine, dont le thé à la vanille, l'un des parfums les plus populaires à Maurice selon l'office du tourisme.",
+  "likes": [
+    "Visite guidée de l'usine puis exposition sur l'histoire du thé (Lonely Planet)",
+    "Dégustation en fin de visite",
+    "Possibilité de déjeuner sur place (office du tourisme, Lonely Planet)"
+  ],
+  "watchouts": [
+    "Viens le matin : l'essentiel de l'activité de l'usine a lieu avant midi (Lonely Planet)",
+    "Prix et horaires non vérifiés : le site officiel n'a pas pu être consulté (voir questions ouvertes)"
+  ],
+  "tips_md": "La Route du Thé peut se faire en excursion organisée ou avec un chauffeur-guide privé, d'après l'office du tourisme ; rien n'empêche de venir par tes propres moyens, mais les conditions de visite sans réservation n'ont pas pu être vérifiées.",
+  "duration_min": 60,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "moment": "Le matin, l'usine tourne surtout avant midi (Lonely Planet)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Bois%20Ch%C3%A9ri%20Tea%20Factory",
+      "title": "Nominatim / OpenStreetMap : Bois Chéri Tea Estate",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":414226395,\"lat\":\"-20.4261406\",\"lon\":\"57.5256370\""
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, tips_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/the-tea-route/",
+      "title": "The Tea Route – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "It passes through three estates: Domaine des Aubineaux, Bois Chéri and Saint Aubin and is a fantastic way to see tea plantations, visit a tea museum and stroll through spice gardens. Bois Cheri is home to the island’s oldest tea plantation. [...] You could also have lunch here and a tea-tasting session at one of the old houses en-route. One of the most popular flavours in Mauritius is vanilla tea, so give it a try! You can experience The Tea Route on an organised coach trip or opt for a private driver-guide"
+    },
+    {
+      "field": "description_md, duration_min, likes",
+      "url": "https://www.lonelyplanet.com/points-of-interest/bois-cheri-tea-plantation/1345545",
+      "title": "Bois Chéri Tea Plantation – Lonely Planet",
+      "accessed_at": "2026-11-21",
+      "evidence": "This 250-hectare tea factory and museum is located about 12km north of Rivière des Anguilles amid a vast expanse of cane. Hour-long tours of the tea-processing facility end with a stop at a small exhibition space detailing the island's tea history by means of machines and photos. The best part of the visit is undoubtedly the sampling session at the end."
+    },
+    {
+      "field": "watchouts, best_time, likes",
+      "url": "https://www.lonelyplanet.com/points-of-interest/bois-cheri-tea-plantation/1345545",
+      "title": "Bois Chéri Tea Plantation – Lonely Planet",
+      "accessed_at": "2026-11-21",
+      "evidence": "It's advisable to visit in the morning, as most of the action takes place before noon. After your tour, stick around for lunch"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "PRIX ET HORAIRES NON RENSEIGNÉS : le site officiel indiqué par Lonely Planet, www.saintaubinloisirs.com, présente un certificat TLS invalide (nom d'hôte non couvert) et n'a donc pas été téléchargé ; boischeri.mu ne répond pas. Aucun tarif officiel n'a été lu. À demander au domaine (Lonely Planet indique le +230 676 3089, non vérifié).",
+    "Attention : www.saintaubin.mu n'est plus un site du domaine. Il héberge « Sans Récif », un guide indépendant qui précise n'avoir aucun lien avec Saint-Aubin ni Bois Chéri ; il n'a pas été utilisé comme source.",
+    "Indications non officielles vues dans les résultats de recherche et non reprises : entrée d'environ Rs 650, domaine ouvert de 9 h à 17 h, usine du lundi au vendredi, usine à l'arrêt le dimanche et les jours fériés. À vérifier, surtout pour la période du 21 décembre au 7 janvier.",
+    "duration_min = 60 vient de Lonely Planet (visite de l'usine seule, hors dégustation et déjeuner) : guide de voyage, pas source officielle.",
+    "Date de fondation de la plantation (1892 selon des sites non officiels) : non sourcée officiellement, laissée hors de la fiche.",
+    "Les coordonnées sont celles du bâtiment industriel « Bois Chéri Tea Estate » dans OSM ; le chalet de dégustation est ailleurs sur le domaine (emplacement non sourcé).",
+    "Photos : API Wikimedia Commons en limite de débit (429) ; media reste vide."
+  ],
+  "website_url": null,
+  "secret": null
+}

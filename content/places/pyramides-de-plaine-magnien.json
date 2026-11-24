@@ -1,0 +1,198 @@
+{
+  "slug": "pyramides-de-plaine-magnien",
+  "name": "Pyramides de Plaine Magnien",
+  "family": "culture_patrimoine",
+  "tags": [
+    "insolite"
+  ],
+  "region": "sud_est",
+  "locality": "Plaine Magnien",
+  "lat": -20.4319913,
+  "lng": 57.6611506,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Plaine%20Magnien",
+  "google_place_id": null,
+  "pitch": "Sept pyramides à gradins en pierre volcanique au milieu des cannes : très probablement des tas d'épierrage, pas un mystère antique.",
+  "description_md": "Autour de Plaine Magnien, près de l'aéroport, des structures à gradins en pierres volcaniques noires, montées sans mortier, s'élèvent au milieu des champs de canne ; African Arguments leur donne une dizaine de mètres de haut. L'explication la plus courante, partagée par l'ONG SOS Patrimoine et par l'archéologue Geoffrey Summers (université de Manchester), est celle de tas de pierres retirées des champs dans les années 1940. Aucune étude scientifique détaillée n'a toutefois été publiée, ce qui laisse circuler des hypothèses non démontrées (navigateurs anciens, lieux d'« énergie »).",
+  "why_go_md": "Pour un arrêt bref et curieux près de l'aéroport, et pour une histoire qui en dit long sur la canne à sucre : la forme en gradins serait d'abord la façon la plus stable d'entasser des milliers de roches sorties des champs.",
+  "likes": [
+    "Empilements en terrasses, sans mortier, aux angles nets vus de loin",
+    "Un débat documenté entre explication agricole et hypothèses non démontrées"
+  ],
+  "watchouts": [
+    "Statut du terrain inconnu : les pyramides sont au milieu de champs de canne exploités ; aucune source lue ne dit si l'accès est autorisé",
+    "Empilements de pierres sèches, sans mortier : aucune source ne dit qu'on peut y monter sans danger"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "insolite",
+  "rarity_reason": "Structures à gradins en pierre volcanique sèche au milieu des champs de canne, objet de théories contradictoires (African Arguments, Mauritius Times) ; absentes des pages de l'office du tourisme consultées.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Plaine%20Magnien",
+      "title": "Nominatim / OpenStreetMap : Plaine Magnien",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":247167829,\"lat\":\"-20.4319913\",\"lon\":\"57.6611506\""
+    },
+    {
+      "field": "secret, description_md, pitch, likes",
+      "url": "https://africanarguments.org/2022/04/mauritius-how-did-the-pyramids-of-plaine-magnien-get-there/",
+      "title": "Mauritius: How did the pyramids of Plaine Magnien get there? – African Arguments, 6 avril 2022",
+      "accessed_at": "2026-11-21",
+      "evidence": "The ten-metre-high structure is one of a series of rock piles that rise majestically from the rolling green fields of sugar cane that surround the area. [...] The pyramids are made of black volcanic rocks, and appear to have been hewn and arranged in terraced steps – up to ten, in some of the structures – perfectly flat, perfectly symmetrical and with 90-degree angles. The platforms are rectangular, with the uppermost layers large enough to accommodate small groups of people. Interestingly, the structures are not supported by any mortar."
+    },
+    {
+      "field": "secret, description_md",
+      "url": "https://africanarguments.org/2022/04/mauritius-how-did-the-pyramids-of-plaine-magnien-get-there/",
+      "title": "Mauritius: How did the pyramids of Plaine Magnien get there? – African Arguments, 6 avril 2022",
+      "accessed_at": "2026-11-21",
+      "evidence": "To the south lies an endless stretch of the sea and the Sir Seewoosagur Ramgoolam International Airport; to the north is an expanse of sugar cane fields, with the motorway, which links the South to the North."
+    },
+    {
+      "field": "secret, description_md, why_go_md",
+      "url": "https://africanarguments.org/2022/04/mauritius-how-did-the-pyramids-of-plaine-magnien-get-there/",
+      "title": "Mauritius: How did the pyramids of Plaine Magnien get there? – African Arguments, 6 avril 2022",
+      "accessed_at": "2026-11-21",
+      "evidence": "The most common is the belief that the pyramids are piles of rocks built by labourers working on the sugar cane fields – perhaps as watchtowers, perhaps just as a whim, or even for practical reasons – to use up all the unwanted volcanic rocks."
+    },
+    {
+      "field": "secret, description_md",
+      "url": "https://africanarguments.org/2022/04/mauritius-how-did-the-pyramids-of-plaine-magnien-get-there/",
+      "title": "Mauritius: How did the pyramids of Plaine Magnien get there? – African Arguments, 6 avril 2022",
+      "accessed_at": "2026-11-21",
+      "evidence": "Mauritian NGO, SOS Patrimoine, working for the preservation of the architectural patrimony of Mauritius, regards the pyramids simply as piles of rocks built up in the 1940s. However, no record exists to sustain this theory. Though piles of stones exist in some other sugarcane fields, none has been built in such an orderly and meticulous manner. Usually, the stones were simply piled up before being taken to stone crushing plants."
+    },
+    {
+      "field": "secret, description_md, pitch",
+      "url": "https://www.mauritiustimes.com/mt/nothing-so-mysterious-im-afraid",
+      "title": "“Nothing so mysterious, I’m afraid” – Mauritius Times, 26 octobre 2021",
+      "accessed_at": "2026-11-21",
+      "evidence": "Geoffrey Summers, archaeologist, University of Manchester, says the seven small pyramidal structures found in the southeast of Mauritius, around Plaine Magnien, were built in the 1940s as a “field clearing exercise, nothing more,” and that besides the testimony of a Mahebourg inhabitant who witnessed their construction, he has seen paperwork documenting this."
+    },
+    {
+      "field": "secret, description_md",
+      "url": "https://www.mauritiustimes.com/mt/nothing-so-mysterious-im-afraid",
+      "title": "“Nothing so mysterious, I’m afraid” – Mauritius Times, 26 octobre 2021",
+      "accessed_at": "2026-11-21",
+      "evidence": "As regards Mauritius, the subject of the step pyramids has been touched upon by several experts and scientists, one of them is Dr Summers, though no study dedicated exclusively to the matter has been published yet."
+    },
+    {
+      "field": "secret, why_go_md",
+      "url": "https://www.mauritiustimes.com/mt/nothing-so-mysterious-im-afraid",
+      "title": "“Nothing so mysterious, I’m afraid” – Mauritius Times, 26 octobre 2021",
+      "accessed_at": "2026-11-21",
+      "evidence": "However, their principal function has always been the same: they were rubble containers. Volcanic soil tends to be very fertile and has always been exploited by man for agricultural purposes. But they are also the stoniest soils on the planet, which makes ploughing and planting difficult. The farmers had to get rid of enormous amounts of rocks and stacked them in the most stable way possible for higher structures: in stepped pyramids"
+    },
+    {
+      "field": "secret",
+      "url": "https://www.mauritiustimes.com/mt/nothing-so-mysterious-im-afraid",
+      "title": "“Nothing so mysterious, I’m afraid” – Mauritius Times, 26 octobre 2021",
+      "accessed_at": "2026-11-21",
+      "evidence": "My book chronicles the events around very similar stone pyramids that can be found in Mauritius, Sicily (Italy), the Canary Islands (Spain) and the Azores (Portugal). [...] The black pyramids appear exclusively on volcanic islands with fertile soils that have been colonized in historical times and where agriculture has been the most important economic pillar."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.mauritiustimes.com/mt/nothing-so-mysterious-im-afraid",
+      "title": "“Nothing so mysterious, I’m afraid” – Mauritius Times, 26 octobre 2021",
+      "accessed_at": "2026-11-21",
+      "evidence": "linking the stepped monuments with Atlantis, Lemuria, ancient Egypt, pre-Columbian civilizations like the Mayans, or local aboriginal cultures. In my book I discuss all these ideas at length and show that these hypotheses, though certainly entertaining, do not stand up to scientific scrutiny."
+    },
+    {
+      "field": "secret, likes",
+      "url": "https://www.mauritiustimes.com/mt/nothing-so-mysterious-im-afraid",
+      "title": "“Nothing so mysterious, I’m afraid” – Mauritius Times, 26 octobre 2021",
+      "accessed_at": "2026-11-21",
+      "evidence": "The supposed perfection of the black pyramids, even of the most accurately-built structures which appear in Tenerife and Mauritius, only exists when observing the pyramids from a distance. [...] The hypothesis of astronomical alignments has only once been presented in a serious way, for one pyramid complex located in Tenerife, and even there it has been disproven."
+    },
+    {
+      "field": "secret, description_md",
+      "url": "https://africanarguments.org/2022/04/mauritius-how-did-the-pyramids-of-plaine-magnien-get-there/",
+      "title": "Mauritius: How did the pyramids of Plaine Magnien get there? – African Arguments, 6 avril 2022",
+      "accessed_at": "2026-11-21",
+      "evidence": "According to renowned Mauritian yoga master and guru Yogi Tambi Chuckravanen, the pyramids are the remnants of an installation designed by an ancient civilisation to channel vital energy from the Lion Mountain [...] it is the legacy of a former ancient civilisation on Kumari Kandam, which according to Dravidian mythology is a mythical continent"
+    },
+    {
+      "field": "secret, description_md",
+      "url": "https://africanarguments.org/2022/04/mauritius-how-did-the-pyramids-of-plaine-magnien-get-there/",
+      "title": "Mauritius: How did the pyramids of Plaine Magnien get there? – African Arguments, 6 avril 2022",
+      "accessed_at": "2026-11-21",
+      "evidence": "According to Antoine Gigal, French writer and researcher known for her works on the pyramids of Egypt, the seven pyramids of Mauritius “are identical in construction to the ones found on the island of Tenerife, an island on the opposite side of the continent… Similar structures also exist on the Mediterranean island of Sicilia.” She believes that the pyramids may have been built by travellers from Tenerife who, according to her, used the platform for observations of solar phenomena."
+    },
+    {
+      "field": "secret",
+      "url": "https://africanarguments.org/2022/04/mauritius-how-did-the-pyramids-of-plaine-magnien-get-there/",
+      "title": "Mauritius: How did the pyramids of Plaine Magnien get there? – African Arguments, 6 avril 2022",
+      "accessed_at": "2026-11-21",
+      "evidence": "“I am here to get energy. I have read about this place, and I am convinced that this is true."
+    },
+    {
+      "field": "secret, description_md",
+      "url": "https://africanarguments.org/2022/04/mauritius-how-did-the-pyramids-of-plaine-magnien-get-there/",
+      "title": "Mauritius: How did the pyramids of Plaine Magnien get there? – African Arguments, 6 avril 2022",
+      "accessed_at": "2026-11-21",
+      "evidence": "the Plaine Magnien pyramids, which are now under the legal protection of the National Monument Board [...] Meanwhile, around the small village of Plaine Magnien, new roads are being built as part of major development projects. So far, no in-depth scientific research has been carried out on the pyramids."
+    },
+    {
+      "field": "secret",
+      "url": "https://nhf.govmu.org/nhf/?page_id=714",
+      "title": "Grand Port – National Heritage Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Grand Port 1. Chateau Riche en Eau 2. Dutch Monument (Ferney) Fort Frederik Hendrik Historical Site [...] 15. Shri Simhadri Appanah Alayam (Beau Vallon) 16. Tour Hollandais (Old Grand Port)"
+    },
+    {
+      "field": "secret, media",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=8&gsrsearch=Plaine%20Magnien%20pyramid%20filetype%3Abitmap&prop=imageinfo&iiprop=url|extmetadata|size&iiextmetadatafilter=Artist|LicenseShortName|ImageDescription",
+      "title": "Wikimedia Commons, métadonnées de File:Mauritius-Pyramiden-5-4-3.jpg",
+      "accessed_at": "2026-11-21",
+      "evidence": "Pyramides constructed within the years after World War I, made out of pebbles, which were torn out of the earth for preparing fields for cultivating sugarcane; situated south of road M2 between Plaine Magnien and New Grove [...] \"title\":\"File:Mauritius-Pyramiden-5-4-3.jpg\" [...] \"LicenseShortName\":{\"value\":\"CC BY-SA 4.0\""
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mauritius-Pyramiden-5-4-3.jpg",
+      "credit": "Uli sh (Wikimedia Commons)",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mauritius-Pyramiden-5-4-3.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "TERRAIN PRIVÉ ? Non établi. Les sources lues situent les pyramides dans des champs de canne en exploitation mais ne nomment ni propriétaire ni règle d'accès. Atlas Obscura, qui a une page sur le lieu, répond 403 (Cloudflare) et n'a pas été lu ; d'après le seul extrait visible dans les résultats de recherche (non utilisé comme source), les champs feraient partie d'une plantation sucrière sans barrière à l'entrée. legal_access_checked reste false : l'éditeur doit vérifier auprès du propriétaire ou du conseil de village.",
+    "COORDONNÉES APPROXIMATIVES : aucune pyramide n'a été trouvée dans OpenStreetMap ; les coordonnées sont celles du village de Plaine Magnien. La seule indication de lieu lue est la légende d'une photo Wikimedia Commons (« south of road M2 between Plaine Magnien and New Grove »), écrite par un contributeur. À localiser précisément avant publication.",
+    "Protection légale : African Arguments affirme une protection par le « National Monument Board », mais la liste Grand Port du National Heritage Fund (consultée le 21 novembre 2026) ne les cite pas. À vérifier auprès du NHF.",
+    "Nombre : sept selon les propos attribués à Summers et selon Gigal ; un extrait d'Atlas Obscura (non lu) évoque une vingtaine à l'origine. Non recoupé.",
+    "Les propos de Geoffrey Summers sont rapportés par le Mauritius Times dans une question d'interview ; son texte d'origine n'a pas été retrouvé. Le livre de Cornel van Strijp n'a pas été lu.",
+    "Presse mauricienne : lexpress.mu répond 403 ; aucun article de defimedia.info, lemauricien.com ou d'un organisme patrimonial local n'a été trouvé sur le sujet. SOS Patrimoine n'est cité que de seconde main (African Arguments).",
+    "African Arguments parle d'une « attraction touristique majeure » et de « milliers de visiteurs » sans chiffres ; why_unknown_md reste donc à null.",
+    "Précautions (escalade, stabilité, engins agricoles, brûlage des cannes) : rien de sourcé ; precautions_md reste à null.",
+    "La photo n'a pas été visualisée, seulement ses métadonnées : vérifier qu'elle montre bien le site."
+  ],
+  "website_url": null,
+  "secret": {
+    "story_md": "Sur la route de l'aéroport, entre deux murs de cannes, des masses noires dépassent des champs. De loin, on dirait des tas. De près, ce sont des gradins : des pierres volcaniques sombres, posées sans mortier, qui montent en terrasses — jusqu'à dix sur certaines — vers une plateforme rectangulaire assez large pour quelques personnes. Le journaliste Jacques Achilles, qui les décrit pour African Arguments en 2022, parle de structures d'une dizaine de mètres de haut, avec la mer et l'aéroport au sud, les champs de canne et l'autoroute au nord. On les appelle les pyramides de Plaine Magnien ; la plupart des textes en comptent sept.\n\n**Ce que disent les sources les plus solides.** L'explication la plus répandue est aussi la plus simple : ce sont des tas d'épierrage. Les sols volcaniques sont fertiles mais pleins de roches ; pour planter la canne, il a fallu les sortir de terre et les mettre quelque part. L'ONG mauricienne SOS Patrimoine y voit de simples empilements de roches montés dans les années 1940. L'archéologue Geoffrey Summers, de l'université de Manchester, est du même avis : d'après les propos que lui attribue le Mauritius Times en 2021, les sept petites structures des environs de Plaine Magnien ont été construites dans les années 1940 lors d'une opération de nettoyage des champs, « rien de plus » ; il dit s'appuyer sur le témoignage d'un habitant de Mahébourg qui a assisté à leur construction et sur des documents qu'il a vus. Le journaliste d'investigation Cornel van Strijp, auteur d'un livre sur ces « pyramides noires », arrive à la même conclusion pour Maurice comme pour Tenerife, la Sicile et les Açores : des « conteneurs à gravats », montés par des agriculteurs, et empilés en gradins parce que c'est la forme la plus stable pour entasser haut. On ne trouve ces structures, relève-t-il, que sur des îles volcaniques colonisées à l'époque historique et vivant de l'agriculture.\n\n**Ce qui manque encore.** L'origine agricole est donc l'explication retenue par l'archéologue et par l'association du patrimoine, mais elle n'est pas publiée dans le détail. Van Strijp le reconnaît : aucune étude consacrée exclusivement aux pyramides mauriciennes n'a paru. African Arguments note de son côté qu'aucune archive n'est produite à l'appui de la datation des années 1940 et qu'aucune recherche scientifique approfondie n'a été menée sur place. Les dates elles-mêmes varient : années 1940 pour Summers et SOS Patrimoine, années qui suivent la Première Guerre mondiale pour l'auteur d'une photographie versée sur Wikimedia Commons. Reste la question du soin : selon African Arguments, d'autres champs de canne ont leurs tas de pierres, mais aucun n'est monté de façon aussi ordonnée — d'ordinaire, les pierres étaient simplement entassées avant de partir au concassage. Van Strijp répond que cette perfection n'existe que vue de loin.\n\n**Les hypothèses non démontrées.** C'est dans cet espace que se sont installées d'autres lectures, qu'il faut prendre pour ce qu'elles sont : des hypothèses, sans preuve publiée. L'auteure française Antoine Gigal juge les sept pyramides identiques, dans leur construction, à celles de Tenerife et de Sicile, et avance qu'elles pourraient être l'œuvre de navigateurs venus de Tenerife, qui auraient utilisé les plateformes pour observer le soleil. Le maître de yoga mauricien Tambi Chuckravanen y voit les restes d'une installation destinée à capter l'énergie de la montagne du Lion, héritage d'une civilisation du continent mythique de Kumari Kandam. Des visiteurs viennent d'ailleurs s'y « recharger ». Pour van Strijp, ces idées — Atlantide, Lémurie, Égypte ancienne — sont divertissantes mais ne résistent pas à l'examen ; l'hypothèse d'alignements astronomiques n'a été présentée sérieusement qu'une fois, pour un ensemble de Tenerife, et y a été réfutée.\n\n**Un statut à vérifier.** African Arguments écrit que les pyramides sont placées sous la protection légale du « National Monument Board ». Pourtant, la liste du patrimoine national du district de Grand Port publiée par le National Heritage Fund, consultée en novembre 2026, ne les mentionne pas. Les deux affirmations n'ont pas pu être départagées. Ce qui ne fait pas de doute, c'est le décor : des champs de canne en exploitation, autour desquels passent routes et chantiers. À qui appartient le terrain, et si l'on peut y entrer librement, aucune source lue ne le dit.",
+    "why_unknown_md": null,
+    "access_md": "Emplacement exact non vérifié. La seule indication lue est la légende d'une photographie de Wikimedia Commons, qui situe ces pyramides au sud de la route M2, entre Plaine Magnien et New Grove. Les structures se trouvent dans des champs de canne en exploitation : aucune source ne précise si un chemin public y mène ni si l'entrée est autorisée. Tant que ce point n'est pas vérifié, regarde-les depuis la route.",
+    "precautions_md": null,
+    "legal_access_checked": false
+  }
+}

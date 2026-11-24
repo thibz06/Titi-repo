@@ -10,8 +10,8 @@
   "coords_source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q292021.json",
   "google_place_id": null,
   "pitch": "Île du lagon nord-est bordée de mangrove, classée parc national, liée au naufrage du Saint-Géran en 1744.",
-  "description_md": "L'île d'Ambre se trouve près de la côte nord-est de Maurice, face à Poudre d'Or ; c'est la plus grande des huit îles de l'Islets National Park. Elle est bordée de mangrove. Les Hollandais lui auraient donné son nom après y avoir trouvé de l'ambre gris. Les neuf survivants du naufrage du Saint-Géran (août 1744), à l'origine du roman *Paul et Virginie*, s'y sont réfugiés.",
-  "why_go_md": "Pour une balade au calme dans la mangrove, en bateau ou en kayak : la presse mauricienne la décrit comme peu fréquentée des touristes et appréciée pour sa tranquillité. Un projet de restauration des zones humides et des mangroves y est mené dans le parc national.",
+  "description_md": "L'île d'Ambre se trouve près de la côte nord-est de Maurice, face à Poudre d'Or ; avec 128 hectares selon le National Parks and Conservation Service, c'est de loin la plus grande des huit îles de l'Islets National Park. Elle est bordée de mangrove et garde quelques lataniers bleus, mais le service des parcs la décrit comme très dégradée. Les Hollandais lui auraient donné son nom après y avoir trouvé de l'ambre gris. Les neuf survivants du naufrage du Saint-Géran (août 1744), à l'origine du roman *Paul et Virginie*, s'y sont réfugiés.",
+  "why_go_md": "Pour une balade au calme dans la mangrove, en bateau ou en kayak : ce sont les deux moyens d'accès cités par l'office du tourisme. La presse mauricienne la décrit comme peu fréquentée des touristes et appréciée pour sa tranquillité, mais le service des parcs nationaux en fait une sortie de week-end courue des Mauriciens. Un projet de restauration des zones humides et des mangroves y est mené dans le parc national.",
   "likes": [
     "Mangrove formée de palétuviers, habitat d'oiseaux, d'insectes et de poissons",
     "Histoire : refuge des survivants du Saint-Géran, épisode qui a inspiré Paul et Virginie",
@@ -39,7 +39,7 @@
   "risk_note": null,
   "interest": null,
   "rarity": "peu_connu",
-  "rarity_reason": "Décrite en 2017 par Défi Media comme « très peu fréquentée des touristes » ; à nuancer : Wikipédia en anglais la dit prisée des Mauriciens le week-end.",
+  "rarity_reason": "Décrite en 2017 par Défi Media comme « très peu fréquentée des touristes » ; à nuancer : le National Parks and Conservation Service et Wikipédia en anglais la disent prisée des Mauriciens le week-end, et l'office du tourisme la dit régulièrement visitée.",
   "xp_base": null,
   "status": "draft",
   "verified_at": null,
@@ -100,6 +100,27 @@
       "title": "Îles et îlots : ces petits bouts de paradis qui nous entourent | Defimedia (4 février 2017)",
       "accessed_at": "2026-11-21",
       "evidence": "Située sur la côte nord-est, l’île d’Ambre s’entoure de mangrove et de rochers, ne la rendant pas très accessible au public. Elle est toutefois idéale pour les curieux en quête de tranquillité. Très peu fréquentée des touristes"
+    },
+    {
+      "field": "description_md",
+      "url": "https://npcs.govmu.org/Documents/NPCS%20Units/Islet%20and%20Offshore%20Unit.pdf",
+      "title": "Islet and Offshore Unit (National Parks and Conservation Service, PDF)",
+      "accessed_at": "2026-11-21",
+      "evidence": "National Park Islets Islet National Park Area (ha) Pigeon Rock 0.63 Ilot Vacoas 1.36 Ile d’Ambre 128"
+    },
+    {
+      "field": "description_md, why_go_md, rarity_reason",
+      "url": "https://npcs.govmu.org/Documents/NPCS%20Units/Islet%20and%20Offshore%20Unit.pdf",
+      "title": "Islet and Offshore Unit (National Parks and Conservation Service, PDF)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ile d’Ambre is a popular weekend destination for Mauritians. The island is badly degraded, although it still has some Latanier bleu (Latania loddigesi) and mangrove forests remaining."
+    },
+    {
+      "field": "why_go_md, rarity_reason",
+      "url": "https://mauritiusnow.com/blog/things-to-do/national-parks-in-mauritius/",
+      "title": "Mauritius National Parks: Wildlife & Trails | Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Île d’Ambre is the biggest of these 8 islets and is accessible by boat and kayak. [...] it’s a characterful spot that is regularly visited by locals and tourists."
     }
   ],
   "media": [
@@ -116,8 +137,9 @@
     "Date du naufrage du Saint-Géran : 18 août 1744 selon Wikipédia (fr et en), 17 août 1744 selon Défi Media. La fiche écrit seulement « août 1744 ».",
     "Wikipédia (fr) rapporte au conditionnel que le dernier dodo y aurait été aperçu en 1662 : non repris dans la fiche (règle « pas de légende »), à trancher.",
     "Accès : point d'embarquement, prestataires, prix et durée non sourcés de façon fiable. Un reportage de 2024 part de Saint-Antoine (Goodlands), à Bain-de-Rosnay, pour une balade d'environ deux heures ; un article de 2017 cite une excursion à Rs 1 700 par personne (prix ancien, non repris).",
-    "Règles du parc national (débarquement, feux, pique-nique) à vérifier auprès du National Parks and Conservation Service (site non accessible pendant la rédaction).",
-    "Superficie : 140 hectares selon Défi Media (2017), non recoupée ; non reprise dans la fiche.",
-    "locality « Poudre d'Or » = village situé en face de l'île selon Wikipédia ; à ajuster si le point d'embarquement retenu est Goodlands."
-  ]
+    "locality « Poudre d'Or » = village situé en face de l'île selon Wikipédia ; à ajuster si le point d'embarquement retenu est Goodlands.",
+    "Règles du parc national (débarquement, feux, pique-nique, permis éventuel) : non trouvées. Le document du National Parks and Conservation Service lu (PDF « Islet and Offshore Unit ») décrit l'île mais ne donne aucune règle ; les pages dynamiques de npcs.govmu.org sont illisibles sans navigateur.",
+    "Superficie : 128 ha selon le NPCS (retenu) ; « plus de 140 hectares » selon l'office du tourisme et Défi Media (2017)."
+  ],
+  "website_url": null
 }

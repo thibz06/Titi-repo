@@ -1,0 +1,137 @@
+{
+  "slug": "gris-gris",
+  "name": "Gris Gris",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "sud",
+  "locality": "Souillac",
+  "lat": -20.5245202,
+  "lng": 57.531899,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Gris%20Gris",
+  "google_place_id": null,
+  "pitch": "Plage sauvage et falaises de basalte à la pointe sud : pas de récif, la houle frappe la côte. On regarde, on ne se baigne pas.",
+  "description_md": "Gris Gris se trouve près de Souillac, tout au sud de l'île. Selon le Routard, cette portion de côte n'a pas de barrière de corail : la houle de l'océan Indien arrive directement sur des falaises de basalte noir. L'office du tourisme (MTPA) prévient que ce n'est pas une plage pour nager ou faire du snorkeling, à cause de forts courants et de très grosses vagues. Lonely Planet situe le site à environ 2,5 km au sud-est du centre de Souillac : une falaise herbeuse, puis un sentier qui descend vers la plage.",
+  "why_go_md": "Pour un paysage à l'opposé des lagons calmes du reste de l'île : on vient marcher en haut des falaises, regarder et écouter les vagues. Depuis la plage, on rejoint La Roche qui Pleure.",
+  "likes": [
+    "Vue sur les falaises et le bruit de l'océan, mis en avant par l'office du tourisme",
+    "Sentiers en haut des falaises, qui mènent à La Roche qui Pleure (Routard)",
+    "Espaces pour pique-niquer face à la mer (Routard)",
+    "Parking à l'entrée du site (Routard)"
+  ],
+  "watchouts": [
+    "Baignade : l'office du tourisme écrit que la plage n'est pas faite pour nager (forts courants, très grosses vagues) ; le Routard la dit strictement interdite et signale de nombreux panneaux sur place",
+    "Avec des enfants, vigilance constante près du bord des falaises et de l'eau (Routard)"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": {
+    "stationnement": "Parking à l'entrée du site (Routard)",
+    "acces": "En voiture, à quelques kilomètres de Souillac (Routard)"
+  },
+  "best_time": {
+    "saison": "Visite possible toute l'année ; les vagues sont plus spectaculaires par temps venteux (Routard)"
+  },
+  "rain_ok": null,
+  "risk_level": "high",
+  "risk_note": "Risque lié à la mer et aux falaises, pas à la promenade elle-même. Mauritius Now (MTPA) : « not one for swimming and snorkelling, as there are strong currents and huge waves ». Routard : baignade « strictement interdite », « courants marins très dangereux », panneaux d'avertissement sur place. Lonely Planet : un panneau avertit des dangers de la baignade. Reste en haut, loin du bord, et ne descends pas dans l'eau.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Gris%20Gris",
+      "title": "Nominatim / OpenStreetMap : Gris Gris",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":258670267,\"lat\":\"-20.5245202\",\"lon\":\"57.5318990\""
+    },
+    {
+      "field": "description_md, pitch, watchouts, risk_level, risk_note",
+      "url": "https://mauritiusnow.com/blog/things-to-do/gris-gris-beach/",
+      "title": "Gris Gris beach – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You’ll find Gris Gris beach near Souillac, at the most southern part of the island. Unlike many of the other beaches in Mauritius, Gris Gris is not one for swimming and snorkelling, as there are strong currents and huge waves."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/gris-gris-beach/",
+      "title": "Gris Gris beach – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Instead, walk and enjoy the view of the spectacular cliffs and hear the roar of the ocean. From the beach, you can access La Roche Qui Pleure"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.routard.com/fr/guide/afrique/ile-maurice-rodrigues/mahebourg-et-le-sud/gris-gris",
+      "title": "Gris-Gris – Routard.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "Cette côte se caractérise par son absence de barrière de corail, une particularité géologique sur l’île qui expose directement le littoral à la houle puissante de l’océan Indien. Le paysage y est radicalement différent, marqué par des falaises de basalte noir"
+    },
+    {
+      "field": "watchouts, risk_level, risk_note",
+      "url": "https://www.routard.com/fr/guide/afrique/ile-maurice-rodrigues/mahebourg-et-le-sud/gris-gris",
+      "title": "Gris-Gris – Routard.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "La nature sauvage et les courants forts de Gris-Gris rendent la baignade formellement interdite et dangereuse, comme l’indiquent les nombreux panneaux d’avertissement sur place."
+    },
+    {
+      "field": "risk_level, risk_note",
+      "url": "https://www.routard.com/fr/guide/afrique/ile-maurice-rodrigues/mahebourg-et-le-sud/gris-gris",
+      "title": "Gris-Gris – Routard.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "Non, la baignade est strictement interdite en raison de l’absence de barrière de corail, des vagues puissantes et des courants marins très dangereux."
+    },
+    {
+      "field": "watchouts, risk_level",
+      "url": "https://www.routard.com/fr/guide/afrique/ile-maurice-rodrigues/mahebourg-et-le-sud/gris-gris",
+      "title": "Gris-Gris – Routard.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "une vigilance constante est requise avec les enfants en raison de la proximité des falaises et de la dangerosité de l’océan"
+    },
+    {
+      "field": "likes",
+      "url": "https://www.routard.com/fr/guide/afrique/ile-maurice-rodrigues/mahebourg-et-le-sud/gris-gris",
+      "title": "Gris-Gris – Routard.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "Des sentiers permettent de longer le sommet des falaises, offrant des vues panoramiques sur le littoral. Ces balades permettent de rejoindre la Roche qui Pleure [...] Des espaces permettent de s’installer pour un pique-nique face à ce décor impressionnant."
+    },
+    {
+      "field": "accessibility, likes, best_time",
+      "url": "https://www.routard.com/fr/guide/afrique/ile-maurice-rodrigues/mahebourg-et-le-sud/gris-gris",
+      "title": "Gris-Gris – Routard.com",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le site est accessible en voiture, situé à quelques kilomètres du village de Souillac. [...] Un parking est disponible à l’entrée. [...] Le site peut être visité toute l’année. Le spectacle des vagues est particulièrement impressionnant par temps venteux"
+    },
+    {
+      "field": "description_md, risk_note",
+      "url": "https://www.lonelyplanet.com/points-of-interest/gris-gris-beach/1345667",
+      "title": "Gris Gris Beach – Lonely Planet",
+      "accessed_at": "2026-11-21",
+      "evidence": "Around 2.5km southeast of central Souillac, a grassy clifftop affords fine views of the black-rock coastline. A path leads down to the wild Gris Gris beach; a sign warns of the dangers of swimming."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "risk_level « high » est une lecture du rédacteur : les sources décrivent le danger (courants, vagues, baignade interdite selon le Routard) mais ne donnent pas de niveau. À confirmer par l'éditeur.",
+    "Aucune mise en garde officielle datée (Beach Authority, police, garde-côtes) n'a pu être lue : beachauthority.govmu.org ne répond pas depuis cette session et la page « Public Beaches » de beachauthority.mu ne contient pas de liste. Recherche de faits divers sur lexpress.mu impossible (403).",
+    "Gratuité : aucune source ne dit que l'accès et le parking sont gratuits ; price_kind reste à null.",
+    "Durée de visite : non sourcée.",
+    "Origine du nom : Lonely Planet et le Routard donnent des explications différentes (magie noire, chiot d'un cartographe en 1753, amulettes, mot malais) ; rien de vérifiable, laissé hors de la fiche.",
+    "Photos : l'API Wikimedia Commons a répondu 429 (limite de débit) pour cette recherche ; media reste vide.",
+    "Wikipédia n'a pas pu être consultée pour le contexte (API en limite de débit pendant la session)."
+  ],
+  "website_url": null,
+  "secret": null
+}

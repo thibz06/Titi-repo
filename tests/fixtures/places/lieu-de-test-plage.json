@@ -33,7 +33,24 @@
   "rarity": null,
   "rarity_reason": null,
   "xp_base": null,
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://example.org/photo1.jpg",
+      "credit": "Auteur fictif 1",
+      "license": "CC0",
+      "source_url": "https://example.org/page1",
+      "is_cover": true
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://example.org/photo2.jpg",
+      "credit": "Auteur fictif 2",
+      "license": "CC0",
+      "source_url": "https://example.org/page2",
+      "is_cover": false
+    }
+  ],
   "open_questions": [],
   "slug": "lieu-de-test-plage",
   "name": "Plage de test",

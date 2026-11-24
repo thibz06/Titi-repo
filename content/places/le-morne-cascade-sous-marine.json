@@ -1,0 +1,274 @@
+{
+  "slug": "le-morne-cascade-sous-marine",
+  "name": "Le Morne Brabant : l'illusion de la cascade sous-marine",
+  "family": "randos_sommets",
+  "tags": [
+    "gratuit",
+    "insolite"
+  ],
+  "region": "sud_ouest",
+  "locality": "Le Morne",
+  "lat": -20.4740505,
+  "lng": 57.3087273,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Underwater%20Waterfall%20Mauritius&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Une illusion d'optique au large du Morne : sable et limon glissent du plateau sous-marin. Visible seulement du ciel.",
+  "description_md": "Au large de la presqu'île du Morne, le sable et le limon poussés par les courants glissent du plateau sous-marin vers les grands fonds et dessinent, vus du ciel, ce qui ressemble à une cascade sous l'eau. Ce n'est pas une chute d'eau mais une illusion d'optique. D'après l'office du tourisme, sa forme exacte ne se voit qu'en survol (hélicoptère ou hydravion) ; depuis le haut du Morne Brabant, on n'en devine qu'une forme très approximative. Depuis le 6 octobre 2026, la partie haute du sentier du Morne (section 2) est fermée jusqu'à nouvel ordre.",
+  "why_go_md": "Sois prévenu : depuis la plage ou depuis l'eau, tu ne verras pas la « cascade ». Si tu ne prends pas de vol panoramique, ce qui reste accessible gratuitement est la section 1 du sentier du Morne Brabant, jusqu'au second plateau à 260 m d'altitude, pour la vue sur le lagon et le récif et pour l'histoire du lieu, refuge des esclaves marrons classé par l'UNESCO.",
+  "likes": [
+    "Accès à la montagne gratuit (communiqué du Le Morne Heritage Trust Fund, octobre 2026)",
+    "Section 1 du sentier : 2,53 km, classée « Grade 1 », jusqu'au second plateau à 260 m",
+    "Vue sur les récifs et les lagons depuis la montagne",
+    "Paysage culturel inscrit au patrimoine mondial de l'UNESCO en 2008"
+  ],
+  "watchouts": [
+    "La « cascade » ne se voit ni du rivage ni depuis l'eau : seule la vue aérienne montre la forme complète",
+    "Section 2 du sentier (du second plateau à la croix métallique, 492 m) fermée jusqu'à nouvel ordre depuis le 6 octobre 2026, avec ou sans guide",
+    "Sentier fermé en cas d'avis de fortes pluies ou de pluies torrentielles, à partir de l'alerte cyclonique de classe II, et en cas d'éboulement",
+    "Dernière montée à 14 h 30, portail fermé à 16 h ; inscription obligatoire sur le registre au départ du sentier",
+    "Passe uniquement par l'entrée officielle (trailhead) ; reste sur le sentier balisé",
+    "Personne n'a le droit de te faire payer l'accès à la montagne : un guide ne facture que sa prestation",
+    "Lieu de mémoire : pas de musique forte, pas de feu, pas de camping, interdiction de fumer"
+  ],
+  "tips_md": "Prévois des chaussures de sport, une casquette, de l'eau et de quoi grignoter (recommandation du Trust Fund). Des toilettes se trouvent au départ du sentier. Le Trust Fund publie une liste de guides enregistrés sur son site.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "free",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "« Access to Le Morne Brabant Mountain is free of charge » : communiqué du Le Morne Heritage Trust Fund du 6 octobre 2026. Un guide est facultatif et ne facture que sa prestation. Les survols en hélicoptère ou en hydravion sont payants ; aucun tarif n'a été relevé.",
+  "opening_hours": "Mo-Su,PH 07:00-16:00",
+  "hours_note": "Sentier du Morne : « Opening and closing time: 7.00 – 16.00, Monday – Sunday including public holidays, latest time for mountain hiking: 14.30 » (Le Morne Heritage Trust Fund, document de mai 2024, repris sur la page d'accueil du site consultée le 21 novembre 2026). Fermé en cas de fortes pluies, d'alerte cyclonique de classe II ou plus, d'éboulement.",
+  "difficulty": null,
+  "accessibility": {
+    "enfants": "Le Trust Fund déconseille la section 2 aux moins de 13 ans (section actuellement fermée)",
+    "equipements": "Signalétique, toilettes, bancs, poubelles et parking mentionnés par le Trust Fund"
+  },
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": "medium",
+  "risk_note": "Section 1 (ouverte) : montée facile selon le Trust Fund, mais risque de chute si l'on s'approche de la falaise, et sol glissant par temps humide. Section 2 (fermée depuis le 6 octobre 2026) : décrite comme dangereuse, avec chutes de pierres, escalade et forte exposition au vent, aux risques du randonneur.",
+  "interest": null,
+  "rarity": "insolite",
+  "rarity_reason": "Illusion d'optique que l'office du tourisme dit visible uniquement d'un point de vue aérien.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Underwater%20Waterfall%20Mauritius&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap — recherche « Underwater Waterfall Mauritius »",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":12400046276,\"lat\":\"-20.4740505\",\"lon\":\"57.3087273\",\"category\":\"waterway\",\"type\":\"waterfall\""
+    },
+    {
+      "field": "description_md, pitch, secret",
+      "url": "https://mauritiusnow.com/things-to-do/underwater-waterfall-in-mauritius/",
+      "title": "Underwater waterfall in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "The shelf is no deeper than 150 metres below sea level, but its drop-off plunges to depths of over 4000 metres. So it’s not water rushing over the drop-off and falling to a depth of 4000 metres, it’s actually sand and silt being shimmied off the edge by the ocean’s currents. Instead of an underwater waterfall, it’s more of an underwater sandfall."
+    },
+    {
+      "field": "secret",
+      "url": "https://mauritiusnow.com/things-to-do/underwater-waterfall-in-mauritius/",
+      "title": "Underwater waterfall in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "were formed by volcanic activity under the ocean. This happened around 8 million years ago [...] sit on a submarine plateau, also known as an ocean shelf."
+    },
+    {
+      "field": "description_md, why_go_md, watchouts, rarity, secret",
+      "url": "https://mauritiusnow.com/things-to-do/underwater-waterfall-in-mauritius/",
+      "title": "Underwater waterfall in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You can see a very rough shape of the waterfall by hiking up Le Morne Brabant. From the top of the 500-metre peak, you’ll get incredible views over the island and the stunning reef that surrounds it. The only way to see the exact formation of the underwater waterfall, though, is to fly over it. Helicopter sightseeing tours can whisk you high above this natural phenomenon"
+    },
+    {
+      "field": "description_md, secret",
+      "url": "https://mauritiusnow.com/things-to-do/underwater-waterfall-in-mauritius/",
+      "title": "Underwater waterfall in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "You can also charter a private seaplane for the added bonus of a fun water take-off."
+    },
+    {
+      "field": "watchouts, secret",
+      "url": "https://mauritiusnow.com/things-to-do/underwater-waterfall-in-mauritius/",
+      "title": "Underwater waterfall in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "It may look dramatic, but you can actually swim – and surf – over the ‘waterfall’ below."
+    },
+    {
+      "field": "rarity, tags, watchouts",
+      "url": "https://mauritiusnow.com/things-to-do/seaplane/",
+      "title": "Seaplane — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "get your camera ready for the underwater waterfall – an optical illusion you’ll only be able to spot from this aerial viewpoint."
+    },
+    {
+      "field": "secret, watchouts",
+      "url": "https://www.cnn.com/travel/article/mauritius-underwater-waterfall-must-see-attractions/index.html",
+      "title": "Underwater waterfall and 13 other Mauritius must-sees — CNN Travel",
+      "accessed_at": "2026-11-21",
+      "evidence": "Sand and silt on the ocean floor run off in a way that makes it look like they’re pouring down a waterfall – or like the entire island is being sucked down a vast drain. It’s really just the flow of underwater currents that create the dramatic image. The ocean water is spectacular from the shore, but to see this particular view requires a helicopter ride."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.snopes.com/fact-check/underwater-waterfall-mauritius/",
+      "title": "Is This a Picture of an 'Underwater Waterfall' in Mauritius? — Snopes (11 mai 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "While the photograph is authentic, the \"underwater waterfall\" is the result of an optical illusion. [...] Off this particular coast, a gradual slope is noticed, abruptly ending in a 4000-meter-deep abyssal drop. Thanks to this marine topography, various shades of blue are visible, due to the movement of sand and silt deposits along these slopes."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.snopes.com/fact-check/underwater-waterfall-mauritius/",
+      "title": "Is This a Picture of an 'Underwater Waterfall' in Mauritius? — Snopes (11 mai 2023)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Given that the photo is real but its caption is based on an optical illusion, we rate the claim as \"Miscaptioned.\""
+    },
+    {
+      "field": "secret, watchouts",
+      "url": "https://www.worldatlas.com/oceans/the-underwater-waterfalls-hidden-in-the-ocean.html",
+      "title": "The Underwater Waterfalls Hidden In The Ocean — WorldAtlas",
+      "accessed_at": "2026-11-21",
+      "evidence": "The changing pattern is better understood as an active sediment feature than as an ancient fixed formation. Aerial and satellite views reveal the complete illusion because its color and depth contrasts are difficult to recognize at sea level."
+    },
+    {
+      "field": "price_kind, price_note, likes, tags, watchouts",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2026/10/COMMUNIQUE-Temporary-Closure-of-Section-2-of-Le-Morne-Brabant-Mountain.docx",
+      "title": "Communiqué : Temporary Closure of Section 2 of Le Morne Brabant Mountain (6 octobre 2026) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "The Le Morne Heritage Trust Fund also wishes to remind the public that access to Le Morne Brabant Mountain is free of charge. No individual or organisation is authorised to charge an entrance or access fee to the mountain."
+    },
+    {
+      "field": "description_md, watchouts, risk_note, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2026/10/COMMUNIQUE-Temporary-Closure-of-Section-2-of-Le-Morne-Brabant-Mountain.docx",
+      "title": "Communiqué : Temporary Closure of Section 2 of Le Morne Brabant Mountain (6 octobre 2026) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Section 2 of the Le Morne Brabant Mountain Trail is temporarily closed until further notice for security reasons. No person is permitted to access Section 2 of the mountain under any circumstances, whether accompanied by a hiking guide or otherwise. [...] Date: 6 October 2026"
+    },
+    {
+      "field": "opening_hours, hours_note, watchouts",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2024/06/General-practical-information.pdf",
+      "title": "General practical information for visitors (PDF, mai 2024) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Opening and closing time: 7.00 – 16.00 Days: Monday – Sunday including public holidays Latest time for mountain hiking: 14.30"
+    },
+    {
+      "field": "opening_hours, hours_note",
+      "url": "https://lemorneheritage.govmu.org/lmh/",
+      "title": "Le Morne Heritage Trust Fund (site officiel, accueil)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Hiking the Le Morne Brabant Mountain Opening and closing time: 7.00 – 16.00 Days: Monday – Sunday including public holidays Latest time for mountain hiking: 14.30"
+    },
+    {
+      "field": "watchouts, hours_note",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2024/06/General-practical-information.pdf",
+      "title": "General practical information for visitors (PDF, mai 2024) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "the trail is closed in the following circumstances: • Heavy rain warning • Torrential rain warning • As from Cyclone warning class II • Landslide / rockfalls"
+    },
+    {
+      "field": "risk_level, risk_note, likes, why_go_md, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2024/06/General-practical-information.pdf",
+      "title": "General practical information for visitors (PDF, mai 2024) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "ends at viewpoint 2 (second plateau of the mountain) Distance: 2.53km Trail width: Varies between 1m - 2.5 m Grade: Grade 1 Elevation at start: 1.5m Elevation at end: 260m Characteristics: Historically significant, surrounded by endemic/indigenous plants, may be exposed to risk of falling if one approaches near the cliff, slippery in wet conditions, easy climbing."
+    },
+    {
+      "field": "risk_note, watchouts, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2024/06/General-practical-information.pdf",
+      "title": "General practical information for visitors (PDF, mai 2024) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Hikers climbing up this section should acknowledge that it may be hazardous to do so and it is being done at their own risk. [...] loose rocks, risk of rockfalls, slippery in wet conditions, exposed to strong wind [...] Grade: Grade 3 Elevation at start: 260m Elevation at end: 492m"
+    },
+    {
+      "field": "watchouts, accessibility",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2024/06/General-practical-information.pdf",
+      "title": "General practical information for visitors (PDF, mai 2024) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Always enter through the official entrance (The trailhead). [...] Always fill the visitor record book at the trailhead [...] You are under 13 years old;"
+    },
+    {
+      "field": "secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2024/06/General-practical-information.pdf",
+      "title": "General practical information for visitors (PDF, mai 2024) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "The hiking trail ends at the metal cross. Please do not over-climb the mountain beyond this area."
+    },
+    {
+      "field": "watchouts, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2024/06/General-practical-information.pdf",
+      "title": "General practical information for visitors (PDF, mai 2024) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Le Morne Brabant Mountain is a smoke free area. [...] No camping is allowed on the mountain [...] Loud music, noise and other inappropriate behaviour is considered as disrespectful to cultural heritage and memory."
+    },
+    {
+      "field": "tips_md, accessibility",
+      "url": "https://lemorneheritage.govmu.org/lmh/wp-content/uploads/2024/06/General-practical-information.pdf",
+      "title": "General practical information for visitors (PDF, mai 2024) — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Several amenities have been put in place to improve visitors’ experience and increase your safety and security such as signage, toilet, benches, bins and parking area. [...] Wear suitable clothing, cap and athletic shoes, drinking water and dry food."
+    },
+    {
+      "field": "tips_md",
+      "url": "https://lemorneheritage.govmu.org/lmh/",
+      "title": "Le Morne Heritage Trust Fund (site officiel, accueil)",
+      "accessed_at": "2026-11-21",
+      "evidence": "Registered Guides"
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusnow.com/things-to-do/mountains/",
+      "title": "Le Morne Mountain — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "you’ll be rewarded with panoramic views of reefs and lagoons from the top of the mountain."
+    },
+    {
+      "field": "likes, why_go_md, secret",
+      "url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/whc001/records?where=id_no%3D1259&limit=1",
+      "title": "UNESCO World Heritage List, bien 1259 « Le Morne Cultural Landscape » (portail de données ouvertes de l’UNESCO)",
+      "accessed_at": "2026-11-21",
+      "evidence": "was used as a shelter by runaway slaves, maroons, through the 18th and early years of the 19th centuries."
+    },
+    {
+      "field": "likes, secret",
+      "url": "https://lemorneheritage.govmu.org/lmh/?page_id=1269",
+      "title": "Le Morne — Le Morne Heritage Trust Fund",
+      "accessed_at": "2026-11-21",
+      "evidence": "Following its inscription on the United Nations Educational, Scientific and Cultural Organisation (UNESCO) World Heritage List on 10th July 2008,"
+    }
+  ],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Underwater_waterfall_Mauritius_HDR.jpg",
+      "credit": "Christopher Brown (Wikimedia Commons)",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Underwater_waterfall_Mauritius_HDR.jpg",
+      "is_cover": true
+    }
+  ],
+  "open_questions": [
+    "Section 2 du sentier fermée « jusqu'à nouvel ordre » depuis le 6 octobre 2026 : vérifier sur lemorneheritage.govmu.org juste avant le séjour si elle a rouvert.",
+    "Aucune source ne dit si l'illusion se devine depuis le second plateau (260 m, fin de la section 1). L'office du tourisme parle seulement d'une forme « très approximative » depuis le haut de la montagne.",
+    "Coordonnées : le point est l'objet OpenStreetMap « Underwater Waterall » (sic, node 12400046276), situé en mer au large de la presqu'île. Ce n'est pas un endroit où l'on se rend. Le départ officiel du sentier n'a pas pu être géolocalisé sans Google (le Trust Fund ne donne qu'un lien Google Maps) : à placer par l'éditeur.",
+    "Durée : l'office du tourisme donne 3 à 4 heures (6,5 km) pour la randonnée complète jusqu'en haut ; aucune source ne donne la durée de la seule section 1 (2,53 km). duration_min et duration_max laissés à null.",
+    "difficulty laissé à null : le Trust Fund classe la section 1 « Grade 1 » et la section 2 « Grade 3 » sur sa propre échelle, sans correspondance avec l'échelle 1 à 5 de la fiche.",
+    "risk_level « medium » est une lecture des caractéristiques officielles de la section 1 (risque de chute près de la falaise, glissant par temps humide) ; à valider par l'éditeur.",
+    "Profondeurs : l'office du tourisme et WorldAtlas parlent d'un plateau à 150 m au plus et d'un tombant à plus de 4 000 m ; ces chiffres n'ont pas été recoupés avec une source scientifique (carte bathymétrique).",
+    "Hauteur du Morne : 556 m selon Wikipédia, « plus de 500 m » selon l'office du tourisme ; le sentier officiel s'arrête à la croix, à 492 m.",
+    "Atlas Obscura (atlasobscura.com/places/underwater-waterfall-mauritius) a répondu 403 (blocage Cloudflare) : non lu. Culture Trip, cité par Snopes, était injoignable : la citation vient de Snopes.",
+    "Tarifs et opérateurs des survols (hélicoptère, hydravion) non relevés : aucune source officielle de prestataire consultée.",
+    "legal_access_checked reste false."
+  ],
+  "website_url": "https://lemorneheritage.govmu.org/lmh/",
+  "secret": {
+    "story_md": "Sur les photos aériennes, on dirait que le lagon du Morne se vide dans l'océan. Au large de la presqu'île, des traînées claires semblent plonger dans le bleu sombre comme une chute d'eau, ou comme si l'île entière était aspirée par une bonde géante, pour reprendre l'image de CNN. C'est l'une des photos les plus diffusées de Maurice. Et c'est une illusion.\n\nIl n'y a pas de cascade. D'après l'office du tourisme mauricien, Maurice et les autres Mascareignes, nées d'un volcanisme sous-marin il y a environ 8 millions d'années, reposent sur un plateau sous-marin. Ce plateau n'est pas à plus de 150 mètres sous la surface, mais son rebord plonge à plus de 4 000 mètres. Ce qui « tombe », ce n'est pas l'eau : ce sont du sable et du limon, poussés par les courants jusqu'au bord du plateau. L'office du tourisme parle d'ailleurs d'une « cascade de sable » plutôt que d'une cascade d'eau. CNN résume la chose de la même façon : le sable et le limon du fond s'écoulent de telle manière qu'ils semblent dévaler une chute, alors qu'il ne s'agit que de l'effet des courants.\n\nLe site de vérification Snopes s'est penché en 2023 sur une de ces photos. Verdict : l'image est authentique, mais sa légende est trompeuse, puisque la « cascade sous-marine » relève de l'illusion d'optique. Snopes cite une explication voisine : au large de cette côte, une pente douce s'achève brutalement sur un tombant abyssal de 4 000 mètres, et ce sont les dépôts de sable et de limon en mouvement le long de ces pentes qui produisent les nuances de bleu. WorldAtlas ajoute que le motif change : il faut y voir un phénomène sédimentaire actif plutôt qu'une forme fixe.\n\nReste la question que tout le monde se pose : d'où la voit-on ? Les sources sont unanimes, et la réponse est décevante pour qui reste au sol. Depuis le rivage, rien : les contrastes de couleur et de profondeur sont difficiles à reconnaître au niveau de la mer (WorldAtlas), et CNN précise que cette vue exige un tour en hélicoptère. L'office du tourisme écrit que la seule façon de voir la forme exacte est de la survoler, en hélicoptère ou en hydravion. On peut d'ailleurs nager et surfer au-dessus de la « cascade » sans rien remarquer.\n\nIl existe une demi-exception : en montant au Morne Brabant, on distingue, toujours selon l'office du tourisme, une forme « très approximative » de la cascade depuis le haut de la montagne. Encore faut-il pouvoir monter. Le sentier officiel, géré par le Le Morne Heritage Trust Fund, comporte deux sections : la première, facile, mène à un second plateau à 260 mètres d'altitude ; la seconde, raide et exposée, grimpe jusqu'à une croix métallique à 492 mètres, où le sentier s'arrête. Or un communiqué du Trust Fund daté du 6 octobre 2026 ferme la section 2 jusqu'à nouvel ordre, pour raisons de sécurité, à tout le monde, avec ou sans guide. Aucune source consultée ne dit ce que l'on aperçoit du phénomène depuis le plateau à 260 mètres : il est possible que l'on n'y voie que les bleus du lagon et de la passe.\n\nLa montagne, elle, mérite la montée pour une autre raison. L'UNESCO l'a inscrite en 2008 au patrimoine mondial parce qu'elle a servi de refuge aux esclaves en fuite aux XVIIIe et XIXe siècles. Le Trust Fund demande de la traiter comme un lieu de mémoire : pas de musique forte, pas de cris.",
+    "why_unknown_md": "L'image est célèbre, mais le phénomène lui-même échappe à presque tous les visiteurs : selon CNN et l'office du tourisme, il ne se voit pas du rivage et exige un survol ; on peut même nager ou surfer au-dessus sans le remarquer.",
+    "access_md": "Deux possibilités d'après les sources. Par les airs : tours en hélicoptère ou hydravion privé (office du tourisme). À pied : le sentier du Morne Brabant, par l'entrée officielle, ouvert tous les jours de 7 h à 16 h (dernière montée 14 h 30), accès gratuit ; la section 1 (2,53 km) mène au second plateau à 260 m. La section 2, vers la croix à 492 m, est fermée jusqu'à nouvel ordre depuis le 6 octobre 2026 (Le Morne Heritage Trust Fund).",
+    "precautions_md": "Signe le registre au départ et note ton heure de retour ; reste sur le sentier balisé et ne franchis pas la fermeture de la section 2. Le sentier ferme par fortes pluies, alerte cyclonique de classe II ou plus, ou éboulement. Près de la falaise, le risque de chute est réel et le sol glisse par temps humide (Le Morne Heritage Trust Fund).",
+    "legal_access_checked": false
+  }
+}

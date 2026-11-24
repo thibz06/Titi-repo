@@ -1,0 +1,119 @@
+{
+  "slug": "ile-aux-aigrettes",
+  "name": "Île aux Aigrettes",
+  "family": "nature_parcs",
+  "tags": [],
+  "region": "sud_est",
+  "locality": "Pointe d'Esny",
+  "lat": -20.4246408,
+  "lng": 57.7231111,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Pointe%20J%C3%A9rome",
+  "google_place_id": null,
+  "pitch": "Îlot corallien classé réserve naturelle depuis 1965 : visite guidée à pied parmi tortues géantes, pigeons roses et forêt d'ébène.",
+  "description_md": "L'île aux Aigrettes est un îlot de calcaire corallien de 26 hectares, dans la baie de Mahébourg, à environ 850 mètres de la côte sud-est. Classée réserve naturelle en 1965, elle est gérée par la Mauritian Wildlife Foundation (MWF), qui y restaure la forêt d'origine et y a réintroduit des espèces rares. On la visite uniquement en visite guidée : départ en bateau de Pointe Jérôme (une dizaine de minutes de traversée), puis un parcours à pied d'une heure et demie à deux heures, d'après Defimedia (2016).",
+  "why_go_md": "Pour voir à quoi ressemblait la côte mauricienne avant l'arrivée de l'homme et croiser des espèces qu'on ne voit presque nulle part ailleurs : pigeon rose, cardinal de Maurice (Mauritius fody), oiseau à lunettes, tortues géantes d'Aldabra, forêt d'ébène.",
+  "likes": [
+    "Visite guidée par les rangers de la Mauritian Wildlife Foundation",
+    "Oiseaux rares : pigeon rose, Mauritius fody, Mauritius olive white-eye (office du tourisme)",
+    "Tortues géantes d'Aldabra et pépinière de plantes rares",
+    "Traversée courte : environ dix minutes de bateau depuis Pointe Jérôme"
+  ],
+  "watchouts": [
+    "Réservation à l'avance demandée (Defimedia, 2016)",
+    "Le dimanche, départs le matin seulement (Defimedia, 2016) : à confirmer",
+    "Tarifs et horaires lus dans un article de 2016 : ils ont très probablement changé"
+  ],
+  "tips_md": "En 2016, les bateaux partaient de l'ancienne jetée du Sands à Pointe Jérôme, du lundi au samedi à 9 h 30, 10 h, 10 h 30, 13 h 30, 14 h et 14 h 30, et le dimanche le matin seulement. Appelle la Mauritian Wildlife Foundation pour les horaires et tarifs actuels avant de venir.",
+  "duration_min": 90,
+  "duration_max": 120,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Tarifs officiels actuels NON LUS : le site de la Mauritian Wildlife Foundation est resté injoignable pendant la session. Seule référence, non officielle et ancienne : Defimedia (News on Sunday, 1er novembre 2016) donnait « Public rate » adulte Rs 800, enfant de 4 à 11 ans Rs 400, gratuit jusqu'à 3 ans ; « Mauritian rate » adulte Rs 200, enfant Rs 100. Ces montants ne remplissent pas les champs de prix.",
+  "opening_hours": null,
+  "hours_note": "Horaires officiels actuels non lus. Departs indiqués par Defimedia en 2016 : lundi à samedi 9 h 30, 10 h, 10 h 30, 13 h 30, 14 h, 14 h 30 ; dimanche matin seulement.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=Pointe%20J%C3%A9rome",
+      "title": "Nominatim / OpenStreetMap : Pointe Jerome Embarkation",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":6147814085,\"lat\":\"-20.4246408\",\"lon\":\"57.7231111\""
+    },
+    {
+      "field": "description_md",
+      "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=mu&limit=4&q=%C3%8Ele%20aux%20Aigrettes",
+      "title": "Nominatim / OpenStreetMap : Île aux Aigrettes",
+      "accessed_at": "2026-11-21",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":13453590,\"lat\":\"-20.4202128\",\"lon\":\"57.7332813\""
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/ile-aux-aigrettes/",
+      "title": "Ile aux Aigrettes – Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-21",
+      "evidence": "This small islet is surrounded by a ring of coral and ebony forest covers its landscape. In 1965, Île aux Aigrettes was declared a nature reserve and incredible conservation work has helped create a habitat for rare species that had long disappeared from the island. You can enjoy a guided tour, keeping a lookout for rare plants, reptiles, tortoises and beautiful birds, including the pink pigeon, Mauritius fody and Mauritius olive white-eye."
+    },
+    {
+      "field": "description_md, why_go_md, likes",
+      "url": "https://defimedia.info/ile-aux-aigrettes-green-haven-unique-mauritius",
+      "title": "Ile aux Aigrettes: A green haven unique to Mauritius – Defimedia (News on Sunday), 1er novembre 2016",
+      "accessed_at": "2026-11-21",
+      "evidence": "Situated in Mahebourg Bay, more precisely about 850 m off the south-east coast of Mauritius, the island is unlike the mainland, which is of volcanic origin. In fact the 26 hectares plot is made up of coralline limestone. [...] A nature conservation site since 1965, the island is preserved by the Mauritian Wildlife Foundation (MWF). The foundation has put impressive efforts to restore the original forest and reintroduce rare species like the aldabra giant tortoise and birds such as the Mauritius Fody and the Pink Pigeon. [...] It hosts a nursery use to propagate rare plants"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://defimedia.info/ile-aux-aigrettes-green-haven-unique-mauritius",
+      "title": "Ile aux Aigrettes: A green haven unique to Mauritius – Defimedia (News on Sunday), 1er novembre 2016",
+      "accessed_at": "2026-11-21",
+      "evidence": "Through a guided tour led by the trained ecotour rangers of the Mauritian Wildlife Foundation (MWF), you will discover species unique to Mauritius."
+    },
+    {
+      "field": "duration_min, duration_max, description_md, likes",
+      "url": "https://defimedia.info/ile-aux-aigrettes-green-haven-unique-mauritius",
+      "title": "Ile aux Aigrettes: A green haven unique to Mauritius – Defimedia (News on Sunday), 1er novembre 2016",
+      "accessed_at": "2026-11-21",
+      "evidence": "Departure for the island starts at Pointe Jerome. It will take you only 10 minutes by boat to reach the island. From the jetty, you will start a 1.5 hour to two hour walking trail."
+    },
+    {
+      "field": "price_kind, price_note",
+      "url": "https://defimedia.info/ile-aux-aigrettes-green-haven-unique-mauritius",
+      "title": "Ile aux Aigrettes: A green haven unique to Mauritius – Defimedia (News on Sunday), 1er novembre 2016",
+      "accessed_at": "2026-11-21",
+      "evidence": "PUBLIC RATE Adult: Rs 800 Child 4 to 11 years old: Rs 400 0 up to 3 years: Free of charge MAURITIAN RATE Adult: Rs 200 Child 4 to 11 years old: Rs 100 0 up to 3 years: Free of charge"
+    },
+    {
+      "field": "tips_md, hours_note, watchouts",
+      "url": "https://defimedia.info/ile-aux-aigrettes-green-haven-unique-mauritius",
+      "title": "Ile aux Aigrettes: A green haven unique to Mauritius – Defimedia (News on Sunday), 1er novembre 2016",
+      "accessed_at": "2026-11-21",
+      "evidence": "Below are the boat departure times for the tours, leaving from the old Sands Jetty at Pointe Jerome: Monday to Saturday – 9.30, 10:00, 10:30, 13:30, 14:00 and 14:30 Sunday – Mornings only For bookings: Book your tour in advance"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "PRIX ET HORAIRES À OBTENIR : le site officiel de la Mauritian Wildlife Foundation (mauritian-wildlife.org, domaine vu dans les résultats de recherche) n'a jamais répondu depuis cette session (connexion coupée à chaque essai ; ce n'est pas un refus explicite du site). Aucun tarif officiel lu ; website_url reste à null faute d'avoir pu vérifier l'adresse.",
+    "Les seuls tarifs et horaires lus datent de 2016 (Defimedia) : Rs 800 adulte non-résident. Des revendeurs affichent aujourd'hui des prix en euros (vus dans les résultats de recherche, non repris).",
+    "price_kind = paid et duration_min/max s'appuient sur la presse (Defimedia 2016), pas sur la source officielle.",
+    "Les coordonnées de la fiche sont celles du point d'embarquement « Pointe Jerome Embarkation » (OSM), conformément à la règle des activités payantes ; l'îlot lui-même est vers -20.4202, 57.7333 (OSM).",
+    "Ouverture pendant les fêtes (25 décembre, 1er et 2 janvier), âge minimum, accessibilité du sentier : non sourcés.",
+    "Noms français des oiseaux (cardinal de Maurice, oiseau à lunettes) : traductions usuelles du rédacteur, à valider.",
+    "Photos : API Wikimedia Commons en limite de débit (429) ; media reste vide."
+  ],
+  "website_url": null,
+  "secret": null
+}
