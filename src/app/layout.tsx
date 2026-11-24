@@ -1,12 +1,12 @@
 import type { Metadata, Viewport } from "next";
-import { Fraunces, Inter } from "next/font/google";
+import { Inter, Sora } from "next/font/google";
 import { defaultLocale, getMessages } from "@/i18n";
 import { Providers } from "@/components/Providers";
 import { ServiceWorker } from "@/components/ServiceWorker";
 import { TabBar } from "@/components/TabBar";
 import "./globals.css";
 
-const fraunces = Fraunces({ subsets: ["latin"], variable: "--font-fraunces", display: "swap" });
+const sora = Sora({ subsets: ["latin"], variable: "--font-sora", display: "swap" });
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
 
 const t = getMessages();
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#0FB5BA",
+  themeColor: "#FFFAF4",
   width: "device-width",
   initialScale: 1,
   viewportFit: "cover",
@@ -33,7 +33,7 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang={defaultLocale} className={`${fraunces.variable} ${inter.variable}`}>
+    <html lang={defaultLocale} className={`${sora.variable} ${inter.variable}`}>
       <body className="antialiased">
         <ServiceWorker>
           <Providers>

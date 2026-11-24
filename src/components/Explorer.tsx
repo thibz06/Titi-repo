@@ -6,6 +6,8 @@ import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useMemo, useState } from "react";
 import { fill, getMessages } from "@/i18n";
+import { coverPhoto } from "@/lib/places/format";
+import { FAMILY_STYLE } from "@/lib/places/families";
 import { FAMILIES, type Family, type PlaceSummary } from "@/lib/places/types";
 import { distanceM } from "@/lib/progress/rules";
 import { useVisits } from "@/lib/progress/store";
@@ -13,6 +15,7 @@ import { formatDistance, locate, type GeoError, type Position } from "@/lib/useG
 import { useOnline } from "@/lib/useOnline";
 import { BottomSheet, type SheetSnap } from "./BottomSheet";
 import { FamilyBadge } from "./FamilyBadge";
+import { Photo } from "./Photo";
 import { PlaceCard } from "./PlaceCard";
 import { Notice } from "./States";
 
@@ -33,7 +36,7 @@ function Chip({ active, onClick, children, dark = false }: { active: boolean; on
       aria-pressed={active}
       onClick={onClick}
       className={`inline-flex min-h-11 shrink-0 items-center gap-1.5 rounded-full px-4 text-sm font-semibold ${
-        active ? (dark ? "bg-basalte text-or" : "bg-passe text-white") : "bg-brume text-encre"
+        active ? (dark ? "bg-basalte text-or" : "bg-lagoon") : "bg-brume text-encre"
       }`}
     >
       {children}
@@ -74,6 +77,7 @@ export function Explorer({ places }: { places: PlaceSummary[] }) {
 
   const shownPlaces = useMemo(() => shown.map((s) => s.place), [shown]);
   const selected = shownPlaces.find((p) => p.id === selectedId) ?? null;
+  const selectedCover = selected ? coverPhoto(selected.place_media) : null;
   const mapUsable = online && !mapFailed;
   const count = shown.length === 1 ? t.explore.countOne : fill(t.explore.countMany, { count: shown.length });
   const secretMode = filter === "secret";
@@ -135,7 +139,7 @@ export function Explorer({ places }: { places: PlaceSummary[] }) {
           aria-pressed={!!position}
           aria-label={t.explore.nearMe}
           onClick={nearMe}
-          className={`glass pointer-events-auto grid h-12 w-12 shrink-0 place-items-center rounded-full ${position ? "!bg-passe text-white" : ""}`}
+          className={`glass pointer-events-auto grid h-12 w-12 shrink-0 place-items-center rounded-full ${position ? "!bg-sun" : ""}`}
         >
           <LocateFixed size={22} aria-hidden className={geo === "locating" ? "animate-pulse" : ""} />
         </button>
@@ -148,24 +152,30 @@ export function Explorer({ places }: { places: PlaceSummary[] }) {
         header={
           selected && snap === "peek" ? (
             <div className="flex items-center gap-3">
-              <FamilyBadge family={selected.family} size={44} />
+              <span
+                className="relative grid h-16 w-16 shrink-0 place-items-center overflow-hidden rounded-2xl"
+                style={{ backgroundColor: `${FAMILY_STYLE[selected.family].color}66` }}
+              >
+                {selectedCover ? (
+                  <Photo src={selectedCover.external_url} local={selectedCover.storage_path} width={250} className="absolute inset-0 h-full w-full object-cover" />
+                ) : (
+                  <FamilyBadge family={selected.family} size={36} />
+                )}
+              </span>
               <div className="min-w-0 flex-1">
-                <p className="truncate font-display text-xl font-semibold">{selected.name}</p>
+                <p className="truncate font-display text-lg font-semibold">{selected.name}</p>
                 <p className="truncate text-sm text-encre/80">
                   {[t.families[selected.family], selected.locality].filter(Boolean).join(" · ")}
                 </p>
               </div>
-              <Link
-                href={`/lieu/${selected.slug}`}
-                className="inline-flex min-h-11 shrink-0 items-center rounded-full bg-passe px-4 font-semibold text-white"
-              >
+              <Link href={`/lieu/${selected.slug}`} className="bg-sun inline-flex min-h-11 shrink-0 items-center rounded-full px-4 font-semibold">
                 {t.explore.seePlace}
               </Link>
               <button
                 type="button"
                 aria-label={t.explore.closePreview}
                 onClick={() => setSelectedId(null)}
-                className="grid h-11 w-11 shrink-0 place-items-center rounded-full"
+                className="grid h-11 w-11 shrink-0 place-items-center rounded-full bg-brume"
               >
                 <X size={22} aria-hidden />
               </button>
@@ -221,7 +231,7 @@ export function Explorer({ places }: { places: PlaceSummary[] }) {
                   setQuery("");
                   setFilter("all");
                 }}
-                className="inline-flex min-h-11 items-center rounded-full bg-passe px-5 font-semibold text-white"
+                className="inline-flex min-h-11 items-center rounded-full bg-sun px-5 font-semibold"
               >
                 {t.explore.clearFilters}
               </button>

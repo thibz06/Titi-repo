@@ -11,6 +11,10 @@ test("de la carte à la fiche puis à la navigation, en moins de 30 secondes", a
 
   // Le marqueur du lieu sur la carte ouvre l'aperçu, puis la fiche.
   await page.getByRole("button", { name: "Plage de test" }).click();
+  // L'aperçu reste entièrement visible au-dessus de la barre d'onglets.
+  const preview = await page.getByRole("link", { name: "Voir la fiche" }).boundingBox();
+  const tabs = await page.getByRole("navigation", { name: "Navigation principale" }).locator("ul").boundingBox();
+  expect(preview!.y + preview!.height).toBeLessThanOrEqual(tabs!.y);
   await page.getByRole("link", { name: "Voir la fiche" }).click();
   await expect(page.getByRole("heading", { level: 1, name: "Plage de test" })).toBeVisible();
   await expect(page.getByText("1 h à 1 h 30")).toBeVisible();
@@ -22,11 +26,10 @@ test("de la carte à la fiche puis à la navigation, en moins de 30 secondes", a
   expect(Date.now() - start).toBeLessThan(30_000);
 });
 
-test("une fiche non vérifiée est visible, avec un avertissement clair", async ({ page }) => {
+test("une fiche non vérifiée est visible, avec son récit et son site officiel", async ({ page }) => {
   await page.goto("/explorer");
   await page.getByRole("link", { name: /Brouillon de test/ }).click();
   await expect(page.getByRole("heading", { level: 1, name: "Brouillon de test" })).toBeVisible();
-  await expect(page.getByRole("heading", { name: "Fiche pas encore vérifiée sur place" })).toBeVisible();
   // Récit Île secrète et lien vers le site officiel.
   await expect(page.getByText("Récit fictif pour les tests.")).toBeVisible();
   await expect(page.getByRole("link", { name: "Site officiel" })).toHaveAttribute("href", "https://example.org/officiel");
@@ -36,15 +39,13 @@ test("la fiche propose une galerie créditée et une recherche TikTok étiqueté
   await page.goto("/lieu/lieu-de-test-plage");
   await expect(page.getByRole("heading", { name: "En images" })).toBeVisible();
   await expect(page.getByRole("link", { name: "Photo : Auteur fictif 2, CC0" })).toHaveAttribute("href", "https://example.org/page2");
-  const tiktok = page.getByRole("link", { name: "Chercher ce lieu sur TikTok" });
-  await expect(tiktok).toHaveAttribute("href", "https://www.tiktok.com/search?q=Plage%20de%20test%20%C3%AEle%20Maurice");
+  // « Plage de test » → mot-dièse « test » (le mot « plage de » est retiré), lien que l'app TikTok ouvre directement.
+  await expect(page.getByRole("link", { name: "Voir #test sur TikTok" })).toHaveAttribute("href", "https://www.tiktok.com/tag/test");
+  await expect(page.getByRole("link", { name: "Chercher « Plage de test » sur TikTok" })).toHaveAttribute(
+    "href",
+    "https://www.tiktok.com/search?q=Plage%20de%20test%20Mauritius",
+  );
   await expect(page.getByText(/ni choisies ni vérifiées/)).toBeVisible();
-});
-
-test("une fiche vérifiée n'affiche pas l'avertissement", async ({ page }) => {
-  await page.goto("/lieu/lieu-de-test-plage");
-  await expect(page.getByRole("heading", { level: 1, name: "Plage de test" })).toBeVisible();
-  await expect(page.getByRole("heading", { name: "Fiche pas encore vérifiée sur place" })).toHaveCount(0);
 });
 
 test("recherche et filtres réduisent la liste", async ({ page }) => {

@@ -38,8 +38,8 @@ function RewardStamp({ reward, onDone }: { reward: Reward; onDone: () => void })
         className="glass glass-strong grid h-56 w-56 place-items-center rounded-full border-4 !border-passe text-center"
       >
         <div>
-          <Check size={40} strokeWidth={3} aria-hidden className="mx-auto text-passe" />
-          <p className="mt-1 font-display text-2xl font-semibold text-passe">{t.rewardTitle}</p>
+          <Check size={40} strokeWidth={3} aria-hidden className="mx-auto text-braise" />
+          <p className="mt-1 font-display text-2xl font-semibold text-braise">{t.rewardTitle}</p>
           <p className="font-display text-3xl font-semibold">{fill(t.rewardXp, { xp: reward.xp })}</p>
           {reward.region ? <p className="mt-1 px-4 text-sm font-semibold">{t.rewardRegion}</p> : null}
         </div>
@@ -122,7 +122,7 @@ export function CheckIn({ place, regionSlugs }: { place: PlaceSummary; regionSlu
               <button
                 type="button"
                 onClick={() => record("manual", null)}
-                className="inline-flex min-h-11 items-center rounded-full bg-passe px-5 font-semibold text-white"
+                className="inline-flex min-h-11 items-center rounded-full bg-sun px-5 font-semibold"
               >
                 {t.checkinManual}
               </button>

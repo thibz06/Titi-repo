@@ -43,7 +43,7 @@ function Choice({ active, onClick, children }: { active: boolean; onClick: () =>
       type="button"
       aria-pressed={active}
       onClick={onClick}
-      className={`flex min-h-12 w-full items-center gap-3 rounded-2xl px-4 py-2 text-left font-semibold ${active ? "bg-passe text-white" : "bg-brume text-encre"}`}
+      className={`flex min-h-12 w-full items-center gap-3 rounded-2xl px-4 py-2 text-left font-semibold ${active ? "bg-sun" : "bg-brume text-encre"}`}
     >
       {children}
     </button>
@@ -55,13 +55,13 @@ function Stepper({ label, value, min, max, onChange }: { label: string; value: n
     <div className="flex items-center justify-between gap-3 rounded-2xl bg-brume p-2 pl-4">
       <span className="font-semibold">{label}</span>
       <span className="flex items-center gap-2">
-        <button type="button" aria-label={`${t.trip.less} : ${label}`} disabled={value <= min} onClick={() => onChange(value - 1)} className="grid h-11 w-11 place-items-center rounded-full bg-passe text-white disabled:opacity-40">
+        <button type="button" aria-label={`${t.trip.less} : ${label}`} disabled={value <= min} onClick={() => onChange(value - 1)} className="grid h-11 w-11 place-items-center rounded-full bg-sun disabled:opacity-40">
           <Minus size={20} aria-hidden />
         </button>
         <span className="w-8 text-center font-display text-2xl font-semibold" aria-live="polite">
           {value}
         </span>
-        <button type="button" aria-label={`${t.trip.more} : ${label}`} disabled={value >= max} onClick={() => onChange(value + 1)} className="grid h-11 w-11 place-items-center rounded-full bg-passe text-white disabled:opacity-40">
+        <button type="button" aria-label={`${t.trip.more} : ${label}`} disabled={value >= max} onClick={() => onChange(value + 1)} className="grid h-11 w-11 place-items-center rounded-full bg-sun disabled:opacity-40">
           <Plus size={20} aria-hidden />
         </button>
       </span>
@@ -246,9 +246,9 @@ function Questionnaire({ data, rate, onDone }: { data: PlanData; rate: Rate | nu
 
   return (
     <section className="glass rounded-3xl p-5">
-      <p className="text-sm font-semibold text-passe">{fill(t.trip.step, { n: step + 1, total: steps.length })}</p>
+      <p className="text-sm font-semibold text-braise">{fill(t.trip.step, { n: step + 1, total: steps.length })}</p>
       <div role="progressbar" aria-valuemin={1} aria-valuemax={steps.length} aria-valuenow={step + 1} aria-label={t.trip.introTitle} className="mt-2 h-2 overflow-hidden rounded-full bg-encre/15">
-        <div className="h-full rounded-full bg-passe transition-[width] duration-200" style={{ width: `${((step + 1) / steps.length) * 100}%` }} />
+        <div className="h-full rounded-full bg-sun transition-[width] duration-200" style={{ width: `${((step + 1) / steps.length) * 100}%` }} />
       </div>
       <h2 className="mt-4 font-display text-2xl font-semibold">{current.title}</h2>
       {current.hint ? <p className="mt-1 text-sm text-encre/85">{current.hint}</p> : null}
@@ -262,7 +262,7 @@ function Questionnaire({ data, rate, onDone }: { data: PlanData; rate: Rate | nu
         ) : null}
         {!last ? (
           <>
-            <button type="button" disabled={current.valid === false} onClick={() => setStep(step + 1)} className="inline-flex min-h-12 items-center rounded-full bg-passe px-6 font-semibold text-white disabled:opacity-40">
+            <button type="button" disabled={current.valid === false} onClick={() => setStep(step + 1)} className="inline-flex min-h-12 items-center rounded-full bg-sun px-6 font-semibold disabled:opacity-40">
               {t.trip.next}
             </button>
             <button type="button" disabled={current.valid === false} onClick={() => setStep(step + 1)} className="inline-flex min-h-12 items-center px-3 font-semibold underline disabled:opacity-40">
@@ -271,7 +271,7 @@ function Questionnaire({ data, rate, onDone }: { data: PlanData; rate: Rate | nu
           </>
         ) : (
           <>
-            <button type="button" disabled={!datesOk} onClick={() => onDone(d)} className="inline-flex min-h-12 items-center rounded-full bg-passe px-6 font-semibold text-white disabled:opacity-40">
+            <button type="button" disabled={!datesOk} onClick={() => onDone(d)} className="inline-flex min-h-12 items-center rounded-full bg-sun px-6 font-semibold disabled:opacity-40">
               {t.trip.finish}
             </button>
             {!refine ? (
@@ -314,7 +314,7 @@ function DayEditor({ trip, index, data, rate, onChange, onBack }: { trip: Trip; 
       </button>
 
       <section className="glass mt-3 rounded-3xl p-5">
-        <p className="text-sm font-semibold uppercase tracking-widest text-passe">
+        <p className="text-sm font-semibold uppercase tracking-widest text-braise">
           {fill(t.trip.dayTitle, { n: index + 1 })} · {t.trip.variants[trip.variant]}
         </p>
         <h2 className="mt-1 font-display text-3xl font-semibold">{formatDateFr(day.date)}</h2>
@@ -341,7 +341,7 @@ function DayEditor({ trip, index, data, rate, onChange, onBack }: { trip: Trip; 
                   <div className="flex items-center gap-3">
                     <FamilyBadge family={place.family} />
                     <div className="min-w-0 flex-1">
-                      <p className="text-sm font-semibold text-passe">
+                      <p className="text-sm font-semibold text-braise">
                         {clock(stop.arrive)} – {clock(stop.leave)}
                         {stop.locked ? ` · ${t.trip.locked}` : ""}
                       </p>
@@ -423,7 +423,7 @@ function DayEditor({ trip, index, data, rate, onChange, onBack }: { trip: Trip; 
             {t.trip.regenerate}
           </ActionButton>
           {routeUrl ? (
-            <a href={routeUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-passe px-5 font-semibold text-white">
+            <a href={routeUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-sun px-5 font-semibold">
               <Route size={20} aria-hidden />
               {t.trip.openRoute}
             </a>
@@ -443,7 +443,7 @@ function IconButton({ label, onClick, disabled, pressed, children }: { label: st
       aria-pressed={pressed}
       disabled={disabled}
       onClick={onClick}
-      className={`grid h-11 flex-1 place-items-center rounded-full disabled:opacity-35 ${pressed ? "bg-passe text-white" : "bg-brume"}`}
+      className={`grid h-11 flex-1 place-items-center rounded-full disabled:opacity-35 ${pressed ? "bg-sun" : "bg-brume"}`}
     >
       {children}
     </button>
@@ -520,7 +520,7 @@ export function TripView({ data }: { data: PlanData }) {
       <Notice
         title={t.trip.introTitle}
         action={
-          <button type="button" onClick={() => setAsking(true)} className="inline-flex min-h-12 items-center rounded-full bg-passe px-6 text-lg font-semibold text-white">
+          <button type="button" onClick={() => setAsking(true)} className="inline-flex min-h-12 items-center rounded-full bg-sun px-6 text-lg font-semibold">
             {t.trip.start}
           </button>
         }
@@ -555,7 +555,7 @@ export function TripView({ data }: { data: PlanData }) {
             type="button"
             aria-pressed={trip.variant === v}
             onClick={() => tripStore.write({ ...trip, variant: v })}
-            className={`min-h-11 flex-1 rounded-full text-sm font-semibold ${trip.variant === v ? "bg-passe text-white" : ""}`}
+            className={`min-h-11 flex-1 rounded-full text-sm font-semibold ${trip.variant === v ? "bg-sun" : ""}`}
           >
             {t.trip.variants[v]}
           </button>
@@ -569,7 +569,7 @@ export function TripView({ data }: { data: PlanData }) {
           return (
             <li key={day.date}>
               <button type="button" onClick={() => setOpenDay(i)} className="glass block w-full rounded-3xl p-4 text-left">
-                <p className="text-sm font-semibold uppercase tracking-widest text-passe">
+                <p className="text-sm font-semibold uppercase tracking-widest text-braise">
                   {fill(t.trip.dayTitle, { n: i + 1 })} · {formatDateFr(day.date)}
                 </p>
                 {holiday ? <p className="text-sm font-semibold text-[#9c2f17]">{fill(t.trip.holiday, { label: holiday.label })}</p> : null}
@@ -597,7 +597,7 @@ export function TripView({ data }: { data: PlanData }) {
           <div role="alert" className="space-y-2 pt-1">
             <p className="font-semibold">{t.trip.restartConfirm}</p>
             <div className="flex gap-2">
-              <button type="button" onClick={() => { setConfirming(false); setAsking(true); }} className="inline-flex min-h-11 items-center rounded-full bg-passe px-5 font-semibold text-white">
+              <button type="button" onClick={() => { setConfirming(false); setAsking(true); }} className="inline-flex min-h-11 items-center rounded-full bg-sun px-5 font-semibold">
                 {t.trip.confirm}
               </button>
               <button type="button" onClick={() => setConfirming(false)} className="inline-flex min-h-11 items-center rounded-full bg-brume px-5 font-semibold">

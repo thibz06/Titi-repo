@@ -28,10 +28,10 @@ export default function HomePage() {
     <main className="mx-auto min-h-dvh max-w-md pb-[calc(104px+env(safe-area-inset-bottom))]">
       <header className="flex items-end justify-between gap-4 px-5 pt-[max(2rem,env(safe-area-inset-top))]">
         <div>
-          <p className="text-sm font-semibold uppercase tracking-widest text-passe">{t.home.kicker}</p>
+          <p className="text-sm font-semibold uppercase tracking-widest text-braise">{t.home.kicker}</p>
           <h1 className="mt-1 font-display text-4xl font-semibold leading-tight">{t.home.title}</h1>
         </div>
-        <Link href="/explorer" aria-label={t.home.search} className="grid h-14 w-14 shrink-0 place-items-center rounded-full bg-passe text-white shadow-[0_8px_20px_rgb(11_79_108/0.35)]">
+        <Link href="/explorer" aria-label={t.home.search} className="grid h-14 w-14 shrink-0 place-items-center rounded-full bg-sun shadow-[0_10px_24px_rgb(255_122_77/0.4)]">
           <Search size={24} aria-hidden />
         </Link>
       </header>
@@ -49,7 +49,7 @@ export default function HomePage() {
       <section className="mt-6">
         <div className="flex items-baseline justify-between px-5">
           <h2 className="font-display text-2xl font-semibold">{t.home.featuredTitle}</h2>
-          <Link href="/explorer" className="inline-flex min-h-11 items-center text-sm font-semibold text-passe underline-offset-2 hover:underline">
+          <Link href="/explorer" className="inline-flex min-h-11 items-center text-sm font-semibold text-braise underline-offset-2 hover:underline">
             {t.home.seeAll}
           </Link>
         </div>

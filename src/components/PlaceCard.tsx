@@ -28,7 +28,7 @@ export function PlaceCard({ place, note, visited = false }: { place: PlaceSummar
         ) : null}
       </span>
       {visited ? (
-        <span className="mr-2 grid h-9 w-9 shrink-0 place-items-center rounded-full bg-passe text-white" title={t.place.checkinDone}>
+        <span className="mr-2 grid h-9 w-9 shrink-0 place-items-center rounded-full bg-sun" title={t.place.checkinDone}>
           <Check size={18} strokeWidth={3} aria-label={t.place.checkinDone} />
         </span>
       ) : null}

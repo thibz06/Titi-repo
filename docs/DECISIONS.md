@@ -79,8 +79,17 @@ Thibault n'a pas réussi à mettre en place Supabase et veut une app entièremen
 ## Photos
 Uniquement des fichiers Wikimedia Commons dont l'auteur et la licence sont enregistrés dans la fiche et affichés. `pnpm photos:fetch` en copie une version réduite dans `public/photos` (960 px pour la couverture, 500 px pour la galerie) et note le chemin dans `storage_path` : l'affichage ne dépend plus de Wikimedia, qui limite le débit, et fonctionne hors-ligne. Si la copie manque, l'app retombe sur la miniature Wikimedia, puis sur l'original, puis sur l'aplat de la famille. Une fiche peut porter jusqu'à quatre photos (galerie « En images »).
 
-## Style « clair et photo » (24 novembre 2026)
-Thibault n'a pas aimé le rendu « verre » (trop loin de ce qu'il attendait) et a fourni une référence : interface claire, grandes photos aux coins très arrondis, bleu profond pour les actions, pastilles. L'app suit maintenant cet esprit, sans copier la maquette : fond gris très clair (`brume`), cartes blanches, bleu passe pour les boutons (texte blanc), photo du lieu en en-tête de fiche avec le nom en surimpression sur un voile sombre (contraste AA), carrousel de grandes cartes photo sur l'accueil. Les classes `.glass` désignent désormais une carte blanche ; `.frost` (blanc translucide flouté) est réservé aux commandes posées sur une photo. Sans photo créditée, la carte prend la couleur de la famille du lieu avec son icône. Les couleurs Lagon, Soleil, Corail et les polices restent celles du projet.
+## Style « été » (24 novembre 2026)
+Historique : le premier style (« Lagon et basalte », sable et bleu) puis le « verre » n'ont pas plu ; Thibault a fourni une référence (grandes photos très arrondies, interface claire et épurée) puis demandé des couleurs chaudes et estivales, « presque futuriste ». État actuel : fond blanc chaud, cartes blanches sans bordure, actions en dégradé soleil → corail, sélection en turquoise, titres en Sora à la place de Fraunces. Le texte reste Encre sur les dégradés pour tenir le contraste AA. Photo du lieu en en-tête de fiche, carrousel de grandes cartes photo sur l'accueil ; sans photo, aplat à la couleur de la famille.
+
+## Bandeau de vérification retiré (24 novembre 2026)
+À la demande de Thibault, les fiches n'affichent plus « Fiche pas encore vérifiée sur place ». Les sources et leur date de consultation restent en bas de fiche, et « Non renseigné » reste affiché pour tout champ inconnu. Conséquence assumée : rien ne distingue plus visuellement une fiche vérifiée d'une fiche seulement sourcée, sauf la ligne « Fiche vérifiée le … » quand elle existe.
+
+## TikTok
+Deux liens en bas de fiche : la page du mot-dièse (`tiktok.com/tag/…`, que l'app TikTok ouvre directement) et une recherche. Le lien de recherche seul ouvrait le site sans remplir la recherche sur iPhone. Le mot-dièse est déduit du nom du lieu : il peut ne mener à aucune vidéo pour un lieu peu connu. Non vérifiable depuis l'environnement de développement.
+
+## Mise à jour de l'app sur le téléphone
+Le service worker gardait l'ancienne version affichée. L'app vérifie maintenant s'il existe une version plus récente à chaque ouverture et se recharge une fois quand elle prend la main.
 
 ## Onglets
 Le brief prévoit cinq onglets. Seuls ceux qui fonctionnent sont affichés (Accueil, Explorer, Profil) ; Quêtes et Mon voyage apparaîtront avec leurs phases, pour ne montrer aucun bouton vide.
