@@ -1,0 +1,76 @@
+{
+  "slug": "coolen-chez-ram-grand-baie",
+  "name": "Coolen, chez Ram",
+  "family": "manger",
+  "tags": [],
+  "region": "nord",
+  "locality": "Grand Baie",
+  "lat": -20.0152145,
+  "lng": 57.5733522,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Coolen+Grand+Baie&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Restaurant de cuisine locale sur la route Royale de Grand Baie : poisson et fruits de mer, portions copieuses, prix doux selon le Routard.",
+  "description_md": "Coolen, chez Ram, est un restaurant de la route Royale à Grand Baie, côté mer, près du temple tamoul. Le Routard le décrit en 2022 comme une table de cuisine locale copieuse et bon marché, avec des spécialités de poisson et de fruits de mer, dont un poisson cuit dans une feuille de bananier.",
+  "why_go_md": "Pour un repas assis de cuisine mauricienne à Grand Baie sans les prix des tables de front de mer.",
+  "likes": [
+    "Poisson en feuille de bananier, fruits de mer",
+    "Portions copieuses d'après le Routard",
+    "Salle et terrasse en bord de route"
+  ],
+  "watchouts": [
+    "Terrasse de quelques tables seulement, au bord de la route"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Coolen+Grand+Baie&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Coolen Grand Baie »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":5630024849,\"lat\":\"-20.0152145\",\"lon\":\"57.5733522\" [...] \"name\":\"Coolen\""
+    },
+    {
+      "field": "description_md, pitch, likes, watchouts, why_go_md",
+      "url": "https://www.routard.com/fr/mag/reportage/a/ile-maurice-la-cote-nord-de-port-louis-a-cap-malheureux",
+      "title": "Île Maurice : la côte Nord, de Port-Louis à Cap Malheureux",
+      "accessed_at": "2026-11-24",
+      "evidence": "Restaurant Coolen, chez Ram : route Royale, côté mer, tout près du temple tamoul à Grand Baie. Cuisine locale copieuse et bon marché. Spécialités de fruits de mer et de poisson (dans une feuille de bananier notamment). Salle et terrasse avec une poignée de tables au bord de route."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.routard.com/fr/mag/reportage/a/ile-maurice-la-cote-nord-de-port-louis-a-cap-malheureux",
+      "title": "Île Maurice : la côte Nord, de Port-Louis à Cap Malheureux",
+      "accessed_at": "2026-11-24",
+      "evidence": "par Aurélie Michel 14 octobre 2022"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucun prix chiffré ni horaire trouvé ; « bon marché » est l'appréciation du Routard (reportage du 14 octobre 2022).",
+    "Pas de site officiel trouvé."
+  ],
+  "website_url": null,
+  "secret": null
+}

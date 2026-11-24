@@ -6,7 +6,7 @@ test.beforeEach(async ({ page }) => mockMap(page));
 test("de la carte à la fiche puis à la navigation, en moins de 30 secondes", async ({ page }) => {
   const start = Date.now();
   await page.goto("/");
-  await page.getByRole("link", { name: "Ouvrir la carte" }).click();
+  await page.getByRole("link", { name: "Chercher un lieu" }).click();
   await expect(page.getByText("3 lieux")).toBeVisible();
 
   // Le marqueur du lieu sur la carte ouvre l'aperçu, puis la fiche.

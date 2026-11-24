@@ -1,0 +1,93 @@
+{
+  "slug": "plage-de-saint-felix",
+  "name": "Plage de Saint Félix",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "sud",
+  "locality": "Rivière des Galets",
+  "lat": -20.5097082,
+  "lng": 57.4645768,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=St+Felix+Public+Beach&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Large plage de sable clair de la côte sud, entre Souillac et Bel Ombre, peu fréquentée ; attention aux courants.",
+  "description_md": "Saint Félix se trouve sur la côte sud, entre Souillac et Bel Ombre. L'office du tourisme la range parmi les meilleures plages du sud et parmi les plus calmes de l'île : quelques hôtels, des snacks et des terrains de sport bordent son sable clair. La Beach Authority y recense une plage publique proclamée d'environ 819 mètres de front de mer. L'eau est peu profonde près du bord, mais sujette à de forts courants.",
+  "why_go_md": "Pour une grande plage large et tranquille, avec de la place pour jouer (volley) ou simplement écouter les vagues qui se brisent sur le récif.",
+  "likes": [
+    "Plage large et calme, peu construite",
+    "Eau claire, peu profonde près du rivage",
+    "De l'espace pour les jeux de plage ; cocotiers",
+    "Snacks à proximité"
+  ],
+  "watchouts": [
+    "Courants forts : l'office du tourisme réserve la baignade aux nageurs expérimentés",
+    "Récifs coralliens à l'entrée dans l'eau"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": "Courants forts et récifs : baignade à réserver aux nageurs expérimentés selon l'office du tourisme (Mauritius Now).",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=St+Felix+Public+Beach&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « St Felix Public Beach »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 10241434920 (natural=beach) « St Felix Public Beach » : lat -20.5097082, lon 57.4645768"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/st-felix-beach/",
+      "title": "St Felix Beach (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "You’ll find this gem between Souillac and Bel Ombre and it’s one of the quieter beaches on the island, with only a few hotels, snack bars and sports courts edging its milky-coloured sands."
+    },
+    {
+      "field": "description_md, why_go_md, likes, watchouts, risk_note",
+      "url": "https://mauritiusnow.com/blog/things-to-do/st-felix-beach/",
+      "title": "St Felix Beach (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "This picturesque spot is blessed with clear aqua waters, which are shallow near the shoreline but prone to some strong currents. Its soft and wide sandy beach offers plenty of space for activities, such as volleyball, leaving others to simply enjoy the relaxing sound of waves breaking on the reef."
+    },
+    {
+      "field": "watchouts, risk_note, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-beaches-in-mauritius/",
+      "title": "Best beaches in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "although offshore currents and coral reefs mean entering the water is best left to experienced swimmers [...] Energetic types can frolic underneath the coconut trees"
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius (Beach Authority, fichier List2025.pdf)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Saint Felix (inclusive of 0.6343 ha- GN 6.6456 819 214/2005"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "`price_kind` à null : aucune source lue n'écrit que la plage est gratuite.",
+    "`risk_level` à null : les courants sont signalés par l'office du tourisme, sans niveau officiel ni information sur une surveillance.",
+    "Localité : OpenStreetMap rattache la plage à Rivière des Galets ; à confirmer."
+  ],
+  "website_url": null,
+  "secret": null
+}

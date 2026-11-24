@@ -1,0 +1,84 @@
+{
+  "slug": "street-food-plage-de-mont-choisy",
+  "name": "Marchands de la plage de Mont Choisy",
+  "family": "manger",
+  "tags": [],
+  "region": "nord",
+  "locality": "Mont Choisy",
+  "lat": -20.0144073,
+  "lng": 57.5564468,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Mont+Choisy+Public+Beach&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Camionnettes et cuisiniers ambulants de la plage publique : gâteaux piments, samoussas, rotis, hamburgers et glaces.",
+  "description_md": "Sur la plage publique de Mont Choisy, comme sur celle de Trou aux Biches, des cuisiniers ambulants vendent gâteaux piments, samoussas, rotis et hamburgers, d'après le Routard (2022). À Mont Choisy, les commerçants titulaires d'un permis de la Beach Authority travaillent depuis leur camionnette, en bordure de route.",
+  "why_go_md": "Pour déjeuner sur le pouce sans quitter la plage, avec la street food mauricienne classique.",
+  "likes": [
+    "Gâteaux piments, samoussas, rotis, hamburgers",
+    "Vente depuis des camionnettes en bordure de route, à côté de la plage"
+  ],
+  "watchouts": [
+    "Demande le prix avant de commander : en septembre 2024, deux touristes ont payé Rs 800 pour deux glaces à un marchand de sorbet sans permis, selon la Beach Authority citée par Defimedia",
+    "La Consumer Affairs Unit réclame l'affichage des prix sur les plages : tous les marchands ne les affichent donc pas"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Mont+Choisy+Public+Beach&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Mont Choisy Public Beach »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":10152727616,\"lat\":\"-20.0144073\",\"lon\":\"57.5564468\" [...] \"name\":\"Mont Choisy Public Beach\""
+    },
+    {
+      "field": "description_md, pitch, likes, why_go_md",
+      "url": "https://www.routard.com/fr/mag/reportage/a/ile-maurice-la-cote-nord-de-port-louis-a-cap-malheureux",
+      "title": "Île Maurice : la côte Nord, de Port-Louis à Cap Malheureux",
+      "accessed_at": "2026-11-24",
+      "evidence": "Des cuisiniers ambulants proposent des gâteaux-piments, samoussas, rotis et... hamburgers), sur la plage de Mont-Choisy et la plage publique de Trou aux Biches."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://defimedia.info/mont-choisy-les-commercants-de-la-plage-crient-au-favoritisme",
+      "title": "Mont Choisy  - Les commerçants de la plage crient au «favoritisme» | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "la Beach Authority leur a donné un permis qui leur donne l’autorisation de travailler dans leur van en bordure de route."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://defimedia.info/rs-800-note-salee-pour-deux-glaces-sur-la-plage-de-mont-choisy",
+      "title": "Rs 800 : note salée pour deux glaces sur la plage de Mont-Choisy  | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Un commerçant leur a fait payer deux glaces à Rs 800 sur la plage de Mont-Choisy. La Beach Authority annonce mardi que ce marchand de sorbet ne détient aucun permis en bonne et due forme. La Consumer Affairs Unit insiste pour l’affichage des prix sur les plages."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucun prix ni horaire trouvé pour les marchands.",
+    "Les stands ne sont pas cartographiés : coordonnées du point « Mont Choisy Public Beach » d'OpenStreetMap.",
+    "Sources de 2018 (organisation des permis) et 2022 (Routard) : offre à vérifier sur place."
+  ],
+  "website_url": null,
+  "secret": null
+}

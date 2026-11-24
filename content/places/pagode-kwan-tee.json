@@ -1,0 +1,83 @@
+{
+  "slug": "pagode-kwan-tee",
+  "name": "Pagode Kwan Tee",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis (Les Salines)",
+  "lat": -20.1615701,
+  "lng": 57.4920822,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Kwan%20Tee%20Pagoda",
+  "google_place_id": null,
+  "pitch": "Pagode rouge de 1842 aux Salines, à Port-Louis, présentée comme la plus ancienne de l'hémisphère sud.",
+  "description_md": "La pagode Kwan Tee se trouve aux Salines, à Port-Louis. Construite par la communauté chinoise en 1842, elle est présentée par l'office du tourisme comme la plus ancienne pagode de l'hémisphère sud et du continent africain. Elle est dédiée à Kwan Tee, dieu de la richesse, de la guerre et de la droiture, et figure sur la liste du patrimoine national (sous le nom de Cohan Tai Biou).",
+  "why_go_md": "Pour une pause au calme dans la capitale : un bâtiment rouge vif rehaussé de jaune et de vert, tourné vers la mer et adossé aux montagnes, avec un jardin ombragé par des arbres fruitiers à l'arrière.",
+  "likes": [
+    "Bâtiment de 1842, classé au patrimoine national",
+    "Façade rouge vif, cocotiers à l'avant, jardin d'arbres fruitiers à l'arrière",
+    "On peut entrer, déposer une offrande et se promener dans les jardins"
+  ],
+  "watchouts": [
+    "C'est un lieu de culte en activité : tenue et comportement discrets (aucune règle de visite n'est détaillée par les sources lues)"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "peu_connu",
+  "rarity_reason": "Plus ancienne pagode de l'hémisphère sud selon l'office du tourisme (1842), et pourtant décrite comme une oasis de calme dans la capitale.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Kwan%20Tee%20Pagoda",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.1615701\",\"lon\":\"57.4920822\" [...] \"type\":\"place_of_worship\" [...] \"display_name\":\"Kwan Tee Pagoda, Eugene Street, Les Salines, Caudan, Town of Port-Louis, Ward 3, Port Louis, 11306, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch, rarity",
+      "url": "https://mauritiusnow.com/blog/things-to-do/kwan-tee-pagoda/",
+      "title": "Kwan Tee Pagoda: Mauritius' Cultural Gem — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Found within Les Salines in Mauritius’ busy capital of Port Louis, Kwan Tee Pagoda is an oasis of peace and tranquillity. It was built by the Chinese community in 1842, making it the oldest pagoda in the Southern Hemisphere and the African continent. This National Heritage Site is associated with the Cult of Kwan Tee, the god of wealth, war and righteousness."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/kwan-tee-pagoda/",
+      "title": "Kwan Tee Pagoda: Mauritius' Cultural Gem — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Step inside Kwan Tee Pagoda and leave an offering at the alters or stroll through the gardens and admire the view. In keeping with the principles of spirituality, the pagoda faces the sea and is backed by mountains. It’s painted bright red with elements of yellow and green. Coconut trees sway gently in the breeze at the front while seasonal fruit trees add cool shade among the grounds at the back."
+    },
+    {
+      "field": "description_md",
+      "url": "https://nhf.govmu.org/nhf/?page_id=709",
+      "title": "Port Louis (National Heritage Sites) — National Heritage Fund",
+      "accessed_at": "2026-11-24",
+      "evidence": "12. Cohan Tai Biou Pagoda (Kwan Tee Pagoda) (Les Salines)"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Horaires d'ouverture aux visiteurs et gratuité : non précisés par les sources ; price_kind et opening_hours à null.",
+    "rarity = peu_connu est une appréciation de ma part (aucune source ne mesure la fréquentation) : à trancher."
+  ],
+  "website_url": "https://mauritiusnow.com/blog/things-to-do/kwan-tee-pagoda/",
+  "secret": null
+}

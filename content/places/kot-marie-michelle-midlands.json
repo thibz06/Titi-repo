@@ -1,0 +1,106 @@
+{
+  "slug": "kot-marie-michelle-midlands",
+  "name": "Kot Marie-Michelle (table d’hôte)",
+  "family": "manger",
+  "tags": [],
+  "region": "centre",
+  "locality": "Midlands",
+  "lat": -20.339943,
+  "lng": 57.569334,
+  "coords_source_url": "https://www.openstreetmap.org/node/10570679249",
+  "google_place_id": null,
+  "pitch": "Table d’hôte au feu de bois parmi les champs de canne de Midlands : cuisine créole d’antan, sur réservation seulement.",
+  "description_md": "À Midlands, au milieu des champs de canne, Marie-Michelle Lindor reçoit chez elle, dans un espace aménagé au milieu du potager. Elle cuisine au feu de bois dans la vieille « caraille » héritée de sa grand-mère, avec des épices qu’elle écrase elle-même. Le Mauricien, en 2018, décrivait une table d’hôte ouverte depuis cinq ans avec son amie Brigitte Canotte, qui cultive les légumes sans pesticides.",
+  "why_go_md": "Pour un repas créole complet servi comme chez l’habitant : la maison ne reçoit qu’un seul groupe par jour et propose une formule allant du jus maison au dessert.",
+  "likes": [
+    "Formule : jus maison, beignets (fruit à pain, aubergine ou manioc), un légume, un grain sec, deux plats de viande ou ourite / « kari zak », et un dessert",
+    "Plats cités : « kari zak » au porc, salmi de sanglier ou de cerf, cari de poulet, poisson",
+    "Herbes et légumes du potager"
+  ],
+  "watchouts": [
+    "Réservation impérative, en précisant le choix des plats",
+    "Un seul groupe par jour, 25 personnes au maximum",
+    "La maison ne reçoit pas tous les jours : cela dépend des réservations"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Midlands%2C+Mauritius&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Midlands, Mauritius »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Midlands, Midlands VCA, Plaines Wilhems, 74513, Mauritius / Maurice — lat -20.3399426, lon 57.5693343 (node 10570679249)"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.lemauricien.com/featured/kot-marie-michelle-vieille-caraille-et-sauce-au-feu-de-bois/238626/",
+      "title": "Kot Marie-Michelle : Vieille caraille et sauce au feu de bois | Le Mauricien (21 octobre 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "À Midlands, parmi les champs de canne, dans un coin reclus, loin du brouhaha de la ville, une table d’hôte propose des mets authentiquement mauriciens. Dans la vieille caraille noircie au feu de bois que Marie-Michelle Lindor a héritée de sa grand-mère sont mijotés du “kari zak” accompagné de porc, du sanglier, du cerf"
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.lemauricien.com/featured/kot-marie-michelle-vieille-caraille-et-sauce-au-feu-de-bois/238626/",
+      "title": "Kot Marie-Michelle : Vieille caraille et sauce au feu de bois | Le Mauricien (21 octobre 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "cela fait déjà cinq ans que leur table d’hôte s’est implantée chez Marie-Michelle"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://www.lemauricien.com/featured/kot-marie-michelle-vieille-caraille-et-sauce-au-feu-de-bois/238626/",
+      "title": "Kot Marie-Michelle : Vieille caraille et sauce au feu de bois | Le Mauricien (21 octobre 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "les deux amies ont agrandi l’espace au milieu du potager de la maison, où poussent fièrement coriandre, céleri, persil, ayapana, citronnelle et brèdes songe, entre autres. Quant aux légumes, c’est Brigitte qui les cultive, sans pesticides"
+    },
+    {
+      "field": "watchouts, why_go_md",
+      "url": "https://www.lemauricien.com/featured/kot-marie-michelle-vieille-caraille-et-sauce-au-feu-de-bois/238626/",
+      "title": "Kot Marie-Michelle : Vieille caraille et sauce au feu de bois | Le Mauricien (21 octobre 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "un seul groupe est accueilli par jour, pour un maximum de 25 personnes [...] Avant de s’y rendre, il est donc impératif de réserver et de préciser son choix de plats"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.lemauricien.com/featured/kot-marie-michelle-vieille-caraille-et-sauce-au-feu-de-bois/238626/",
+      "title": "Kot Marie-Michelle : Vieille caraille et sauce au feu de bois | Le Mauricien (21 octobre 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Parfois, elles reçoivent des réservations six jours sur sept, d’autres fois deux jours par semaine"
+    },
+    {
+      "field": "likes, why_go_md",
+      "url": "https://www.lemauricien.com/featured/kot-marie-michelle-vieille-caraille-et-sauce-au-feu-de-bois/238626/",
+      "title": "Kot Marie-Michelle : Vieille caraille et sauce au feu de bois | Le Mauricien (21 octobre 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "un jus à base de grenadine/citronnelle/limon et gingembre/ananas, dépendant de la disponibilité; des beignets de fruit à pain/aubergine/manioc, un légume, un grain sec, deux plats de viande ou ourite/“kari zak”, plus un dessert"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Source unique datée d’octobre 2018 : activité en 2026, prix de la formule et contact de réservation non vérifiés.",
+    "Coordonnées approximatives : centre du village de Midlands dans OpenStreetMap ; la table d’hôte n’y figure pas."
+  ],
+  "website_url": null,
+  "secret": null
+}

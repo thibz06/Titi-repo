@@ -1,0 +1,114 @@
+{
+  "slug": "le-tamaris-vacoas",
+  "name": "Le Tamaris Restaurant, Vacoas",
+  "family": "manger",
+  "tags": [],
+  "region": "centre",
+  "locality": "Vacoas",
+  "lat": -20.296058,
+  "lng": 57.493157,
+  "coords_source_url": "https://www.openstreetmap.org/node/4503754989",
+  "google_place_id": null,
+  "pitch": "Restaurant cantonais et mauricien au premier étage du complexe municipal de Vacoas, né d’un snack de quartier.",
+  "description_md": "Le Tamaris occupe le premier étage du complexe municipal de Vacoas, avenue Swami Sivananda. D’après Le Défi (2017), l’affaire a démarré en 2006 comme un snack à Camp Bombaye avant de devenir un restaurant d’une centaine de places. La carte mêle cuisine cantonaise et plats mauriciens.",
+  "why_go_md": "Les propriétaires disaient en 2017 viser des prix raisonnables, identiques pour les touristes et les habitants, avec des plats végétariens et la vente à emporter.",
+  "likes": [
+    "Plat maison « Le Riz Tamaris » : riz, œufs, poivrons, carottes, champignons noirs et poulet",
+    "Cari de poisson masala, cari de poulet, bol renversé et nouilles",
+    "Plats végétariens : gratin, soupe, nouilles, riz ou meefoon frits",
+    "Vente à emporter pour toute la carte"
+  ],
+  "watchouts": [
+    "Informations de janvier 2017 : carte et prix ont pu changer"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": {
+    "fauteuil_roulant": "Toilettes adaptées et fauteuils roulants mis à disposition, d’après Le Défi (2017)"
+  },
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Le+Tamaris+Vacoas&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Le Tamaris Vacoas »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le Tamaris, Swami Sivananda Avenue, Clairfonds, Town of Vacoas-Phoenix, Ward 3, Vacoas-Phoenix, Plaines Wilhems, 73411, Mauritius / Maurice — lat -20.2960579, lon 57.4931566 (node 4503754989)"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://defimedia.info/le-tamaris-restaurant-cantonese-and-mauritian-food-relish",
+      "title": "Le Tamaris Restaurant: Cantonese and Mauritian food to relish | Defimedia (19 janvier 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Located on the first floor of the Municipal Complex of Vacoas at Swami Sivananda Avenue, Le Tamaris restaurant is the place to be for both Cantonese and Mauritian exquisiteness"
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/le-tamaris-restaurant-cantonese-and-mauritian-food-relish",
+      "title": "Le Tamaris Restaurant: Cantonese and Mauritian food to relish | Defimedia (19 janvier 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Opened since 2006, Le Tamaris was initially a snack run by the owner Kissan Sookha. He started this project alongside his video club at Camp Bombaye, Vacoas"
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/le-tamaris-restaurant-cantonese-and-mauritian-food-relish",
+      "title": "Le Tamaris Restaurant: Cantonese and Mauritian food to relish | Defimedia (19 janvier 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le Tamaris is a contemporary restaurant, with a seating capacity of 100"
+    },
+    {
+      "field": "likes",
+      "url": "https://defimedia.info/le-tamaris-restaurant-cantonese-and-mauritian-food-relish",
+      "title": "Le Tamaris Restaurant: Cantonese and Mauritian food to relish | Defimedia (19 janvier 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "This colourful dish consists of rice, eggs, capsicum (red, green and yellow), carrots, dark mushroom and chicken"
+    },
+    {
+      "field": "likes",
+      "url": "https://defimedia.info/le-tamaris-restaurant-cantonese-and-mauritian-food-relish",
+      "title": "Le Tamaris Restaurant: Cantonese and Mauritian food to relish | Defimedia (19 janvier 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The Mauritian masala fish curry, chicken curry, “bol renversé” and noodles are also available. Vegetarian food lovers are also catered for with gratin, Teokon curry, soup, fried noodles/rice/meefoon"
+    },
+    {
+      "field": "why_go_md, accessibility",
+      "url": "https://defimedia.info/le-tamaris-restaurant-cantonese-and-mauritian-food-relish",
+      "title": "Le Tamaris Restaurant: Cantonese and Mauritian food to relish | Defimedia (19 janvier 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "All menus at Le Tamaris are affordable and the prices are the same for tourists [...] Le Tamaris has made a special arrangement for physically-challenged people. Besides its toilet, wheelchairs are also provided"
+    },
+    {
+      "field": "likes, why_go_md",
+      "url": "https://defimedia.info/le-tamaris-restaurant-cantonese-and-mauritian-food-relish",
+      "title": "Le Tamaris Restaurant: Cantonese and Mauritian food to relish | Defimedia (19 janvier 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "a take-away service for all menus is offered"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Source unique de janvier 2017 : prix, horaires et jours d’ouverture non sourcés.",
+    "L’établissement est toujours cartographié à cette adresse dans OpenStreetMap, sans date de vérification."
+  ],
+  "website_url": null,
+  "secret": null
+}

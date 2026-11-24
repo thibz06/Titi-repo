@@ -1,0 +1,67 @@
+{
+  "slug": "mister-chu-chinatown",
+  "name": "Mister Chu (gâteaux chinois)",
+  "family": "manger",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.158718,
+  "lng": 57.5065145,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Chinatown+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Boutique de Chinatown qui vend des produits asiatiques et des gâteaux chinois artisanaux, dont des boules de sésame à l'ananas.",
+  "description_md": "Mister Chu est une boutique du quartier chinois de Port-Louis qui vend des produits asiatiques et des gâteaux chinois artisanaux. Le magazine TASTE y a goûté en 2023 des boules de sésame fourrées à l'ananas et aux noix plutôt qu'à la pâte de haricot rouge.",
+  "why_go_md": "Pour une pause sucrée pendant la visite de Chinatown, avec une pâtisserie chinoise adaptée aux goûts de l'île.",
+  "likes": [
+    "Boules de sésame fourrées à l'ananas et aux noix",
+    "Gâteaux chinois artisanaux et épicerie asiatique"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Chinatown+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Chinatown Port Louis »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":9271987047,\"lat\":\"-20.1587180\",\"lon\":\"57.5065145\" [...] \"name\":\"Chinatown\""
+    },
+    {
+      "field": "description_md, pitch, likes, why_go_md",
+      "url": "https://taste.co.za/5-street-foods-to-try-in-port-louis-mauritius/",
+      "title": "5 street foods to try in Port Louis, Mauritius | Woolworths TASTE",
+      "accessed_at": "2026-11-24",
+      "evidence": "In China Town, we headed to Mister CHU, which sells Asian products and artisanal Chinese cakes. Mister CHU has been in Mauritius since 1942 and the sesame balls they sell are a great reflection of the multicultural island. While sesame balls are traditionally filled with red bean paste, these were filled with pineapple and nuts!"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "La boutique n'est pas cartographiée dans OpenStreetMap : coordonnées du quartier de Chinatown, adresse exacte à relever.",
+    "Aucun prix ni horaire trouvé ; le site misterchu.mu n'a pas répondu.",
+    "Source unique : un magazine culinaire sud-africain (juillet 2023), visite faite avec un tour guidé."
+  ],
+  "website_url": null,
+  "secret": null
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "cascade-mamzelle",
+  "name": "Cascade Mamzelle",
+  "family": "cascades_rivieres",
+  "tags": [],
+  "region": "sud",
+  "locality": "Souillac",
+  "lat": -20.5209713,
+  "lng": 57.5393729,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Cascade+Mamzelle&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Cascade discrète du sud sauvage, près de Souillac et de Gris Gris, surtout connue des habitants ; guide conseillé.",
+  "description_md": "La cascade Mamzelle se cache dans le sud sauvage, près de Souillac, à courte distance de la plage de Gris Gris. Elle est à l'écart et surtout connue des habitants. D'après l'office du tourisme, la marche part du haut des falaises de Gris Gris et offre des vues sur la côte ; il annonce 4 kilomètres et 2 heures.",
+  "why_go_md": "Pour une marche côtière peu fréquentée qui se termine par une cascade, à combiner avec Gris Gris et La Roche qui Pleure.",
+  "likes": [
+    "Cascade peu connue des visiteurs",
+    "Vues sur la côte sud depuis les falaises de Gris Gris",
+    "Se combine avec Gris Gris et La Roche qui Pleure"
+  ],
+  "watchouts": [
+    "Sentier difficile à trouver : l'office du tourisme recommande un guide"
+  ],
+  "tips_md": null,
+  "duration_min": 120,
+  "duration_max": 120,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Cascade+Mamzelle&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Cascade Mamzelle »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 5737380656 (waterway=waterfall) « Cascade Mamzelle » : lat -20.5209713, lon 57.5393729"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, watchouts, duration_min, duration_max",
+      "url": "https://mauritiusnow.com/blog/things-to-do/waterfalls-in-mauritius/",
+      "title": "Waterfalls in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "In the wild south of Mauritius, also close to Souillac, you’ll find Cascade Mamzelle. We recommend a guide to help you explore the path to get to the waterfall, as it’s tucked away and mostly known by locals. This waterfall in Mauritius is a short distance from Gris Gris Beach, a public sandy beach with dramatic waves. Follow the signs to La Roche Qui Pleure to watch the sea crashing up on the cliff. 4km 2 hours"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/active-sports-in-mauritius/",
+      "title": "Active sports in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Alternatively, hike Cascade Mamzelle. Start this hike to the hidden waterfall along the cliff of Gris Gris Beach and take in the beautiful views of the wild south."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Durée : « 4km 2 hours » selon l'office du tourisme, sans préciser aller simple ou aller-retour.",
+    "Difficulté, baignade, état du sentier et statut du terrain (public ou privé) : aucune source lue.",
+    "Mer forte à Gris Gris : la sécurité du sentier en bord de falaise n'est pas documentée par les sources lues."
+  ],
+  "website_url": null,
+  "secret": null
+}

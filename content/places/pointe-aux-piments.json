@@ -1,0 +1,83 @@
+{
+  "slug": "pointe-aux-piments",
+  "name": "Plages de Pointe aux Piments",
+  "family": "plages_lagon",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Pointe aux Piments",
+  "lat": -20.0649789,
+  "lng": 57.5189411,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Pointe%20aux%20Piments%20Public%20Beach",
+  "google_place_id": null,
+  "pitch": "Chapelet de petites plages publiques le long du village de Pointe aux Piments. Baignade signalée à risque.",
+  "description_md": "À Pointe aux Piments, la Beach Authority recense une série de plages publiques proclamées, pour la plupart en 1991 : sept « portions » numérotées le long de la côte, une petite plage principale (« Main Beach », 111 m de front de mer) et une parcelle de réserve. Certaines sont situées près d'hôtels ou du débarcadère de pêche.",
+  "why_go_md": null,
+  "likes": [
+    "Plusieurs accès publics au rivage répartis le long du village (liste de la Beach Authority, 2025)"
+  ],
+  "watchouts": [
+    "Panneaux « Baignade dangereuse » installés à Pointe aux Piments et à Pointe aux Biches (liste citée au Parlement, avril 2024)",
+    "Pointe-aux-Piments figurait déjà en 2018 sur la liste des 36 lagons à risque de la Beach Authority"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": "medium",
+  "risk_note": "Plage munie de panneaux « Baignade dangereuse » (2024). Renseigne-toi sur place et respecte les panneaux.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Pointe%20aux%20Piments%20Public%20Beach",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.0649789\",\"lon\":\"57.5189411\" [...] \"type\":\"attraction\" [...] \"display_name\":\"Pointe aux Piments Public Beach, Solitude Road, Petite Pointe aux Piments, Pointe aux Piments, Pointe aux Piments VCA, Pamplemousses, 21416, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius — Beach Authority (liste datée du 18 juillet 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Pointe aux Piments (Pointe Oberoi) -Portion 1 1.4054 146 179/1991 [...] Pointe aux Piments (near Fish Landing Station) - [...] Part of P.G &Govt Reserves at Pointe aux Piments 0.6064 138.8 2175/2014 [...] Pointe aux Piments (near Colonial Hotel) - Portion [...] Pointe aux Piments (Main Beach) 0.1632 111 2138/2001 [...] Pointe aux Piments (Pointe aux Biches) - Portion 7 0.4998 40 179/1991"
+    },
+    {
+      "field": "risk_level, risk_note, watchouts, pitch",
+      "url": "https://ionnews.mu/baignade-dangereuse-voici-les-plages-a-risques/",
+      "title": "Baignade dangereuse : Voici les plages à risques — ionnews.mu (27 avril 2024)",
+      "accessed_at": "2026-11-24",
+      "evidence": "il y avait 24 plages à Maurice où des panneaux de « Baignade dangereuse » ont été installés afin d’alerter le public. [...] Régions Nord : Le Goulet, Côte d’Azur, Pointe aux Canonniers, Pointe aux Piments, Pointe aux Biches, Roche Noires et Îlot Bernache."
+    },
+    {
+      "field": "risk_level, watchouts",
+      "url": "https://defimedia.info/baignade-dangereuse-36-lagons-consideres-risque-pour-les-nageurs",
+      "title": "Baignade dangereuse : 36 lagons considérés à risque pour les nageurs — Defimedia (3 février 2018)",
+      "accessed_at": "2026-11-24",
+      "evidence": "La liste des lagons dangereux : Le Goulet, Pointe-aux-Piments"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Fiche courte : pas de description officielle (paysage, snorkeling, coucher de soleil, équipements) dans les sources lues.",
+    "Coordonnées : point OSM « Pointe aux Piments Public Beach » ; les plages sont dispersées sur plusieurs kilomètres.",
+    "Gratuité non écrite par une source : price_kind à null."
+  ],
+  "website_url": "https://www.beachauthority.mu/public-beaches",
+  "secret": null
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "domaine-de-saint-aubin",
+  "name": "Domaine de Saint Aubin",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "sud",
+  "locality": "Saint-Aubin",
+  "lat": -20.5014957,
+  "lng": 57.5436488,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Domaine+de+Saint+Aubin&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Ancien domaine sucrier du sud, étape de la Route du Thé : maison coloniale, rhumerie, vanille et jardins d'épices.",
+  "description_md": "Le Domaine de Saint Aubin se trouve près de la côte sud, non loin de Rivière des Anguilles. Ses terres étaient autrefois consacrées à la canne à sucre. C'est aujourd'hui une étape de la Route du Thé, avec le Domaine des Aubineaux et Bois Chéri, connue pour sa vieille maison coloniale et sa rhumerie traditionnelle. La maison est préservée comme site du patrimoine national.",
+  "why_go_md": "Pour se promener à son rythme ou en visite guidée dans les jardins d'épices, la vanilleraie et les serres d'anthuriums, goûter les rhums et voir la maison coloniale, dont la salle à manger sert le déjeuner face au jardin.",
+  "likes": [
+    "Maison coloniale préservée, classée au patrimoine national",
+    "Rhumerie traditionnelle, dégustations de rhum",
+    "Jardins d'épices, vanille et pépinières d'anthuriums",
+    "Visite libre ou guidée ; déjeuner possible dans la maison"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Domaine+de+Saint+Aubin&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Domaine de Saint Aubin »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap way 133261513 (landuse=commercial) « Le Domaine de Saint Aubin » : lat -20.5014957, lon 57.5436488"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/le-domaine-de-saint-aubin/",
+      "title": "Le Domaine de Saint Aubin (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The lush green fields of Le Domaine de Saint Aubin were once dedicated to sugar cultivation. Now a stop on the historic Tea Trail, it’s famous for its old colonial house and traditional rum distillery."
+    },
+    {
+      "field": "description_md, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/le-domaine-de-saint-aubin/",
+      "title": "Le Domaine de Saint Aubin (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The estate is close to the south coast of the island, near Riviere des Anguilles. Here, walk around the grounds at your own pace or take a tour and find tropical spice gardens, vanilla orchids and anthurium nurseries. Rum tastings are available, too."
+    },
+    {
+      "field": "description_md, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/le-domaine-de-saint-aubin/",
+      "title": "Le Domaine de Saint Aubin (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "No visit is complete without a stop by the old house, which has been preserved as a National Heritage Site. Inside, you’ll find a traditional dining room serving lunch with beautiful garden views."
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/the-tea-route/",
+      "title": "The Tea Route (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "It passes through three estates: Domaine des Aubineaux, Bois Chéri and Saint Aubin"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix et horaires : site officiel injoignable (saintaubinloisirs.com : erreur de certificat TLS) ; champs à null. saintaubin.mu est un guide indépendant, non utilisé.",
+    "Déjeuner : tarifs et réservation non sourcés (la restauration relève d'un autre rédacteur).",
+    "`website_url` à null faute d'avoir pu lire le site officiel."
+  ],
+  "website_url": null,
+  "secret": null
+}

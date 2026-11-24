@@ -1,0 +1,107 @@
+{
+  "slug": "alouda-pillay-marche-central",
+  "name": "Alouda Pillay (marché central)",
+  "family": "manger",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1604837,
+  "lng": 57.5025791,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Central+Market+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Stand familial du marché central de Port-Louis : alouda glacé au lait et aux graines de basilic, servi avec une boule de glace.",
+  "description_md": "Alouda Pillay est un stand du food court du marché central de Port-Louis, tenu par la même famille depuis plusieurs générations. On y boit l'alouda, une boisson lactée glacée aux graines de basilic, servie ici avec une boule de glace vanille. Defimedia le décrit en 2025 comme le stand le plus fréquenté du marché, entouré d'une dizaine de concurrents.",
+  "why_go_md": "Pour goûter une boisson de rue mauricienne à petit prix au milieu du marché, sur le pouce ou à emporter au litre. Une version sans sucre est proposée d'après la gérante.",
+  "likes": [
+    "Alouda servi avec une boule de glace vanille",
+    "Vente au verre ou au litre, à emporter",
+    "Eau filtrée pour la préparation, d'après la gérante",
+    "Produit certifié halal et version sans sucre, d'après la gérante"
+  ],
+  "watchouts": [
+    "Forte affluence vers midi et le samedi en fin de matinée",
+    "Des rabatteurs travaillent pour les stands voisins : repère bien l'enseigne « Alouda Pillay » si c'est ce stand que tu cherches"
+  ],
+  "tips_md": "La gérante dit être derrière le comptoir de 10 h à 17 h (Defimedia, mai 2025).",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Rs 35 le verre et Rs 110 le litre d'après Defimedia (2 juillet 2023). Prix plus récent non trouvé.",
+  "opening_hours": null,
+  "hours_note": "Horaires non publiés. La gérante dit tenir le comptoir de 10 h à 17 h (Defimedia, 4 mai 2025) ; l'article de 2023 décrit un service dès le matin.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Central+Market+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Central Market Port Louis »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":159257749,\"lat\":\"-20.1604837\",\"lon\":\"57.5025791\" [...] \"name\":\"Central Market\""
+    },
+    {
+      "field": "price_kind, price_note, description_md, likes",
+      "url": "https://defimedia.info/les-mille-et-une-saveurs-du-bazar-porlwi",
+      "title": "Les mille et une saveurs du «bazar Porlwi»  | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "À l’enseigne flottante « Alouda Pillay – We fresh your day », nous commandons un alouda servi avec une boule de glace vanille. Ce coup de fraîcheur matinale nous réveille en douceur. À Rs 35 le verre et à Rs 110 le litre"
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://defimedia.info/le-coeur-battant-de-nos-villes",
+      "title": "Le coeur battant de nos villes | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Impossible de manquer ce stand : c’est toujours le plus fréquenté, bien qu’il y ait juste à côté un autre commerce proposant le même produit de base, l’alouda, et encore une dizaine d’autres à quelques pas. Pour rivaliser avec Alouda Pillay, les concurrents emploient des « rabatteurs »"
+    },
+    {
+      "field": "tips_md, hours_note, watchouts",
+      "url": "https://defimedia.info/le-coeur-battant-de-nos-villes",
+      "title": "Le coeur battant de nos villes | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "« Je suis derrière le comptoir dès 10 h et ma journée s’achève à 17 h. [...] Samedi, vers 11 h 30, devant son stand, elle peut à peine nous parler tant l’affluence est grande."
+    },
+    {
+      "field": "likes, why_go_md",
+      "url": "https://defimedia.info/le-coeur-battant-de-nos-villes",
+      "title": "Le coeur battant de nos villes | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Nous avons investi dans des équipements haut de gamme qui filtrent l’eau du robinet pour obtenir une pureté comparable à celle de l’eau embouteillée. C’est ce qui confère cette saveur distinctive à notre produit, certifié Halal. Nous proposons également une version diabétique, sans sucre."
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://defimedia.info/alouda-pillay-la-voie-lactee",
+      "title": "Alouda Pillay : la voie lactée | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Plus précisément, du stand 3940, où se vend le fameux Alouda Pillay, depuis 76 ans. [...] Il est midi, c’est l’heure où les affaires marchent le mieux."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.routard.com/fr/mag/reportage/a/ile-maurice-la-cote-nord-de-port-louis-a-cap-malheureux",
+      "title": "Île Maurice : la côte Nord, de Port-Louis à Cap Malheureux",
+      "accessed_at": "2026-11-24",
+      "evidence": "Goûter à l’ alouda, une boisson traditionnelle à base de lait et de tapioca, servie avec une boule de glace chez Alouda Pillay."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Le stand n'est pas cartographié dans OpenStreetMap : les coordonnées sont celles du marché central.",
+    "Prix à revérifier : Rs 23 le verre en 2017, Rs 35 en 2023 (Defimedia) ; aucun prix plus récent trouvé.",
+    "Date de fondation variable selon les articles de Defimedia (1930, 1940 ou vers 1941) : non reprise dans la fiche."
+  ],
+  "website_url": null,
+  "secret": null
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "tourelle-du-tamarin",
+  "name": "Tourelle du Tamarin",
+  "family": "randos_sommets",
+  "tags": [],
+  "region": "ouest",
+  "locality": "Tamarin",
+  "lat": -20.347772,
+  "lng": 57.376145,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Tourelle+du+Tamarin&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Sommet de 563 mètres derrière Tamarin : randonnée raide avec cordes, vue sur la baie, Le Morne et l'île aux Bénitiers.",
+  "description_md": "La Tourelle du Tamarin est la montagne qui se dresse derrière le village de Tamarin, sur la côte ouest. Son sommet est à 563 mètres. L'office du tourisme la présente comme une randonnée plus exigeante et hors des sentiers battus : on monte par les sentiers marqués X ou Z, en s'aidant de cordes.",
+  "why_go_md": "Pour la vue du sommet : Tamarin en contrebas, et Le Morne derrière les bleus du lagon de l'île aux Bénitiers.",
+  "likes": [
+    "Vue sur Tamarin, Le Morne et le lagon de l'île aux Bénitiers",
+    "Randonnée peu fréquentée"
+  ],
+  "watchouts": [
+    "Terrain privé : une autorisation peut être nécessaire selon l'office du tourisme",
+    "Guide recommandé",
+    "Passages avec cordes"
+  ],
+  "tips_md": null,
+  "duration_min": 120,
+  "duration_max": 240,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Tourelle+du+Tamarin&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Tourelle du Tamarin »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 1889906942 (natural=peak) « Tourelle du Tamarin » : lat -20.3477720, lon 57.3761450"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, watchouts, duration_min, duration_max",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-hikes-in-mauritius/",
+      "title": "Best Hikes in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Head to La Tourelle Mountain in the west of Mauritius for a three- to four-hour hike up the peak that sits behind the town of Tamarin. Head up the paths marked X or Z and use ropes to guide you up to the 563-metre-high summit. At the top, cast your eyes over Tamarin’s little buildings below and Le Morne, sitting behind the melting blues of Île aux Bénitiers lagoon. Note that you may need permission to access the private land and a guide is recommended. 3.5km 2-3 hours"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Accès légal : l'office du tourisme écrit qu'une autorisation « peut » être nécessaire (terrain privé) ; propriétaire et démarche non identifiés. À vérifier avant de publier.",
+    "Durée : « three- to four-hour hike » dans le texte, « 3.5km 2-3 hours » en légende ; la fiche retient 2 à 4 heures.",
+    "Coordonnées : sommet (OpenStreetMap), pas le départ. Difficulté et niveau de risque non chiffrés par la source."
+  ],
+  "website_url": null,
+  "secret": null
+}

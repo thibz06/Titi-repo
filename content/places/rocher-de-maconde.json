@@ -1,0 +1,78 @@
+{
+  "slug": "rocher-de-maconde",
+  "name": "Rocher de Macondé",
+  "family": "nature_parcs",
+  "tags": [],
+  "region": "sud_ouest",
+  "locality": "Baie du Cap",
+  "lat": -20.4910364,
+  "lng": 57.3710379,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Macond%C3%A9&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Belvédère perché sur un petit rocher au bord de la route côtière de Baie du Cap : un escalier étroit, puis la mer et la côte.",
+  "description_md": "Macondé est un point de vue aménagé au sommet d'un petit éperon rocheux qui avance vers la mer, à Baie du Cap, un village proche du pied du Morne. On y monte par un escalier étroit. La route côtière B9, dite route de Macondé, longe ici le rivage ; l'office du tourisme la présente comme l'une des plus belles routes côtières, entre mer turquoise d'un côté et montagnes de l'autre.",
+  "why_go_md": "Pour la vue sur la mer et la campagne environnante, en quelques marches, lors d'un trajet sur la côte sud-ouest. La plage de La Prairie est un peu plus au nord.",
+  "likes": [
+    "Vue sur la mer et l'arrière-pays depuis le sommet du rocher",
+    "Arrêt court, sur la route côtière B9",
+    "Plage de La Prairie à proximité"
+  ],
+  "watchouts": [
+    "Le vent peut être fort en approchant du sommet : ne t'approche pas du bord",
+    "Escalier étroit"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Macond%C3%A9&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Macondé »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 1718670498 (tourism=viewpoint) « Maconde » : lat -20.4910364, lon 57.3710379"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mauritius-wild-side/",
+      "title": "Mauritius Wild Side (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Close to the foot of Le Morne Mountain sits Baie du Cap, a small, quaint village. Visitors to the area can climb the Maconde View Point for some magnificent views of this part of the island. Set on the unique peak of a small rocky cliff jutting out of the land, the viewpoint can be accessed by climbing a narrow staircase to the top, leading to incredible views of the sea and surrounding countryside. The wind can be strong as you approach the summit, so take care not to get too close to the edge."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mauritius-wild-side/",
+      "title": "Mauritius Wild Side (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "the real draw is the Maconde Road (B9) that hugs the coastline. At around 25 miles long, this sensational drive runs from Souillac towards Grande Riviere Noire. With turquoise sea on one side and imposing wild vegetation and mountains on the other"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Stationnement, garde-corps et état de l'escalier : aucune source lue.",
+    "`price_kind` à null : aucune source lue ne dit que l'accès est gratuit.",
+    "Famille `nature_parcs` choisie faute de famille « point de vue » ; à ajuster par l'éditeur."
+  ],
+  "website_url": null,
+  "secret": null
+}

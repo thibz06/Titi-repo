@@ -1,0 +1,84 @@
+{
+  "slug": "hazra-original-deg-briani-quatre-bornes",
+  "name": "Hazra Original Deg Briani",
+  "family": "manger",
+  "tags": [],
+  "region": "centre",
+  "locality": "Belle Rose, Quatre Bornes",
+  "lat": -20.249899,
+  "lng": 57.483633,
+  "coords_source_url": "https://www.openstreetmap.org/node/9280540356",
+  "google_place_id": null,
+  "pitch": "Briani cuit au feu de bois dans de grands « deg », route Victoria à Belle Rose : une affaire de famille depuis 2000.",
+  "description_md": "Sur la route Victoria, à Belle Rose (Quatre Bornes), le Hazra Original Deg Briani prépare son briani au feu de bois. D’après Le Mauricien (mars 2026), Sadullah s’est lancé dans le briani en 2000 avec son épouse Hazra et leur fils, et la famille est toujours aux fourneaux.",
+  "why_go_md": "Pour un briani cuit à l’ancienne, au bois, dans une adresse de quartier que Le Mauricien décrit comme solidement réputée dans la région.",
+  "likes": [
+    "Briani poulet les mardis et jeudis",
+    "Briani au poulet, au poisson ou au bœuf les vendredis, samedis et dimanches",
+    "Cuisson au feu de bois"
+  ],
+  "watchouts": [
+    "Fermé le lundi d’après Le Mauricien (ouvert du mardi au dimanche)",
+    "Le choix dépend du jour : pas de poisson ni de bœuf annoncés en semaine"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": "« Ouvert du mardi au dimanche » selon Le Mauricien du 19 mars 2026 ; heures d’ouverture non précisées. Le menu du mercredi n’est pas mentionné par l’article.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Belle+Rose%2C+Quatre+Bornes&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Belle Rose, Quatre Bornes »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Belle Rose, Town of Quatre-Bornes, Ward 2, Quatre Bornes, Plaines Wilhems, 72208, Mauritius / Maurice — lat -20.2498990, lon 57.4836329 (node 9280540356)"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://www.lemauricien.com/actualites/societe/a-quatre-bornes-une-cuisson-de-biryani-au-feu-de-bois-une-famille-un-succes-partage/701955/",
+      "title": "À Quatre-Bornes : Une cuisson de biryani au feu de bois, une famille, un succès partagé | Le Mauricien (19 mars 2026)",
+      "accessed_at": "2026-11-24",
+      "evidence": "À Belle-Rose, sur la route Victoria, le Hazra Original Deg Briani s’est imposé au fil des années, se forgeant une solide réputation dans la région. Ici, la cuisson se fait au feu de bois"
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.lemauricien.com/actualites/societe/a-quatre-bornes-une-cuisson-de-biryani-au-feu-de-bois-une-famille-un-succes-partage/701955/",
+      "title": "À Quatre-Bornes : Une cuisson de biryani au feu de bois, une famille, un succès partagé | Le Mauricien (19 mars 2026)",
+      "accessed_at": "2026-11-24",
+      "evidence": "En 2000, Sadullah prend un tournant décisif en quittant son activité dans le direct selling pour se lancer dans la préparation de briani. Un pari audacieux qu’il entreprend aux côtés de son épouse, Hazra, et de leur fils"
+    },
+    {
+      "field": "likes, watchouts, hours_note",
+      "url": "https://www.lemauricien.com/actualites/societe/a-quatre-bornes-une-cuisson-de-biryani-au-feu-de-bois-une-famille-un-succes-partage/701955/",
+      "title": "À Quatre-Bornes : Une cuisson de biryani au feu de bois, une famille, un succès partagé | Le Mauricien (19 mars 2026)",
+      "accessed_at": "2026-11-24",
+      "evidence": "L’établissement est ouvert du mardi au dimanche. Les mardis et jeudis, le briani poulet est à l’honneur. Les vendredis, samedis et dimanches, le menu s’élargit avec des options au poulet, au poisson et au bœuf"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix d’une portion : aucune source. Heures de service non précisées.",
+    "Coordonnées approximatives : le quartier de Belle Rose dans OpenStreetMap ; l’établissement et la « route Victoria » n’y ont pas été trouvés par leur nom."
+  ],
+  "website_url": null,
+  "secret": null
+}

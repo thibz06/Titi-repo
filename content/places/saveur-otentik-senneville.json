@@ -1,0 +1,67 @@
+{
+  "slug": "saveur-otentik-senneville",
+  "name": "Saveur Otentik",
+  "family": "manger",
+  "tags": [],
+  "region": "sud",
+  "locality": "Senneville, Rivière des Anguilles",
+  "lat": -20.503993,
+  "lng": 57.556981,
+  "coords_source_url": "https://www.openstreetmap.org/node/10593841377",
+  "google_place_id": null,
+  "pitch": "Restaurant de cuisine mauricienne face aux champs, Senneville Road, sur la route de La Vanille : poisson et fruits de mer.",
+  "description_md": "Saveur Otentik est un restaurant de Senneville Road, près de Rivière des Anguilles, installé face à un champ avec la mer en ligne d’horizon. Un reportage de 5-Plus Dimanche (avril 2026) le dit ouvert depuis trois ans et y a trouvé des plats mauriciens, avec le poisson frais et les fruits de mer parmi les incontournables.",
+  "why_go_md": "Une halte possible pour déjeuner après la visite de La Vanille Nature Park : les journalistes s’y sont arrêtés en poursuivant leur route depuis le parc.",
+  "likes": [
+    "Plats mauriciens",
+    "Poisson frais et fruits de mer",
+    "Vue sur un champ, la mer à l’horizon"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Senneville%2C+Rivi%C3%A8re+des+Anguilles&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Senneville, Rivière des Anguilles »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Senneville, Rivière des Anguilles VCA, Savanne, 60902, Mauritius / Maurice — lat -20.5039935, lon 57.5569814 (node 10593841377)"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://5plus.mu/le-barrage-tant-attendu-redonne-espoir-20260425-1606",
+      "title": "Rivière-des-Anguilles : Le barrage tant attendu redonne espoir ! | 5-Plus Dimanche (25 avril 2026)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Après notre passage à La Vanille Nature Park [...] En poursuivant notre route, un restaurant face à un champ verdoyant, avec en toile de fond une fine ligne bleue à l’horizon, nous invite à une halte gourmande. À Senneville Road, Saveur Otentik fait partie du paysage depuis déjà trois ans. Ici, on savoure des plats bien de chez nous, avec une touche authentique. Fruits de mer et poisson frais font d’ailleurs partie des incontournables"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix, horaires et jours d’ouverture : aucune source.",
+    "Coordonnées approximatives : hameau de Senneville dans OpenStreetMap ; ni le restaurant ni « Senneville Road » n’y ont été trouvés par leur nom."
+  ],
+  "website_url": null,
+  "secret": null
+}

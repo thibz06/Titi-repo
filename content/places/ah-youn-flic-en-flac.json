@@ -1,0 +1,84 @@
+{
+  "slug": "ah-youn-flic-en-flac",
+  "name": "Ah-Youn, Flic en Flac",
+  "family": "manger",
+  "tags": [],
+  "region": "ouest",
+  "locality": "Flic en Flac",
+  "lat": -20.283966,
+  "lng": 57.36476,
+  "coords_source_url": "https://www.openstreetmap.org/node/1798022071",
+  "google_place_id": null,
+  "pitch": "Restaurant sino-mauricien de la route côtière de Flic en Flac, connu pour ses mines bouillies et ses boulettes.",
+  "description_md": "Ah-Youn est une enseigne familiale de cuisine chinoise née à Vacoas ; le restaurant de Flic en Flac a ouvert en 1999. Le Défi (juillet 2017) rappelle que la maison s’est fait connaître par ses « mine bouilli et boulettes », un plat simple de raviolis servis dans un bouillon, et qu’elle est aujourd’hui tenue par les petits-enfants du fondateur.",
+  "why_go_md": "Pour manger en famille les classiques sino-mauriciens : le journal décrit des plats « légers pour l’estomac comme pour le portefeuille », au déjeuner comme au dîner.",
+  "likes": [
+    "Mine bouilli et boulettes",
+    "Bol renversé (« Magic Bowl »)",
+    "Chopsuey aigre-doux, riz frit et nouilles frites",
+    "Adresse de sorties en famille pour les habitants"
+  ],
+  "watchouts": [
+    "Source de juillet 2017 : carte et prix actuels non vérifiés"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Ah+Youn+Flic+en+Flac&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Ah Youn Flic en Flac »",
+      "accessed_at": "2026-11-24",
+      "evidence": "AH Youn, Coastal Road, Flic en Flac, Flic en Flac VCA, Black River, 90503, Mauritius / Maurice — lat -20.2839661, lon 57.3647600 (node 1798022071)"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://defimedia.info/mauritius-outsiders-perspective-undying-love-orient",
+      "title": "Mauritius from an outsider’s perspective: An undying love for the Orient | Defimedia (20 juillet 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The first restaurant was set up by Mr. Ah Youn who moved from China and decided to settle down and set up his business here. The restaurant having started out on a small scale soon became famous for its Mine Bouilli et Boulettes, a simple yet wholesome dish comprising of dumplings served in soup"
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/mauritius-outsiders-perspective-undying-love-orient",
+      "title": "Mauritius from an outsider’s perspective: An undying love for the Orient | Defimedia (20 juillet 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "With time the business was taken over by Mr. Ah Youn’s grandchildren [...] Along with the original Ah-Youn in Vacoas, another was set up in Flic En Flac in 1999 and a third, again in Vacoas, in 2005"
+    },
+    {
+      "field": "likes, why_go_md",
+      "url": "https://defimedia.info/mauritius-outsiders-perspective-undying-love-orient",
+      "title": "Mauritius from an outsider’s perspective: An undying love for the Orient | Defimedia (20 juillet 2017)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Most residents head here to celebrate special occasions or just to enjoy a nice family outing. Some of the other dishes that the restaurant is famous for are the ‘Bole Renverser’ aka the “Magic Bowl”, Sweet and Sour Chopsuey, the fried rice and the fried noodles. Try out a variety of mouthwatering Chinese and fusion dishes that are light on your stomach and your wallet either for lunch or for dinner"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix, horaires et jours d’ouverture : aucune source ; pas de site officiel trouvé.",
+    "Le restaurant figure dans OpenStreetMap (« AH Youn », Coastal Road), sans date de vérification."
+  ],
+  "website_url": null,
+  "secret": null
+}

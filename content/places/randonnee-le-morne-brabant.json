@@ -1,0 +1,111 @@
+{
+  "slug": "randonnee-le-morne-brabant",
+  "name": "Ascension du Morne Brabant",
+  "family": "randos_sommets",
+  "tags": [],
+  "region": "sud_ouest",
+  "locality": "Le Morne",
+  "lat": -20.4540752,
+  "lng": 57.3213024,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Le+Morne+Brabant&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Montée du Morne Brabant, montagne du patrimoine mondial : trois à quatre heures, passages raides, vue sur les lagons.",
+  "description_md": "Le Morne Brabant, à la pointe sud-ouest de l'île, culmine à 556 mètres. Inscrit au patrimoine mondial de l'UNESCO depuis 2008, il a servi de refuge aux esclaves en fuite aux XVIIIe et XIXe siècles et reste un symbole de leur combat pour la liberté. Le site est géré par le Le Morne Heritage Trust Fund. D'après Defimedia, l'accès à la montagne est ouvert au public depuis le 24 juillet 2016, sur un sentier de 3,5 kilomètres ; l'office du tourisme compte trois à quatre heures de marche.",
+  "why_go_md": "Pour les vues sur la presqu'île, les récifs et les lagons, à mi-parcours puis au sommet, et pour le sens du lieu : la paroi est percée de grottes qui ont abrité des esclaves marrons. La montagne abrite aussi deux plantes rares, la mandrinette et la boucle d'oreille.",
+  "likes": [
+    "Vue sur les lagons et les récifs du sud-ouest, dès la mi-parcours",
+    "Site du patrimoine mondial, mémoire du marronnage",
+    "Début du sentier à l'ombre de grands arbres",
+    "Plage du Morne et monument de la Route de l'esclave au pied de la montagne"
+  ],
+  "watchouts": [
+    "Sections raides et rocheuses ; la dernière partie tient de l'escalade, avec des cordes en place vers la mi-parcours selon Defimedia",
+    "L'office du tourisme conseille un guide aux marcheurs peu sûrs d'eux",
+    "Peu d'ombre en hauteur : chapeau et eau, surtout pour les enfants",
+    "Pars tôt pour éviter la foule"
+  ],
+  "tips_md": null,
+  "duration_min": 180,
+  "duration_max": 240,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "heure": "Partir tôt pour éviter la foule (Mauritius Now)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Le+Morne+Brabant&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Le Morne Brabant »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 828423453 (natural=peak) « Le Morne Brabant » : lat -20.4540752, lon 57.3213024"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, watchouts, duration_min, duration_max",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-hikes-in-mauritius/",
+      "title": "Best Hikes in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "It was a retreat for enslaved people and remains a symbol of their fight for freedom. Start early to beat the crowds for stunning views at the halfway point and at the top. Le Morne is open to the public, so anyone can do this hike. It takes between three and four hours and there are some steep and rocky sections, so less confident climbers may want to follow a guide. Cool down on Le Morne Beach’s sugary sands and don’t miss a visit to the International Slave Route Monument at the foot of Le Morne. 6.5km 2-4 hours"
+    },
+    {
+      "field": "watchouts, why_go_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mountains/",
+      "title": "Le Morne Mountain (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The last stage feels more like a rocky climb to the summit and, as you make that final push, you’ll be rewarded with panoramic views of reefs and lagoons from the top of the mountain."
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://defimedia.info/le-morne-spectacular-trail",
+      "title": "Le Morne: A spectacular trail | Defimedia (publié le 5 septembre 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Access to Le Morne Brabant Mountain has been opened to the public since July 24. Located in the South Western tip of Mauritius, the mountain is classified as UNESCO World Heritage Site since 2008. Rising over 556 metres above sea level"
+    },
+    {
+      "field": "description_md, likes, watchouts",
+      "url": "https://defimedia.info/le-morne-spectacular-trail",
+      "title": "Le Morne: A spectacular trail | Defimedia (publié le 5 septembre 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The 3.5 kilometres of trail offers spectacular views on the turquoise sea of the south western coast. As you start the ascent, you will pass through a pathway full of gigantic trees. [...] This is why it is recommended to stay hydrated, especially children, during the entire trail."
+    },
+    {
+      "field": "why_go_md, watchouts",
+      "url": "https://defimedia.info/le-morne-spectacular-trail",
+      "title": "Le Morne: A spectacular trail | Defimedia (publié le 5 septembre 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "the giant basaltic rock peak is dotted with caves which once harboured runaway slaves. As you pave your way, the vegetation and oxygen will lessen. It will be important for you to wear hats and caps to protect yourself from the scorching sun. Reaching nearly half way, you will have to climb a rocky hill with ropes provided by the authorities."
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://defimedia.info/le-morne-spectacular-trail",
+      "title": "Le Morne: A spectacular trail | Defimedia (publié le 5 septembre 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "preserved and promoted as a historical, cultural, environmental and ecological site by Le Morne Heritage Trust Fund which operates under the aegis of the Ministry of Arts and Culture. In the 18th and early 19th centuries, the mountain was a retreat for slaves [...] The mountain is also a refuge to two rare plants, the Mandrinette and the Boucle d’Oreille."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Horaires du sentier, registre à l'entrée, prix, limite d'accès au sommet : site du Le Morne Heritage Trust Fund illisible (lemorneheritage.org renvoie une page vide) ; champs à null. À vérifier avant d'y aller.",
+    "Durée : « three and four hours » dans le texte de l'office du tourisme, « 6.5km 2-4 hours » en légende ; Defimedia (2016) parle de 3,5 km de sentier. La fiche retient 3 à 4 heures.",
+    "Coordonnées : sommet (OpenStreetMap), pas le départ du sentier. Difficulté et niveau de risque non chiffrés par les sources."
+  ],
+  "website_url": null,
+  "secret": null
+}

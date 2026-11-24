@@ -1,0 +1,85 @@
+{
+  "slug": "dholl-puri-maraz-port-louis",
+  "name": "Dholl puri chez Maraz",
+  "family": "manger",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.161866,
+  "lng": 57.5042058,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Maraz+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Dholl puri, chana puri, rotis et gâteaux piments d'une famille installée au marché de Port-Louis depuis trois générations.",
+  "description_md": "Maraz (Ramsahye Maraz Palace) est le comptoir de dholl puri de la famille Ramsahye Maraz, au marché central de Port-Louis ; la troisième génération le dirige. On y sert des dholl puri par paire, des chana puri, des rotis et des faratas garnis de curry végétarien, ainsi que des samoussas au fromage, des gâteaux piments et des galettes de manioc.",
+  "why_go_md": "Pour un petit-déjeuner ou un déjeuner de rue complet pour quelques dizaines de roupies. Defimedia y relevait en 2023 un prix inférieur à celui des autres marchands, et tu peux choisir le niveau de piment à la commande d'après le magazine TASTE.",
+  "likes": [
+    "Dholl puri vendus par paire, servis chauds",
+    "Chana puri, rotis, faratas au curry végétarien, samoussas au fromage, gâteaux piments, galettes de manioc",
+    "Niveau de piment au choix à la commande (TASTE, 2023)",
+    "Service dès 6 h 30 d'après Defimedia (2023)"
+  ],
+  "watchouts": [
+    "Longue file de clients observée par TASTE en 2023"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Rs 18 la paire de dholl puri d'après Defimedia (2 juillet 2023), contre Rs 20 chez les autres marchands à cette date. Prix plus récent non trouvé.",
+  "opening_hours": null,
+  "hours_note": "Horaires non publiés. Defimedia décrit un service dès 6 h 30 (juillet 2023).",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Maraz+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Maraz Port Louis »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":4875889118,\"lat\":\"-20.1618660\",\"lon\":\"57.5042058\" [...] \"name\":\"Ramsahye Maraz Palace\""
+    },
+    {
+      "field": "price_kind, price_note, description_md, likes, why_go_md",
+      "url": "https://defimedia.info/les-mille-et-une-saveurs-du-bazar-porlwi",
+      "title": "Les mille et une saveurs du «bazar Porlwi»  | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Dès 6 h 30, les employés chez Maraz sont en poste pour servir des « dhall puri » tout chauds [...] Dans la vitrine, nous trouvons samossas au fromage, « gato pima », « chana puri », « roti » et « dhall puri ». Nous trouvons également des galettes de manioc. Actuellement, c’est la troisième génération de la famille Ramsahye qui dirige ce commerce. Contrairement aux autres marchands de « dhall puri », le prix de « enn pair » de « dhall puri » chez Maraz n’est pas de Rs 20 mais Rs 18."
+    },
+    {
+      "field": "description_md, likes, watchouts, why_go_md",
+      "url": "https://taste.co.za/5-street-foods-to-try-in-port-louis-mauritius/",
+      "title": "5 street foods to try in Port Louis, Mauritius | Woolworths TASTE",
+      "accessed_at": "2026-11-24",
+      "evidence": "Judging from the long line of locals outside Ramsahye Maraz Palace, we believe them. [...] We also got to have farathas at Ramsahye Maraz Palace, which are essentially roti rolls filled with vegetarian curry. [...] P.S. You can choose your spice level when ordering."
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/ramesh-ramsahye-maraz-brains-behind-family-business-original-dholl-puri",
+      "title": "Ramesh Ramsahye Maraz : the brains behind the family business of the Original ‘Dholl Puri’ | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "“We would work the whole day serving ‘Dholl Puris’ at the central market of Port Louis and in the evening, we are at home together."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Emplacement : OpenStreetMap place « Ramsahye Maraz Palace » rue Bourbon, en bordure du marché ; Defimedia écrit « au marché de Port-Louis ». À confirmer sur place.",
+    "Prix à revérifier : Rs 18 la paire en juillet 2023 (Defimedia) ; les prix du dholl puri ont augmenté depuis selon la presse.",
+    "Horaires de fermeture et jours d'ouverture non trouvés."
+  ],
+  "website_url": null,
+  "secret": null
+}

@@ -1,0 +1,308 @@
+{
+  "slug": "terres-des-sept-couleurs-chamarel",
+  "name": "Terres des sept couleurs de Chamarel",
+  "family": "nature_parcs",
+  "tags": [
+    "famille",
+    "insolite"
+  ],
+  "region": "sud_ouest",
+  "locality": "Chamarel",
+  "lat": -20.4416011,
+  "lng": 57.374198,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Seven%20Coloured%20Earth&format=jsonv2&limit=5&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Petites dunes aux sept teintes, nées de l'altération du basalte, dans un géoparc qui inclut la cascade de Chamarel et des tortues.",
+  "description_md": "Le Chamarel 7 Coloured Earth Geopark se trouve à Chamarel, dans le district de Rivière Noire. Son attraction principale est un ensemble de dunes de 7 500 m² où se côtoient le rouge, le brun, le violet, le vert, le bleu, le pourpre et le jaune, teintes dues aux oxydes de fer et d'aluminium laissés par l'altération du basalte. Le billet donne aussi accès aux deux belvédères de la cascade de Chamarel, à un parc de tortues géantes d'Aldabra, à un jardin d'espèces endémiques, à un café et à une boutique. La visite est libre, sans guide, et le site est ouvert au public depuis la fin des années 1960.",
+  "why_go_md": "Pour voir un phénomène géologique que le gestionnaire présente comme naturel et laissé en l'état, et parce qu'un seul billet regroupe trois arrêts : la cascade de Chamarel, les dunes et les tortues. La route intérieure se fait en voiture (1,5 km jusqu'à la cascade, 3 km jusqu'aux dunes, parkings aux deux arrêts) ou à pied.",
+  "likes": [
+    "Dunes de sept teintes, observées depuis une promenade aménagée autour du site",
+    "Deux belvédères sur la cascade de Chamarel, inclus dans le billet",
+    "Tortues géantes d'Aldabra et jardin d'espèces endémiques",
+    "Panneaux pédagogiques et application mobile avec cartes hors ligne",
+    "Café et boutique sur place, ouverts tous les jours de 9 h 30 à 17 h"
+  ],
+  "watchouts": [
+    "Interdit de marcher sur les dunes ou de prélever du sable : on reste sur les chemins balisés",
+    "Pique-niques, animaux de compagnie et drones interdits ; interdit de fumer et de consommer de l’alcool",
+    "Paiement en roupies mauriciennes uniquement ; aucune devise étrangère en espèces",
+    "Ne nourris pas les tortues et garde tes distances",
+    "Fermé pendant les cyclones et les fortes pluies",
+    "Billet valable pour une seule entrée, non remboursable"
+  ],
+  "tips_md": "Chaussures de marche confortables ; une veste légère ou un parapluie sont utiles en saison des pluies (conseil du site officiel). Les billets s'achètent à l'entrée, au guichet drive, ou en ligne. À pied, compte 3 km de l'entrée aux dunes, soit 6 km aller-retour.",
+  "duration_min": 45,
+  "duration_max": 120,
+  "price_kind": "paid",
+  "price_visitor_mur_min": 400,
+  "price_visitor_mur_max": 800,
+  "price_resident_mur": 400,
+  "price_note": "Tarifs du site officiel (pied de page « © Copyright 2026 », consulté le 24 novembre 2026). Non-résident : adulte Rs 800, enfant de 5 à 11 ans Rs 400. Résident : adulte Rs 400, enfant de 5 à 11 ans Rs 200 (carte d'identité ou permis de résidence demandé). Gratuit avant 5 ans. Un seul billet couvre les deux belvédères de la cascade de Chamarel, les dunes colorées et le parc des tortues. Paiement en roupies uniquement (espèces, carte ou paiement mobile mauricien), en une seule transaction.",
+  "opening_hours": "Oct-May Mo-Su,PH 08:30-17:30; Jun-Sep Mo-Su,PH 08:30-17:00",
+  "hours_note": "Site officiel (consulté le 24 novembre 2026) : d'octobre à mai, 8 h 30 – 17 h 30 (dernier billet vendu à 17 h) ; de juin à septembre, 8 h 30 – 17 h. Ouvert dimanches et jours fériés. Fermé pendant les cyclones et les fortes pluies.",
+  "difficulty": null,
+  "accessibility": {
+    "mobilite_reduite": "Chemins en roches de basalte, difficiles pour les personnes à mobilité réduite ; rénovation annoncée par le site officiel",
+    "poussettes": "Les poussettes peuvent être limitées dans certaines zones à cause du terrain irrégulier (règlement du site)",
+    "stationnement": "Deux parkings : près du belvédère de la cascade et près des dunes (site officiel)",
+    "vehicules": "Minibus, voitures, scooters, motos, vélos et taxis admis ; pas les autocars de 60 places"
+  },
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Le site officiel le présente comme une attraction touristique à ne pas manquer, ouverte depuis la fin des années 1960.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Seven%20Coloured%20Earth&format=jsonv2&limit=5&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap — recherche « Seven Coloured Earth »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":133131984,\"lat\":\"-20.4416011\",\"lon\":\"57.3741980\",\"category\":\"amenity\",\"type\":\"parking\""
+    },
+    {
+      "field": "price_kind, price_visitor_mur_min, price_visitor_mur_max, price_resident_mur, price_note",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Resident rates: Adult: Rs 400 Child (5-11 years old): Rs 200 Please note that an ID card or residence permit will need to be presented at the gate for residents who purchase their tickets online. Non-resident rates: Adult: Rs 800 Child (5-11 years): Rs 400 Free of charge for children under 5 years old."
+    },
+    {
+      "field": "price_note",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Access to the two viewpoints of Chamarel Waterfall, visit of Chamarel 7 Coloured Earth Geopark and the tortoise park."
+    },
+    {
+      "field": "price_note, watchouts",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "No foreign currencies in cash are accepted. No split payment is accepted for entry ticket sales."
+    },
+    {
+      "field": "opening_hours, hours_note",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "October to May: 8.30 a.m. to 5.30 p.m. (Last ticket purchase at 5 p.m., Geopark closes at 5.30 p.m.) June to September: 8.30 a.m. to 5 p.m Are you open during Sundays and public holidays? + Yes, we are open during Sundays and public holidays"
+    },
+    {
+      "field": "hours_note, watchouts",
+      "url": "https://www.chamarel7colouredearth.com/experiences/geopark/",
+      "title": "Geopark — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The site is self-guided, accessible and open all year except during cyclones and heavy rainfall."
+    },
+    {
+      "field": "duration_min, duration_max",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "How long will it take to visit the Chamarel 7 Coloured Earth Park? + Minimum of 45 mins and maximum of 2 hours."
+    },
+    {
+      "field": "description_md, likes, pitch",
+      "url": "https://www.chamarel7colouredearth.com/experiences/geopark/",
+      "title": "Geopark — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Your entry includes access to Chamarel Waterfall, the Dunes Promenade, Aldabra Tortoise Park, the Endemic Garden, the Viewpoint Café and Dunes Boutique."
+    },
+    {
+      "field": "description_md, tags",
+      "url": "https://www.chamarel7colouredearth.com/experiences/geopark/",
+      "title": "Geopark — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Designed for all ages The site is self-guided"
+    },
+    {
+      "field": "why_go_md, tips_md, accessibility",
+      "url": "https://www.chamarel7colouredearth.com/experiences/geopark/",
+      "title": "Geopark — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "By car: Purchase tickets at our convenient drive-through booth. It's a 1.5 km drive to the waterfall and 3 km to the dunes, with parking available at both locations."
+    },
+    {
+      "field": "tips_md",
+      "url": "https://www.chamarel7colouredearth.com/experiences/geopark/",
+      "title": "Geopark — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The full round trip is a 6 km trek."
+    },
+    {
+      "field": "description_md, pitch, secret",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The 7 Coloured Earth covers an area of 7,500m². [...] Soil erosion left behind deposits of iron and aluminium oxide which are responsible for the red, brown, violet, green, blue, purple and yellow colours [...] Yes, it is a unique phenomenon and preserved in its natural state."
+    },
+    {
+      "field": "description_md, rarity, secret",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The Geopark is open to the public since the late 1960’s. Discovered in 1879, the site is today a must-see tourist attraction."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "No, we do not offer guided visits."
+    },
+    {
+      "field": "likes",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The Coffee Shop and Souvenir Shop are open everyday as from 09:30 to 17:00."
+    },
+    {
+      "field": "likes",
+      "url": "https://www.chamarel7colouredearth.com/",
+      "title": "Chamarel 7 Coloured Earth (site officiel, accueil)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The app includes offline maps, audio content, and highlights to enrich your self-guided visit."
+    },
+    {
+      "field": "tips_md",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Comfortable walking shoes and clothes. A light jacket or umbrella can be useful during rainy seasons. [...] The entrance tickets can be purchased on the spot at the main entrance or via our website and online platforms."
+    },
+    {
+      "field": "accessibility",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Currently, the paths within the Geopark are made of basalt rocks, which may pose challenges for visitors with reduced mobility. [...] There are two parking spots; near Chamarel Waterfall viewpoint and Chamarel 7 Coloured Earth Geopark. [...] Minibuses, cars, scooters, motorcycles, bicycles and taxis are allowed."
+    },
+    {
+      "field": "watchouts, secret",
+      "url": "https://www.chamarel7colouredearth.com/rules-and-regulations/",
+      "title": "Rules and regulations — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Visitors must limit themselves to the perimeter of the dunes. Walking on the Coloured Earth or collecting samples is strictly prohibited."
+    },
+    {
+      "field": "watchouts, accessibility",
+      "url": "https://www.chamarel7colouredearth.com/rules-and-regulations/",
+      "title": "Rules and regulations — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Strollers may be restricted in certain areas due to uneven terrain. 7. Prohibited Items: Smoking, alcohol, and the use of drugs are strictly prohibited. [...] Pets are not allowed, except for registered service animals. 8. Tortoise Park: Visitors are not permitted to enter the tortoise park or feed the reptiles."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.chamarel7colouredearth.com/rules-and-regulations/",
+      "title": "Rules and regulations — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Drones are not permitted, unless authorized in advance. [...] Tickets are valid for a single entry on the specified date and cannot be transferred, resold, or refunded."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Picnics are prohibited. Food and beverages are sold at the Coffee Shop."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/blog/7-things-to-know-about-chamarel-7-coloured-earth/",
+      "title": "7 Things to know about Chamarel 7 Coloured Earth — Chamarel 7 Coloured Earth (14 février 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "At a meeting on November 26, 1879, a member of Mauritius' Royal Society of Arts and Sciences was the first to mention the occurrence of multicoloured earth in the Chamarel region."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/blog/7-things-to-know-about-chamarel-7-coloured-earth/",
+      "title": "7 Things to know about Chamarel 7 Coloured Earth — Chamarel 7 Coloured Earth (14 février 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "When tourism started in Mauritius in the 1960s, the phenomenon known as the Land of 7 Colours already unusual, became a popular tourist attraction."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/about/our-history/",
+      "title": "Our History — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "This historic village was named after Toussaint and Charles de Chazal de Chamarel, sons of François de Chazal de la Genesté."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/faqs/",
+      "title": "FAQ — Chamarel 7 Coloured Earth (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "two French brothers who were granted a concession of land in Chamarel in 1786"
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/blog/7-coloured-earth-mauritius-scientific-explanation/",
+      "title": "The science behind the 7 Coloured Earth in Mauritius — Chamarel 7 Coloured Earth (10 juin 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "a preserved natural park expanding over 8.5 hectares of land, forest, rivers and waterfalls."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/blog/geological-story-seven-coloured-earth/",
+      "title": "The Geological Story Behind the Seven Coloured Earth — Chamarel 7 Coloured Earth (27 août 2026)",
+      "accessed_at": "2026-11-24",
+      "evidence": "In the Chamarel region , basaltic formations dating from approximately 1.7 to 3.5 million years ago marked the beginning of the Seven Coloured Earth phenomenon. As the lava cooled at different rates, it produced a variety of mineral compounds. Rainfall, the humid climate and chemical weathering then gradually transformed the rock into mineral-rich clay soil."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/blog/7-coloured-earth-mauritius-scientific-explanation/",
+      "title": "The science behind the 7 Coloured Earth in Mauritius — Chamarel 7 Coloured Earth (10 juin 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The iron oxide is responsible for the shades of the dunes ranging from red all the way to brown, while the aluminium oxide is what gives vibrant tints of blue to violet-blue to the sand particles. It is well-known that iron and aluminium particles have a natural repellent effect on one another"
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/blog/7-coloured-earth-mauritius-scientific-explanation/",
+      "title": "The science behind the 7 Coloured Earth in Mauritius — Chamarel 7 Coloured Earth (10 juin 2025)",
+      "accessed_at": "2026-11-24",
+      "evidence": "If you were to scramble up the 7 Coloured sands, they would all rearrange themselves by colour in a matter of hours. [...] These patterns reflect the natural pattern of rainfall in Chamarel across thousands and thousands of years. Even today, these patterns continue to be carved by rain and wind"
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/blog/geological-story-seven-coloured-earth/",
+      "title": "The Geological Story Behind the Seven Coloured Earth — Chamarel 7 Coloured Earth (27 août 2026)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Three boreholes, meaning openings made in the ground, reached depths of up to 10 metres each [...] The research revealed a thin surface layer composed of soil, roots and small stones, followed by a layer of completely altered basalt measuring approximately 6 to 10 metres in thickness. At a greater depth, a layer of altered volcanic breccia was also identified."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/blog/geological-story-seven-coloured-earth/",
+      "title": "The Geological Story Behind the Seven Coloured Earth — Chamarel 7 Coloured Earth (27 août 2026)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The phenomenon was first documented in 1879 by the Royal Society of Arts and Sciences. Its visible stratification and resistance to erosion attracted scientific attention."
+    },
+    {
+      "field": "secret",
+      "url": "https://www.chamarel7colouredearth.com/blog/geological-story-seven-coloured-earth/",
+      "title": "The Geological Story Behind the Seven Coloured Earth — Chamarel 7 Coloured Earth (27 août 2026)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The appearance of the dunes may continue to evolve in the years ahead, although the emergence of a new colour cannot be confirmed today."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Tous les faits viennent du site du gestionnaire (ER Group), y compris l'explication de la non-miscibilité des sables, non recoupée par une source scientifique indépendante. L'office du tourisme parle de « 600 millions d'années » de géologie, chiffre incompatible avec les 1,7 à 3,5 millions d'années du géoparc : non repris.",
+    "Coordonnées : parking des dunes d'après OpenStreetMap (way 133131984), pas les dunes elles-mêmes. Tarifs à revérifier avant le séjour (des offres saisonnières existent selon le site).",
+    "Atlas Obscura a répondu 403 (Cloudflare) : non lu. legal_access_checked reste false (site payant ouvert au public, accès à confirmer par l'éditeur)."
+  ],
+  "website_url": "https://www.chamarel7colouredearth.com/",
+  "secret": {
+    "story_md": "Le 26 novembre 1879, lors d'une séance de la Société royale des arts et des sciences de Maurice, un membre signale pour la première fois l'existence de terres multicolores dans la région de Chamarel. C'est, d'après le géoparc, la première mention scientifique du site : on y note déjà ses couches bien visibles et sa résistance à l'érosion. Le lieu porte le nom de deux frères, Toussaint et Charles de Chazal de Chamarel, fils de François de Chazal de la Genesté, qui avaient obtenu ici une concession en 1786. Il faudra attendre les années 1960 et l'essor du tourisme pour que la « Terre des sept couleurs » s'ouvre aux visiteurs.\n\nCe que l'on regarde depuis les belvédères est petit : les dunes couvrent 7 500 m², au milieu d'un géoparc de 8,5 hectares. On y distingue du rouge, du brun, du violet, du vert, du bleu, du pourpre et du jaune. Le gestionnaire le répète : c'est un phénomène naturel, laissé en l'état.\n\nL'explication qu'il en donne commence avec les volcans. Dans la région de Chamarel, des coulées de basalte vieilles d'environ 1,7 à 3,5 millions d'années ont refroidi à des vitesses différentes. Puis le climat tropical a fait le reste : pluies, humidité et altération chimique ont lentement transformé la roche en une argile riche en minéraux, ravinée par l'eau. Il en est resté des oxydes de fer et d'aluminium. Le fer donne les teintes qui vont du rouge au brun ; l'aluminium, les bleus et les violets.\n\nLe plus étonnant est que ces couleurs ne se mélangent pas. Le géoparc affirme que, si l'on brassait les sables, ils se réordonneraient par couleur en quelques heures, parce que les particules de fer et d'aluminium se repoussent. C'est l'explication du site lui-même ; aucune étude indépendante n'a été consultée pour cette fiche, et il vaut mieux la lire comme telle. Les motifs en vagues, eux, sont attribués au ruissellement : des milliers d'années de pluies ont sculpté les dunes, et la pluie et le vent continuent de le faire.\n\nSous la surface, on en sait un peu plus depuis peu. Une étude géotechnique décrite par le géoparc en août 2026 a fait descendre trois forages jusqu'à 10 mètres : sous une mince couche de sol, de racines et de petites pierres, ils ont traversé 6 à 10 mètres de basalte complètement altéré, puis une brèche volcanique altérée, faite de fragments de roche pris dans une matrice argileuse. Le terrain n'est donc plus de la roche dure, et il est fragile. D'où l'interdiction absolue de marcher sur les dunes ou d'y prélever du sable.\n\nLe paysage n'est pas figé. Le géoparc écrit que le phénomène reste actif, que l'aspect des dunes peut encore évoluer avec l'érosion, les pluies et le climat, et qu'il est impossible de dire aujourd'hui si une nouvelle couleur apparaîtra.",
+    "why_unknown_md": null,
+    "access_md": "Entrée par la « 7 Coloured Earth Road » à Chamarel. Les billets s'achètent au guichet drive de l'entrée principale ou en ligne ; il reste 1,5 km jusqu'aux belvédères de la cascade et 3 km jusqu'aux dunes, en voiture ou à pied, avec un parking à chaque arrêt (site officiel).",
+    "precautions_md": "Reste sur les chemins balisés autour des dunes : marcher sur la terre colorée ou en prélever est strictement interdit, le terrain étant fragile. Les enfants doivent être accompagnés en permanence (règlement du géoparc).",
+    "legal_access_checked": false
+  }
+}

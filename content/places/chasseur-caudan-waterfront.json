@@ -1,0 +1,82 @@
+{
+  "slug": "chasseur-caudan-waterfront",
+  "name": "Chasseur (Caudan Waterfront)",
+  "family": "manger",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1609547,
+  "lng": 57.4985423,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Caudan+Waterfront&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Petit restaurant mauricien installé dans un conteneur au Caudan : halim de cerf, briani, mine bouillie, salmi.",
+  "description_md": "Chasseur est un restaurant de cuisine mauricienne ouvert en octobre 2022 dans un conteneur, au Caudan Waterfront. La carte tourne autour du gibier et des plats populaires : halim de cerf, pintade, canard, poisson corne, crevettes, boulettes de poisson salé, salmi, mine bouillie et briani.",
+  "why_go_md": "Pour goûter des plats mauriciens peu courants ailleurs, comme le halim de cerf, sans quitter le front de mer de Port-Louis. Le propriétaire annonçait en 2024 des repas copieux à partir de Rs 150.",
+  "likes": [
+    "Halim de cerf, salmi, briani, mine bouillie",
+    "Cadre décontracté dans un conteneur",
+    "Clientèle surtout mauricienne d'après le propriétaire"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "« À partir de Rs 150 pour un repas copieux » selon le propriétaire, cité par Defimedia (4 février 2024). Prix plus récent non trouvé.",
+  "opening_hours": null,
+  "hours_note": "D'après Defimedia (4 février 2024) : 7 jours sur 7 de 9 h à 21 h, jusqu'à 23 h voire minuit les vendredis et samedis. Non confirmé par une source officielle.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Caudan+Waterfront&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Caudan Waterfront »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":2675749581,\"lat\":\"-20.1609547\",\"lon\":\"57.4985423\" [...] \"name\":\"Caudan Waterfront\""
+    },
+    {
+      "field": "description_md, pitch, likes, hours_note",
+      "url": "https://defimedia.info/chasseur-une-aventure-culinaire-dans-un-conteneur-au-caudan-waterfront",
+      "title": "Chasseur : une aventure culinaire dans un conteneur au Caudan Waterfront   | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Depuis son inauguration en octobre 2022, le restaurant Chasseur, niché dans un conteneur au Caudan Waterfront à Port-Louis [...] des spécialités telles que le halim de cerf, la pintade, le canard, le poisson corne, la crevette, les boulettes de poisson salé, le salmi, le ‘mine bouilli’ et le ‘briyani’. Ouvert 7 jours sur 7 de 9h à 21h, avec des heures prolongées les vendredis et samedis jusqu'à 23h, voire minuit"
+    },
+    {
+      "field": "price_kind, price_note, why_go_md",
+      "url": "https://defimedia.info/chasseur-une-aventure-culinaire-dans-un-conteneur-au-caudan-waterfront",
+      "title": "Chasseur : une aventure culinaire dans un conteneur au Caudan Waterfront   | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "les plats chez Chasseur sont conçus pour s'adapter à tous les budgets, avec des prix débutant à partir de Rs 150 pour un repas copieux."
+    },
+    {
+      "field": "likes",
+      "url": "https://defimedia.info/chasseur-une-aventure-culinaire-dans-un-conteneur-au-caudan-waterfront",
+      "title": "Chasseur : une aventure culinaire dans un conteneur au Caudan Waterfront   | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "offrant une ambiance décontractée et originale [...] La plupart de mes clients sont des Mauriciens, mais je reçois également un bon nombre de touristes"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Le restaurant n'est pas cartographié dans OpenStreetMap : coordonnées du Caudan Waterfront, emplacement exact du conteneur à préciser.",
+    "Source unique de février 2024 : vérifier que le restaurant est toujours ouvert, ses prix et ses horaires.",
+    "Le site du Caudan (caudan.com) a refusé l'accès (403)."
+  ],
+  "website_url": null,
+  "secret": null
+}

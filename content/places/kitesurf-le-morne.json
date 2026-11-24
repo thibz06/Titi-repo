@@ -1,0 +1,133 @@
+{
+  "slug": "kitesurf-le-morne",
+  "name": "Kitesurf au Morne",
+  "family": "mer_activites",
+  "tags": [],
+  "region": "sud_ouest",
+  "locality": "Le Morne",
+  "lat": -20.4630491,
+  "lng": 57.3200007,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Kite+Lagoon%2C+Le+Morne&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Le spot de kitesurf le plus connu de Maurice : lagon plat et peu profond pour apprendre, vagues du récif pour les experts.",
+  "description_md": "La pointe du Morne est, avec Tamarin, la zone de kitesurf la plus connue de l'île selon l'office du tourisme, qui signale des alizés forts et réguliers dans le sud, surtout d'avril à novembre. Le lagon, à l'intérieur du récif, offre une eau plate où l'on a pied (de la hauteur du genou à la taille) : c'est là que se donnent les cours. Sur le récif, plusieurs vagues s'étagent du niveau débutant à expert ; One Eye, puissante et sur peu de fond, est réservée aux riders expérimentés. Plusieurs écoles opèrent sur place ; ION Club, dont le site a été consulté, propose cours et location de kitesurf, wingfoil et planche à voile.",
+  "why_go_md": "Pour apprendre dans de bonnes conditions ou simplement regarder les voiles au pied du Morne Brabant. Sans vent, l'école consultée propose surf et paddle.",
+  "likes": [
+    "Lagon plat et peu profond, adapté aux débutants",
+    "Vent de 12 à 20 nœuds en été austral (novembre à mars), plus fort en hiver, selon ION Club",
+    "Matériel de cours inclus chez ION Club : combinaison, harnais, leash, gilet et casque",
+    "Bateau de sécurité prêt à partir (ION Club)"
+  ],
+  "watchouts": [
+    "Cours à partir de 12 ans chez ION Club",
+    "Compte en moyenne 12 heures de cours pour un vrai débutant (ION Club)",
+    "One Eye : vague réservée aux experts",
+    "Entre décembre et avril, de fortes pluies sont possibles ; les meilleures conditions vont de juin à novembre",
+    "Chaussons conseillés sur le spot"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "Cours et location payants ; tarifs non relevés (voir le site du prestataire).",
+  "opening_hours": null,
+  "hours_note": "Centre ION Club Le Morne : tous les jours de 9 h à 17 h selon son site (consulté le 24 novembre 2026).",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "saison": "Meilleures conditions de juin à novembre ; ouvert toute l'année (ION Club). Alizés surtout d'avril à novembre (Mauritius Now)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Kite+Lagoon%2C+Le+Morne&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Kite Lagoon, Le Morne »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 2657475591 (leisure=water_sports) « Kite Lagoon Le Morne » : lat -20.4630491, lon 57.3200007"
+    },
+    {
+      "field": "description_md, pitch, best_time",
+      "url": "https://mauritiusnow.com/blog/things-to-do/kitesurfing-in-mauritius/",
+      "title": "Kitesurfing in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "it’s the south that is renowned for strong and consistent tradewinds, especially between April and November. One Eye at Pointe du Morne or Cap Dal in Tamarin are the island’s most famous kitesurfing areas, so you can learn in the lagoon or refine your pro moves on the perfect barrel wave."
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.ion-club.net/le-morne/",
+      "title": "ION CLUB Le Morne | Wingfoiling, Windsurfing, Kitesurfing",
+      "accessed_at": "2026-11-24",
+      "evidence": "Beginners can learn in a knee to waist deep standing area with flat water and onshore wind"
+    },
+    {
+      "field": "description_md, watchouts",
+      "url": "https://www.ion-club.net/le-morne/",
+      "title": "ION CLUB Le Morne | Wingfoiling, Windsurfing, Kitesurfing",
+      "accessed_at": "2026-11-24",
+      "evidence": "One Eye: This wave is characterized by shallow waters and considerable power. It is reserved for experienced wave riders with their own kite, wing, or windsurfing equipment."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.ion-club.net/le-morne/",
+      "title": "ION CLUB Le Morne | Wingfoiling, Windsurfing, Kitesurfing",
+      "accessed_at": "2026-11-24",
+      "evidence": "• Kite Lagoon – Lessons, rental & supervision: Kitesurf, Wingfoil, Windsurf"
+    },
+    {
+      "field": "likes, watchouts, best_time",
+      "url": "https://www.ion-club.net/le-morne/",
+      "title": "ION CLUB Le Morne | Wingfoiling, Windsurfing, Kitesurfing",
+      "accessed_at": "2026-11-24",
+      "evidence": "reaches an average speed of 12 to 20 knots during the Southern Hemisphere summer (November to March) and approximately 15 to 26 knots in winter (April to October). In winter, the trade winds are more prevalent and blow more strongly. Between December and April, there can be heavy precipitation."
+    },
+    {
+      "field": "watchouts, likes, why_go_md",
+      "url": "https://www.ion-club.net/le-morne/",
+      "title": "ION CLUB Le Morne | Wingfoiling, Windsurfing, Kitesurfing",
+      "accessed_at": "2026-11-24",
+      "evidence": "Children must be a minimum of 12 years old in order to take part. [...] On average 12 hours. [...] Included in the course: wetsuit, harness, leash, vest and helmet. [...] SURF & SUP."
+    },
+    {
+      "field": "likes, best_time, watchouts",
+      "url": "https://www.ion-club.net/le-morne/",
+      "title": "ION CLUB Le Morne | Wingfoiling, Windsurfing, Kitesurfing",
+      "accessed_at": "2026-11-24",
+      "evidence": "Safety is ensured with a boat always ready to depart. [...] From June to November the conditions are best but it’s open all year."
+    },
+    {
+      "field": "hours_note",
+      "url": "https://www.ion-club.net/le-morne/",
+      "title": "ION CLUB Le Morne | Wingfoiling, Windsurfing, Kitesurfing",
+      "accessed_at": "2026-11-24",
+      "evidence": "Opening hours: Daily 9.00 am – 5.00 pm"
+    },
+    {
+      "field": "price_kind",
+      "url": "https://www.ion-club.net/le-morne/",
+      "title": "ION CLUB Le Morne | Wingfoiling, Windsurfing, Kitesurfing",
+      "accessed_at": "2026-11-24",
+      "evidence": "WHAT HAPPENS IF I PAY FOR THE LESSON IN ADVANCE BUT THERE IS NO WIND?"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix : aucun tarif lu sur la page ION Club (grille sur une autre page, non relevée) ; des plateformes de réservation affichent des prix en euros, non repris.",
+    "Autres écoles du Morne non identifiées par une source officielle ; ION Club est cité comme exemple, pas comme recommandation.",
+    "Séjour du 21 décembre au 7 janvier : hors de la meilleure saison de vent selon les sources ; à signaler au lecteur."
+  ],
+  "website_url": "https://www.ion-club.net/le-morne/",
+  "secret": null
+}

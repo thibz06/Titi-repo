@@ -29,7 +29,7 @@ Le brief complet fait foi. Choix techniques et versions : `docs/DECISIONS.md`.
 Direction « Lagon et basalte », identité originale (ne pas copier Duolingo ; le tampon de passeport est le motif de récompense).
 Tokens dans `src/app/globals.css` (`@theme`) : lagon, passe, sable, filao, corail, soleil, encre ; Île secrète : basalte, or.
 Texte Encre sur Lagon, jamais blanc. Titres Fraunces (`font-display`), texte Inter.
-Présentation « verre » (classe `.glass` dans `globals.css`) : photo créditée du lieu en fond plein écran, contenus dans des panneaux translucides floutés ; garder la teinte Sable à 70 % d'opacité minimum pour le contraste AA.
+Style « clair et photo » (référence de Thibault, 24 novembre 2026) : fond `brume`, cartes blanches très arrondies (`.glass`), grandes photos, boutons bleu passe à texte blanc, `.frost` seulement pour les commandes posées sur une photo. Texte blanc sur photo uniquement par-dessus le voile `.photo-scrim`.
 Transitions de 200 à 300 ms ; récompense de 1,2 s maximum et passable ; confettis pour badges et niveaux seulement.
 
 ## Commandes
@@ -40,6 +40,7 @@ Transitions de 200 à 300 ms ; récompense de 1,2 s maximum et passable ; confet
 - `pnpm test:e2e` : build puis Playwright, viewport mobile 390 px (`tests/e2e`), avec les fiches fictives de `tests/fixtures/places` et un fond de carte simulé
 - `pnpm icons` : régénère les PNG du manifeste depuis `public/icons/icon.svg`
 - `pnpm content:lint` : contrôle des fiches (schéma, sources, coordonnées)
+- `pnpm photos:fetch` : copie dans `public/photos` les photos Commons citées par les fiches (lent, à relancer après ajout de photos)
 - `pnpm matrix:build` : recalcule `content/travel-times.json` avec OSRM ; à relancer après tout ajout de fiche
 
 ## Structure

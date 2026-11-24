@@ -1,0 +1,124 @@
+{
+  "slug": "musee-intercontinental-de-l-esclavage",
+  "name": "Musée intercontinental de l'esclavage",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1598057,
+  "lng": 57.5020025,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Quay%20Street%2C%20Port%20Louis",
+  "google_place_id": null,
+  "pitch": "À Port-Louis, l'ancien hôpital militaire de 1740, bâti par des esclaves, raconte la traite et ses héritages.",
+  "description_md": "Le Musée intercontinental de l'esclavage occupe l'ancien hôpital militaire de Port-Louis, au 1, Quay Street, à proximité de l'Aapravasi Ghat. Le bâtiment, classé au patrimoine national, a été construit entre 1736 et 1740 sous Mahé de Labourdonnais par une quarantaine d'esclaves venus du Mozambique, de Madagascar et d'Afrique de l'Ouest, aidés d'artisans indiens et français. Le musée y présente des expositions depuis 2020 et a ouvert au public le 4 septembre 2023.",
+  "why_go_md": "Pour comprendre la part de l'esclavage dans l'histoire mauricienne, dans un lieu qui en porte lui-même la trace. À l'ouverture, Le Défi décrivait un parcours de huit salles sur 650 m². La visite se combine facilement avec celle de l'Aapravasi Ghat voisin.",
+  "likes": [
+    "L'un des plus anciens bâtiments de l'île (1740), restauré",
+    "Parcours de huit salles sur 650 m² à l'ouverture en 2023 (Le Défi)",
+    "Situé dans la zone tampon de l'Aapravasi Ghat, site du patrimoine mondial"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "« L'entrée est gratuite » selon Le Défi à l'ouverture, en septembre 2023. Non confirmé par le site officiel du musée : price_kind reste à null.",
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Quay%20Street%2C%20Port%20Louis",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.1598057\",\"lon\":\"57.5020025\" [...] \"type\":\"service\" [...] \"display_name\":\"Quay Street, William Newton, Caudan Waterfront, Town of Port-Louis, Ward 3, Port Louis, 11307, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://ismmauritiusltd.govmu.org/ism/?page_id=2319",
+      "title": "Military Hospital — Intercontinental Slavery Museum, Mauritius Ltd (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Constructed in 1740 under the administration of Mahé de Labourdonnais, the Military Hospital was part of a fortified area known as Bastion Labourdonnais. [...] Between 1736 and 1740, 40 enslaved individuals from Mozambique and Madagascar, along with some from West Africa, belonging to the French East India Company, were brought to Isle de France to build the hospital."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://ismmauritiusltd.govmu.org/ism/?page_id=2319",
+      "title": "Military Hospital — Intercontinental Slavery Museum, Mauritius Ltd (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Since 2006, the military hospital has been in the buffer zone of the Aapravasi Ghat World Heritage Site and is doubly protected. [...] Since 2020, the military hospital houses the Intercontinental Slavery Museum"
+    },
+    {
+      "field": "likes",
+      "url": "https://ismmauritiusltd.govmu.org/ism/?page_id=2319",
+      "title": "Military Hospital — Intercontinental Slavery Museum, Mauritius Ltd (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Due to segregation, European patients were treated on the first floor, while enslaved individuals were accommodated on the ground floor."
+    },
+    {
+      "field": "description_md",
+      "url": "https://ismmauritiusltd.govmu.org/ism/?page_id=2319",
+      "title": "Military Hospital — Intercontinental Slavery Museum, Mauritius Ltd (site officiel)",
+      "accessed_at": "2026-11-24",
+      "evidence": "A dozen Indian masons and carpenters from Pondicherry and Karikal, as well as French workers, were also brought in."
+    },
+    {
+      "field": "likes",
+      "url": "https://ionnews.mu/ouverture-officielle-au-public-du-musee-intercontinental-de-lesclavage-par-le-premier-ministre/",
+      "title": "Ouverture officielle au public du Musée Intercontinental de l'Esclavage par le Premier ministre — ionnews.mu (2 septembre 2023)",
+      "accessed_at": "2026-11-24",
+      "evidence": "l’un des plus anciens bâtiments de l’île Maurice, construit par des esclaves en 1740"
+    },
+    {
+      "field": "description_md",
+      "url": "https://ismmauritiusltd.govmu.org/ism/",
+      "title": "Intercontinental Slavery Museum, Mauritius Ltd — site officiel (govmu.org)",
+      "accessed_at": "2026-11-24",
+      "evidence": "1, Quay Street, Ex-Military Hospital Building, Port Louis [...] 214 3608"
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://ionnews.mu/ouverture-officielle-au-public-du-musee-intercontinental-de-lesclavage-par-le-premier-ministre/",
+      "title": "Ouverture officielle au public du Musée Intercontinental de l'Esclavage par le Premier ministre — ionnews.mu (2 septembre 2023)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le Musée Intercontinental de l’Esclavage, qui présente des expositions temporaires depuis 2020, sera ouvert au public à partir du 4 septembre 2023. [...] situé à proximité du site du patrimoine mondial d’Aapravasi Ghat."
+    },
+    {
+      "field": "why_go_md, price_note, likes",
+      "url": "https://defimedia.info/le-musee-intercontinental-de-lesclavage-prend-vie",
+      "title": "Le Musée intercontinental de l’esclavage prend vie — Defimedia (septembre 2023)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Depuis le 1er septembre, les murs centenaires, restaurés et rénovés, vibrent au récit poignant de l’esclavage, déployé sur une surface vivante de 650 m² à travers huit salles. [...] L’entrée est gratuite."
+    },
+    {
+      "field": "description_md",
+      "url": "https://nhf.govmu.org/nhf/?page_id=709",
+      "title": "Port Louis (National Heritage Sites) — National Heritage Fund",
+      "accessed_at": "2026-11-24",
+      "evidence": "37. Military Hospital"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Horaires : la page « Services » du site officiel contient un gabarit non rempli (texte factice, adresse américaine, « Monday-Saturday 8 am - 6pm ») que je n'ai pas retenu. À demander au 214 3608.",
+    "Coordonnées : point OSM de Quay Street (rue), le musée n'étant pas trouvé par Nominatim ; à affiner.",
+    "Gratuité annoncée par la presse en 2023 seulement ; des travaux d'aménagement d'une aile ont été évoqués par la presse en 2026 (repéré par recherche, non lu)."
+  ],
+  "website_url": "https://ismmauritiusltd.govmu.org/ism/",
+  "secret": null
+}

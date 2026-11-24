@@ -1,0 +1,107 @@
+{
+  "slug": "ssr-memorial-centre-port-louis",
+  "name": "SSR Memorial Centre for Culture",
+  "family": "culture_patrimoine",
+  "tags": [
+    "gratuit"
+  ],
+  "region": "nord_ouest",
+  "locality": "Port-Louis (Plaine Verte)",
+  "lat": -20.1585978,
+  "lng": 57.5103637,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=SSR%20Memorial%20Port%20Louis",
+  "google_place_id": null,
+  "pitch": "Petit musée gratuit de Plaine Verte consacré à Sir Seewoosagur Ramgoolam : mobilier, effets personnels, photos.",
+  "description_md": "Le SSR Memorial Centre for Culture est un musée du Mauritius Museums Council installé au 87, rue Sir Seewoosagur Ramgoolam, à Plaine Verte (Port-Louis). Ses sept salles présentent les objets personnels de Sir Seewoosagur Ramgoolam, que le musée présente comme un grand homme d'État : mobilier, vêtements, matériel médical, diplômes.",
+  "why_go_md": "Pour une visite courte et gratuite sur une figure centrale de l'histoire mauricienne : une exposition de photographies retrace sa vie et celle du pays, et des documentaires sont projetés dans la salle audiovisuelle.",
+  "likes": [
+    "Entrée gratuite",
+    "Exposition de photographies sur sa vie et sur l'histoire du pays",
+    "Son ancien cabinet médical, avec matériel, diplômes et mobilier",
+    "Statue en bronze de 1987 dans la cour"
+  ],
+  "watchouts": [
+    "Fermé le dimanche et les jours fériés ; ouvert seulement le matin le samedi"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "free",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "« ENTRANCE FREE » sur la page du Mauritius Museums Council (page non datée, consultée le 24 novembre 2026).",
+  "opening_hours": "Mo,Tu,Th,Fr 09:00-16:00; We 11:00-16:00; Sa 09:00-12:00; Su,PH off",
+  "hours_note": "Horaires de la page « Contact Info & Visiting Hours » du Mauritius Museums Council (non datée, consultée le 24 novembre 2026). Tél. affiché : (230) 242 0053.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=SSR%20Memorial%20Port%20Louis",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.1585978\",\"lon\":\"57.5103637\" [...] \"type\":\"memorial\" [...] \"display_name\":\"SSR Memorial, Rue Sir Seewoosagur Ramgoolam, Plaine Verte (North), Chinatown, Mer Rouge, Town of Port-Louis, Ward 6, Port Louis, 11601, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1846",
+      "title": "About The Museum (SSR Memorial Centre for Culture) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "The Sir Seewoosagur Ramgoolam Memorial Centre for Culture is one of the specialised museums under the purview of the Mauritius Museums Council since 2000. It comprises seven rooms where the personal paraphernalia of Sir Seewoosagur Ramgoolam are displayed. These include his furniture, clothes, medical equipment and certificates."
+    },
+    {
+      "field": "likes, why_go_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1846",
+      "title": "About The Museum (SSR Memorial Centre for Culture) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "A major feature of the Centre is a photographic exhibition highlighting the main events in the life of this great statesman and of the nation. [...] This room is also used as audiovisual room where documentaries on Sir Seewoosagur Ramgoolam are regularly projected to the visitors."
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1846",
+      "title": "About The Museum (SSR Memorial Centre for Culture) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "In the room, which Sir Seewoosagur Ramgoolam used as medical cabinet, are exhibited his medical equipment, certificates and furniture. [...] A statue in bronze of Sir Seewoosagur Ramgoolam, made by the Russian artist and sculptor, Alekandrov Moskow, in 1987, is found in the front courtyard."
+    },
+    {
+      "field": "opening_hours, hours_note",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1879",
+      "title": "Contact Info & Visiting Hours (SSR Memorial Centre for Culture) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "Monday, Tuesday, Thursday and Friday : 09 00 to 16 00 hrs [...] Wednesday : 11 00 to 16 00 hrs [...] Saturday: 09 00 to 12 00 hrs [...] Sunday & Public Holiday: Closed"
+    },
+    {
+      "field": "price_kind, price_note, tags, pitch",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1879",
+      "title": "Contact Info & Visiting Hours (SSR Memorial Centre for Culture) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "ENTRANCE FREE"
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1879",
+      "title": "Contact Info & Visiting Hours (SSR Memorial Centre for Culture) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "87, Sir Seewoosagur Ramgoolam Street, Plaine Verte, Port Louis,"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "La page des horaires n'est pas datée : à confirmer par téléphone, surtout entre Noël et le Nouvel An.",
+    "Coordonnées : point OSM « SSR Memorial », rue Sir Seewoosagur Ramgoolam ; à vérifier qu'il s'agit bien du musée (n° 87)."
+  ],
+  "website_url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1846",
+  "secret": null
+}

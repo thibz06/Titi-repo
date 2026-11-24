@@ -1,0 +1,82 @@
+{
+  "slug": "restaurant-lai-min-chinatown",
+  "name": "Restaurant Lai Min",
+  "family": "manger",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis",
+  "lat": -20.1590355,
+  "lng": 57.5063504,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Lai+Min+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Restaurant chinois familial de la rue Royale, à Chinatown, fondé dans les années 1940 : mine bouillie, bol renversé, pao, fondue.",
+  "description_md": "Lai Min est un restaurant de cuisine chinoise de la rue Royale, dans le quartier chinois de Port-Louis, fondé en 1940 par Edmond Lai Min et dirigé depuis 1985 par ses fils Jean-Pierre et Jean-Marc. La maison s'est fait connaître avec la mine bouillie, le bol renversé, le sow chue, le chia sive et les pao ; elle sert aussi une fondue chinoise et, plus récemment, un canard farci à la crème de taro.",
+  "why_go_md": "Pour un repas assis de cuisine sino-mauricienne dans une adresse qui a plus de quatre-vingts ans. Le restaurant sert le déjeuner et le dîner d'après ses dirigeants.",
+  "likes": [
+    "Classiques sino-mauriciens : mine bouillie, bol renversé, pao",
+    "Fondue chinoise « Ying Yang », introduite en 2006",
+    "Service du déjeuner et du dîner"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Lai+Min+Port+Louis&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Lai Min Port Louis »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"node\",\"osm_id\":4983448640,\"lat\":\"-20.1590355\",\"lon\":\"57.5063504\" [...] \"name\":\"Restaurant Lai Min\""
+    },
+    {
+      "field": "description_md, pitch, likes, why_go_md",
+      "url": "https://defimedia.info/restaurant-lai-min-80-ans-dhistoire",
+      "title": "Restaurant Lai Min : 80 ans d’histoire | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "C’est en 1940 que l’hôtel Lai Min est fondé par Edmond Lai Min (1910-1982) [...] L’établissement était connu pour des plats comme le mine bouillie, le bol renversé, le sow chue, le chia sive, les pao et la tête de porc. [...] Depuis 1985, Jean-Pierre et Jean-Marc dirigent les opérations"
+    },
+    {
+      "field": "likes, why_go_md, description_md",
+      "url": "https://defimedia.info/restaurant-lai-min-80-ans-dhistoire",
+      "title": "Restaurant Lai Min : 80 ans d’histoire | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Avec Jean-Marc, nous alternons entre le service du déjeuner et celui du dîner. Nos plats continuent de séduire, à l’image du canard farci à la crème de taro. [...] suivi en 2006 de l’introduction de la fondue chinoise signature « Ying Yang », puis d’une transformation en 2012 et du lancement de son site web."
+    },
+    {
+      "field": "description_md",
+      "url": "https://defimedia.info/restaurant-lai-min-80-ans-dhistoire",
+      "title": "Restaurant Lai Min : 80 ans d’histoire | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Gastronomie chinoise Rue Royale"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucun prix trouvé : rien n'établit que l'adresse soit bon marché. À vérifier avant de la proposer à un petit budget.",
+    "Horaires et jours de fermeture non trouvés.",
+    "L'article évoque un site web du restaurant, non retrouvé : website_url reste null."
+  ],
+  "website_url": null,
+  "secret": null
+}

@@ -76,7 +76,7 @@ export function ProfileView({ places }: { places: PlaceSummary[] }) {
             <Notice
               title={t.profile.favoritesEmptyTitle}
               action={
-                <Link href="/explorer" className="inline-flex min-h-11 items-center rounded-full bg-lagon px-5 font-semibold text-encre">
+                <Link href="/explorer" className="inline-flex min-h-11 items-center rounded-full bg-passe px-5 font-semibold text-white">
                   {t.profile.explore}
                 </Link>
               }

@@ -1,0 +1,111 @@
+{
+  "slug": "monvert-nature-park",
+  "name": "Monvert Nature Walk",
+  "family": "nature_parcs",
+  "tags": [],
+  "region": "centre",
+  "locality": "Forest Side (Curepipe)",
+  "lat": -20.3339352,
+  "lng": 57.5349354,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Monvert",
+  "google_place_id": null,
+  "pitch": "Forêt indigène à 3 km du centre de Curepipe : deux sentiers de 2,5 et 2,8 km, fougeraie et plateforme au-dessus des arbres.",
+  "description_md": "Monvert est un domaine forestier de l'État de 73 hectares à Forest Side, à environ 3 km du centre de Curepipe. Le Forestry Service le présente comme la forêt indigène la plus facile d'accès près d'une ville. Exploitée pour son bois au début du XXe siècle puis replantée en pins et eucalyptus, la zone garde une partie de sa végétation d'origine. Le parcours nature a été aménagé entre 2001 et 2006.",
+  "why_go_md": "Pour voir de près la flore indigène de Maurice sans grande marche : un centre d'interprétation, une fougeraie présentant fougères et orchidées indigènes, un arboretum et deux sentiers courts en forêt.",
+  "likes": [
+    "Deux sentiers : « Parcours Bois de natte » (2,8 km) et « Parcours Bois d'ébène » (2,5 km)",
+    "Les deux sentiers aboutissent à une plateforme surélevée",
+    "Fougeraie de fougères et d'orchidées indigènes et endémiques",
+    "Centre d'interprétation sur la biodiversité et les forêts du pays"
+  ],
+  "watchouts": [],
+  "tips_md": "Les deux sentiers partent de l'accès principal et se terminent à la plateforme surélevée ; le plan du site figure dans la brochure du Forestry Service.",
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Monvert",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.3339352\",\"lon\":\"57.5349354\" [...] \"type\":\"works\" [...] \"display_name\":\"Monvert Fernery, La Vigie – La Brasserie – Beaux Songes Link Road A23, Curepipe, Seizième Mille, Seizième Mille VCA, Plaines Wilhems, 74513, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch, why_go_md",
+      "url": "https://forestry.govmu.org/Documents/Monvert%20brochure.pdf",
+      "title": "Monvert Nature Walk — brochure du Forestry Service (ministère de l'Agro-industrie)",
+      "accessed_at": "2026-11-24",
+      "evidence": "State Land Monvert is located in the region of Forest Side, some two kilometres from the Curepipe-Nouvelle France main road. It extends over an area of 73Ha. It is the most easily accessible native forest found close to an urban area, about 3km from the town centre of Curepipe."
+    },
+    {
+      "field": "description_md",
+      "url": "https://forestry.govmu.org/Documents/Monvert%20brochure.pdf",
+      "title": "Monvert Nature Walk — brochure du Forestry Service (ministère de l'Agro-industrie)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Nature Walk Project was initiated in July 2001 and completed in May 2006."
+    },
+    {
+      "field": "description_md",
+      "url": "https://forestry.govmu.org/Documents/Monvert%20brochure.pdf",
+      "title": "Monvert Nature Walk — brochure du Forestry Service (ministère de l'Agro-industrie)",
+      "accessed_at": "2026-11-24",
+      "evidence": "In the early 20th century, the whole region was logged for its valuable native timber species. the area was subsequently re-afforested with pine and eucalyptus with the exception of an area of 200 acres which still harbours native indigenous plants."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://forestry.govmu.org/Documents/Monvert%20brochure.pdf",
+      "title": "Monvert Nature Walk — brochure du Forestry Service (ministère de l'Agro-industrie)",
+      "accessed_at": "2026-11-24",
+      "evidence": "An arboretum containing more than 150 indigenous/endemic plant species."
+    },
+    {
+      "field": "likes, tips_md, pitch",
+      "url": "https://forestry.govmu.org/Documents/Monvert%20brochure.pdf",
+      "title": "Monvert Nature Walk — brochure du Forestry Service (ministère de l'Agro-industrie)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Two main trails “Parcours Bois de natte” of 2.8 km and “Parcours Bois D’ebene” of 2.5 km long have been created. They both start from the main access and end with the elevated platform."
+    },
+    {
+      "field": "likes, why_go_md",
+      "url": "https://forestry.govmu.org/Documents/Monvert%20brochure.pdf",
+      "title": "Monvert Nature Walk — brochure du Forestry Service (ministère de l'Agro-industrie)",
+      "accessed_at": "2026-11-24",
+      "evidence": "A Fernery has been set-up to display live, our indigenous and endemic ferns and orchids. [...] The Visitor’s Interpretation Centre houses displays of useful information related to our native biodiversity"
+    },
+    {
+      "field": "description_md",
+      "url": "https://govmu.org/FR/Pages/exploremtius.aspx",
+      "title": "Explore Mauritius — portail du gouvernement (govmu.org)",
+      "accessed_at": "2026-11-24",
+      "evidence": "le jardin botanique de Curepipe, le jardin endémique de la Vallée d’Osterlog, les promenades de Monvert et de Sophie."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Horaires, tarif et conditions de visite absents de la brochure (non datée). Une page gouvernementale repérée par recherche demanderait de contacter le Forestry Service avant de venir ; son hôte (pes.govmu.org) ne répond pas.",
+    "Coordonnées : point OSM « Monvert Fernery ».",
+    "Les pages du site forestry.govmu.org ne s'affichent pas sans JavaScript : seule la brochure PDF a pu être lue."
+  ],
+  "website_url": "https://forestry.govmu.org/",
+  "secret": null
+}

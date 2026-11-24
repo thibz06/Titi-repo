@@ -1,0 +1,87 @@
+{
+  "slug": "plage-de-la-preneuse",
+  "name": "Plage de La Preneuse",
+  "family": "plages_lagon",
+  "tags": [
+    "coucher_soleil"
+  ],
+  "region": "ouest",
+  "locality": "La Preneuse",
+  "lat": -20.3537556,
+  "lng": 57.3603766,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=La+Preneuse+Public+Beach&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Petite plage publique tranquille de Rivière Noire, avec tour Martello, canons, barques de pêche et vue sur Le Morne.",
+  "description_md": "La Preneuse est une plage de la côte ouest, dans le secteur de Rivière Noire. Elle est surtout connue pour sa tour Martello, un petit fort défensif bien conservé, et pour les canons posés le long du sable blanc. La Beach Authority y recense une plage publique proclamée d'environ 83 mètres de front de mer. Des barques de pêche y mouillent et de nombreuses sorties en bateau partent du secteur.",
+  "why_go_md": "Pour une promenade au calme sur le sable, un coup d'œil à la tour Martello et un coucher de soleil avec la silhouette du Morne Brabant au loin. L'office du tourisme la décrit comme une plage tranquille, faite pour marcher plutôt que pour nager.",
+  "likes": [
+    "Plage calme, agréable pour marcher",
+    "Tour Martello et canons sur la plage",
+    "Coucher de soleil, avec Le Morne Brabant au loin",
+    "Barques de pêche et départs de sorties en mer (des dauphins sont souvent vus le long de cette côte)"
+  ],
+  "watchouts": [
+    "Le rivage est protégé par des sacs de sable : l'accès à l'eau n'est pas facile partout"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=La+Preneuse+Public+Beach&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « La Preneuse Public Beach »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 10150946021 (tourism=attraction) « La Preneuse Public Beach » : lat -20.3537556, lon 57.3603766"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-preneuse-beach/",
+      "title": "La Preneuse Beach: Mauritius' Hidden Gem (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The beach is best known for being home to a well-preserved Martello Tower (a small defensive fort), as well as a number of cannons that sit along the white sandy beach. The beach is protected by sandbags along the shoreline, so some parts of the water are not easily accessible, but it is a quiet beach and perfect for a walk."
+    },
+    {
+      "field": "description_md, why_go_md, likes, tags",
+      "url": "https://mauritiusnow.com/blog/things-to-do/la-preneuse-beach/",
+      "title": "La Preneuse Beach: Mauritius' Hidden Gem (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "You’ll see fishing boats bobbing in the water and many boat trips depart from this area [...] La Preneuse Beach is also a great spot to watch the sunset and you can see the towering Le Morne Brabant mountain in the distance."
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.beachauthority.mu/pdf/beaches/List2025.pdf",
+      "title": "List of proclaimed public beaches in Mauritius (Beach Authority, fichier List2025.pdf)",
+      "accessed_at": "2026-11-24",
+      "evidence": "La Preneuse 0.5275 83 348/1991"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "`price_kind` à null : plage publique proclamée, mais aucune source lue n'écrit que l'accès ou le parking sont gratuits.",
+    "Baignade : aucune source officielle lue sur la sécurité (surveillance, courants) ; l'office du tourisme signale seulement les sacs de sable.",
+    "La tour Martello a sa propre fiche (`tour-martello-la-preneuse`)."
+  ],
+  "website_url": null,
+  "secret": null
+}

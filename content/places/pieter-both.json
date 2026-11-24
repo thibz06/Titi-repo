@@ -1,0 +1,108 @@
+{
+  "slug": "pieter-both",
+  "name": "Pieter Both",
+  "family": "randos_sommets",
+  "tags": [
+    "spot_photo"
+  ],
+  "region": "nord_ouest",
+  "locality": "La Laura",
+  "lat": -20.1913165,
+  "lng": 57.5561148,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Pieter%20Both",
+  "google_place_id": null,
+  "pitch": "Deuxième sommet de l'île (818 m), coiffé d'un rocher en forme de tête. Ascension réservée aux équipés, avec guide.",
+  "description_md": "Le Pieter Both (818 m) est le deuxième sommet de Maurice après le Piton de la Petite Rivière Noire. Il se dresse dans la chaîne de Moka et se reconnaît de loin à l'énorme rocher posé à son sommet, que beaucoup comparent à une tête humaine. Il porte le nom du premier gouverneur général des Indes orientales néerlandaises. Le départ de la marche se trouve au village de La Laura.",
+  "why_go_md": "Pour le panorama du sommet, qui embrasse l'île et plonge sur Port-Louis, si tu as l'expérience et l'encadrement nécessaires. Sinon, la silhouette de la montagne se regarde très bien d'en bas.",
+  "likes": [
+    "Silhouette reconnaissable : un rocher en équilibre au sommet",
+    "Vue panoramique sur l'île et sur Port-Louis depuis le haut",
+    "Départ depuis le village de La Laura"
+  ],
+  "watchouts": [
+    "À ne tenter qu'avec le bon équipement et un guide professionnel local : c'est la consigne de l'office du tourisme",
+    "Le parcours comporte des passages délicats, que le guide aide à franchir"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": 5,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": "high",
+  "risk_note": "L'office du tourisme écrit que l'ascension ne doit être tentée qu'avec l'équipement adapté et un guide professionnel local.",
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Pieter%20Both",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.1913165\",\"lon\":\"57.5561148\" [...] \"type\":\"peak\" [...] \"display_name\":\"Pieter Both, Crève Coeur VCA, Pamplemousses, 81402, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/pieter-both/",
+      "title": "Hiking Pieter Both: Adventure in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Located in the Moka range, the start of the hike can be found in the picturesque village of La Laura, and the mountain itself is easily recognisable from a distance thanks to the gigantic rock formation at the top of it, which many say resembles a human head."
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/pieter-both/",
+      "title": "Hiking Pieter Both: Adventure in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Named after Pieter Both, who was the first Governor-General of the Dutch East Indies"
+    },
+    {
+      "field": "difficulty, risk_level, risk_note, watchouts, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/pieter-both/",
+      "title": "Hiking Pieter Both: Adventure in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The second highest mountain on the island after Piton de la Petite Rivière Noire, this hiking trail should only be attempted with the help of the right equipment and a local professional guide."
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/pieter-both/",
+      "title": "Hiking Pieter Both: Adventure in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Adventurers that make it to the top of Pieter Both will be rewarded with panoramic island views, including a sweeping vista over the capital city of Port Louis."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/pieter-both/",
+      "title": "Hiking Pieter Both: Adventure in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "With their expert guidance, you’ll stay on the right path, be able to tackle the trickier sections of the hike"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://govmu.org/FR/Pages/exploremtius.aspx",
+      "title": "Explore Mauritius — portail du gouvernement (govmu.org)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Pieter Both (818 m),"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Durée, dénivelé et tarif des guides : aucune source officielle lue ; duration_* à null.",
+    "difficulty = 5 et risk_level = high sont ma lecture de la consigne « équipement et guide professionnel » de Mauritius Now.",
+    "Région : rangé en nord_ouest comme la fiche du Pouce (même chaîne de Moka) ; à déplacer en centre si tu préfères."
+  ],
+  "website_url": "https://mauritiusnow.com/blog/things-to-do/pieter-both/",
+  "secret": null
+}

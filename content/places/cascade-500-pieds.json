@@ -1,0 +1,78 @@
+{
+  "slug": "cascade-500-pieds",
+  "name": "Cascade 500 Pieds",
+  "family": "cascades_rivieres",
+  "tags": [],
+  "region": "sud_ouest",
+  "locality": null,
+  "lat": -20.4341083,
+  "lng": 57.4573271,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Alexandra+Falls&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Courte randonnée depuis le belvédère d'Alexandra Falls jusqu'au sommet d'une grande cascade, avec un bassin d'eau froide.",
+  "description_md": "La Cascade 500 Pieds se trouve dans le parc national des Gorges de Rivière Noire ; l'office du tourisme la présente comme la plus grande cascade de Maurice. La marche part du belvédère d'Alexandra Falls : 2,8 kilomètres, une à deux heures. Elle mène au sommet de la chute, où l'on trouve un bassin d'eau froide et une vue dégagée sur le relief.",
+  "why_go_md": "Pour voir deux cascades dans la même sortie (Alexandra Falls au départ, 500 Pieds à l'arrivée), se tremper dans le bassin du haut et marcher dans la forêt du parc.",
+  "likes": [
+    "Marche courte : une à deux heures",
+    "Bassin d'eau froide au sommet de la cascade",
+    "Départ au belvédère d'Alexandra Falls : deux cascades en une sortie"
+  ],
+  "watchouts": [
+    "Une autre page de l'office du tourisme réserve le parcours le long de la cascade aux randonneurs avancés, avec un guide expert",
+    "On arrive au sommet d'une chute : prudence près du bord"
+  ],
+  "tips_md": null,
+  "duration_min": 60,
+  "duration_max": 120,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Alexandra+Falls&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Alexandra Falls »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 380459850 (tourism=viewpoint) « Alexandra Falls » : lat -20.4341083, lon 57.4573271 — point de départ de la marche selon Mauritius Now, pas la cascade elle-même"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, duration_min, duration_max",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-hikes-in-mauritius/",
+      "title": "Best Hikes in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "See Mauritius’ biggest waterfall with this quick and rewarding hike. This route only takes one to two hours and ends with a front-row seat to Mauritius’ dramatic scenery and an energising dip in the cold pool at the top of Cascade 500 Pieds. This hike begins at the viewpoint for Alexandra Falls in the Black River Gorges National Park, so you can see two waterfalls in one day and spend more time in Mauritius’ rugged forests if you like. 2.8km 1-2 hours"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/active-sports-in-mauritius/",
+      "title": "Active sports in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "If you are an advanced hiker, join an expert guide and hike along Cascade 500 Pieds waterfall, following the cascades and the trail through Black River Gorges National Park."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Niveau requis : deux pages de l'office du tourisme divergent (« quick and rewarding hike » contre « advanced hiker, join an expert guide »). À trancher avant de publier.",
+    "Coordonnées : belvédère d'Alexandra Falls (départ) ; la cascade n'a pas été trouvée dans Nominatim. La mise en garde « près du bord » est une déduction de prudence, pas une citation.",
+    "Balisage, baignade autorisée ou non, hauteur de la chute : aucune source officielle lue."
+  ],
+  "website_url": null,
+  "secret": null
+}

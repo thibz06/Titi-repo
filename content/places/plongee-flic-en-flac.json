@@ -1,0 +1,110 @@
+{
+  "slug": "plongee-flic-en-flac",
+  "name": "Plongée à Flic en Flac et Rivière Noire",
+  "family": "mer_activites",
+  "tags": [],
+  "region": "ouest",
+  "locality": "Flic en Flac",
+  "lat": -20.2837997,
+  "lng": 57.3640211,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Flic+en+Flac&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Plongées de la côte ouest : grotte de la Cathédrale, Snake Reef pour les photographes, tortues de Silvana pour débuter.",
+  "description_md": "La côte ouest concentre plusieurs sites de plongée cités par l'office du tourisme. Près de Flic en Flac, la Cathédrale associe un tombant et d'énormes blocs qui forment grottes et arches ; on y descend jusqu'à près de 30 mètres, dans une caverne éclairée par la lumière de la surface. Snake Reef, un récif plat au milieu d'un banc de sable en forme de serpent, descend à 25 mètres au maximum. Dans la baie de Rivière Noire, Silvana commence à 5 mètres et descend à 18 mètres : le site convient aux débutants comme aux plongeurs confirmés.",
+  "why_go_md": "Pour la variété : relief spectaculaire à la Cathédrale, petite faune à Snake Reef (poissons-pierres, rascasses, tortues, poulpes), et tortues vertes et imbriquées à Silvana, vues presque à chaque sortie selon un centre local cité par l'office du tourisme.",
+  "likes": [
+    "La Cathédrale : grottes, arches et caverne, jusqu'à près de 30 m",
+    "Snake Reef : jusqu'à 25 m, apprécié pour la photo sous-marine",
+    "Silvana : de 5 à 18 m, tortues très régulièrement observées",
+    "Eau de 26 à 29 °C de novembre à avril selon la MSDA",
+    "Centres contrôlés par la Mauritius Scuba Diving Association (MSDA)"
+  ],
+  "watchouts": [
+    "Choisis un centre dont l'agrément MSDA est affiché : c'est, selon la fédération, le seul gage de sécurité",
+    "Certificat médical obligatoire pour les mineurs et à partir du niveau 2 ; recommandé pour toute formation",
+    "Poissons-pierres présents à Snake Reef : on ne touche à rien",
+    "Caisson de décompression à l'hôpital Victoria de Candos, payant"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Flic+en+Flac&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Flic en Flac »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap way 608819767 (natural=beach) « Flic en Flac » : lat -20.2837997, lon 57.3640211 — plage de Flic en Flac, repère approximatif ; les centres de plongée n'ont pas été localisés"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/cathederal/",
+      "title": "The Cathedral Dive Site (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The sheer drop off fuses with enormous boulders to create an exciting topography of caves and arches, where lobsters scuttle over the rock and reef fish zig-zag above you. You can dive down to nearly 30 metres in this area and explore the cathedral-like cavern, lit angelically by the sunlight beaming through the surface of the water. This dive spot is located on the west coast of the island near Flic-en-Flac"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/scuba-diving-in-mauritius/",
+      "title": "Experience the Best Scuba Diving Spots in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "A flat reef located in the middle of a snake-shaped sandbank with a maximum depth of 25 metres [...] Located on the west coast of Mauritius near Flic-en-Flac [...] Snake Reef is ‘perfect’ for underwater photography. Home to just about everything from stonefish to scorpionfish, turtles to octopus"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/scuba-diving-in-mauritius/",
+      "title": "Experience the Best Scuba Diving Spots in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Located in the Black River Bay, Silvana is the perfect spot for non-divers, beginners and those with more experience as it starts at a depth of 5 metres and goes down to 18 metres. [...] “We can see the green turtles and hawksbill turtles over there,” she said. “They can be seen almost every time we go"
+    },
+    {
+      "field": "likes, watchouts",
+      "url": "https://mauritiusnow.com/blog/things-to-do/scuba-diving-in-mauritius/",
+      "title": "Experience the Best Scuba Diving Spots in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "diving centres in Mauritius are subject to strict safety controls, all governed by the Mauritius Scuba Diving Association (MSDA) [...] A decompression chamber is available at the Victoria Hospital in Candos, next to Quatre-Bornes (tel: +230 427 5131) and can be reached via the Divers Alert Network (DAN) at a cost."
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.msda.mu/",
+      "title": "MSDA – Mauritius Scuba Diving Association",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le seul gage de sécurité est l’agrément de contrôle de la MSDA qui doit être clairement affiché dans le centre de plongée ou la structure proposant la plongée. [...] Il est obligatoire à partir du niveau 2 et pour les mineurs."
+    },
+    {
+      "field": "likes",
+      "url": "https://www.msda.mu/",
+      "title": "MSDA – Mauritius Scuba Diving Association",
+      "accessed_at": "2026-11-24",
+      "evidence": "En été, de novembre à avril, la temperature de l’eau varie entre 26 et 29°C; un shorty de 3 mm convient largement."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix : aucun tarif officiel en roupies lu ; `price_kind` à null. Centres de Flic en Flac et de Rivière Noire non identifiés par une source officielle lisible (la liste MSDA n'était pas exploitable).",
+    "`website_url` pointe vers la liste des centres agréés de la MSDA, pas vers un prestataire.",
+    "Coordonnées : plage de Flic en Flac (repère) ; âge minimum et niveaux requis par site non sourcés."
+  ],
+  "website_url": "https://msda.mu/centres-de-plongee/",
+  "secret": null
+}

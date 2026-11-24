@@ -1,0 +1,85 @@
+{
+  "slug": "piton-de-la-petite-riviere-noire",
+  "name": "Piton de la Petite Rivière Noire",
+  "family": "randos_sommets",
+  "tags": [],
+  "region": "sud_ouest",
+  "locality": null,
+  "lat": -20.4087947,
+  "lng": 57.4076919,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Piton+de+la+Petite+Rivi%C3%A8re+Noire&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Le point culminant de Maurice, 828 mètres, dans le parc national des Gorges de Rivière Noire : panorama sur toute l'île.",
+  "description_md": "Le Piton de la Petite Rivière Noire, aussi appelé Black River Peak, est le plus haut sommet de Maurice, à 828 mètres. Il se trouve dans le parc national des Gorges de Rivière Noire, le plus grand parc de l'île, qui compte plus de 50 kilomètres de sentiers. L'office du tourisme annonce un parcours de 5 à 6 kilomètres pour 1 h 30 à 2 h 30 de marche.",
+  "why_go_md": "Pour une vue à 360 degrés sur l'île : par temps clair, les crêtes boisées et la mer jusqu'à l'horizon ; d'autres jours, le sommet est dans les nuages.",
+  "likes": [
+    "Sommet de l'île, vue panoramique",
+    "Sentier dans le parc national, forêt et crêtes",
+    "Durée raisonnable : 1 h 30 à 2 h 30 selon l'office du tourisme"
+  ],
+  "watchouts": [
+    "Le dernier tronçon avant le sommet est le plus exigeant",
+    "Le sommet peut être pris dans les nuages : la vue n'est pas garantie"
+  ],
+  "tips_md": null,
+  "duration_min": 90,
+  "duration_max": 150,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Piton+de+la+Petite+Rivi%C3%A8re+Noire&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Piton de la Petite Rivière Noire »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap node 296150500 (natural=peak) « Piton de la Petite Rivière Noire » : lat -20.4087947, lon 57.4076919"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes, watchouts, duration_min, duration_max",
+      "url": "https://mauritiusnow.com/blog/things-to-do/best-hikes-in-mauritius/",
+      "title": "Best Hikes in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "This list wouldn’t be complete without the highest peak in all of Mauritius: Piton de la Petite Rivière Noire. This is where you want to go for 360-degree views of the whole island. The last challenging stretch near the top is worth it for what you’ll see at the peak. Finish your climb at the top of the island, where clouds might join you, or, on the clearest days, you’ll get the best panoramic views of soft forest ridges and the sea meeting the horizon. 5-6km 1:30-2:30"
+    },
+    {
+      "field": "description_md, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/national-parks-in-mauritius/",
+      "title": "National Parks in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "With more than 50km of trails, from challenging ascents to easy forest rambles, the park is every hiker’s dream. Home to the highest point in all of Mauritius in the form of the Black River Peak, at 828m above sea level"
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusnow.com/blog/things-to-do/active-sports-in-mauritius/",
+      "title": "Active sports in Mauritius (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Hike Piton de la Petite Rivière Noire to the highest point in Mauritius, reaching a height of 828m!"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Point de départ du sentier, balisage et stationnement : non précisés par les sources lues (site du National Parks and Conservation Service sans contenu exploitable).",
+    "Durée « 1:30-2:30 » pour « 5-6km » : l'office du tourisme ne dit pas si c'est l'aller-retour.",
+    "Coordonnées : sommet (OpenStreetMap). Difficulté et prix d'accès au parc non sourcés."
+  ],
+  "website_url": null,
+  "secret": null
+}

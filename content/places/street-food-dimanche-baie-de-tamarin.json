@@ -1,0 +1,84 @@
+{
+  "slug": "street-food-dimanche-baie-de-tamarin",
+  "name": "Street food du dimanche à la baie de Tamarin",
+  "family": "manger",
+  "tags": [],
+  "region": "ouest",
+  "locality": "Tamarin",
+  "lat": -20.326202,
+  "lng": 57.377221,
+  "coords_source_url": "https://www.openstreetmap.org/node/10150945105",
+  "google_place_id": null,
+  "pitch": "Le dimanche, la baie de Tamarin est conseillée par une habitante pour un dholl puri, des boulettes ou des mines bouillies.",
+  "description_md": "Sur sa page consacrée à la cuisine mauricienne, le site de promotion touristique Mauritius Now relaie le conseil d’une habitante, Lydia : aller à la baie de Tamarin le dimanche pour manger un dholl puri, des boulettes ou des mines bouillies. La page décrit le dholl puri comme une galette de pois cassés jaunes garnie, souvent servie avec du cari, et les boulettes comme de petits raviolis vapeur servis dans un bouillon chaud.",
+  "why_go_md": "Pour associer la plage de Tamarin à un repas de rue, le jour où cette habitante recommande d’y aller.",
+  "likes": [
+    "Dholl puri",
+    "Boulettes en bouillon",
+    "Mines bouillies"
+  ],
+  "watchouts": [
+    "Le conseil ne vaut que pour le dimanche ; rien n’est dit des autres jours",
+    "Aucun marchand ni emplacement précis n’est nommé"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Tamarin+public+beach&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Tamarin public beach »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Tamarin Public Beach, Avenue Rose, Tamarin, Tamarin VCA, Black River, 90503, Mauritius / Maurice — lat -20.3262023, lon 57.3772209 (node 10150945105)"
+    },
+    {
+      "field": "description_md, pitch, likes, watchouts, why_go_md",
+      "url": "https://mauritiusnow.com/things-to-do/mauritian-food/",
+      "title": "Mauritian food – Mauritius Now (office du tourisme)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Head to Tamarin Bay on Sundays to have some dholl puri or dumplings and boiled noodles"
+    },
+    {
+      "field": "description_md",
+      "url": "https://mauritiusnow.com/things-to-do/mauritian-food/",
+      "title": "Mauritian food – Mauritius Now (office du tourisme)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Dholl puri is a flatbread made from yellow split peas that are ground into flour, then stuffed with a mixture of cooked yellow split peas, chutney and pickles. It’s often served with curry"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://mauritiusnow.com/things-to-do/mauritian-food/",
+      "title": "Mauritian food – Mauritius Now (office du tourisme)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Boulettes are small steamed dumplings that come with all sorts of fillings [...] They are served in a hot broth with vegetables and noodles"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Fiche fondée sur un témoignage non daté relayé par mauritiusnow.com : étals, emplacement exact, heures et prix à relever sur place.",
+    "Coordonnées : plage publique de Tamarin dans OpenStreetMap, faute d’emplacement précis des marchands."
+  ],
+  "website_url": null,
+  "secret": null
+}

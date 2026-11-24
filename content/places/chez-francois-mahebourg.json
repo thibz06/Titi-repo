@@ -1,0 +1,104 @@
+{
+  "slug": "chez-francois-mahebourg",
+  "name": "Chez François",
+  "family": "manger",
+  "tags": [],
+  "region": "sud_est",
+  "locality": "Mahébourg",
+  "lat": -20.410008,
+  "lng": 57.709484,
+  "coords_source_url": "https://www.openstreetmap.org/node/4977540742",
+  "google_place_id": null,
+  "pitch": "Snack-restaurant de la rue Labourdonnais à Mahébourg, connu pour ses mines aux coquillages (« mangouak », palourdes).",
+  "description_md": "Chez François est tenu par François Hosenbocus, issu d’une famille de pêcheurs, avec son épouse et son fils. On y accède par la rue Labourdonnais, à côté du supermarché Lo Yeung. D’après Le Mauricien (octobre 2020), les mines au « mangouak », aux palourdes ou aux fruits de mer sont les plats phares de la maison ; le mangouak, coquillage des embouchures au goût proche de l’huître, y est généralement préparé en salmi.",
+  "why_go_md": "Pour une spécialité qu’on ne trouve guère ailleurs : le restaurateur raconte que des clients viennent de toute l’île, même du nord, pour le mangouak.",
+  "likes": [
+    "Mine « mangouak », mine palourde, mine aux fruits de mer",
+    "Mangouak en salmi",
+    "Affaire familiale ; spécialité citée par le Guide du Routard selon le patron"
+  ],
+  "watchouts": [
+    "En 2020, faute d’approvisionnement après le Wakashio, le mangouak n’était servi que le week-end : demande avant de commander",
+    "Goût du mangouak décrit comme proche de l’huître, un peu âcre"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Chez+Fran%C3%A7ois+Mah%C3%A9bourg&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Chez François Mahébourg »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Chez Francois, Rue la Bourdonnais, Mahébourg, Mahébourg VCA, Grand Port, 50811, Mauritius / Maurice — lat -20.4100079, lon 57.7094842 (node 4977540742)"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Les mines “mangouak”, mine palourde ou mine aux fruits de mer sont les rois de la table au restaurant Chez François. On y parvient en empruntant la rue Labourdonnais, à côté du supermarché Lo Yeung"
+    },
+    {
+      "field": "description_md",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "François Hosenbocus vient d’une lignée de familles de pêcheurs"
+    },
+    {
+      "field": "description_md, watchouts, likes",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Son goût est semblable à celui des huîtres, donc quelque peu âcre [...] C’est pour cela qu’on le prépare généralement en salmi, car les épices permettent d’atténuer ce goût"
+    },
+    {
+      "field": "watchouts",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Nous avons encore un stock que nous gardons pour le week-end. Nous ne pouvons proposer le mangouak en semaine actuellement"
+    },
+    {
+      "field": "why_go_md, likes",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Généralement, les gens viennent de partout, même du nord, pour manger le mangouak. Parfois, ils sont déçus si nous n’en avons pas. Je dois également préciser que nous sommes sur le Guide du routard qui mentionne notre spécialité"
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://www.lemauricien.com/actualites/societe/restauration-fruits-de-mer-preserver-les-traditions-mahebourgeoises/380464/",
+      "title": "(Restauration) Fruits de mer : Préserver les traditions mahébourgeoises | Le Mauricien (11 octobre 2020)",
+      "accessed_at": "2026-11-24",
+      "evidence": "qu’il a également transmise à son épouse Paula et son fils Owen, qui l’aident dans son petit business"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Source unique d’octobre 2020 : prix, horaires et jours d’ouverture non sourcés ; disponibilité actuelle du mangouak inconnue."
+  ],
+  "website_url": null,
+  "secret": null
+}

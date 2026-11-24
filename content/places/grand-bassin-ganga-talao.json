@@ -1,0 +1,124 @@
+{
+  "slug": "grand-bassin-ganga-talao",
+  "name": "Grand Bassin (Ganga Talao)",
+  "family": "culture_patrimoine",
+  "tags": [],
+  "region": "sud_ouest",
+  "locality": "Grand Bassin",
+  "lat": -20.4182287,
+  "lng": 57.4919515,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Grand%20Bassin&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Lac de cratère sacré pour les hindous de Maurice, dans les hauteurs de Savanne, gardé par une statue de Shiva de 33 mètres.",
+  "description_md": "Ganga Talao, plus connu sous le nom de Grand Bassin, est un lac logé dans un cratère volcanique des hauteurs du district de Savanne, à environ 550 mètres d'altitude selon Wikipédia. C'est un lieu sacré de l'hindouisme mauricien : l'office du tourisme le décrit comme un site hindou important, bordé de sanctuaires colorés. Une statue de Shiva haute de 33 mètres accueille les visiteurs à l'entrée du site. Le lac est la destination du pèlerinage de Maha Shivaratri, que les fidèles rejoignent à pied depuis toute l'île, généralement entre février et mars.",
+  "why_go_md": "Pour faire le tour du lac à pied, dans le calme, entre les sanctuaires et les singes, et pour mesurer la place de l'hindouisme dans l'île. Selon la tradition rapportée par Wikipédia et par la presse indienne, tout part d'un rêve fait en 1887 par un prêtre, Jhummun Giri, qui aurait vu l'eau du lac jaillir du Gange ; le nom Ganga Talao signifie « lac du Gange ».",
+  "likes": [
+    "Promenade le long de la rive, entre des sanctuaires colorés",
+    "Statue de Shiva de 33 m à l'entrée du site (Mangal Mahadev, inaugurée en 2007 selon Wikipédia)",
+    "Statue de Durga, de 33 m également selon Wikipédia",
+    "Temples dédiés à Hanuman, Ganga et Ganesh au bord du lac (Wikipédia)",
+    "Singes aux abords du lac"
+  ],
+  "watchouts": [
+    "Lieu de culte en activité : les fidèles y prient, brûlent de l'encens et déposent des offrandes",
+    "Pendant Maha Shivaratri, fête fériée généralement entre février et mars, des fidèles de toute l'île convergent à pied vers le lac : forte affluence"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "pelerinage": "Maha Shivaratri, généralement entre février et mars (office du tourisme) : hors des dates du séjour de décembre-janvier"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "incontournable",
+  "rarity_reason": "Site hindou important de l'île selon l'office du tourisme, et destination du pèlerinage de Maha Shivaratri, la principale fête hindoue de Maurice selon Wikipédia.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Grand%20Bassin&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim / OpenStreetMap — recherche « Grand Bassin »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"relation\",\"osm_id\":1789151,\"lat\":\"-20.4182287\",\"lon\":\"57.4919515\",\"category\":\"natural\",\"type\":\"water\""
+    },
+    {
+      "field": "description_md, pitch, likes, why_go_md",
+      "url": "https://mauritiusnow.com/things-to-do/ganga-talao/",
+      "title": "Ganga Talao — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "This sacred lake (also known as Grand Bassin) lies high in the mountains of Savanne and is an important Hindu site in Mauritius. You’ll be greeted by a 33-metre-high statue of Shiva at the gateway to the crater lake. Take your time to walk around the shoreline – soak up the peace and quiet, watch mischievous monkeys play and admire the colourful shrines dotted around the lake’s edge."
+    },
+    {
+      "field": "description_md, watchouts, rarity",
+      "url": "https://mauritiusnow.com/things-to-do/ganga-talao/",
+      "title": "Ganga Talao — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "People from all over Mauritius – and the world – make the pilgrimage on foot to Ganga Talao. This sacred lake is the heart of the festival, a place to worship, light incense, pray and make offerings to the gods."
+    },
+    {
+      "field": "description_md, watchouts, best_time",
+      "url": "https://mauritiusnow.com/things-to-do/festivals-in-mauritius/",
+      "title": "Festivals in Mauritius — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Maha Shivaratri is a public holiday celebrated on the thirteenth night and fourteenth day of the eleventh Hindu month, which is usually between February and March."
+    },
+    {
+      "field": "description_md, rarity",
+      "url": "https://en.wikipedia.org/wiki/Ganga_Talao",
+      "title": "Ganga Talao — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "is considered a sacred lake among Hindus, located in a volcanic crater situated in a secluded mountain area, high above the Indian Ocean in the district of Savanne [...] The lake serves as the location of an annual pilgrimage during Maha Shivaratri , the island's most important Hindu festival."
+    },
+    {
+      "field": "description_md",
+      "url": "https://en.wikipedia.org/wiki/Ganga_Talao",
+      "title": "Ganga Talao — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Surface elevation 550 m (1,800 ft)"
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://en.wikipedia.org/wiki/Ganga_Talao",
+      "title": "Ganga Talao — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Ganga Talao literally means the \"Lake of Ganga\" [...] According to legend, in 1887 (some say 1890s) a priest by the name of Pandit Jhummun Giri of Triolet [ 4 ] claimed to have experienced a revelation in a dream of seeing the waters of the Ganga Talao flowing from the goddess deity Ganga."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://www.hinduismtoday.com/hpi/?p=5923",
+      "title": "Mauritius Celebrates Mahasivaratri — Hindu Press International, reprise du Deccan Herald (26 février 2006)",
+      "accessed_at": "2026-11-24",
+      "evidence": "It is said a temple priest called Jhummun Giri Napal saw in his dream way back in 1887 angelic figures dancing around the lake singing praises to Lord Siva. He also dreamed that Grand Bassin was mysteriously flowing from the sacred Ganges water in India."
+    },
+    {
+      "field": "likes",
+      "url": "https://en.wikipedia.org/wiki/Ganga_Talao",
+      "title": "Ganga Talao — Wikipedia",
+      "accessed_at": "2026-11-21",
+      "evidence": "Mangal Mahadev is a 33 m (108 ft) tall statue of the Hindu god, Shiva , standing with his trident at the entrance of Ganga Talao. Inaugurated in 2007 [...] There are temples dedicated to other gods as well, including Lord Hanuman , Goddess Ganga , and Lord Ganesh along the Grand Bassin. [...] The statue is 33 m (108 ft) tall."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Aucun site officiel du lieu trouvé : prix (gratuité non sourcée), horaires, tenue attendue et règles de visite des temples restent à vérifier ; price_kind et opening_hours à null.",
+    "L'histoire (rêve de 1887, statues, dates) repose sur Wikipédia en anglais, page téléchargée le 21 novembre 2026 avant l'arrêt des appels Wikimedia, et sur un article du Deccan Herald de 2006 ; le récit du rêve est une tradition, présentée comme telle.",
+    "Coordonnées : centre du lac d'après OpenStreetMap (relation 1789151) ; l'entrée et le parking sont à quelques centaines de mètres au sud. Durée de visite non sourcée."
+  ],
+  "website_url": null,
+  "secret": null
+}

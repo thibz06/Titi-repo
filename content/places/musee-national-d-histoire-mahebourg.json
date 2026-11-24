@@ -1,0 +1,121 @@
+{
+  "slug": "musee-national-d-histoire-mahebourg",
+  "name": "Musée national d'histoire (Mahébourg)",
+  "family": "culture_patrimoine",
+  "tags": [
+    "gratuit"
+  ],
+  "region": "sud_est",
+  "locality": "Mahébourg",
+  "lat": -20.4162831,
+  "lng": 57.7030066,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=National%20History%20Museum%20Mahebourg",
+  "google_place_id": null,
+  "pitch": "Histoire coloniale de Maurice dans une demeure du XVIIIe siècle. Annoncé fermé pour rénovation depuis décembre 2025.",
+  "description_md": "Le National History Museum de Mahébourg retrace l'histoire de Maurice depuis l'arrivée des Portugais au début du XVIe siècle jusqu'à la fin du XIXe, à travers les périodes hollandaise, française et britannique. Il occupe une grande demeure coloniale de la fin du XVIIIe siècle, classée au patrimoine national, dans un jardin où a été reconstitué un village d'époque. Le site du Mauritius Museums Council indique que le musée est temporairement fermé pour rénovation depuis le 15 décembre 2025.",
+  "why_go_md": "S'il a rouvert : pour les objets remontés des épaves autour de l'île et pour les salles consacrées à la bataille navale de Grand Port (1810), qui s'est jouée dans la baie voisine.",
+  "likes": [
+    "Astrolabe portugais daté de 1568, retrouvé sur l'épave du Banda (1615)",
+    "Cloche de bronze du Saint-Géran (1744)",
+    "Objets des frégates britanniques La Magicienne et HMS Sirius, coulées en 1810 dans la baie de Mahébourg",
+    "Souvenirs du chemin de fer mauricien (1864-1964), dont la maquette d'une voiture à impériale"
+  ],
+  "watchouts": [
+    "Fermeture pour rénovation annoncée depuis le 15 décembre 2025 sur le site officiel, sans date de réouverture : ne te déplace pas sans avoir vérifié"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "free",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "« ENTRANCE FREE » sur la page du Mauritius Museums Council (page non datée, consultée le 24 novembre 2026).",
+  "opening_hours": null,
+  "hours_note": "Musée annoncé fermé pour travaux depuis le 15 décembre 2025. Horaires habituels affichés par le Mauritius Museums Council (page non datée) : lundi, mardi, jeudi, vendredi et samedi 9 h-16 h ; mercredi 11 h-16 h ; dimanche et jours fériés 9 h-12 h.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=National%20History%20Museum%20Mahebourg",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.4162831\",\"lon\":\"57.7030066\" [...] \"type\":\"museum\" [...] \"display_name\":\"National History Museum Mahebourg, Robillard Road, Mahébourg, Mahébourg VCA, Grand Port, 50811, Mauritius / Maurice\""
+    },
+    {
+      "field": "watchouts, hours_note, pitch, description_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1875",
+      "title": "Contact Info & Visiting Hours (National History Museum) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "closed for renovation works as from 15 December 2025."
+    },
+    {
+      "field": "hours_note",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1875",
+      "title": "Contact Info & Visiting Hours (National History Museum) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "Monday,Tuesday, Thursday, Friday and Saturday: 09 00 to 16 00 hrs [...] Wednesday : 11 00 to 16 00 hrs [...] Sunday and Public Holiday: 09 00 to 12 00 hrs."
+    },
+    {
+      "field": "price_kind, price_note",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1875",
+      "title": "Contact Info & Visiting Hours (National History Museum) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "ENTRANCE FREE"
+    },
+    {
+      "field": "description_md, why_go_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1843",
+      "title": "About The Museum (National History Museum) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "The National History Museum highlights the social and cultural history of Mauritius, right from its discovery by the Portuguese at the start of the 16th century. It retraces the history of the successive colonisations of Mauritius by the Dutch, French and English, up to the end of the 19th century."
+    },
+    {
+      "field": "likes, why_go_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1843",
+      "title": "About The Museum (National History Museum) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "A very rare astrolabe bearing the year 1568 and retrieved from the shipwreck Banda (1615) is exhibited. [...] One interesting item is the beautiful bronze bell from the shipwreck Saint-Géran (1744). [...] The artefacts come mostly from the shipwrecks La Magicienne and HMS Sirius, two British frigates sunk in the bay of Mahebourg in1810."
+    },
+    {
+      "field": "why_go_md",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1843",
+      "title": "About The Museum (National History Museum) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "Numerous objects pertaining to corsairs and the Naval Battle of Grand Port are presented."
+    },
+    {
+      "field": "likes",
+      "url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1843",
+      "title": "About The Museum (National History Museum) — Mauritius Museums Council",
+      "accessed_at": "2026-11-24",
+      "evidence": "Some railway items, including a model of a double-decker coach, are also on display to remind one of existence of a railway system in Mauritius from 1864 to 1964."
+    },
+    {
+      "field": "description_md, likes, pitch",
+      "url": "https://mauritiusnow.com/blog/things-to-do/mahebourg-museum/",
+      "title": "Mahebourg Museum: Uncover Mauritius' Heritage — Mauritius Now (MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "The museum is housed in Gheude Castle, a grand colonial mansion which was built at the end of the 18th century. Now a national heritage building, it has a 12-acre garden which is home to a colourful reconstruction of a colonial village."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Réouverture : aucune date trouvée. opening_hours laissé à null pour que l'app ne présente pas le musée comme ouvert ; à remplir (Mo,Tu,Th-Sa 09:00-16:00; We 11:00-16:00; Su,PH 09:00-12:00) si la réouverture est confirmée.",
+    "Tél. affiché par le Museums Council pour vérifier : (230) 631 9329."
+  ],
+  "website_url": "https://mauritiusmuseums.govmu.org/mauritiusmuseums/?page_id=1843",
+  "secret": null
+}

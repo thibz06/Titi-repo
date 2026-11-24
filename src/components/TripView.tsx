@@ -43,7 +43,7 @@ function Choice({ active, onClick, children }: { active: boolean; onClick: () =>
       type="button"
       aria-pressed={active}
       onClick={onClick}
-      className={`flex min-h-12 w-full items-center gap-3 rounded-2xl px-4 py-2 text-left font-semibold ${active ? "bg-passe text-white" : "bg-white/70 text-encre"}`}
+      className={`flex min-h-12 w-full items-center gap-3 rounded-2xl px-4 py-2 text-left font-semibold ${active ? "bg-passe text-white" : "bg-brume text-encre"}`}
     >
       {children}
     </button>
@@ -52,16 +52,16 @@ function Choice({ active, onClick, children }: { active: boolean; onClick: () =>
 
 function Stepper({ label, value, min, max, onChange }: { label: string; value: number; min: number; max: number; onChange: (v: number) => void }) {
   return (
-    <div className="flex items-center justify-between gap-3 rounded-2xl bg-white/70 p-2 pl-4">
+    <div className="flex items-center justify-between gap-3 rounded-2xl bg-brume p-2 pl-4">
       <span className="font-semibold">{label}</span>
       <span className="flex items-center gap-2">
-        <button type="button" aria-label={`${t.trip.less} : ${label}`} disabled={value <= min} onClick={() => onChange(value - 1)} className="grid h-11 w-11 place-items-center rounded-full bg-lagon disabled:opacity-40">
+        <button type="button" aria-label={`${t.trip.less} : ${label}`} disabled={value <= min} onClick={() => onChange(value - 1)} className="grid h-11 w-11 place-items-center rounded-full bg-passe text-white disabled:opacity-40">
           <Minus size={20} aria-hidden />
         </button>
         <span className="w-8 text-center font-display text-2xl font-semibold" aria-live="polite">
           {value}
         </span>
-        <button type="button" aria-label={`${t.trip.more} : ${label}`} disabled={value >= max} onClick={() => onChange(value + 1)} className="grid h-11 w-11 place-items-center rounded-full bg-lagon disabled:opacity-40">
+        <button type="button" aria-label={`${t.trip.more} : ${label}`} disabled={value >= max} onClick={() => onChange(value + 1)} className="grid h-11 w-11 place-items-center rounded-full bg-passe text-white disabled:opacity-40">
           <Plus size={20} aria-hidden />
         </button>
       </span>
@@ -118,7 +118,7 @@ function Questionnaire({ data, rate, onDone }: { data: PlanData; rate: Rate | nu
       body: (
         <div className="space-y-3">
           {(["startDate", "endDate"] as const).map((key) => (
-            <label key={key} className="flex items-center justify-between gap-3 rounded-2xl bg-white/70 p-2 pl-4 font-semibold">
+            <label key={key} className="flex items-center justify-between gap-3 rounded-2xl bg-brume p-2 pl-4 font-semibold">
               {key === "startDate" ? t.trip.dateFrom : t.trip.dateTo}
               <input id={`trip-${key}`} type="date" value={d[key]} onChange={(e) => set(key, e.target.value)} className="h-11 rounded-xl bg-white px-3 text-base" />
             </label>
@@ -256,13 +256,13 @@ function Questionnaire({ data, rate, onDone }: { data: PlanData; rate: Rate | nu
 
       <div className="mt-5 flex flex-wrap items-center gap-2">
         {step > 0 ? (
-          <button type="button" onClick={() => setStep(step - 1)} className="inline-flex min-h-12 items-center rounded-full bg-white/70 px-5 font-semibold">
+          <button type="button" onClick={() => setStep(step - 1)} className="inline-flex min-h-12 items-center rounded-full bg-brume px-5 font-semibold">
             {t.trip.back}
           </button>
         ) : null}
         {!last ? (
           <>
-            <button type="button" disabled={current.valid === false} onClick={() => setStep(step + 1)} className="inline-flex min-h-12 items-center rounded-full bg-lagon px-6 font-semibold text-encre disabled:opacity-40">
+            <button type="button" disabled={current.valid === false} onClick={() => setStep(step + 1)} className="inline-flex min-h-12 items-center rounded-full bg-passe px-6 font-semibold text-white disabled:opacity-40">
               {t.trip.next}
             </button>
             <button type="button" disabled={current.valid === false} onClick={() => setStep(step + 1)} className="inline-flex min-h-12 items-center px-3 font-semibold underline disabled:opacity-40">
@@ -271,7 +271,7 @@ function Questionnaire({ data, rate, onDone }: { data: PlanData; rate: Rate | nu
           </>
         ) : (
           <>
-            <button type="button" disabled={!datesOk} onClick={() => onDone(d)} className="inline-flex min-h-12 items-center rounded-full bg-lagon px-6 font-semibold text-encre disabled:opacity-40">
+            <button type="button" disabled={!datesOk} onClick={() => onDone(d)} className="inline-flex min-h-12 items-center rounded-full bg-passe px-6 font-semibold text-white disabled:opacity-40">
               {t.trip.finish}
             </button>
             {!refine ? (
@@ -423,7 +423,7 @@ function DayEditor({ trip, index, data, rate, onChange, onBack }: { trip: Trip; 
             {t.trip.regenerate}
           </ActionButton>
           {routeUrl ? (
-            <a href={routeUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-lagon px-5 font-semibold text-encre">
+            <a href={routeUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-passe px-5 font-semibold text-white">
               <Route size={20} aria-hidden />
               {t.trip.openRoute}
             </a>
@@ -443,7 +443,7 @@ function IconButton({ label, onClick, disabled, pressed, children }: { label: st
       aria-pressed={pressed}
       disabled={disabled}
       onClick={onClick}
-      className={`grid h-11 flex-1 place-items-center rounded-full disabled:opacity-35 ${pressed ? "bg-passe text-white" : "bg-white/70"}`}
+      className={`grid h-11 flex-1 place-items-center rounded-full disabled:opacity-35 ${pressed ? "bg-passe text-white" : "bg-brume"}`}
     >
       {children}
     </button>
@@ -452,7 +452,7 @@ function IconButton({ label, onClick, disabled, pressed, children }: { label: st
 
 function ActionButton({ icon, onClick, children }: { icon: ReactNode; onClick: () => void; children: ReactNode }) {
   return (
-    <button type="button" onClick={onClick} className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-white/70 px-5 font-semibold">
+    <button type="button" onClick={onClick} className="inline-flex min-h-12 items-center justify-center gap-2 rounded-full bg-brume px-5 font-semibold">
       {icon}
       {children}
     </button>
@@ -520,7 +520,7 @@ export function TripView({ data }: { data: PlanData }) {
       <Notice
         title={t.trip.introTitle}
         action={
-          <button type="button" onClick={() => setAsking(true)} className="inline-flex min-h-12 items-center rounded-full bg-lagon px-6 text-lg font-semibold text-encre">
+          <button type="button" onClick={() => setAsking(true)} className="inline-flex min-h-12 items-center rounded-full bg-passe px-6 text-lg font-semibold text-white">
             {t.trip.start}
           </button>
         }
@@ -597,10 +597,10 @@ export function TripView({ data }: { data: PlanData }) {
           <div role="alert" className="space-y-2 pt-1">
             <p className="font-semibold">{t.trip.restartConfirm}</p>
             <div className="flex gap-2">
-              <button type="button" onClick={() => { setConfirming(false); setAsking(true); }} className="inline-flex min-h-11 items-center rounded-full bg-lagon px-5 font-semibold text-encre">
+              <button type="button" onClick={() => { setConfirming(false); setAsking(true); }} className="inline-flex min-h-11 items-center rounded-full bg-passe px-5 font-semibold text-white">
                 {t.trip.confirm}
               </button>
-              <button type="button" onClick={() => setConfirming(false)} className="inline-flex min-h-11 items-center rounded-full bg-white/70 px-5 font-semibold">
+              <button type="button" onClick={() => setConfirming(false)} className="inline-flex min-h-11 items-center rounded-full bg-brume px-5 font-semibold">
                 {t.trip.cancel}
               </button>
             </div>

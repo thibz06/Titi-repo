@@ -1,0 +1,76 @@
+{
+  "slug": "ile-aux-benitiers",
+  "name": "Île aux Bénitiers",
+  "family": "mer_activites",
+  "tags": [],
+  "region": "sud_ouest",
+  "locality": "La Gaulette",
+  "lat": -20.4211228,
+  "lng": 57.3434603,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=%C3%8Ele+aux+B%C3%A9nitiers&format=jsonv2&limit=4&countrycodes=mu",
+  "google_place_id": null,
+  "pitch": "Îlot inhabité du lagon du sud-ouest : sortie en bateau depuis La Gaulette, plage, snorkeling et Crystal Rock.",
+  "description_md": "L'île aux Bénitiers est un îlot inhabité posé dans le lagon du sud-ouest, près du Morne. Il mesure environ 2 kilomètres sur 500 mètres. On y va en barque de pêcheur depuis La Gaulette ou Case Noyale, ou en catamaran ou hors-bord lors d'une excursion organisée à la journée, souvent avec déjeuner au barbecue.",
+  "why_go_md": "Pour une journée lente : pique-nique sur la plage, observation des oiseaux, petite plantation de cocotiers, et snorkeling dans le lagon jusqu'à Crystal Rock, un rocher corallien en forme de bénitier. Avec de la chance, des dauphins se montrent pendant la traversée.",
+  "likes": [
+    "Plage de sable blanc sur un îlot inhabité",
+    "Snorkeling dans le lagon et autour de Crystal Rock",
+    "Observation des oiseaux, petite cocoteraie",
+    "Traversée courte en barque de pêcheur ou excursion avec déjeuner"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=%C3%8Ele+aux+B%C3%A9nitiers&format=jsonv2&limit=4&countrycodes=mu",
+      "title": "Nominatim (OpenStreetMap), recherche « Île aux Bénitiers »",
+      "accessed_at": "2026-11-24",
+      "evidence": "OpenStreetMap way 13453925 (place=islet) « Île aux Bénitiers » : lat -20.4211228, lon 57.3434603"
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/ile-aux-benitiers/",
+      "title": "Île aux Bénitiers (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "It sits in a lagoon near Le Morne and measures just 2 kilometres by 500 metres. [...] A day trip here is all about picnicking on the dazzling beach, bird watching and taking a look around the small coconut farm. You can snorkel through the lagoon to the clam-shaped Crystal Rock or spend time on the soft white sand."
+    },
+    {
+      "field": "description_md, pitch, why_go_md, likes",
+      "url": "https://mauritiusnow.com/blog/things-to-do/ile-aux-benitiers/",
+      "title": "Île aux Bénitiers (Mauritius Now, MTPA)",
+      "accessed_at": "2026-11-24",
+      "evidence": "You can get to Île aux Benitiers on a local fishing boat from La Gaulette or Case Noyale – keep an eye out for dolphins, as you may be lucky enough to spot them on the boat ride over. Alternatively, catch a catamaran or speedboat across to this small, uninhabited and unspoilt island on an organised day trip. Many include a barbecue lunch"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Prix : aucun tarif officiel lu (barque de pêcheur ou excursion) ; `price_kind` à null. Prestataires non identifiés, pas de `website_url`.",
+    "Coordonnées : l'îlot lui-même (OpenStreetMap), pas l'embarcadère de La Gaulette ou de Case Noyale.",
+    "Règles sur l'îlot (zones accessibles, déchets) et durée de la traversée : aucune source lue."
+  ],
+  "website_url": null,
+  "secret": null
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "curry-express-grand-baie",
+  "name": "Curry Express Durban Bunny Chow",
+  "family": "manger",
+  "tags": [],
+  "region": "nord",
+  "locality": "Grand Baie",
+  "lat": -20.0104368,
+  "lng": 57.586631,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?q=Grand+Baie+Bazar&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+  "google_place_id": null,
+  "pitch": "Petit restaurant à l'entrée du bazar de Grand Baie : bunny chow de Durban, briani, curry avec riz ou roti, samoussas.",
+  "description_md": "Curry Express Durban Bunny Chow Restaurant se trouve rue Rackette, à l'entrée du Grand Bay Bazaar. Sa gérante, originaire d'Afrique du Sud, y cuisine avec des épices de Durban : samoussas (fromage, poisson ou poulet), bunny chow au mouton ou au poulet, briani, curry servi avec du riz ou un roti, grillades avec frites, plats végétariens et desserts.",
+  "why_go_md": "Pour déjeuner à côté du bazar avec des plats à partager, dont le bunny chow, spécialité de Durban rare à Maurice. Les prix commençaient à Rs 200 en 2019.",
+  "likes": [
+    "Bunny chow au mouton ou au poulet",
+    "Briani et curry (mouton, poisson, poulet, crevette ou ourite) avec riz ou roti",
+    "Plats végétariens"
+  ],
+  "watchouts": [
+    "Service de jour uniquement d'après l'article de 2019 : fermeture à 16 h, 15 h les dimanches et jours fériés"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": "paid",
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": "« À partir de Rs 200 » d'après Defimedia (17 décembre 2019). Prix plus récent non trouvé.",
+  "opening_hours": null,
+  "hours_note": "D'après Defimedia (17 décembre 2019) : lundi au samedi de 9 h à 16 h, dimanches et jours fériés de 9 h à 15 h. Non confirmé depuis.",
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Grand+Baie+Bazar&format=jsonv2&countrycodes=mu&limit=4&extratags=1&addressdetails=1",
+      "title": "Nominatim / OpenStreetMap : recherche « Grand Baie Bazar »",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"osm_type\":\"way\",\"osm_id\":33141493,\"lat\":\"-20.0104368\",\"lon\":\"57.5866310\" [...] \"name\":\"Grand Baie Bazar\""
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://defimedia.info/curry-express-durban-bunny-chow-restaurant-les-saveurs-de-lafrique-du-sud-grand-baie",
+      "title": "Curry Express Durban Bunny Chow Restaurant : les saveurs de l’Afrique du Sud à Grand-Baie | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Elle gère également Curry Express Durban Bunny Chow Restaurant à la rue Rackette à l’entrée de Grand Bay Bazaar. Elle prépare d’ailleurs elle-même ses repas en utilisant les épices de Durban."
+    },
+    {
+      "field": "price_kind, price_note, description_md, likes, hours_note, watchouts, why_go_md",
+      "url": "https://defimedia.info/curry-express-durban-bunny-chow-restaurant-les-saveurs-de-lafrique-du-sud-grand-baie",
+      "title": "Curry Express Durban Bunny Chow Restaurant : les saveurs de l’Afrique du Sud à Grand-Baie | Defimedia",
+      "accessed_at": "2026-11-24",
+      "evidence": "Au menu, nous retrouvons samoussas (fromage, poisson ou poulet), « ¼ mutton bunny chow », « ¼ chicken bunny chow», briani [...] des repas végétariens et des desserts. Le prix commence à partir de Rs 200. Curry Express Durban Bunny Chow Restaurant est ouvert du lundi au samedi de 9 heures à 16 heures, ainsi que les dimanches et jours fériés de 9 heures à 15 heures."
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Source unique de décembre 2019 et restaurant absent d'OpenStreetMap : vérifier qu'il existe toujours avant publication.",
+    "Coordonnées : celles du bazar de Grand Baie, à l'entrée duquel l'article situe le restaurant.",
+    "Prix et horaires de 2019 à revérifier."
+  ],
+  "website_url": null,
+  "secret": null
+}

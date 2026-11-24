@@ -1,0 +1,83 @@
+{
+  "slug": "sanctuaire-d-oiseaux-de-terre-rouge",
+  "name": "Sanctuaire d'oiseaux de l'estuaire de Terre Rouge",
+  "family": "nature_parcs",
+  "tags": [],
+  "region": "nord_ouest",
+  "locality": "Port-Louis (Mer Rouge)",
+  "lat": -20.142496,
+  "lng": 57.5037125,
+  "coords_source_url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Rivulet%20Terre%20Rouge",
+  "google_place_id": null,
+  "pitch": "Estuaire classé Ramsar à Port-Louis, côté Mer Rouge : refuge d'oiseaux migrateurs d'octobre à mars.",
+  "description_md": "Le Rivulet Terre Rouge Estuary Bird Sanctuary est une zone humide d'estuaire à Port-Louis, du côté de Mer Rouge. C'est le premier des trois sites Ramsar de Maurice, proclamé le 30 septembre 2001. Le portail du gouvernement le décrit comme un refuge pour des centaines d'oiseaux migrateurs : environ quatorze espèces, venues surtout de l'hémisphère nord (Europe, Norvège, Sibérie), y passent l'hiver boréal.",
+  "why_go_md": "Pour observer des oiseaux migrateurs sans quitter la capitale. Ton séjour tombe en pleine saison : les oiseaux sont présents d'octobre à mars.",
+  "likes": [
+    "Site Ramsar d'importance internationale depuis 2001",
+    "Environ quatorze espèces d'oiseaux migrateurs en hivernage",
+    "Saison d'observation d'octobre à mars"
+  ],
+  "watchouts": [],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": {
+    "saison": "Octobre à mars, période de présence des oiseaux migrateurs (portail du gouvernement)"
+  },
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": "peu_connu",
+  "rarity_reason": "Un des trois seuls sites Ramsar de Maurice, en bordure de la capitale, absent des pages de l'office du tourisme consultées.",
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?format=json&limit=5&countrycodes=mu&q=Rivulet%20Terre%20Rouge",
+      "title": "Nominatim (OpenStreetMap) — recherche",
+      "accessed_at": "2026-11-24",
+      "evidence": "\"lat\":\"-20.1424960\",\"lon\":\"57.5037125\" [...] \"type\":\"attraction\" [...] \"display_name\":\"Rivulet Terre Rouge Bird Sanctuary, Des Bouchers Road, Roche Bois (West), Mer Rouge, Town of Port-Louis, Ward 6, Port Louis, 11614, Mauritius / Maurice\""
+    },
+    {
+      "field": "description_md, pitch, rarity",
+      "url": "https://govmu.org/FR/Pages/exploremtius.aspx",
+      "title": "Explore Mauritius — portail du gouvernement (govmu.org)",
+      "accessed_at": "2026-11-24",
+      "evidence": "À ce jour, trois sites Ramsar d’importance internationale ont été proclamés à Maurice comme suit : [...] 1. Le sanctuaire d’oiseaux de Terre Rouge le 30 septembre 2001"
+    },
+    {
+      "field": "description_md, why_go_md, likes, pitch, best_time",
+      "url": "https://govmu.org/FR/Pages/exploremtius.aspx",
+      "title": "Explore Mauritius — portail du gouvernement (govmu.org)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Le site a été inscrit comme un site Ramsar en raison de ses caractéristiques estuariennes côtières et comme un refuge pour des centaines d'oiseaux migrateurs qui visitent Maurice durant le période d’été (octobre-mars)."
+    },
+    {
+      "field": "description_md, likes",
+      "url": "https://govmu.org/FR/Pages/exploremtius.aspx",
+      "title": "Explore Mauritius — portail du gouvernement (govmu.org)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Environ 14 espèces d'oiseaux migrateurs originaires principalement de l'hémisphère nord (Europe, Norvège et Sibérie) visitent généralement le site comme un site d'hivernage"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Conditions de visite (accès libre ou sur autorisation, horaires, observatoire, tarif) : aucune source lue ; le site du NPCS ne s'affiche pas sans JavaScript. À vérifier avant de proposer la fiche.",
+    "rarity = peu_connu est une appréciation : à trancher."
+  ],
+  "website_url": "https://npcs.govmu.org/",
+  "secret": null
+}

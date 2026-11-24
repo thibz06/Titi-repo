@@ -1,0 +1,84 @@
+{
+  "slug": "chez-rosy-gris-gris",
+  "name": "Chez Rosy, Le Gris-Gris Restaurant",
+  "family": "manger",
+  "tags": [],
+  "region": "sud",
+  "locality": "Souillac",
+  "lat": -20.524328,
+  "lng": 57.529896,
+  "coords_source_url": "https://www.openstreetmap.org/node/4330893745",
+  "google_place_id": null,
+  "pitch": "Restaurant créole rustique à l’entrée du chemin de la falaise de Gris-Gris, à Souillac, avec une grande varangue ombragée.",
+  "description_md": "Chez Rosy se trouve à l’entrée du chemin qui mène à la falaise de Gris-Gris, à Souillac. Le Mauricien (2016) y décrivait une cuisine créole servie par la restauratrice Rosy Goundel, dont la maison existait alors depuis 26 ans. On mange surtout sous une grande varangue entourée d’arbres, dans un cadre que le journal qualifie de rustique plutôt que chic.",
+  "why_go_md": "Le restaurant est à l’entrée du chemin de la falaise de Gris-Gris : pratique pour enchaîner la balade et un déjeuner créole, dans une salle aérée où l’accueil est décrit comme familial.",
+  "likes": [
+    "Cuisine créole",
+    "Grande varangue aérée, entourée de verdure",
+    "À l’entrée du chemin de la falaise de Gris-Gris"
+  ],
+  "watchouts": [
+    "Reportage de mars 2016 : carte, prix et horaires actuels non vérifiés",
+    "Cadre simple et rustique, sans décoration recherchée"
+  ],
+  "tips_md": null,
+  "duration_min": null,
+  "duration_max": null,
+  "price_kind": null,
+  "price_visitor_mur_min": null,
+  "price_visitor_mur_max": null,
+  "price_resident_mur": null,
+  "price_note": null,
+  "opening_hours": null,
+  "hours_note": null,
+  "difficulty": null,
+  "accessibility": null,
+  "best_time": null,
+  "rain_ok": null,
+  "risk_level": null,
+  "risk_note": null,
+  "interest": null,
+  "rarity": null,
+  "rarity_reason": null,
+  "xp_base": null,
+  "status": "draft",
+  "verified_at": null,
+  "verified_by": null,
+  "sources": [
+    {
+      "field": "coords",
+      "url": "https://nominatim.openstreetmap.org/search?q=Chez+Rosy+Souillac&format=json&countrycodes=mu&limit=4",
+      "title": "Nominatim (OpenStreetMap) — recherche « Chez Rosy Souillac »",
+      "accessed_at": "2026-11-24",
+      "evidence": "Chez Rosy, Avenue du Vicomte de Souillac, Souillac, Souillac VCA, Savanne, 60902, Mauritius / Maurice — lat -20.5243279, lon 57.5298957 (node 4330893745)"
+    },
+    {
+      "field": "description_md, pitch, likes",
+      "url": "https://www.lemauricien.com/actualites/magazine/chez-rosy-gris-gris-restaurant-parfum-d-epices-et-bruit-des-vagues/6099/",
+      "title": "CHEZ ROSY, LE GRIS-GRIS RESTAURANT : Parfum d’épices et bruit des vagues | Le Mauricien (11 mars 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "il est impossible de se balader sur la falaise de Gris-Gris à Souillac sans faire un saut chez la charmante et accueillante Rosy, dont le restaurant porte le nom. Dans ce lieu qui ne manque pas d’originalité et d’authenticité, la cuisine créole est reine. La touche personnelle de la restauratrice Rosy Goundel apporte un plus à la variété de plats proposés par la maison depuis 26 ans"
+    },
+    {
+      "field": "description_md, why_go_md, likes, watchouts",
+      "url": "https://www.lemauricien.com/actualites/magazine/chez-rosy-gris-gris-restaurant-parfum-d-epices-et-bruit-des-vagues/6099/",
+      "title": "CHEZ ROSY, LE GRIS-GRIS RESTAURANT : Parfum d’épices et bruit des vagues | Le Mauricien (11 mars 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "Situé à l’entrée du chemin qui mène vers la falaise, ce petit coin tranquille et chaleureux ne passe pas inaperçu [...] L’endroit n’offre pas un cadre bon chic bon genre [...] Ici, l’authenticité et le rustique sont garantis"
+    },
+    {
+      "field": "description_md, why_go_md, likes",
+      "url": "https://www.lemauricien.com/actualites/magazine/chez-rosy-gris-gris-restaurant-parfum-d-epices-et-bruit-des-vagues/6099/",
+      "title": "CHEZ ROSY, LE GRIS-GRIS RESTAURANT : Parfum d’épices et bruit des vagues | Le Mauricien (11 mars 2016)",
+      "accessed_at": "2026-11-24",
+      "evidence": "se trouve sous la grande varangue, cernée d’arbres et de verdure [...] il est difficile de se plaindre de la chaleur quand on y est, tant la pièce est aérée [...] la propriétaire, elle, ne manque pas de vous faire sentir comme chez maman"
+    }
+  ],
+  "media": [],
+  "open_questions": [
+    "Plats servis, prix et horaires : la source de presse (2016) n’en donne aucun ; aucun site officiel trouvé.",
+    "Des horaires circulent sur des sites d’avis (non repris ici) : à relever sur place ou par téléphone."
+  ],
+  "website_url": null,
+  "secret": null
+}
