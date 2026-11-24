@@ -83,7 +83,17 @@
       "evidence": "Top 5 waterfalls in Mauritius"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/08/Eau-bleu-waterfall-mauritius-HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/eau-bleue-waterfall/",
+      "is_cover": true,
+      "storage_path": "/photos/cascade-eau-bleue-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Accès exact (parking, terrain privé ou non, durée de marche) : non décrit par les sources officielles lues. La page « Waterfalls » de Mauritius Now affiche « 30 metres 5 mins » sans préciser à quoi cela se rapporte.",
     "Aucune information sur le débit après fortes pluies (saison cyclonique en décembre-janvier) ; risk_level à null.",

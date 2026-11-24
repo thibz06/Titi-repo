@@ -95,7 +95,17 @@
       "evidence": "List of proclaimed public beaches in Mauritius [...] NORTHERN REGION [...] Le Goulet"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://www.maritimresortandspa.mu/wp-content/uploads/2025/10/122.jpg",
+      "credit": "maritimresortandspa.mu",
+      "license": "Droits réservés",
+      "source_url": "https://www.maritimresortandspa.mu/experiences-3/ruins-of-balaclava/",
+      "is_cover": true,
+      "storage_path": "/photos/baie-aux-tortues-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Coordonnées : OpenStreetMap ne renvoie aucun objet « Baie aux Tortues » / « Turtle Bay » ; le point retenu est celui du Maritim Resort, que son site situe sur la rive de la baie. À recaler sur le point d'accès réel choisi par l'éditeur.",
     "Accès public à la baie (plage, sentier, stationnement) : non sourcé. La liste 2025 des plages publiques de la Beach Authority ne contient aucune entrée « Balaclava » ni « Baie aux Tortues » (recherche dans le PDF) ; la plage publique la plus proche n'a pas été identifiée.",

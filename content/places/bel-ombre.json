@@ -81,7 +81,17 @@
       "evidence": "Bel Ombre 6.5423 579 1324/04"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/08/Copy-of-Bel-Ombre_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/belle-ombre/",
+      "is_cover": true,
+      "storage_path": "/photos/bel-ombre-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Coordonnées : nœud du village (OpenStreetMap) ; l'emplacement exact de la plage publique proclamée n'a pas été trouvé.",
     "`price_kind` à null : aucune source lue n'écrit que la plage est gratuite.",
