@@ -107,6 +107,15 @@
       "source_url": "https://www.rhumeriedechamarel.com/",
       "is_cover": true,
       "storage_path": "/photos/rhumerie-de-chamarel-s1.png"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Aerial_view_of_the_Rhumerie_de_Chamarel_Rum_Distillery_in_Mauritius_%2853698115854%29.jpg",
+      "credit": "dronepicr",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=148043318",
+      "is_cover": false,
+      "storage_path": "/photos/rhumerie-de-chamarel-2.jpg"
     }
   ],
   "open_questions": [

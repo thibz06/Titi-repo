@@ -60,7 +60,17 @@
       "evidence": "Head to La Tourelle Mountain in the west of Mauritius for a three- to four-hour hike up the peak that sits behind the town of Tamarin. Head up the paths marked X or Z and use ropes to guide you up to the 563-metre-high summit. At the top, cast your eyes over Tamarin’s little buildings below and Le Morne, sitting behind the melting blues of Île aux Bénitiers lagoon. Note that you may need permission to access the private land and a guide is recommended. 3.5km 2-3 hours"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tourelle_du_Tamarin%2C_Mauricio%2C_2025-09-25%2C_DD_06-2.jpg",
+      "credit": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=193432428",
+      "is_cover": true,
+      "storage_path": "/photos/tourelle-du-tamarin-1.jpg"
+    }
+  ],
   "open_questions": [
     "Accès légal : l'office du tourisme écrit qu'une autorisation « peut » être nécessaire (terrain privé) ; propriétaire et démarche non identifiés. À vérifier avant de publier.",
     "Durée : « three- to four-hour hike » dans le texte, « 3.5km 2-3 hours » en légende ; la fiche retient 2 à 4 heures.",

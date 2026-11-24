@@ -98,26 +98,7 @@
       "evidence": "7. Central Market [...] 80. The Stone and Iron Works of Port Louis Market (Marché Central)"
     }
   ],
-  "media": [
-    {
-      "kind": "photo",
-      "external_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mauritius_-_Port_Louis_%28Central_Market%29_%2817118303459%29.jpg",
-      "credit": "Didier Baertschiger from Genève, Suisse",
-      "license": "CC BY-SA 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Mauritius_-_Port_Louis_(Central_Market)_(17118303459).jpg",
-      "is_cover": true,
-      "storage_path": "/photos/marche-central-port-louis-1.jpg"
-    },
-    {
-      "kind": "photo",
-      "external_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Central_market%2C_Port_Louis%2C_Mauritius_1960s.jpg",
-      "credit": "Oderuth",
-      "license": "CC BY-SA 4.0",
-      "source_url": "https://commons.wikimedia.org/w/index.php?curid=102957461",
-      "is_cover": false,
-      "storage_path": "/photos/marche-central-port-louis-2.jpg"
-    }
-  ],
+  "media": [],
   "open_questions": [
     "Entrée vraisemblablement libre (marché public) mais non écrite dans une source officielle : price_kind reste à null.",
     "Coordonnées : OpenStreetMap découpe le marché en plusieurs bâtiments (fruits et légumes, épices, viandes) ; le point retenu est le polygone « Central Market » (way 159257749).",

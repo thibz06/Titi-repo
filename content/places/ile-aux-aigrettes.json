@@ -107,20 +107,11 @@
   "media": [
     {
       "kind": "photo",
-      "external_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Leiolopisma_telfairii_-_skink_on_Ile_aux_Aigrettes_-_Mauritius.jpg",
-      "credit": "Abu Shawka",
-      "license": "CC0",
-      "source_url": "https://commons.wikimedia.org/w/index.php?curid=35272718",
-      "is_cover": true,
-      "storage_path": "/photos/ile-aux-aigrettes-1.jpg"
-    },
-    {
-      "kind": "photo",
       "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pink_Pigeon%2C_Ile_aux_Aigrettes_Nature_Reserve%2C_Mauritius.JPG",
       "credit": "Shoestring",
       "license": "CC BY-SA 4.0",
       "source_url": "https://commons.wikimedia.org/w/index.php?curid=14887033",
-      "is_cover": false,
+      "is_cover": true,
       "storage_path": "/photos/ile-aux-aigrettes-2.jpg"
     },
     {

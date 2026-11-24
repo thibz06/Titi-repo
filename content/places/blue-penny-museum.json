@@ -117,20 +117,11 @@
   "media": [
     {
       "kind": "photo",
-      "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/P256-Port-Louis_Blue-Penny.jpg",
-      "credit": "SUAVICB",
-      "license": "CC BY-SA 4.0",
-      "source_url": "https://commons.wikimedia.org/w/index.php?curid=78591653",
-      "is_cover": true,
-      "storage_path": "/photos/blue-penny-museum-1.jpg"
-    },
-    {
-      "kind": "photo",
       "external_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Blue_Penny_Museum.JPG",
       "credit": "Martin Falbisoner",
       "license": "CC BY-SA 4.0",
       "source_url": "https://commons.wikimedia.org/w/index.php?curid=44107332",
-      "is_cover": false,
+      "is_cover": true,
       "storage_path": "/photos/blue-penny-museum-2.jpg"
     }
   ],
