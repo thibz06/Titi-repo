@@ -102,7 +102,17 @@
       "evidence": "Il est le directeur de la maison créole, Eureka, la maison musée-restaurant des « Le Clézio »."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/09/La-Maison-Eureka-waterfall-Mauritius_hero.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/eureka-house/",
+      "is_cover": true,
+      "storage_path": "/photos/eureka-maison-creole-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Prix et horaires : le site maisoneureka.com (supposé officiel, à confirmer) répond 403 avec une page de vérification Cloudflare ; il n'a pas été contourné. Tous les champs de prix, price_kind et opening_hours restent à null. Les montants et horaires vus sur des sites tiers lors de la recherche se contredisent et n'ont pas été repris.",
     "website_url laissé à null : maisoneureka.com n'a pas pu être vérifié ; eureka-house.com, consulté, est le site des maisons d'hôtes du domaine, tenu par un voyagiste (Lolotte Rental and Tours), pas celui du musée.",

@@ -122,7 +122,17 @@
       "evidence": "WHAT HAPPENS IF I PAY FOR THE LESSON IN ADVANCE BUT THERE IS NO WIND?"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://www.ion-club.net/wp-content/uploads/2024/09/mauritius.jpg",
+      "credit": "ion-club.net",
+      "license": "Droits réservés",
+      "source_url": "https://www.ion-club.net/le-morne/",
+      "is_cover": true,
+      "storage_path": "/photos/kitesurf-le-morne-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Prix : aucun tarif lu sur la page ION Club (grille sur une autre page, non relevée) ; des plateformes de réservation affichent des prix en euros, non repris.",
     "Autres écoles du Morne non identifiées par une source officielle ; ION Club est cité comme exemple, pas comme recommandation.",

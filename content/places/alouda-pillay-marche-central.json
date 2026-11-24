@@ -96,17 +96,7 @@
       "evidence": "Goûter à l’ alouda, une boisson traditionnelle à base de lait et de tapioca, servie avec une boule de glace chez Alouda Pillay."
     }
   ],
-  "media": [
-    {
-      "kind": "photo",
-      "external_url": "https://static-cms.routard.com/web-routard/uploads/large_plage-de-trou-aux-biches.1612046_c1549aa785.jpg",
-      "credit": "routard.com",
-      "license": "Droits réservés",
-      "source_url": "https://www.routard.com/fr/mag/reportage/a/ile-maurice-la-cote-nord-de-port-louis-a-cap-malheureux",
-      "is_cover": true,
-      "storage_path": "/photos/alouda-pillay-marche-central-s1.jpg"
-    }
-  ],
+  "media": [],
   "open_questions": [
     "Le stand n'est pas cartographié dans OpenStreetMap : les coordonnées sont celles du marché central.",
     "Prix à revérifier : Rs 23 le verre en 2017, Rs 35 en 2023 (Defimedia) ; aucun prix plus récent trouvé.",

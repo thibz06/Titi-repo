@@ -80,7 +80,17 @@
       "evidence": "rendez-vous au bureau de la mosquée à Port-Louis. [...] +230 242 1129"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://www.jummahmasjid.org/assets/photos/dargah-door-outside.jpg",
+      "credit": "jummahmasjid.org",
+      "license": "Droits réservés",
+      "source_url": "https://www.jummahmasjid.org/",
+      "is_cover": true,
+      "storage_path": "/photos/jummah-masjid-port-louis-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Conditions de visite pour les non-musulmans (horaires, tenue, espaces accessibles) : absentes du site officiel ; opening_hours à null.",
     "Le numéro de téléphone vient de la page Contact du site officiel."

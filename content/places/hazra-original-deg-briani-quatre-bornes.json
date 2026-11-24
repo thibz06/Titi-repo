@@ -74,7 +74,17 @@
       "evidence": "L’établissement est ouvert du mardi au dimanche. Les mardis et jeudis, le briani poulet est à l’honneur. Les vendredis, samedis et dimanches, le menu s’élargit avec des options au poulet, au poisson et au bœuf"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://lmwebstatic.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/03/website-image-2-9.webp",
+      "credit": "lemauricien.com",
+      "license": "Droits réservés",
+      "source_url": "https://www.lemauricien.com/actualites/societe/a-quatre-bornes-une-cuisson-de-biryani-au-feu-de-bois-une-famille-un-succes-partage/701955/",
+      "is_cover": true,
+      "storage_path": "/photos/hazra-original-deg-briani-quatre-bornes-s1.webp"
+    }
+  ],
   "open_questions": [
     "Prix d’une portion : aucune source. Heures de service non précisées.",
     "Coordonnées approximatives : le quartier de Belle Rose dans OpenStreetMap ; l’établissement et la « route Victoria » n’y ont pas été trouvés par leur nom."

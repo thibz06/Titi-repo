@@ -107,6 +107,15 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Mauritius_-_Port_Louis_(Central_Market)_(17118303459).jpg",
       "is_cover": true,
       "storage_path": "/photos/marche-central-port-louis-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Central_market%2C_Port_Louis%2C_Mauritius_1960s.jpg",
+      "credit": "Oderuth",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=102957461",
+      "is_cover": false,
+      "storage_path": "/photos/marche-central-port-louis-2.jpg"
     }
   ],
   "open_questions": [

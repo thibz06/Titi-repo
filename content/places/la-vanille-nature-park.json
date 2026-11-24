@@ -150,6 +150,15 @@
       "source_url": "https://www.lavanillenaturepark.com/planifier-votre-visite",
       "is_cover": true,
       "storage_path": "/photos/la-vanille-nature-park-s1.webp"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Vanille_nature_park_Mauritius_2019-09-30_10.jpg",
+      "credit": "Z thomas",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=82772085",
+      "is_cover": false,
+      "storage_path": "/photos/la-vanille-nature-park-2.jpg"
     }
   ],
   "open_questions": [

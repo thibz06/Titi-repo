@@ -169,7 +169,17 @@
       "evidence": "This easily accessible walk in the Black River Gorges National Park is a win for families."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/08/Copy-of-black-river-gorges_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/things-to-do/black-river-gorges-national-park/",
+      "is_cover": true,
+      "storage_path": "/photos/parc-national-gorges-de-riviere-noire-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Prix d'entrée, horaires des centres d'accueil (Pétrin, Rivière Noire) et état actuel des sentiers : rien sur le site du NPCS, dont la page n'est pas datée ; à vérifier (NPCS, tél. 464 4053). Le site de la Mauritian Wildlife Foundation était injoignable.",
     "Longueur des sentiers : « some 60 km » selon le NPCS, « plus de 50 km » selon l'office du tourisme. Durées non données par le NPCS : duration et difficulty restent à null (elles varient selon le sentier).",

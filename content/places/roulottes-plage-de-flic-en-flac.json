@@ -88,7 +88,17 @@
       "evidence": "Mauritian boulettes are delicate steamed dumplings made of fish, meat, or vegetables, served in broth or topped with homemade sauces [...] Iconic spot: Ti Kouloir in Grand-Baie, plus the stalls on Flic-en-Flac beach and near the Albion bus station"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://lmwebstatic.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/10/Capture-d%E2%80%99e%CC%81cran-2021-10-11-a%CC%80-14.03.02.jpg",
+      "credit": "lemauricien.com",
+      "license": "Droits réservés",
+      "source_url": "https://www.lemauricien.com/actualites/societe/a-flic-en-flac-lappel-de-la-plage-plus-fort-que-la-peur-du-virus/451246/",
+      "is_cover": true,
+      "storage_path": "/photos/roulottes-plage-de-flic-en-flac-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Aucun étal n’est nommé par les sources, et aucun prix n’est publié : fiche générale, à préciser sur place.",
     "Les sources datent de 2017, 2021 et 2025 ; l’organisation des étals (emplacements, permis) a pu changer."

@@ -102,7 +102,17 @@
       "evidence": "a wreath-laying ceremony took place on July 10 at the International Slave Route Monument, situated opposite Le Morne public beach."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2022/03/Le-Morne-Brabant_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/things-to-do/le-morne-beach/",
+      "is_cover": true,
+      "storage_path": "/photos/plage-publique-du-morne-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Gratuité, équipements (toilettes, parking), zone de baignade et sauveteurs non vérifiés : le site de la Beach Authority était injoignable (erreur 502) et aucune source ne dit que l'accès est gratuit ; price_kind reste à null.",
     "Coordonnées : objet OpenStreetMap « Le Morne » (plage, way 409616336), qui couvre le littoral ouest de la presqu'île ; à recaler sur la portion publique, que les sources situent en face du Monument de la Route de l'esclave.",

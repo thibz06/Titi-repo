@@ -132,7 +132,17 @@
       "evidence": "Coin de Mire : Djabeda Wreck Max depth: 30 meters"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://panoramadivers.com/images/New%20design/InCollage_20250217_161931361_copy_2367x2367.jpg#joomlaImage://local-images/New%20design/InCollage_20250217_161931361_copy_2367x2367.jpg?width=2367&height=2367",
+      "credit": "panoramadivers.com",
+      "license": "Droits réservés",
+      "source_url": "https://panoramadivers.com/",
+      "is_cover": true,
+      "storage_path": "/photos/plongee-grand-baie-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Un seul centre a publié des prix lisibles en roupies (Panorama Divers) ; la fiche ne le recommande pas pour autant. D'autres centres PADI existent dans le Nord (repérés via padi.com : Bigorno Diving Centre et Diving World à Trou aux Biches, Ocean Spirit à Pereybère), prix non trouvés.",
     "Prix d'un baptême (PADI Discover Scuba Diving) et âge minimum : la page des cours ne les affiche pas. C'est l'information la plus utile pour une famille non brevetée : à demander au centre.",

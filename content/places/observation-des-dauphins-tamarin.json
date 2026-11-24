@@ -151,7 +151,17 @@
       "evidence": "Discover the south west part of the island on board our catamaran with an opportunity to see dolphins. This catamaran cruise departs at 9am from Black River and sails in deep blue waters outside the reef towards Tamarin Bay. Book Now As From €70"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/10/Dolphins-in-Mauritius.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/dolphins-in-mauritius/",
+      "is_cover": true,
+      "storage_path": "/photos/observation-des-dauphins-tamarin-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Aucun opérateur spécialisé « dauphins » n'a été sourcé sur son propre site : pas de prix d'une sortie dédiée, pas de point d'embarquement précis. Les coordonnées sont celles du village de Tamarin (Wikipédia), pas d'un ponton.",
     "Le texte du règlement vient de la copie FAOLEX (FAO) du GN 154 de 2012 ; le site de la Tourism Authority n'a pas été fouillé pour une version consolidée. Les amendements annoncés en octobre 2026 peuvent avoir changé les règles (horaires, distances, nage) : à revérifier avant publication.",

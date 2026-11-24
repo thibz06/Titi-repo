@@ -107,7 +107,17 @@
       "evidence": "La Société RPS de Ravel, productrice du sel marin de Tamarin, ferme ses portes après 60 années d’existence. La compagnie évoque des difficultés économiques suivant la décision du gouvernement de libéraliser l’importation du sel de table. [...] Le travail dure jusqu’à 9 heures du matin [...] Le ramassage du sel se fait entre septembre et décembre."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/10/Tamarin-salt-pans-mauritius-HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/tamarin-salt-pans/",
+      "is_cover": true,
+      "storage_path": "/photos/salines-de-tamarin-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Aucun site officiel des Salines de Yémen trouvé : tarif et horaires ne viennent que d'un article du Mauricien de février 2021, d'où `price_kind`, prix et `opening_hours` à null. Vérifier par téléphone ou sur place que le site se visite toujours et à quel prix.",
     "Statut actuel : l'office du tourisme (page consultée le 21 novembre 2026) parle des dernières salines en activité ; Wikipédia en anglais écrit qu'en 2017 les principales salines avaient cessé de fonctionner et étaient loties. Les deux se concilient si l'on distingue la saline de Ravel (fermée en 2015) et les Salines de Yémen ; à confirmer sur place.",

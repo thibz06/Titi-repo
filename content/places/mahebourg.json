@@ -104,7 +104,17 @@
       "evidence": "Among its collection, you can find a nearly complete skeleton of a dodo, old maps, weapons and artefacts salvaged from shipwrecks and naval battles."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/National_History_Museum_building%2C_Mahebourg%2C_Mauritius.jpg",
+      "credit": "आशीष भटनागर",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=72253507",
+      "is_cover": true,
+      "storage_path": "/photos/mahebourg-1.jpg"
+    }
+  ],
   "open_questions": [
     "Le marché n'est sourcé que par Lonely Planet (guide de voyage, page non datée) : jours, « double le lundi », produits. Aucune source officielle ou de presse mauricienne lue ; horaires d'ouverture inconnus. OSM place le « Marché de Mahébourg » rue des Flamands (-20.40696, 57.70804).",
     "Le lundi 21 et le lundi 28 décembre 2026 ainsi que le lundi 4 janvier 2027 tombent pendant le séjour : vérifier que la foire se tient normalement pendant les fêtes.",

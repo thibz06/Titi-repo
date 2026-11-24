@@ -98,7 +98,17 @@
       "evidence": "LA RHUMERIE DE CHAMAREL Route Royale – Chamarel ILE MAURICE [...] Alchimiste Restaurant – Réservez votre table"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://www.rhumeriedechamarel.com/wp-content/uploads/2023/03/h3-img4-1-1.png",
+      "credit": "rhumeriedechamarel.com",
+      "license": "Droits réservés",
+      "source_url": "https://www.rhumeriedechamarel.com/",
+      "is_cover": true,
+      "storage_path": "/photos/rhumerie-de-chamarel-s1.png"
+    }
+  ],
   "open_questions": [
     "Tarif et conditions d'accès des enfants de moins de 16 ans : non affichés. À demander (+230 483 4980) avant de recommander la visite à une famille.",
     "Durée de la visite non indiquée (seule l'attente de 20 minutes l'est) : duration_min et duration_max à null.",

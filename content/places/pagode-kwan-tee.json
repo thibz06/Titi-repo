@@ -73,7 +73,17 @@
       "evidence": "12. Cohan Tai Biou Pagoda (Kwan Tee Pagoda) (Les Salines)"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/11/Kwan-Tee-Pagoda_Port-Louis_Mauritius_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/kwan-tee-pagoda/",
+      "is_cover": true,
+      "storage_path": "/photos/pagode-kwan-tee-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Horaires d'ouverture aux visiteurs et gratuité : non précisés par les sources ; price_kind et opening_hours à null.",
     "rarity = peu_connu est une appréciation de ma part (aucune source ne mesure la fréquentation) : à trancher."

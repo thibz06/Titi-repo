@@ -119,6 +119,15 @@
       "source_url": "https://commons.wikimedia.org/w/index.php?curid=73859429",
       "is_cover": false,
       "storage_path": "/photos/plage-de-flic-en-flac-2.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flic_en_Flac_Beach_in_Mauiritius_%2853697781931%29.jpg",
+      "credit": "dronepicr",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=148043239",
+      "is_cover": false,
+      "storage_path": "/photos/plage-de-flic-en-flac-3.jpg"
     }
   ],
   "open_questions": [

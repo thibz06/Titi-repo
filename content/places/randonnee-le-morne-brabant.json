@@ -100,7 +100,17 @@
       "evidence": "preserved and promoted as a historical, cultural, environmental and ecological site by Le Morne Heritage Trust Fund which operates under the aegis of the Ministry of Arts and Culture. In the 18th and early 19th centuries, the mountain was a retreat for slaves [...] The mountain is also a refuge to two rare plants, the Mandrinette and the Boucle d’Oreille."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2021/11/mountains-hero-image.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/mountains/",
+      "is_cover": true,
+      "storage_path": "/photos/randonnee-le-morne-brabant-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Horaires du sentier, registre à l'entrée, prix, limite d'accès au sommet : site du Le Morne Heritage Trust Fund illisible (lemorneheritage.org renvoie une page vide) ; champs à null. À vérifier avant d'y aller.",
     "Durée : « three and four hours » dans le texte de l'office du tourisme, « 6.5km 2-4 hours » en légende ; Defimedia (2016) parle de 3,5 km de sentier. La fiche retient 3 à 4 heures.",

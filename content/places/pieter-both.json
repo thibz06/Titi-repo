@@ -97,7 +97,17 @@
       "evidence": "Pieter Both (818 m),"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/09/Pieter-Both-Mauritius.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/pieter-both/",
+      "is_cover": true,
+      "storage_path": "/photos/pieter-both-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Durée, dénivelé et tarif des guides : aucune source officielle lue ; duration_* à null.",
     "difficulty = 5 et risk_level = high sont ma lecture de la consigne « équipement et guide professionnel » de Mauritius Now.",

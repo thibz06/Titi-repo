@@ -72,7 +72,17 @@
       "evidence": "You can climb to the top of Piton Canot for 360-degree views if you’re feeling adventurous"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2021/12/family-hikes.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/best-family-hikes-in-mauritius/",
+      "is_cover": true,
+      "storage_path": "/photos/piton-canot-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Point de départ exact, stationnement et statut du terrain (public ou privé) : non précisés par les sources lues.",
     "Durée : « just an hour long » dans le texte, « 1-2 hours » en légende ; la fiche retient 1 à 2 heures.",

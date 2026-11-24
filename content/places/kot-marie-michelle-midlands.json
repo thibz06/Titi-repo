@@ -96,7 +96,17 @@
       "evidence": "un jus à base de grenadine/citronnelle/limon et gingembre/ananas, dépendant de la disponibilité; des beignets de fruit à pain/aubergine/manioc, un légume, un grain sec, deux plats de viande ou ourite/“kari zak”, plus un dessert"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://lmwebstatic.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2018/10/Capture-d%E2%80%99e%CC%81cran-2018-10-20-a%CC%80-15.05.14.jpg",
+      "credit": "lemauricien.com",
+      "license": "Droits réservés",
+      "source_url": "https://www.lemauricien.com/featured/kot-marie-michelle-vieille-caraille-et-sauce-au-feu-de-bois/238626/",
+      "is_cover": true,
+      "storage_path": "/photos/kot-marie-michelle-midlands-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Source unique datée d’octobre 2018 : activité en 2026, prix de la formule et contact de réservation non vérifiés.",
     "Coordonnées approximatives : centre du village de Midlands dans OpenStreetMap ; la table d’hôte n’y figure pas."

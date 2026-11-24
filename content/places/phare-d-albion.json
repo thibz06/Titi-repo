@@ -122,7 +122,17 @@
       "evidence": "take a stroll up to Phare d’Albion Lighthouse"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/10/Albion-Mauritius_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/albion/",
+      "is_cover": true,
+      "storage_path": "/photos/phare-d-albion-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Visite intérieure : la procédure (lettre d'autorisation de la Mauritius Ports Authority) vient de Défi Media (2016) et de Vintage Mauritius, pas du site de la MPA, où rien n'a été trouvé. À confirmer auprès de la MPA ; délai et gratuité inconnus.",
     "Accès extérieur : stationnement, état du chemin, distance à pied, accès libre ou non au pied du phare : non sourcés. `price_kind` laissé à null.",

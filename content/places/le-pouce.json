@@ -187,7 +187,35 @@
       "evidence": "There is a higher chance of rain from January to March [...] If you’re looking for maximum heat, come to our island in summer, between November and April. [...] There may be afternoon rain"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Le_Pouce_-_Mauritius_20.jpg",
+      "credit": "carrotmadman6 from Mauritius",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=24279770",
+      "is_cover": true,
+      "storage_path": "/photos/le-pouce-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Le_Pouce_-_Mauritius_30.jpg",
+      "credit": "carrotmadman6 from Mauritius",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=24279750",
+      "is_cover": false,
+      "storage_path": "/photos/le-pouce-2.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Le_Pouce_-_Mauritius_16.jpg",
+      "credit": "carrotmadman6 from Mauritius",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=24279771",
+      "is_cover": false,
+      "storage_path": "/photos/le-pouce-3.jpg"
+    }
+  ],
   "open_questions": [
     "Atlas Obscura a refusé l'accès (403, blocage Cloudflare) : sa page éventuelle sur Le Pouce n'a pas été lue et n'a servi à rien dans ce récit.",
     "Les sources décrivent un sommet très fréquenté (« popular »), pas un lieu confidentiel : `rarity` est mis à « incontournable » ; à l'éditeur de décider si Le Pouce a bien sa place dans « L'Île secrète ».",

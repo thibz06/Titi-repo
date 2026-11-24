@@ -11,7 +11,7 @@ const out = fileURLToPath(new URL("../public/photos/", import.meta.url));
 mkdirSync(out, { recursive: true });
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const UA = "content-research-bot/1.0";
-const SKIP_HOST = /(wikipedia|wikidata|wikimedia|openstreetmap|nominatim|govmu\.org$|unesco|faolex|fao\.org|timeanddate)/;
+const SKIP_HOST = /(routard\.com|expat\.com|taste\.co\.za|wikipedia|wikidata|wikimedia|openstreetmap|nominatim|govmu\.org$|unesco|faolex|fao\.org|timeanddate)/;
 const BAD_IMAGE = /(logo|favicon|placeholder|default|avatar|sprite|icon|banner-pub|share-default|blank|og-home|pixel|tracking|\.svg)/i;
 
 function get(url) {

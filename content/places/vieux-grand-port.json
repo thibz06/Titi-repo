@@ -106,7 +106,17 @@
       "evidence": "2. Dutch Monument (Ferney) Fort Frederik Hendrik Historical Site [...] 9. Old Cemetery (Old Grand Port) [...] 16. Tour Hollandais (Old Grand Port)"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/11/vieux-grand-port_HERO-2.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/vieux-grand-port/",
+      "is_cover": true,
+      "storage_path": "/photos/vieux-grand-port-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Date du fort : 1638 selon le Mauritius Museums Council (retenu) ; la page de l'office du tourisme sur le musée écrit « built by the Dutch in 1698 », ce qui semble être une coquille.",
     "Horaires tirés d'une page officielle non datée : à revérifier. Le musée de Mahébourg, géré par le même organisme, est fermé pour travaux depuis décembre 2025 ; rien de tel n'est annoncé pour celui-ci.",

@@ -94,7 +94,17 @@
       "evidence": "and still retains a traditional clubhouse"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://www.mgc.mu/assets/hero-gmc-4-B1Rq4pLg.webp",
+      "credit": "mgc.mu",
+      "license": "Droits réservés",
+      "source_url": "https://www.mgc.mu/the-club/history",
+      "is_cover": true,
+      "storage_path": "/photos/golf-du-gymkhana-vacoas-s1.webp"
+    }
+  ],
   "open_questions": [
     "Tarif et conditions d'accès des non-membres : onglet non lisible ; à demander au club.",
     "Horaires du parcours et du practice : non trouvés.",

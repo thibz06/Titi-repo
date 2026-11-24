@@ -113,7 +113,17 @@
       "evidence": "Mangal Mahadev is a 33 m (108 ft) tall statue of the Hindu god, Shiva , standing with his trident at the entrance of Ganga Talao. Inaugurated in 2007 [...] There are temples dedicated to other gods as well, including Lord Hanuman , Goddess Ganga , and Lord Ganesh along the Grand Bassin. [...] The statue is 33 m (108 ft) tall."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/08/Ganga-Talao_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/things-to-do/ganga-talao/",
+      "is_cover": true,
+      "storage_path": "/photos/grand-bassin-ganga-talao-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Aucun site officiel du lieu trouvé : prix (gratuité non sourcée), horaires, tenue attendue et règles de visite des temples restent à vérifier ; price_kind et opening_hours à null.",
     "L'histoire (rêve de 1887, statues, dates) repose sur Wikipédia en anglais, page téléchargée le 21 novembre 2026 avant l'arrêt des appels Wikimedia, et sur un article du Deccan Herald de 2006 ; le récit du rêve est une tradition, présentée comme telle.",

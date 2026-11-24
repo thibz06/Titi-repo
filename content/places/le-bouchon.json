@@ -80,7 +80,17 @@
       "evidence": "Région Sud : Telfair, Le Bouchon, Blue Bay, Gris Gris, La Prairie, Riambel, Rivière des Galets, Pomponette et Le Souffleur."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://ionnews.mu/wp-content/uploads/2024/04/Bain-dangereux.jpg",
+      "credit": "ionnews.mu",
+      "license": "Droits réservés",
+      "source_url": "https://ionnews.mu/baignade-dangereuse-voici-les-plages-a-risques/",
+      "is_cover": true,
+      "storage_path": "/photos/le-bouchon-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Fiche courte : pas de description officielle du site (paysage, équipements, accès) dans les sources lues.",
     "Gratuité non écrite par une source : price_kind à null."

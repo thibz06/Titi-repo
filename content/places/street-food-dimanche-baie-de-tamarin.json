@@ -74,7 +74,17 @@
       "evidence": "Boulettes are small steamed dumplings that come with all sorts of fillings [...] They are served in a hot broth with vegetables and noodles"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/05/Mauritian-food-gateaux-piments.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/things-to-do/mauritian-food/",
+      "is_cover": true,
+      "storage_path": "/photos/street-food-dimanche-baie-de-tamarin-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Fiche fondée sur un témoignage non daté relayé par mauritiusnow.com : étals, emplacement exact, heures et prix à relever sur place.",
     "Coordonnées : plage publique de Tamarin dans OpenStreetMap, faute d’emplacement précis des marchands."
