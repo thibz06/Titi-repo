@@ -67,7 +67,17 @@
       "evidence": "If you are an advanced hiker, join an expert guide and hike along Cascade 500 Pieds waterfall, following the cascades and the trail through Black River Gorges National Park."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cascade_500_pieds_panorama_%286393830415%29.jpg",
+      "credit": "carrotmadman6 from Mauritius",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=24279466",
+      "is_cover": true,
+      "storage_path": "/photos/cascade-500-pieds-1.jpg"
+    }
+  ],
   "open_questions": [
     "Niveau requis : deux pages de l'office du tourisme divergent (« quick and rewarding hike » contre « advanced hiker, join an expert guide »). À trancher avant de publier.",
     "Coordonnées : belvédère d'Alexandra Falls (départ) ; la cascade n'a pas été trouvée dans Nominatim. La mise en garde « près du bord » est une déduction de prudence, pas une citation.",

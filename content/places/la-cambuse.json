@@ -88,7 +88,17 @@
       "evidence": "Bras-d’Eau, Belle-Mare, le chenal de Grande-Rivière-Sud-Est, Deux-Frères, Blue-Bay, La Cambuse, Carrière de Sable, Camaron Hatchery, Le Bouchon"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/11/La-Cambuse-beach-Mauritius.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/la-cambuse-beach/",
+      "is_cover": true,
+      "storage_path": "/photos/la-cambuse-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Coordonnées : lieu-dit « La Cambuse » dans OSM, pas le parking de la plage.",
     "Gratuité, toilettes et surveillance : aucune source lue ; price_kind à null.",

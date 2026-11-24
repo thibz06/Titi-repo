@@ -187,7 +187,26 @@
       "evidence": "You need special access if you want to get up close to the majestic ribbons of water or, alternatively, there are great viewing points to see the 100-metre beauty in the Chamarel 7 Coloured Earth Geopark."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://live.staticflickr.com/7268/7637241484_d4a988d6fa_b.jpg",
+      "credit": "shankar s.",
+      "license": "CC BY 2.0",
+      "source_url": "https://www.flickr.com/photos/77742560@N06/7637241484",
+      "is_cover": true,
+      "storage_path": "/photos/cascade-de-chamarel-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Cascade_Chamarel_%28Mauritius_Islands%29.JPG",
+      "credit": "CARRERE Radjiv",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=23931115",
+      "is_cover": false,
+      "storage_path": "/photos/cascade-de-chamarel-2.jpg"
+    }
+  ],
   "open_questions": [
     "Durée de l'arrêt aux belvédères non sourcée (le géoparc donne 45 minutes à 2 heures pour la visite complète) : duration_min et duration_max restent à null.",
     "Coordonnées : nœud OpenStreetMap « Viewpoint Chamarel Waterfall » (10150946026). Le site officiel affiche un débit de pointe de 40 000 m³ par minute, chiffre non recoupé et non repris.",

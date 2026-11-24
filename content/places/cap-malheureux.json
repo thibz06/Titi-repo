@@ -119,6 +119,15 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Church_Notre_Dame_Auxiliatrice,_Mauritius.jpg",
       "is_cover": true,
       "storage_path": "/photos/cap-malheureux-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/2011-06-26_09-16-48_Mauritius_Rivi%C3%A8re_du_Rempart_Cap_Malheureux.jpg",
+      "credit": "This file was uploaded with Commonist.",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=15759380",
+      "is_cover": false,
+      "storage_path": "/photos/cap-malheureux-2.jpg"
     }
   ],
   "open_questions": [

@@ -76,7 +76,26 @@
       "evidence": "La Preneuse 0.5275 83 348/1991"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/08/weather-in-mauritius-3.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/la-preneuse-beach/",
+      "is_cover": true,
+      "storage_path": "/photos/plage-de-la-preneuse-s1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/La-preneuse-beach-mauritius.jpg",
+      "credit": "Contrarianmind",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=8098028",
+      "is_cover": false,
+      "storage_path": "/photos/plage-de-la-preneuse-2.jpg"
+    }
+  ],
   "open_questions": [
     "`price_kind` à null : plage publique proclamée, mais aucune source lue n'écrit que l'accès ou le parking sont gratuits.",
     "Baignade : aucune source officielle lue sur la sécurité (surveillance, courants) ; l'office du tourisme signale seulement les sacs de sable.",

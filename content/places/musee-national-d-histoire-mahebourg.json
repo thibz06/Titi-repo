@@ -111,7 +111,17 @@
       "evidence": "The museum is housed in Gheude Castle, a grand colonial mansion which was built at the end of the 18th century. Now a national heritage building, it has a 12-acre garden which is home to a colourful reconstruction of a colonial village."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/10/Mahebourg-museum_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/mahebourg-museum/",
+      "is_cover": true,
+      "storage_path": "/photos/musee-national-d-histoire-mahebourg-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Réouverture : aucune date trouvée. opening_hours laissé à null pour que l'app ne présente pas le musée comme ouvert ; à remplir (Mo,Tu,Th-Sa 09:00-16:00; We 11:00-16:00; Su,PH 09:00-12:00) si la réouverture est confirmée.",
     "Tél. affiché par le Museums Council pour vérifier : (230) 631 9329."

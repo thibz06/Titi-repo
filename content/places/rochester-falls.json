@@ -84,7 +84,17 @@
       "evidence": "Follow the makeshift signs from the main road through Souillac – the route is rather circuitous but is reliable nonetheless, although it's a rough ride along the stone-strewn track. Prepare yourself for hawkers who'll want a tip for telling you where to park. The gushing cascade emerges from the cane fields after a five-minute walk from your car."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/09/rochester-falls_HERO-1.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/chutes-de-rochester/",
+      "is_cover": true,
+      "storage_path": "/photos/rochester-falls-s1.jpg"
+    }
+  ],
   "open_questions": [
     "risk_level « medium » est une lecture du rédacteur à partir de l'avertissement de l'office du tourisme (glissant, montée des eaux). Aucun article de presse sur un accident ou une noyade à Rochester Falls n'a été trouvé ; lexpress.mu répond 403 et la recherche de defimedia.info n'est pas lisible sans navigateur.",
     "Sauts depuis la paroi : pratique évoquée par des plateformes de voyage dans les résultats de recherche, mais aucune source fiable lue ; la fiche n'en parle que pour dire de ne pas sauter.",

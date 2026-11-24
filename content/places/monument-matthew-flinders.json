@@ -70,7 +70,17 @@
       "evidence": "Many years later, in 2003, Mathew Flinders will also be entitled to a memorial at Baie du Cap inaugurated by His Majesty Prince Edward, Earl of Wessex."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mautourco.com/wp-content/uploads/2021/08/07072021_mathew_flinders_single_pic.jpg",
+      "credit": "mautourco.com",
+      "license": "Droits réservés",
+      "source_url": "https://mautourco.com/fascinating-facts-in-history-of-mauritius-mathew-flinders/",
+      "is_cover": true,
+      "storage_path": "/photos/monument-matthew-flinders-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Source unique : un billet du voyagiste Mautourco (2021) qui cite la Société de l'histoire de l'île Maurice ; lexpress.mu et la page de la Société étaient injoignables. À recouper.",
     "Qui a inauguré le monument en 2003 : les sources repérées divergent (prince Edward ou président de la Société de l'histoire) ; non repris dans la fiche.",

@@ -128,7 +128,17 @@
       "evidence": "La Vallée de Ferney Open from 9.30 a.m. to 5.00 p.m. B28, Vieux Grand Port Mahébourg, Mauritius 660 1937"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://ferney.mu/wp-content/uploads/2022/09/VDF_00011-copy-2-1024x683.jpg",
+      "credit": "ferney.mu",
+      "license": "Droits réservés",
+      "source_url": "https://ferney.mu/",
+      "is_cover": true,
+      "storage_path": "/photos/vallee-de-ferney-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Horaires : la page Hiking Trail (septembre 2026) donne 8 h 30 – 17 h pour l'accueil et 8 h 30 – 14 h pour les activités ; la page Contact (janvier 2023) donne 9 h 30 – 17 h. La plus récente a été retenue pour opening_hours.",
     "Durées : la page Guided Tour donne d'autres fourchettes pour les mêmes sentiers (5 km : 1 h 30 à 2 h 30 ; 13 km : 2 h 30 à 4 h ; 18 km : 3 h 30 à 5 h). Les durées de la page Hiking Trail, plus récente, ont été retenues.",

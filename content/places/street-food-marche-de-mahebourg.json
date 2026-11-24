@@ -112,7 +112,17 @@
       "evidence": "C’est notamment le cas chez Gros Maraz, dont le dholl puri est très prisé au marché. Les gens y font toujours la queue. Corinne vient de patienter pour une paire de dholl puris à Rs 25"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://lmwebstatic.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/07/food-hawkers.jpg",
+      "credit": "lemauricien.com",
+      "license": "Droits réservés",
+      "source_url": "https://www.lemauricien.com/actualites/societe/mahebourg-jour-de-foire-les-food-hawkers-sinterrogent-sur-leur-business-avec-la-hausse-des-prix/500705/",
+      "is_cover": true,
+      "storage_path": "/photos/street-food-marche-de-mahebourg-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Les étals nommés (Gros Maraz, Bismillah Snack, Spider Snack, Super Cool Alouda) sont-ils toujours là en 2026 ? Source unique de 2022.",
     "Horaires officiels du marché non trouvés. Un Night Market est annoncé à la Pointe des Régates à partir du 14 décembre 2026 (Défi Media, 20 novembre 2026) : la présence de stands de nourriture n’y est pas confirmée."

@@ -129,7 +129,35 @@
       "evidence": "Inhabitée, l'île aux Cerfs est extrêmement touristique"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mauritius_%C3%8Ele_aux_Cerfs.jpg",
+      "credit": "Arne Müseler",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=149461955",
+      "is_cover": true,
+      "storage_path": "/photos/ile-aux-cerfs-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ile_aux_cerfs_%28%28Mauritius_Islands%29.JPG",
+      "credit": "CARRERE Radjiv",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=23931119",
+      "is_cover": false,
+      "storage_path": "/photos/ile-aux-cerfs-2.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flamboyant_tree_-_Ile_aux_Cerfs_-_Mauritius_-_panoramio.jpg",
+      "credit": "patano",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=54580291",
+      "is_cover": false,
+      "storage_path": "/photos/ile-aux-cerfs-3.jpg"
+    }
+  ],
   "open_questions": [
     "Prix de la navette seule depuis Pointe Maurice : non publié sur le site officiel (pages consultées : accueil, activités, restaurants, formules semaine et week-end). À demander au +230 402 7720 ou sur place ; les champs de prix restent à null.",
     "Dernier bateau : 18 h (page d'accueil) ou 17 h (pages des formules) ? Les pages ne portent aucune date.",

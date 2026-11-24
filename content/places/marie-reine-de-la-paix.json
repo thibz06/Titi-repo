@@ -94,7 +94,17 @@
       "evidence": "Jurisdiction: Diocese of Port-Louis [...] Type: Shrine [...] Pope Francis (2019.09.09)"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://media.vaticannews.va/media/content/dam-archive/vaticannews/agenzie/images/srv/2019/09/04/2019-09-04-viaggio-apostolico-mozambico-madagascar-maurizio/1568019425766.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+      "credit": "vaticannews.va",
+      "license": "Droits réservés",
+      "source_url": "https://www.vaticannews.va/en/pope/news/2019-09/pope-francis-mass-mauritius-youthful-missionary-church.print.html",
+      "is_cover": true,
+      "storage_path": "/photos/marie-reine-de-la-paix-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Le site du diocèse (dioceseportlouis.org) a répondu 403 : aucune source officielle sur l'histoire du lieu, les horaires d'accès, les messes ou le stationnement.",
     "Contexte de 1940 : Vatican News écrit que le monument remercie Marie d'avoir protégé le pays pendant la « World War I » ; le texte de dévotion d'Étoile Notre Dame parle de la Seconde Guerre mondiale, ce qui cadre mieux avec la date. La fiche retient la seconde version ; à confirmer par une source diocésaine ou de presse mauricienne.",

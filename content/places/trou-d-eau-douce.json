@@ -142,7 +142,17 @@
       "evidence": "À Belle-Mare et Trou-d’Eau-Douce, la plupart des plages pourraient disparaître à l’horizon 2050"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/10/East-map-background.jpeg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/mauritius-map/east-mauritius/",
+      "is_cover": true,
+      "storage_path": "/photos/trou-d-eau-douce-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Embarcadère : aucun point précis (Le Maho, Débarcadère) n'a pu être géolocalisé par une source autorisée ; les coordonnées sont celles du village dans OpenStreetMap. À placer sur le point d'embarquement réel avant publication.",
     "Jetée : le projet annoncé en janvier 2024 par la Tourism Authority est-il réalisé ? Aucune source plus récente trouvée.",

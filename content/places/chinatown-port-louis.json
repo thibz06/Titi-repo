@@ -88,7 +88,17 @@
       "evidence": "You’ll find Central Market close to the Chinatown district, where the flavours continue inside tiny shopfronts. Biscuit shops, Chinese cakes and steaming dim sums freshly-stuffed with meat, fish or vegetables tempt visitors inside these colourful doorways."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Chinatown_in_Port_Louis%2C_Mauritius_1960s.jpg",
+      "credit": "Fenous",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=121297763",
+      "is_cover": true,
+      "storage_path": "/photos/chinatown-port-louis-1.jpg"
+    }
+  ],
   "open_questions": [
     "Aucune source consultée ne donne les jours et heures d'ouverture des commerces du quartier (dimanche, jours fériés de fin d'année, 1er et 2 janvier) : à vérifier sur place ou auprès d'une source locale.",
     "Histoire du quartier : seule la page de l'office du tourisme (arrivées des années 1940) a pu être citée. Wikipédia en anglais n'a pas d'article « Chinatown, Port Louis » (404) et lexpress.mu a refusé l'accès (403). L'ancienneté réelle du quartier (présence chinoise antérieure au XXe siècle ?) reste à sourcer.",

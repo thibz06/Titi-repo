@@ -99,7 +99,17 @@
       "evidence": "En été, de novembre à avril, la temperature de l’eau varie entre 26 et 29°C; un shorty de 3 mm convient largement."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2021/04/gerald-_-diving.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/cathederal/",
+      "is_cover": true,
+      "storage_path": "/photos/plongee-flic-en-flac-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Prix : aucun tarif officiel en roupies lu ; `price_kind` à null. Centres de Flic en Flac et de Rivière Noire non identifiés par une source officielle lisible (la liste MSDA n'était pas exploitable).",
     "`website_url` pointe vers la liste des centres agréés de la MSDA, pas vers un prestataire.",

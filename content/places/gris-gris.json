@@ -122,7 +122,26 @@
       "evidence": "Around 2.5km southeast of central Souillac, a grassy clifftop affords fine views of the black-rock coastline. A path leads down to the wild Gris Gris beach; a sign warns of the dangers of swimming."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/2006-10-03_Gris_Gris_Beach%2C_Mauritius.jpg",
+      "credit": "Hansueli Krapf",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=7141970",
+      "is_cover": true,
+      "storage_path": "/photos/gris-gris-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/2006-10-08_Gris_Gris_Beach%2C_Mauritius.jpg",
+      "credit": "Hansueli Krapf",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=7142197",
+      "is_cover": false,
+      "storage_path": "/photos/gris-gris-2.jpg"
+    }
+  ],
   "open_questions": [
     "risk_level « high » est une lecture du rédacteur : les sources décrivent le danger (courants, vagues, baignade interdite selon le Routard) mais ne donnent pas de niveau. À confirmer par l'éditeur.",
     "Aucune mise en garde officielle datée (Beach Authority, police, garde-côtes) n'a pu être lue : beachauthority.govmu.org ne répond pas depuis cette session et la page « Public Beaches » de beachauthority.mu ne contient pas de liste. Recherche de faits divers sur lexpress.mu impossible (403).",

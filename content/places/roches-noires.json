@@ -122,6 +122,15 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Roches_Noires_Lagoon_-_panoramio.jpg",
       "is_cover": true,
       "storage_path": "/photos/roches-noires-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sugar_cane_field_near_Roches_Noires_-_Mauritius_2007-09-09.jpg",
+      "credit": "Hansueli Krapf",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=7142280",
+      "is_cover": false,
+      "storage_path": "/photos/roches-noires-2.jpg"
     }
   ],
   "open_questions": [

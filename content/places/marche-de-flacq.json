@@ -83,7 +83,17 @@
       "evidence": "D’ailleurs, vers 8 h 30, le marché de Flacq était bondé de monde."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/08/Flacq-Market-Mauritius-4_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/central-flacq-market/",
+      "is_cover": true,
+      "storage_path": "/photos/marche-de-flacq-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Jours et horaires : la seule source touristique officielle (office du tourisme) donne les « meilleurs jours » (mercredi et dimanche), pas un calendrier d'ouverture ; les horaires 7 h-16 h / 7 h-midi viennent d'un communiqué de 2020 relayé par la presse et visent « Flacq – Ti Bazar ». opening_hours reste à null : à confirmer auprès du conseil de district de Flacq.",
     "Le marché est-il ouvert les autres jours, et la foire aux vêtements suit-elle les mêmes jours que le marché aux légumes ? Non sourcé.",

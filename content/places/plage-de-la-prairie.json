@@ -81,7 +81,17 @@
       "evidence": "P.G La Prairie 6.3454 509.87 372/2013 [...] La Prairie 2.216 300 348/1991 [...] P.G La Prairie 3.1618 451.39 371/2013"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/08/La-Prairie_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/la-prairie-beach/",
+      "is_cover": true,
+      "storage_path": "/photos/plage-de-la-prairie-s1.jpg"
+    }
+  ],
   "open_questions": [
     "`price_kind` à null : plage publique proclamée, mais aucune source lue n'écrit qu'elle est gratuite.",
     "Sécurité de la baignade (courants, surveillance) et équipements (toilettes, parking) : aucune source lue.",

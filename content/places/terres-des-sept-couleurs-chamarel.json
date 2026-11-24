@@ -291,7 +291,17 @@
       "evidence": "The appearance of the dunes may continue to evolve in the years ahead, although the emergence of a new colour cannot be confirmed today."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://chamarel7colouredearth.com/media/dvbhnfst/c7ce-dunes-close-up.jpg",
+      "credit": "chamarel7colouredearth.com",
+      "license": "Droits réservés",
+      "source_url": "https://www.chamarel7colouredearth.com/faqs/",
+      "is_cover": true,
+      "storage_path": "/photos/terres-des-sept-couleurs-chamarel-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Tous les faits viennent du site du gestionnaire (ER Group), y compris l'explication de la non-miscibilité des sables, non recoupée par une source scientifique indépendante. L'office du tourisme parle de « 600 millions d'années » de géologie, chiffre incompatible avec les 1,7 à 3,5 millions d'années du géoparc : non repris.",
     "Coordonnées : parking des dunes d'après OpenStreetMap (way 133131984), pas les dunes elles-mêmes. Tarifs à revérifier avant le séjour (des offres saisonnières existent selon le site).",

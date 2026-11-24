@@ -114,7 +114,17 @@
       "evidence": "Blue Penny Museum, Le Caudan Waterfront, Port Louis, Mauritius"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Blue_Penny_Museum.JPG",
+      "credit": "Martin Falbisoner",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=44107332",
+      "is_cover": true,
+      "storage_path": "/photos/blue-penny-museum-2.jpg"
+    }
+  ],
   "open_questions": [
     "Dates de fin d'année : la page annonce une fermeture à 13 h les 24 et 31 décembre et une fermeture du 1er au 3 janvier, sans année, à côté d'une mention datée du 13 décembre 2025. À revérifier pour décembre 2026 – janvier 2027.",
     "Âge limite du tarif « Children/Student » et gratuité éventuelle des tout-petits : non précisés.",

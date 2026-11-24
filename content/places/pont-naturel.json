@@ -92,7 +92,17 @@
       "evidence": "Un drame s'est produit, mardi, à Pont-Naturel, dans le sud de l'île. Aux alentours de 18 h 30, la National Coast Guard a été alertée de la présence d'un homme en difficulté en mer. Dépêchée sur les lieux, l'unité héliportée de la police, MPH 03, a repéré un homme flottant en mer, à environ 200 mètres au sud de la falaise de Pont-Naturel. [...] son décès a été officiellement constaté par le personnel médical. [...] Une enquête a été ouverte afin d'établir les circonstances exactes de ce drame."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/08/pont-naturel_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/pont-naturel/",
+      "is_cover": true,
+      "storage_path": "/photos/pont-naturel-s1.jpg"
+    }
+  ],
   "open_questions": [
     "risk_level « high » est une lecture du rédacteur à partir des mises en garde de l'office du tourisme et de l'article de L'Express ; aucune source ne donne de niveau.",
     "L'article de L'Express (18 décembre 2025) a été lu sur allAfrica, qui le republie ; lexpress.mu répond 403. Un second article repris par allAfrica (11 août 2025, « Faut-il sanctionner les imprudents malgré les alertes ? »), qui évoquerait un sauvetage sur une falaise, n'a pas pu être lu (403) et n'est pas utilisé.",

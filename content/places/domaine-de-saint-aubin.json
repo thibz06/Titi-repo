@@ -79,7 +79,17 @@
       "evidence": "It passes through three estates: Domaine des Aubineaux, Bois Chéri and Saint Aubin"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/10/Le-Domaine-de-Saint-Aubin_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/le-domaine-de-saint-aubin/",
+      "is_cover": true,
+      "storage_path": "/photos/domaine-de-saint-aubin-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Prix et horaires : site officiel injoignable (saintaubinloisirs.com : erreur de certificat TLS) ; champs à null. saintaubin.mu est un guide indépendant, non utilisé.",
     "Déjeuner : tarifs et réservation non sourcés (la restauration relève d'un autre rédacteur).",

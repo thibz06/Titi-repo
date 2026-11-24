@@ -134,7 +134,17 @@
       "evidence": "Bras d’Eau 2.732 650 206/1991"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2021/06/Bras-d_eau-national-park_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/national-parks/",
+      "is_cover": true,
+      "storage_path": "/photos/parc-national-de-bras-d-eau-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Horaires et tarif d'entrée : rien sur les pages consultées ; le site du NPCS (npcs.govmu.org) ne s'affiche pas sans JavaScript. price_kind et opening_hours restent à null.",
     "Longueur du sentier : 3 km (Le Défi, 2016) ou 5 km aller-retour (govmu.org) ; duration_max = 2 h d'après Le Défi, duration_min inconnu.",

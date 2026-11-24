@@ -64,7 +64,17 @@
       "evidence": "Located in Vacoas-Phoenix in the central part of the island, the gallery also gives visitors the opportunity to leave their own imprint on a piece of glassware. Get a glass model made from an imprint of your hand and you’ll be able to take home a unique memento to remember your trip by."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/11/Mauritius-Glass-Gallery.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/the-mauritius-glass-gallery/",
+      "is_cover": true,
+      "storage_path": "/photos/mauritius-glass-gallery-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Horaires, prix d'entrée et tarif du moulage : le site officiel (mauritiusglassgallery.com) renvoie une page vide sans JavaScript ; price_kind et opening_hours à null.",
     "rain_ok laissé à null : aucune source ne dit si la visite se fait entièrement à l'abri."

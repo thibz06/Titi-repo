@@ -66,7 +66,17 @@
       "evidence": "Alternatively, hike Cascade Mamzelle. Start this hike to the hidden waterfall along the cliff of Gris Gris Beach and take in the beautiful views of the wild south."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2021/08/DSC03078.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/waterfalls-in-mauritius/",
+      "is_cover": true,
+      "storage_path": "/photos/cascade-mamzelle-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Durée : « 4km 2 hours » selon l'office du tourisme, sans préciser aller simple ou aller-retour.",
     "Difficulté, baignade, état du sentier et statut du terrain (public ou privé) : aucune source lue.",

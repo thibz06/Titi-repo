@@ -66,7 +66,17 @@
       "evidence": "Riambel 0.8094 145 221/2017 [...] Pomponette 4.3858 477 222/2017"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2022/06/Screenshot-2022-06-07-at-09.24.29.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/mauritius-wild-side/",
+      "is_cover": true,
+      "storage_path": "/photos/plage-de-riambel-s1.jpg"
+    }
+  ],
   "open_questions": [
     "`price_kind` à null : aucune source lue n'écrit que ces plages sont gratuites.",
     "`risk_level` à null : danger signalé par l'office du tourisme pour Pomponette, sans classement officiel ; aucune source sur la surveillance à Riambel.",

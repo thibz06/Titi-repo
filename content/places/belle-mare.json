@@ -127,7 +127,17 @@
       "evidence": "À Belle-Mare et Trou-d’Eau-Douce, la plupart des plages pourraient disparaître à l’horizon 2050"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mauritius_belle_mare_beach.jpg",
+      "credit": "Arne Müseler",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=149461832",
+      "is_cover": true,
+      "storage_path": "/photos/belle-mare-1.jpg"
+    }
+  ],
   "open_questions": [
     "Gratuité : aucune source consultée n'écrit que l'accès à la plage publique est gratuit ; price_kind reste à null.",
     "Longueur : l'office du tourisme parle d'environ six miles de sable ; le chiffre n'a pas été recoupé et n'est pas repris.",

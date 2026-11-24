@@ -240,7 +240,17 @@
       "evidence": "Following its inscription on the United Nations Educational, Scientific and Cultural Organisation (UNESCO) World Heritage List on 10th July 2008,"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Le_Morne_Brabant.jpg",
+      "credit": "LisanneD",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=59591765",
+      "is_cover": true,
+      "storage_path": "/photos/le-morne-cascade-sous-marine-1.jpg"
+    }
+  ],
   "open_questions": [
     "Section 2 du sentier fermée « jusqu'à nouvel ordre » depuis le 6 octobre 2026 : à revérifier sur lemorneheritage.govmu.org avant le séjour. Aucune source ne dit si l'illusion se devine depuis le second plateau (260 m).",
     "Coordonnées : objet OpenStreetMap « Underwater Waterall » (sic), situé en mer. Le départ du sentier est à placer par l'éditeur (le Trust Fund ne donne qu'un lien Google Maps). Durée et difficulté de la seule section 1 non sourcées ; risk_level « medium » est une lecture du descriptif officiel.",

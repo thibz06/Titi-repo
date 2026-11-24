@@ -107,7 +107,17 @@
       "evidence": "It passes through three estates: Domaine des Aubineaux, Bois Chéri and Saint Aubin and is a fantastic way to see tea plantations, visit a tea museum and stroll through spice gardens."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://www.saintaubin.mu/wp-content/uploads/2026/10/aubineaux-maison-facade.webp",
+      "credit": "saintaubin.mu",
+      "license": "Droits réservés",
+      "source_url": "https://www.saintaubin.mu/larouteduthe/fr/domaine_des_aubineaux.aspx",
+      "is_cover": true,
+      "storage_path": "/photos/domaine-des-aubineaux-s1.webp"
+    }
+  ],
   "open_questions": [
     "Le domaine saintaubin.mu, ancien site de la Route du Thé, héberge aujourd'hui un « guide indépendant » (Sans Récif) qui cite Lonely Planet, Michelin, etc. : source secondaire. Aucun site officiel du domaine n'a été trouvé.",
     "Prix d'entrée : non donné par une source officielle (un guide repéré par recherche cite Rs 330 par adulte, non lu). price_kind à null.",

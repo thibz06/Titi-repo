@@ -129,7 +129,26 @@
       "evidence": "This hike begins at the viewpoint for Alexandra Falls in the Black River Gorges National Park [...] 2.8km 1-2 hours"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alexandra_Falls_Mauritius_2019-09-28_2.jpg",
+      "credit": "Z thomas",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=82696006",
+      "is_cover": true,
+      "storage_path": "/photos/alexandra-falls-point-de-vue-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Alexandra_Falls_Mauritius_2019-09-28.jpg",
+      "credit": "Z thomas",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=82696002",
+      "is_cover": false,
+      "storage_path": "/photos/alexandra-falls-point-de-vue-2.jpg"
+    }
+  ],
   "open_questions": [
     "La description du site (parking, vendeurs, tables, plateforme) vient d'un article de Defimedia d'octobre 2016 : état actuel à vérifier. Gratuité et horaires non sourcés ; price_kind reste à null.",
     "Defimedia parle d'une vue sur la « South-East Coast » ; le belvédère étant dans le sud-ouest, la fiche dit seulement « l'océan ». Hauteur de la cascade non sourcée.",

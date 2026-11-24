@@ -82,7 +82,26 @@
       "evidence": "especially its coral diversity (38 coral species representing 28 genera and 15 families). [...] make it a habitat for about 72 fish species and the endangered green turtle [...] This site adjoins the popular Blue Bay Beach, 5 metres away [...] Threats posed to the coral ecosystem by diving activities are controlled by allowing only certified divers to operate in the area. Management of Marine Protected Areas is ensured by the Fisheries and Marine Regulations of 2001, which makes special provisions for this site. [...] daily patrols are conducted to enforce the regulations."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2006-10-04_Blue_Bay%2C_Mauritius.jpg",
+      "credit": "Hansueli Krapf",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=7142055",
+      "is_cover": true,
+      "storage_path": "/photos/blue-bay-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2006-10-04_Blue_Bay%2C_Mauritius_4.jpg",
+      "credit": "Hansueli Krapf",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=7142022",
+      "is_cover": false,
+      "storage_path": "/photos/blue-bay-2.jpg"
+    }
+  ],
   "open_questions": [
     "Gratuité de la plage publique et du stationnement : non sourcée ; price_kind reste à null. Prix des bateaux à fond de verre : non sourcés (prestataires privés).",
     "Règlement du parc marin (permis, zones, interdictions) : non lu à la source officielle. La fiche Ramsar date de 2008.",

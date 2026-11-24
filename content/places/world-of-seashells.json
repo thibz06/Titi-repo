@@ -88,7 +88,17 @@
       "evidence": "Adult Price: as from €7 / per adult Child Price: as from €3.50 / per child (5-11 years old) & Child under 5: Free"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/10/World-of-seashells-museum_HERO.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/world-of-seashells-museum/",
+      "is_cover": true,
+      "storage_path": "/photos/world-of-seashells-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Prix en roupies : non trouvés (la billetterie en ligne rezdy.com bloque les robots, erreur 403). La page Heritage Resorts donne seulement des prix « à partir de » en euros, sans date.",
     "Horaires : page Heritage Resorts sans date affichée ; à confirmer pour les jours fériés de fin d'année.",

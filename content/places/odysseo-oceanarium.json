@@ -149,7 +149,17 @@
       "evidence": "Experience a spectacular 12-minute VR immersion that transports you beneath the surface of the ocean without getting wet."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://odysseomauritius.com/wp-content/uploads/2025/11/home-banner.jpg",
+      "credit": "odysseomauritius.com",
+      "license": "Droits réservés",
+      "source_url": "https://odysseomauritius.com/",
+      "is_cover": true,
+      "storage_path": "/photos/odysseo-oceanarium-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Aucun billet non-résident « 13-17 ans » n'apparaît dans la billetterie (seulement adulte 18+ et enfant 4-12 ans) : tarif des adolescents visiteurs à confirmer.",
     "Durée de visite : aucune durée conseillée sur le site ; duration_min et duration_max à null.",

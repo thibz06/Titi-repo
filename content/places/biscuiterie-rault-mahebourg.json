@@ -126,7 +126,17 @@
       "evidence": "emporarily closed for renovation works as from 15 December 2025."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://biscuitmanioc.com/wp-content/uploads/2022/03/Devanture-Bisc.jpg",
+      "credit": "biscuitmanioc.com",
+      "license": "Droits réservés",
+      "source_url": "https://biscuitmanioc.com/",
+      "is_cover": true,
+      "storage_path": "/photos/biscuiterie-rault-mahebourg-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Prix de la visite et durée : non publiés. « Visite courte » et « parle aux enfants » sont des appréciations de rédaction, à valider.",
     "Fermeture de fin d'année : aucune annonce lue pour décembre 2026 – janvier 2027 ; la fabrique étant fermée les jours fériés et le week-end, vérifier les jours ouvrés entre Noël et le Nouvel An.",

@@ -104,7 +104,17 @@
       "evidence": "There are strict guidelines in place to keep you and the dolphins safe, which have been set by the Tourism Authority (Dolphin and Whale Watching) Regulations 2012. [...] You cannot feed a dolphin [...] Pleasure crafts can only approach dolphins from the side, must follow a parallel course to the dolphin, and operate the pleasure craft at a no-wake speed [...] No more than three swimmers (including a designated life saver) to enter, dive or snorkel simultaneously in the sea"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2023/10/West-map-background.jpeg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/mauritius-map/west-mauritius/",
+      "is_cover": true,
+      "storage_path": "/photos/baie-de-tamarin-s1.jpg"
+    }
+  ],
   "open_questions": [
     "`price_kind` laissé à null : plage publique proclamée, mais aucune source lue ne dit explicitement que l'accès est gratuit.",
     "Baignade : aucune source officielle lue sur la sécurité (embouchure de rivière, courants, vagues, qualité de l'eau après les pluies de décembre-janvier). À sourcer avant de recommander la baignade à une famille.",

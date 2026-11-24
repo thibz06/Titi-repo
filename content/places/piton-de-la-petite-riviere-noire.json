@@ -74,7 +74,17 @@
       "evidence": "Hike Piton de la Petite Rivière Noire to the highest point in Mauritius, reaching a height of 828m!"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2021/11/best-hikes-hero-image.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/best-hikes-in-mauritius/",
+      "is_cover": true,
+      "storage_path": "/photos/piton-de-la-petite-riviere-noire-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Point de départ du sentier, balisage et stationnement : non précisés par les sources lues (site du National Parks and Conservation Service sans contenu exploitable).",
     "Durée « 1:30-2:30 » pour « 5-6km » : l'office du tourisme ne dit pas si c'est l'aller-retour.",

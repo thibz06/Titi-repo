@@ -175,6 +175,24 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Mon_Plaisir_im_Sir_Seewoosagur_Ramgoolam_Botanical_Garden.jpg",
       "is_cover": true,
       "storage_path": "/photos/jardin-de-pamplemousses-1.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/N%C3%A9nuphars_g%C3%A9ants_jardin_de_Pamplemousses.JPG",
+      "credit": "Toutaitanous 2",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=17814895",
+      "is_cover": false,
+      "storage_path": "/photos/jardin-de-pamplemousses-2.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://live.staticflickr.com/5586/18880861731_34962e3c2c_b.jpg",
+      "credit": "lublud",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://www.flickr.com/photos/127339305@N05/18880861731",
+      "is_cover": false,
+      "storage_path": "/photos/jardin-de-pamplemousses-3.jpg"
     }
   ],
   "open_questions": [

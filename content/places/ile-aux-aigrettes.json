@@ -104,7 +104,26 @@
       "evidence": "Below are the boat departure times for the tours, leaving from the old Sands Jetty at Pointe Jerome: Monday to Saturday – 9.30, 10:00, 10:30, 13:30, 14:00 and 14:30 Sunday – Mornings only For bookings: Book your tour in advance"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pink_Pigeon%2C_Ile_aux_Aigrettes_Nature_Reserve%2C_Mauritius.JPG",
+      "credit": "Shoestring",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=14887033",
+      "is_cover": true,
+      "storage_path": "/photos/ile-aux-aigrettes-2.jpg"
+    },
+    {
+      "kind": "photo",
+      "external_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Aldabra_tortoise_Ile_aux_Aigrettes_-_Mauritius.jpg",
+      "credit": "Abu Shawka",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/w/index.php?curid=23332230",
+      "is_cover": false,
+      "storage_path": "/photos/ile-aux-aigrettes-3.jpg"
+    }
+  ],
   "open_questions": [
     "PRIX ET HORAIRES À OBTENIR : le site officiel de la Mauritian Wildlife Foundation (mauritian-wildlife.org, domaine vu dans les résultats de recherche) n'a jamais répondu depuis cette session (connexion coupée à chaque essai ; ce n'est pas un refus explicite du site). Aucun tarif officiel lu ; website_url reste à null faute d'avoir pu vérifier l'adresse.",
     "Les seuls tarifs et horaires lus datent de 2016 (Defimedia) : Rs 800 adulte non-résident. Des revendeurs affichent aujourd'hui des prix en euros (vus dans les résultats de recherche, non repris).",

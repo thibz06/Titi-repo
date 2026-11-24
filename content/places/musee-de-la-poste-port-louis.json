@@ -106,7 +106,17 @@
       "evidence": "Museum shop Purchase exclusive numismatic products and collection of stamps, craft products, philatelic materials, and books on Mauritius' fauna, flora, and history."
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://www.mauritiuspost.mu/app/uploads/2024/08/EDIT18-3.jpg",
+      "credit": "mauritiuspost.mu",
+      "license": "Droits réservés",
+      "source_url": "https://www.mauritiuspost.mu/postal-museum/",
+      "is_cover": true,
+      "storage_path": "/photos/musee-de-la-poste-port-louis-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Horaires : la recherche web signale une autre page de Mauritius Post donnant 9 h 30 – 16 h 30 en semaine et 9 h 30 – 15 h 30 le samedi et les jours fériés. La page « Postal Museum » lue ici a été retenue ; à confirmer.",
     "Le tarif non-résident se chevauche à 6 ans (« 0 to 6 » gratuit, « 6 to 18 » payant) et à 18 ans : à préciser sur place.",

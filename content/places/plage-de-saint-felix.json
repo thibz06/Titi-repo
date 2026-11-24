@@ -82,7 +82,17 @@
       "evidence": "Saint Felix (inclusive of 0.6343 ha- GN 6.6456 819 214/2005"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://mauritiusnow.com/wp-content/uploads/2022/03/Saint-Felix-best-beaches-mauritius.jpg",
+      "credit": "mauritiusnow.com",
+      "license": "Droits réservés",
+      "source_url": "https://mauritiusnow.com/blog/things-to-do/st-felix-beach/",
+      "is_cover": true,
+      "storage_path": "/photos/plage-de-saint-felix-s1.jpg"
+    }
+  ],
   "open_questions": [
     "`price_kind` à null : aucune source lue n'écrit que la plage est gratuite.",
     "`risk_level` à null : les courants sont signalés par l'office du tourisme, sans niveau officiel ni information sur une surveillance.",

@@ -130,7 +130,17 @@
       "evidence": "You are browsing Non-Resident prices. [...] Non-Resident – Quad – Discovery Trail (per vehicle) [...] Non-Resident – Safari 4×4 – Discovery Trail (per pax, minimum 2 pax) [...] Non-Resident – Two Waterfalls Walking Trail (per pax, minimum 2 pax)"
     }
   ],
-  "media": [],
+  "media": [
+    {
+      "kind": "photo",
+      "external_url": "https://www.belombrenaturereserve.com/images/960X627/Discover-Bel-Ombre-nature-reserve.jpg",
+      "credit": "belombrenaturereserve.com",
+      "license": "Droits réservés",
+      "source_url": "https://www.belombrenaturereserve.com/",
+      "is_cover": true,
+      "storage_path": "/photos/bel-ombre-nature-reserve-s1.jpg"
+    }
+  ],
   "open_questions": [
     "Prix : la boutique en ligne distingue résidents et non-résidents (par véhicule pour quad et buggy, par personne pour 4x4 et marche, 2 personnes minimum), mais les montants n'apparaissent pas dans la page téléchargée. À relever sur le site.",
     "Le nom « ex-Heritage Nature Reserve » vient de la redirection de heritagenaturereserve.com vers belombrenaturereserve.com constatée pendant la session.",
